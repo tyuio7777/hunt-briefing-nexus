@@ -150,13 +150,14 @@ def apply_package(state, job, package, now):
                             raise InvalidData("Invalid supersession target")
                     for other in next_["assertions"].values():
                         if (other["subject"] == subject and normal(other["aspect"]) == normal(aspect)
-                            and normal(other["value"]) != normal(value) and other["state"] == "active"
+                            and normal(other["value"]) != normal(value) and other["state"] in {"active","conflicting"}
                             and other["id"] not in c["supersedes"] and c["applicability"] == other["applicability"] == "current"
                             and not (end and other["effectiveFrom"] and end < other["effectiveFrom"])
                             and not (start and other["effectiveTo"] and start > other["effectiveTo"])):
                             queue(next_, "conflict/"+"/".join(sorted([id_,other["id"]])),
                                   {"assertionIds":[id_,other["id"]]}, "같은 대상·항목의 적용 기간과 값이 달라 추가 검토가 필요합니다.", now, job["id"])
-                            row["state"] = "conflicting"; other["state"] = "conflicting"
+                            if normal(aspect) in {"damage","데미지","피해량","출시일","종료일","시작일","release date","end date","start date"}:
+                                row["state"] = "conflicting"; other["state"] = "conflicting"
                     next_["assertions"][id_] = row
                     for target in c["supersedes"]:
                         next_["assertions"][target]["state"] = "superseded"
@@ -193,7 +194,7 @@ def project(state, now, notes=None):
         id_ = key("edge", a+"\n"+b+"\n"+type_)
         edges[id_] = {"id": id_, "from": a, "to": b, "type": type_, "reason": reason, "evidenceRefs": sorted(set(evidence)), "recordedAt": stamp(now), "ruleVersion": RULE_VERSION, "quotations": [], **kw}
     for s in state["sources"].values():
-        add(node(s["id"], "source", s["title"], "확보한 공개 자료의 저장본입니다.", url=s["url"], origin=s["origin"], date=s["publishedAt"], dateLabel="자료 발행" if s.get("dateBasis", "published")=="published" else "브리핑 수록 · 원문 발행일 미확인", briefingId=s.get("briefingId", ""), lifecycle="historical", verification="공개 브리핑" if s["kind"]=="briefing" else "원문 확보 · 주장별 검토"))
+        add(node(s["id"], "source", s["title"], "확보한 공개 자료의 저장본입니다.", url=s["url"], origin=s["origin"], date=s["publishedAt"], dateLabel="자료 발행" if s.get("dateBasis", "published")=="published" else "브리핑 수록 · 원문 발행일 미확인", briefingId=s.get("briefingId", ""), lifecycle="historical", recent=now-instant(s["publishedAt"])<=timedelta(days=30), verification="공개 브리핑" if s["kind"]=="briefing" else "원문 확보 · 주장별 검토"))
     used = {a["subject"] for a in state["assertions"].values()}
     used |= {r[k] for r in state["relations"].values() for k in ("from","to")}
     used |= {e["id"] for e in state["entities"].values() if e["evidence"]}
@@ -216,7 +217,8 @@ def project(state, now, notes=None):
         if a["subject"] not in nodes: continue
         ev = sorted({e["sourceId"] for e in a["evidence"]})
         state_ = lifecycle(a, now)
-        origin = "rumor" if a["certainty"]=="unconfirmed" else "mixed"
+        origins = {state["sources"][ref]["origin"] for ref in ev}
+        origin = "rumor" if a["certainty"]=="unconfirmed" else next(iter(origins)) if len(origins)==1 else "mixed"
         add(node(a["id"],"claim" if origin=="rumor" else "fact",a["aspect"],a["statement"],group=nodes[a["subject"]]["group"],origin=origin,
             verification="미확인 주장" if origin=="rumor" else "인용·의미 검토 통과 · 출처에 귀속된 설명",date=a["firstPublishedAt"],dateLabel="최초 근거 발행",lifecycle=state_,recent=visible_now(a,now),
             effectiveFrom=a["effectiveFrom"],effectiveTo=a["effectiveTo"],changedAt=a["firstPublishedAt"],evidenceRefs=ev,quotations=a["evidence"],supersededBy=a.get("supersededBy", "")))

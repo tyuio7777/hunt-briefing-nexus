@@ -2,6 +2,7 @@
 from concurrent.futures import ThreadPoolExecutor
 from datetime import timedelta
 from html.parser import HTMLParser
+from urllib.parse import urlsplit
 from .ingest import fetch,source,plain
 from .model import InvalidData,instant,stamp
 
@@ -37,6 +38,9 @@ def collect(state,now,getter=fetch,limit=24):
    body=plain(text)
    if len(body)<100:raise InvalidData('No usable public text')
    row=source(final,meta.title.strip() or parent['title'],body,published,now,kind='original',origin='unspecified',briefing_id=parent.get('briefingId',''))
+   host=urlsplit(final).hostname or ''
+   if host in {'www.huntshowdown.com','huntshowdown.com','www.crytek.com','crytek.com','store.crytek.com'}:row['origin']='official'
+   elif host in {'www.reddit.com','reddit.com','www.bilibili.com','bilibili.com'}:row['origin']='community'
    row['dateBasis']=basis;row['referredFrom']=parent['id']
    return url,row,''
   except (InvalidData,ValueError,OSError) as exc:return url,None,type(exc).__name__

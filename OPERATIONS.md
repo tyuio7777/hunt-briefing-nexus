@@ -31,7 +31,7 @@ GitHub Actions가 6시간마다 공개 발행 목록 전체와 인용된 공개 
 
 - vocabularyDue=true이면 전체 catalog와 실제 근거를 종합 검토한다. 단순 빈도·날짜 경과를 이유로 삭제하지 않는다.
 - `schemas/vocabulary.json`에 맞춰 keep/alias/merge/reclassify/split 후보를 `inbox/vocabulary/proposal.json`에 쓴다.
-- 다음 실행에서 queue.vocabularyProposalHash와 vocabularyDecisions의 hash를 읽어 각 후보를 다시 검토한다. `inbox/vocabulary/review.json`에 `{proposalHash,decisions:{"정확한 후보 hash":"approve 또는 reject"}}`를 쓴다.
+- 다음 실행에서 queue.vocabularyProposalHash와 vocabularyDecisions의 hash를 읽어 각 후보를 다시 검토한다. `inbox/vocabulary/review.json`에 `{proposalHash,auditId:queue.vocabularyAuditId,decisions:{"정확한 후보 hash":"approve 또는 reject"}}`를 쓴다.
 - 별칭 추가는 알려진 이름과 별칭이 함께 있는 인용 및 동일성 검토가 필요하다. 서로 다른 종류·회차의 개체 병합은 차단한다. 분리(split)는 주장을 어느 개체로 옮길지 별도 지정이 필요하므로 보류 큐에 남긴다. 근거가 부족하면 억지로 분류하거나 합치지 않는다.
 - 검토를 통과한 변경은 Nexus 자체 사전에만 반영한다. 원래 57개/42개 사전은 자동 수정하지 않는다.
 

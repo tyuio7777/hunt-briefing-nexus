@@ -84,4 +84,44 @@ class NexusTests(unittest.TestCase):
    r=Path(d);pipeline.publish(r,st,NOW,[]);m=pipeline.read(r/'data/manifest.json');original=(r/m['graphPath']).read_bytes()
    st,_=engine.apply_package(st,j,package(j,ex),NOW);pipeline.publish(r,st,NOW,[])
    self.assertEqual((r/m['graphPath']).read_bytes(),original)
+ def test_exact_midnight_end(self):
+  a={'state':'active','applicability':'current','certainty':'attributed','effectiveTo':'2026-11-10T00:00:00+09:00','firstPublishedAt':stamp(NOW)}
+  self.assertEqual(lifecycle(a,instant('2026-11-09T23:59:59+09:00')),'current')
+  self.assertEqual(lifecycle(a,instant('2026-11-10T00:00:00+09:00')),'ended')
+ def test_wrong_date_not_supported_by_same_year(self):
+  st,j,ex=fixture();ex['assertions'][0]['effectiveTo']='2026-12-01'
+  new,_=engine.apply_package(st,j,package(j,ex),NOW);self.assertFalse(new['assertions'])
+ def test_merge_requires_second_review(self):
+  from nexus import vocabulary
+  st,j,ex=fixture();st,_=engine.apply_package(st,j,package(j,ex),NOW);entity=next(iter(st['entities']))
+  report={'decisions':[{'action':'reclassify','entityId':entity,'targetId':'','alias':'','group':'world','reason':'test','evidence':ex['entities'][0]['evidence']}]}
+  held=vocabulary.apply_review(st,report,NOW);self.assertEqual(held['entities'][entity]['group'],'equipment')
+  approved=vocabulary.apply_review(st,report,NOW,decisions={digest(report['decisions'][0]):'approve'});self.assertEqual(approved['entities'][entity]['group'],'world')
+ def test_potential_conflict_retained(self):
+  st,j,ex=fixture();a=ex['assertions'][0];a.update(aspect='damage',value='100',statement='Damage is 100.',applicability='current',effectiveFrom='',effectiveTo='',dateEvidence=[])
+  st,_=engine.apply_package(st,j,package(j,ex),NOW)
+  other=ingest.source('https://example.com/other','Other',TEXT.replace('100','110'),stamp(NOW),NOW);engine.add_sources(st,[other]);j2=engine.jobs(st)[0]
+  for c in ex['entities']+ex['assertions']:c['evidence']=[{'sourceId':other['id'],'quote':other['text']}]
+  a.update(value='110',statement='Damage is 110.')
+  st,_=engine.apply_package(st,j2,package(j2,ex),NOW)
+  self.assertEqual(len(st['assertions']),2);self.assertTrue(all(a['state']=='conflicting' for a in st['assertions'].values()))
+ def test_source_hash_tamper_rejected(self):
+  st,j,ex=fixture();s=copy.deepcopy(st['sources'][j['sourceId']]);s['text']+=' tampered'
+  with self.assertRaises(InvalidData):engine.add_sources(st,[s])
+ def test_weekly_audit_requires_fresh_complete_review(self):
+  st,j,ex=fixture();st,_=engine.apply_package(st,j,package(j,ex),NOW)
+  report={'decisions':[{'action':'keep','entityId':next(iter(st['entities'])),'targetId':'','alias':'','group':'equipment','reason':'No supported change','evidence':ex['entities'][0]['evidence']}]}
+  with tempfile.TemporaryDirectory() as d:
+   r=Path(d);pipeline.publish(r,st,NOW,[]);pipeline.write(r/'inbox/vocabulary/proposal.json',report)
+   review={'proposalHash':digest(report),'auditId':NOW.strftime('%G-W%V'),'decisions':{}}
+   pipeline.write(r/'inbox/vocabulary/review.json',review);pipeline.run(r,NOW)
+   self.assertFalse(pipeline.state_at(r).get('vocabularyReviewedAt'))
+   review['decisions']={digest(report['decisions'][0]):'approve'}
+   pipeline.write(r/'inbox/vocabulary/review.json',review);pipeline.run(r,NOW)
+   self.assertEqual(pipeline.state_at(r)['vocabularyReviewedAt'],stamp(NOW))
+   later=NOW+timedelta(days=8);pipeline.run(r,later)
+   self.assertTrue(pipeline.read(r/'data/work/queue.json')['vocabularyDue'])
+   self.assertEqual(pipeline.state_at(r)['vocabularyReviewedAt'],stamp(NOW))
+   review['auditId']=later.strftime('%G-W%V');pipeline.write(r/'inbox/vocabulary/review.json',review);pipeline.run(r,later)
+   self.assertFalse(pipeline.read(r/'data/work/queue.json')['vocabularyDue'])
 if __name__=='__main__':unittest.main()

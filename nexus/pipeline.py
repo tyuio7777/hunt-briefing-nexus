@@ -86,14 +86,21 @@ def run(root,now,collect=False,api_limit=0):
         except (InvalidData,ValueError,KeyError,OSError) as exc:
             errors.append({'stage':'proposal','jobId':job['id'],'error':str(exc)[:180]})
     # Vocabulary audit is a separate two-pass job, not a rewrite of the legacy dictionaries.
+    audit_id=now.strftime('%G-W%V')
     vocab=read(root/'inbox/vocabulary/proposal.json')
     if vocab:
         try:
             contracts.validate(vocab,contracts.VOCABULARY)
             reviewed=read(root/'inbox/vocabulary/review.json',{})
-            if reviewed.get('proposalHash')==digest(vocab) and state.get('vocabularyProposalHash')!=digest(vocab):
+            if (reviewed.get('proposalHash')==digest(vocab) and reviewed.get('auditId')==audit_id
+                and (state.get('vocabularyProposalHash')!=digest(vocab) or state.get('vocabularyAuditId')!=audit_id)):
+                decisions=reviewed.get('decisions')
+                expected={digest(c) for c in vocab['decisions']}
+                if not isinstance(decisions,dict) or set(decisions)!=expected or any(v not in ('approve','reject') for v in decisions.values()):
+                    raise InvalidData('Every vocabulary candidate needs an exact second-review decision')
                 state=vocabulary.apply_review(state,vocab,now,decisions=reviewed.get('decisions',{}))
                 state['vocabularyProposalHash']=digest(vocab)
+                state['vocabularyAuditId']=audit_id
         except (InvalidData,ValueError,KeyError) as exc: errors.append({'stage':'vocabulary','error':str(exc)[:180]})
     pending=engine.jobs(state)
     for job in pending:write(root/f'data/work/jobs/{job["id"]}.json',job)
@@ -102,7 +109,7 @@ def run(root,now,collect=False,api_limit=0):
     due=not last or now-instant(last)>=timedelta(days=7)
     write(root/'data/work/queue.json',{'generatedAt':stamp(now),'extractions':[{'id':j['id'],'path':f'data/work/jobs/{j["id"]}.json'} for j in pending if not (root/f'inbox/extractions/{j["id"]}.json').exists()],
         'reviews':[{'id':r['job']['id'],'path':f'data/work/reviews/{r["job"]["id"]}.json'} for r in reviews],
-        'vocabularyDue':due,'vocabularyProposalHash':digest(vocab) if vocab else '',
+        'vocabularyDue':due,'vocabularyAuditId':audit_id,'vocabularyProposalHash':digest(vocab) if vocab else '',
         'vocabularyDecisions':[{ 'hash':digest(c),'candidate':c} for c in (vocab or {}).get('decisions',[])],
         'errors':errors})
     write(root/'data/work/catalog.json',engine.catalog(state))
