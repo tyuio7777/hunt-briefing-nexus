@@ -1,0 +1,36 @@
+name: Nexus validate and publish
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 */6 * * *'
+  push:
+    branches: [main]
+    paths: ['nexus/**', 'config/**', 'inbox/**', 'tests/**', '.github/workflows/nexus.yml']
+permissions:
+  contents: write
+concurrency:
+  group: nexus-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - name: Read public feed and validate proposals
+        run: python -m nexus.pipeline collect
+      - name: Publish a single consistent generation
+        run: |
+          git config user.name 'Hunt Nexus Publisher'
+          git config user.email 'nexus-publisher@users.noreply.github.com'
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore(nexus): publish validated knowledge generation'
+            git push origin HEAD:main
+          fi

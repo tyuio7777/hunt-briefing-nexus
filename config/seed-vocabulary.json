@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Blood Testament",
+    "aliases": [
+      "blood testament",
+      "블러드 테스타먼트"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "All Hallows’ Cleave",
+    "aliases": [
+      "all hallows' cleave",
+      "all hallows cleave",
+      "올 할로우스 클리브"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Written in Blood",
+    "aliases": [
+      "written in blood",
+      "리튼 인 블러드"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Blood Moon",
+    "aliases": [
+      "blood moon",
+      "블러드 문",
+      "블러드문"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Bloodskin",
+    "aliases": [
+      "bloodskin",
+      "블러드스킨",
+      "블러드 스킨"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Inferno",
+    "aliases": [
+      "inferno",
+      "인페르노"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Twitch Drops",
+    "aliases": [
+      "twitch drops",
+      "twitch drop",
+      "트위치 드롭스",
+      "트위치 드롭"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Double XP",
+    "aliases": [
+      "double xp",
+      "2x xp",
+      "더블 xp",
+      "경험치 2배"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Event Point Boost",
+    "aliases": [
+      "event point boost",
+      "이벤트 포인트 부스트"
+    ],
+    "group": "events"
+  },
+  {
+    "name": "Long Derringer",
+    "aliases": [
+      "long derringer",
+      "롱 데린저",
+      "롱데린저"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Derringer",
+    "aliases": [
+      "derringer",
+      "데린저"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Hand Crossbow",
+    "aliases": [
+      "hand crossbow",
+      "핸드 크로스보우",
+      "핸드크로스보우",
+      "핸드 석궁"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Crossbow",
+    "aliases": [
+      "crossbow",
+      "크로스보우",
+      "석궁"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Burgess",
+    "aliases": [
+      "burgess",
+      "버지스"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Siphon",
+    "aliases": [
+      "siphon",
+      "사이펀",
+      "사이폰"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Atlas",
+    "aliases": [
+      "atlas",
+      "아틀라스"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Temperance",
+    "aliases": [
+      "temperance",
+      "템퍼런스"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Nitro",
+    "aliases": [
+      "nitro",
+      "니트로"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Mosin",
+    "aliases": [
+      "mosin",
+      "모신"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Sparks",
+    "aliases": [
+      "sparks",
+      "스파크스"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Vetterli",
+    "aliases": [
+      "vetterli",
+      "베테를리",
+      "베테르리"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Winfield",
+    "aliases": [
+      "winfield",
+      "윈필드"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Lebel",
+    "aliases": [
+      "lebel",
+      "르벨"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Dolch",
+    "aliases": [
+      "dolch",
+      "돌치"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Chupacabra",
+    "aliases": [
+      "chupacabra",
+      "추파카브라"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "어쌔신",
+    "aliases": [
+      "assassin",
+      "어쌔신",
+      "어새신"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "도살자",
+    "aliases": [
+      "butcher",
+      "도살자"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "거미",
+    "aliases": [
+      "spider",
+      "거미"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "스크랩비크",
+    "aliases": [
+      "scrapbeak",
+      "스크랩비크"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "로트죠",
+    "aliases": [
+      "rotjaw",
+      "로트죠",
+      "로트조"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "헬본",
+    "aliases": [
+      "hellborn",
+      "헬본"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "이몰레이터",
+    "aliases": [
+      "immolator",
+      "이몰레이터"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "하운드",
+    "aliases": [
+      "hellhound",
+      "hellhounds",
+      "헬하운드",
+      "하운드"
+    ],
+    "group": "world"
+  },
+  {
+    "name": "Levering",
+    "aliases": [
+      "levering",
+      "레버링"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Fanning",
+    "aliases": [
+      "fanning",
+      "패닝",
+      "팬닝"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Bulletgrubber",
+    "aliases": [
+      "bulletgrubber",
+      "불릿그러버",
+      "불릿 그러버"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "Necromancer",
+    "aliases": [
+      "necromancer",
+      "네크로맨서",
+      "네크로"
+    ],
+    "group": "equipment"
+  },
+  {
+    "name": "MMR",
+    "aliases": [
+      "mmr",
+      "매치메이킹 레이팅"
+    ],
+    "group": "updates"
+  },
+  {
+    "name": "Easy Anti-Cheat",
+    "aliases": [
+      "easy anti-cheat",
+      "easy anti cheat",
+      "eac"
+    ],
+    "group": "updates"
+  },
+  {
+    "name": "DLSS",
+    "aliases": [
+      "dlss"
+    ],
+    "group": "updates"
+  },
+  {
+    "name": "FSR",
+    "aliases": [
+      "fsr"
+    ],
+    "group": "updates"
+  },
+  {
+    "name": "VRAM",
+    "aliases": [
+      "vram",
+      "비디오 메모리"
+    ],
+    "group": "updates"
+  }
+]
