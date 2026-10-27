@@ -69,9 +69,13 @@ def dates(candidate, sources):
 def re_date_month(value, quote):
     import re
     d = day(value)
+    month = ['January','February','March','April','May','June','July','August','September','October','November','December'][d.month-1]
+    english = rf'(?:{month}|{month[:3]}\.?)'
     return bool(re.search(rf"(?<!\d){d.year}[-/.]{d.month:02d}[-/.]{d.day:02d}(?!\d)", quote)
                 or re.search(rf"(?<!\d){d.month}월\s*{d.day}일", quote)
-                or re.search(rf"(?<!\d){d.month:02d}[-/.]{d.day:02d}(?!\d)", quote))
+                or re.search(rf"(?<!\d){d.month:02d}[-/.]{d.day:02d}(?!\d)", quote)
+                or re.search(rf'\b{english}\s+{d.day}(?:st|nd|rd|th)?\b',quote,re.I)
+                or re.search(rf'\b{d.day}(?:st|nd|rd|th)?\s+{english}\b',quote,re.I))
 
 def resolve_entity(state, c, evidence, now):
     name, kind_, scope = clean_text(c["label"], 160), c["kind"], clean_text(c["scope"], 160, False)
@@ -229,9 +233,10 @@ def project(state, now, notes=None):
         ev = [e["sourceId"] for e in r["evidence"]]
         # Scope/date are part of relation identity; preserve parallel historical versions.
         id_ = r["id"]
+        validity = {**r,"applicability":"current" if r["effectiveFrom"] or r["effectiveTo"] else "historical"}
         edges[id_] = {"id":id_, "from":r["from"], "to":r["to"], "type":r["type"], "reason":r["statement"],"evidenceRefs":sorted(set(ev)),
             "recordedAt":r["firstPublishedAt"],"ruleVersion":RULE_VERSION,"quotations":r["evidence"],"effectiveFrom":r["effectiveFrom"],"effectiveTo":r["effectiveTo"],
-            "recent":now-instant(r["firstPublishedAt"])<=timedelta(days=30),"lifecycle":"ended" if r["effectiveTo"] and day(r["effectiveTo"])<now.date() else "current"}
+            "recent":visible_now(validity,now),"lifecycle":lifecycle(validity,now)}
     graph = {"version":2,"generatedAt":stamp(now),"nodes":sorted(nodes.values(),key=lambda n:n["id"]),"edges":sorted(edges.values(),key=lambda e:e["id"]),
              "notes":notes or [],"revision":digest({"entities":state["entities"],"assertions":state["assertions"],"relations":state["relations"]}),
              "reviewPending":sum(r["status"]=="pending" for r in state["reviewQueue"].values()),"ruleVersion":RULE_VERSION}

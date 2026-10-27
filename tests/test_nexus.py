@@ -91,6 +91,19 @@ class NexusTests(unittest.TestCase):
  def test_wrong_date_not_supported_by_same_year(self):
   st,j,ex=fixture();ex['assertions'][0]['effectiveTo']='2026-12-01'
   new,_=engine.apply_package(st,j,package(j,ex),NOW);self.assertFalse(new['assertions'])
+ def test_english_date_quotes(self):
+  self.assertTrue(engine.re_date_month('2026-10-27','Starts October 27th at 10:00'))
+  self.assertTrue(engine.re_date_month('2026-10-27','27 Oct. 2026'))
+  self.assertFalse(engine.re_date_month('2026-10-27','October 28th'))
+ def test_relation_exact_end_and_history(self):
+  st,j,ex=fixture();st,_=engine.apply_package(st,j,package(j,ex),NOW)
+  entity=next(iter(st['entities']));other=copy.deepcopy(st['entities'][entity]);other['id']='entity-other';other['label']='Event A';st['entities'][other['id']]=other
+  st['relations']['relation-test']={'id':'relation-test','from':entity,'to':other['id'],'type':'introduced_in','statement':'Event A introduction','effectiveFrom':'2026-09-01','effectiveTo':'2026-11-10T00:00:00+09:00','evidence':next(iter(st['assertions'].values()))['evidence'],'firstPublishedAt':'2026-09-01T00:00:00Z'}
+  before=next(e for e in engine.project(st,instant('2026-11-09T23:59:59+09:00'))['edges'] if e['id']=='relation-test')
+  after=next(e for e in engine.project(st,instant('2026-11-10T00:00:00+09:00'))['edges'] if e['id']=='relation-test')
+  old=next(e for e in engine.project(st,instant('2026-11-18T00:00:00+09:00'))['edges'] if e['id']=='relation-test')
+  self.assertEqual(before['lifecycle'],'current');self.assertTrue(before['recent'])
+  self.assertEqual(after['lifecycle'],'ended');self.assertFalse(old['recent'])
  def test_merge_requires_second_review(self):
   from nexus import vocabulary
   st,j,ex=fixture();st,_=engine.apply_package(st,j,package(j,ex),NOW);entity=next(iter(st['entities']))
