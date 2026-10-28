@@ -1,0 +1,158 @@
+{
+  "jobId": "job-525cf7747276169a80f24edc",
+  "sourceHash": "9dc33325d6d68adb7bb197efbd8c270fee4ad0c65ac089288e0788189d9da13c",
+  "reviewedExtractionHash": "7d3e5f24ee25020f894906a68e3f7897d043f1474a897af5bb59f6bb8f983ef4",
+  "review": {
+    "decisions": [
+      {
+        "key": "e0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "FAQ가 2026년 10~11월 캠페인을 명시하며 기존 2026-10 회차와 일치한다. 일반 주제·2025 회차와 구별한다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문이 Support a Streamer 보상 체계를 명시한다. 기존 일반 주제에 연결하며 특정 회차 자체로 합치지 않는다."
+      },
+      {
+        "key": "e2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문이 Head Turner를 Profile Title로 명시한다. Hunter인 Head Taker와 구별된 기존 topic이다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Head Taker가 Legendary Hunter로 명시되어 기존 character와 일치한다."
+      },
+      {
+        "key": "e4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Desert Rose가 무작위 Legendary Hunter 풀의 예시로 직접 명시된다. 기존 다른 인물과 병합하지 않는다."
+      },
+      {
+        "key": "e5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Highwayman이 무작위 Legendary Hunter 풀의 예시로 직접 명시된다."
+      },
+      {
+        "key": "e6",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "원문은 복수형 the Union Suits를 풀 예시로 언급한다. 단일 Hunter인지 여러 외형의 묶음인지 구별할 근거가 없어 하나의 character로 확정하지 않는다."
+      },
+      {
+        "key": "e7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bad Hand가 무작위 Legendary Hunter 풀의 예시로 직접 명시된다."
+      },
+      {
+        "key": "e8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stream-o-Ween 명칭과 무료 보상이 FAQ에 명시된다. 범위를 2026 FAQ로 한정하고 다른 회차와 병합하지 않는다."
+      },
+      {
+        "key": "a0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시작·종료 UTC 시각이 원문과 정확히 일치한다. 발행일을 적용일로 대체하지 않았으며 공지 내용에 귀속된 역사적 기록이다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "생방송 중 구독 또는 선물 구독 1회와 채팅 배지·프로필 타이틀 조건이 모두 직접 명시된다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "누적 구독 또는 선물 구독 2회와 Head Taker 보상을 명시한다. 무료 시청 보상으로 오인하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기보유자에게 무작위 Legendary Hunter가 대체 지급된다는 문장을 그대로 함의한다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Desert Rose는 무작위 풀의 예시일 뿐 확정 지급이 아니라는 제한을 유지했다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Highwayman은 무작위 풀의 예시일 뿐 확정 지급이 아니라는 제한을 유지했다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "대체 보상 풀에서의 언급은 지지되나 주체 e6의 Union Suits를 단일 character로 특정할 수 없어 주체 동일성 승인을 보류한다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bad Hand는 무작위 풀의 예시일 뿐 확정 지급이 아니라는 제한을 유지했다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시청 5분 이모트·1시간 채팅 배지 조건과 Stream-o-Ween 귀속이 원문에 직접 명시된다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "계정 연결과 Drops 활성 스트리머 시청 조건을 원문이 명시한다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch 인벤토리에서 보상을 claim하여 다음 보상을 연다는 절차가 원문에 명시된다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "모든 스트리머 참여 가능, Drops 활성화, Hunt 카테고리 방송 조건을 모두 명시한다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

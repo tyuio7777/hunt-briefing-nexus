@@ -1,0 +1,81 @@
+{
+  "jobId": "job-450770d80fc76f5d484d2866",
+  "sourceHash": "4e37e6d0211b1edac36cfd18d22c006d44ddd77831185988acc729f1574d12c0",
+  "reviewedExtractionHash": "1f5cd096561d0188b59d15cf294a69edaf37e26aeff671b1774e39d024bd595c",
+  "review": {
+    "decisions": [
+      {
+        "key": "e0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 2026년 10월 23일 공지와 10월 26일~11월 9일 캠페인 문맥이 기존 2026-10 회차와 일치한다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Head Taker를 Legendary Hunter로 직접 명시하며 기존 character와 일치한다."
+      },
+      {
+        "key": "e2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith는 Stamina Shot 외형으로 명시된다. 기본 소모품 자체와 합치지 않은 기존 외형 topic이다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek는 Choke Bombs 외형으로 명시된다. 기본 장비 자체와 합치지 않은 기존 외형 topic이다."
+      },
+      {
+        "key": "a0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문 날짜 October 23, 2026과 첫 주 2개·둘째 주 3개 보상 창을 대조했다. 수집 메타데이터 발행일과 본문 날짜를 혼용하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "20개 초과 Drops와 128개 접근 가능 보상이 직접 명시된다. 모두 확정 획득한다고 확대하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상 목록에 Head Taker가 명시되며 획득 조건은 이 구간으로 확정하지 않는다고 제한했다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith와 Stamina Shot의 외형 관계 및 신규 소개가 원문에 명시된다. 현재 획득 가능성으로 확대하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek와 Choke Bombs의 외형 관계 및 신규 소개가 원문에 명시된다. 현재 획득 가능성으로 확대하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기보유 아이템에 fallback options를 마련했다는 설명만 기록하며 구체적 지급 대상을 추정하지 않았다. 출처 귀속·historical 표기를 유지하며 독립적 사실 확인 판정은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
