@@ -1,0 +1,154 @@
+{
+  "jobId": "job-bbf8f38dd6b7c0c46413e0b1",
+  "sourceHash": "613a796c85502a4083959dd05c369a06d0e1ef0b60c87a17e429991f44399a35",
+  "extraction": {
+    "entities": [
+      {
+        "key": "ledger",
+        "label": "Bayou Ledger",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "The Bayou Ledger The Bayou Index Roster Pulse"
+          }
+        ]
+      },
+      {
+        "key": "index",
+        "label": "Bayou Index",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "cleave",
+        "label": "All Hallows’ Cleave",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-854bd199e4cac0dbbdd89d90",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "All Hallows’ Cleave Stage 5 of 5\n50M125M225M350M500M\n500,000,000 / 500,000,000 100%"
+          }
+        ]
+      },
+      {
+        "key": "crossbow-deadeye",
+        "label": "Crossbow Deadeye",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "Crossbow Deadeye"
+          }
+        ]
+      },
+      {
+        "key": "pax-trueshot",
+        "label": "Pax Trueshot",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "Pax Trueshot"
+          }
+        ]
+      },
+      {
+        "key": "centennial-trauma",
+        "label": "Centennial Trauma",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "Centennial Trauma"
+          }
+        ]
+      },
+      {
+        "key": "bomb",
+        "label": "Bomb Launcher",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-87bffbad4679d2fb3b725c22",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "Crossbow Deadeye\nBomb Launcher"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "stage",
+        "subject": "cleave",
+        "aspect": "community_progress_observation",
+        "value": "Stage 5/5 · 500,000,000/500,000,000",
+        "statement": "Bayou Ledger 수집 화면은 All Hallows’ Cleave 진행도를 Stage 5/5와 100%로 표시한다. 공식 종료 확인이나 단계 도달일 근거는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "All Hallows’ Cleave Stage 5 of 5\n50M125M225M350M500M\n500,000,000 / 500,000,000 100%"
+          }
+        ]
+      },
+      {
+        "key": "matchpage",
+        "subject": "ledger",
+        "aspect": "site_feature",
+        "value": "매치별 페이지",
+        "statement": "Bayou Ledger는 매치별 페이지에서 파티 전체를 보여 주고 매치 미기록 사유를 안내한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2fce1e2a469594f216a48c34",
+            "quote": "A match now opens into a page of its own with your whole party, and the site now\ntells you why a match wasn't recorded."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

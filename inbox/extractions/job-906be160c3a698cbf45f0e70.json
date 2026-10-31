@@ -1,0 +1,551 @@
+{
+  "jobId": "job-906be160c3a698cbf45f0e70",
+  "sourceHash": "2bca8dab6bb0fe92aefbf9b4b686109c7b0d3decf70fe4c78836ba2c1de3d4ac",
+  "extraction": {
+    "entities": [
+      {
+        "key": "drops",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-10",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "전체 Twitch Drops 캠페인은 10월 27일 00:00부터 11월 10일 00:00까지다."
+          }
+        ]
+      },
+      {
+        "key": "part2",
+        "label": "Twitch Drops Week 1 Part 2",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-10 Twitch Drops 보상 창",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          },
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Twitch Drops Week 1 Part 2와 Leap of Faith"
+          }
+        ]
+      },
+      {
+        "key": "leap",
+        "label": "Leap of Faith",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-a69dda93b7d4e7b58eba6856",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "crate",
+        "label": "Supply Crate",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "plus",
+        "label": "PlayStation Plus Game of the Month",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-10",
+        "entityId": "entity-b48da4d9148249ed710e7553",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "공식 신규 헌터 안내에 명시된 PlayStation Plus Game of the Month 제공 기간은 11월 2일까지다."
+          }
+        ]
+      },
+      {
+        "key": "cleave",
+        "label": "All Hallows’ Cleave",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-854bd199e4cac0dbbdd89d90",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "All Hallows’ Cleave는 공식 5단계 구조"
+          }
+        ]
+      },
+      {
+        "key": "atlas",
+        "label": "Atlas",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "topic-9dee1c0ed39ef4e2686f974b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "temperance",
+        "label": "Temperance",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "topic-dba646c42f79ae40a017c452",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "derringer",
+        "label": "Long Derringer",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "topic-e41740306d7a2e1cee4304cc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "support",
+        "label": "Support a Streamer",
+        "kind": "topic",
+        "group": "events",
+        "scope": "",
+        "entityId": "entity-9a520ed1dc016b8597ecae13",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Support a Streamer는 별도 조건\nOFFICIAL · SUBSCRIPTION REWARDS"
+          }
+        ]
+      },
+      {
+        "key": "taker",
+        "label": "Head Taker",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-778d141693fa321071a4eeb3",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "시청 시간 보상과 달리 Head Turner·Head Taker는 구독 또는 선물 구독 조건이다. 1회는 채팅 배지와 프로필 타이틀, 누적 2회는 Head Taker이며, 이미 보유했다면 무작위 Legendary Hunter 대체 규칙이 적용된다."
+          }
+        ]
+      },
+      {
+        "key": "turner",
+        "label": "Head Turner",
+        "kind": "topic",
+        "group": "events",
+        "scope": "",
+        "entityId": "entity-83d30cda4d05483a8eb8b70b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "시청 시간 보상과 달리 Head Turner·Head Taker는 구독 또는 선물 구독 조건이다. 1회는 채팅 배지와 프로필 타이틀, 누적 2회는 Head Taker이며, 이미 보유했다면 무작위 Legendary Hunter 대체 규칙이 적용된다."
+          }
+        ]
+      },
+      {
+        "key": "blood",
+        "label": "Blood Testament",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "해금 단계가 끝나도 Blood Testament 자체는 공식적으로 12월 8일까지 이어진다."
+          }
+        ]
+      },
+      {
+        "key": "bili",
+        "label": "Bilibili 별도 라이브 드롭",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-11 중국 플랫폼",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Bilibili 직접 캠페인 페이지는 11월 4일~10일 중국 플랫폼용 시청 보상과 수량 제한을 안내한다. 글로벌 Twitch 캠페인과 일정·보상·수령 경로가 다르므로 계정을 합산하거나 동일 보상 창으로 보지 않는다."
+          },
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "중국 Bilibili 별도 라이브 드롭"
+          }
+        ]
+      },
+      {
+        "key": "beetle",
+        "label": "Stalker Beetle",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "영상 직접 보기 · Stalker Beetle을 중심으로 한 솔로 교전 영상이다."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "part2window",
+        "subject": "part2",
+        "aspect": "reward_window",
+        "value": "2026-10-31~2026-11-03 KST",
+        "statement": "10월 31일 브리핑은 Week 1 Part 2 보상 창을 한국시간 10월 31일 00:00부터 11월 3일 00:00까지로 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-31T00:00:00+09:00",
+        "effectiveTo": "2026-11-03T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "part2reward",
+        "subject": "part2",
+        "aspect": "watch_rewards",
+        "value": "1·2·3시간 Supply Crate, 4시간 Leap of Faith",
+        "statement": "브리핑은 Part 2의 누적 1·2·3시간 보상을 Supply Crate, 누적 4시간 보상을 Stamina Shot 외형 Leap of Faith로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "subscription",
+        "subject": "support",
+        "aspect": "reward_requirements",
+        "value": "구독·선물 구독 누적 1회/2회",
+        "statement": "브리핑은 구독 또는 선물 구독 1회에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "시청 시간 보상과 달리 Head Turner·Head Taker는 구독 또는 선물 구독 조건이다. 1회는 채팅 배지와 프로필 타이틀, 누적 2회는 Head Taker이며, 이미 보유했다면 무작위 Legendary Hunter 대체 규칙이 적용된다."
+          }
+        ]
+      },
+      {
+        "key": "duplicatehunter",
+        "subject": "taker",
+        "aspect": "duplicate_reward",
+        "value": "무작위 Legendary Hunter",
+        "statement": "브리핑은 Head Taker 보유자에게 무작위 Legendary Hunter 대체 보상이 적용된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "시청 시간 보상과 달리 Head Turner·Head Taker는 구독 또는 선물 구독 조건이다. 1회는 채팅 배지와 프로필 타이틀, 누적 2회는 Head Taker이며, 이미 보유했다면 무작위 Legendary Hunter 대체 규칙이 적용된다."
+          }
+        ]
+      },
+      {
+        "key": "carryrumor",
+        "subject": "part2",
+        "aspect": "progress_carryover_rumor",
+        "value": "미확인",
+        "statement": "Part 1 미완료 진행률의 Part 2 자동 이월은 브리핑에서 확인되지 않은 기대라고 분류한다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "“Part 1 진행률이 Part 2로 자동 이월된다”\n상태: 확인되지 않은 기대 · 창별 트랙 주의"
+          }
+        ]
+      },
+      {
+        "key": "stageinterpretation",
+        "subject": "cleave",
+        "aspect": "completion_interpretation",
+        "value": "최종 단계 표시는 종료일 공지가 아님",
+        "statement": "브리핑은 커뮤니티 추적기의 Stage 5/5 표시를 최종 단계 도달 신호로 설명하며 공식 이벤트 종료일 공지와 구별한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "커뮤니티 진행도 추적기는 Stage 5/5를 표시하지만, 이는 최종 단계 도달 신호이지 이벤트 종료일 공지가 아니다."
+          }
+        ]
+      },
+      {
+        "key": "bilireward",
+        "subject": "bili",
+        "aspect": "platform_campaign",
+        "value": "별도 중국 플랫폼 시청 보상",
+        "statement": "브리핑은 Bilibili의 중국 플랫폼 시청 보상이 글로벌 Twitch 캠페인과 일정·보상·수령 경로가 다른 별도 행사라고 설명한다. 직접 원문 수집이 실패했으므로 브리핑 귀속 설명으로만 남긴다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Bilibili 직접 캠페인 페이지는 11월 4일~10일 중국 플랫폼용 시청 보상과 수량 제한을 안내한다. 글로벌 Twitch 캠페인과 일정·보상·수령 경로가 다르므로 계정을 합산하거나 동일 보상 창으로 보지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "bloodperiod",
+        "subject": "blood",
+        "aspect": "event_period",
+        "value": "2026-09-08",
+        "statement": "브리핑 일정 데이터는 Blood Testament 기간을 2026-09-08부터 2026-12-08까지로 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-09-08",
+        "effectiveTo": "2026-12-08",
+        "dateEvidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "plusperiod",
+        "subject": "plus",
+        "aspect": "offer_period",
+        "value": "2026-10-06",
+        "statement": "브리핑 일정 데이터는 PlayStation Plus Game of the Month 기간을 2026-10-06부터 2026-11-02까지로 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-06",
+        "effectiveTo": "2026-11-02",
+        "dateEvidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_date\": \"2026-11-02\", \"event_id\": \"hunt-playstation-plus-game-of-month-2026-10\", \"source_url\": \"https://www.huntshowdown.com/news/welcome-new-hunters\", \"start_date\": \"2026-10-06\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.\", \"title\": \"PlayStation Plus Game of the Month\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_date\": \"2026-11-02\", \"event_id\": \"hunt-playstation-plus-game-of-month-2026-10\", \"source_url\": \"https://www.huntshowdown.com/news/welcome-new-hunters\", \"start_date\": \"2026-10-06\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.\", \"title\": \"PlayStation Plus Game of the Month\"}"
+          }
+        ]
+      },
+      {
+        "key": "dropsperiod",
+        "subject": "drops",
+        "aspect": "campaign_period",
+        "value": "2026-10-27T00:00:00+09:00",
+        "statement": "브리핑 일정 데이터는 2026년 10월 Twitch Drops 기간을 2026-10-27T00:00:00+09:00부터 2026-11-10T00:00:00+09:00까지로 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-27T00:00:00+09:00",
+        "effectiveTo": "2026-11-10T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "windowpart",
+        "from": "part2",
+        "to": "drops",
+        "type": "part_of",
+        "statement": "Week 1 Part 2는 2026년 10월 Twitch Drops 캠페인의 세부 보상 창이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Twitch Drops Week 1 Part 2와 Leap of Faith"
+          }
+        ]
+      },
+      {
+        "key": "leapreward",
+        "from": "part2",
+        "to": "leap",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Week 1 Part 2 누적 4시간 시청 보상은 Leap of Faith다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "cratereward",
+        "from": "part2",
+        "to": "crate",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Week 1 Part 2 누적 1·2·3시간 시청 단계별 보상은 Supply Crate다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "10월 23일 공식 발표가 예고한 Week 1의 두 번째 보상 창이 한국시간 10월 31일 00:00에 열렸다. 이 구간은 11월 3일 00:00까지 이어지며, 1·2·3시간에는 Supply Crate, 누적 4시간에는 신규 Stamina Shot 외형 Leap of Faith가 걸려 있다."
+          }
+        ]
+      },
+      {
+        "key": "atlasreward",
+        "from": "cleave",
+        "to": "atlas",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave Stage 1의 보상을 Atlas로 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "temperancereward",
+        "from": "cleave",
+        "to": "temperance",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave Stage 3의 보상을 Temperance로 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "derringerreward",
+        "from": "cleave",
+        "to": "derringer",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave Stage 5의 보상을 Long Derringer로 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-8abfce515844b2bf748088d2",
+            "quote": "Chapter 2 공식 패치 노트는 Stage 1의 The Atlas, Stage 3의 The Temperance, Stage 5의 Long Derringer를 확정한다."
+          }
+        ]
+      }
+    ]
+  }
+}
