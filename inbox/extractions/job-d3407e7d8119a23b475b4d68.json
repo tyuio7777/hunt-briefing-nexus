@@ -1,0 +1,1075 @@
+{
+  "jobId": "job-d3407e7d8119a23b475b4d68",
+  "sourceHash": "3c289580798912e4f40c20d484e1b58dd1f2092dd81779dcebf54f5dee65b119",
+  "extraction": {
+    "entities": [
+      {
+        "key": "twitch",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "scope": "2026-10",
+        "group": "events",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      },
+      {
+        "key": "part12",
+        "label": "Twitch Drops Week 1 Part 2",
+        "kind": "event",
+        "scope": "2026-10 Twitch Drops 보상 창",
+        "group": "events",
+        "entityId": "entity-d3d14124be563307d11b0a72",
+        "aliases": [
+          "Week 1 Part 2"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "part21",
+        "label": "Week 2 Part 1",
+        "kind": "event",
+        "scope": "2026-10 Twitch Drops 보상 창",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "charm",
+        "label": "Random Charm",
+        "kind": "topic",
+        "scope": "2026-10 Twitch Drops 보상 종류",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "avatar",
+        "label": "Random Avatar",
+        "kind": "topic",
+        "scope": "2026-10 Twitch Drops 보상 종류",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Week 2는 세 구간이다. Random Charm 다음에는 신규 Choke Bombs 외형 Hide and Seek가 오고, 마지막 창은 Random Avatar와 Random Hunter를 포함한다. 짧은 창마다 Twitch 인벤토리 진행률이 새로 표시되는지 확인한다."
+          }
+        ]
+      },
+      {
+        "key": "hunter",
+        "label": "Random Hunter",
+        "kind": "topic",
+        "scope": "2026-10 Twitch Drops 보상 종류",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Week 2는 세 구간이다. Random Charm 다음에는 신규 Choke Bombs 외형 Hide and Seek가 오고, 마지막 창은 Random Avatar와 Random Hunter를 포함한다. 짧은 창마다 Twitch 인벤토리 진행률이 새로 표시되는지 확인한다."
+          }
+        ]
+      },
+      {
+        "key": "leap",
+        "label": "Leap of Faith",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-a69dda93b7d4e7b58eba6856",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "hide",
+        "label": "Hide and Seek",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-09474958ce4cdf87b7fe6991",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Week 2는 세 구간이다. Random Charm 다음에는 신규 Choke Bombs 외형 Hide and Seek가 오고, 마지막 창은 Random Avatar와 Random Hunter를 포함한다. 짧은 창마다 Twitch 인벤토리 진행률이 새로 표시되는지 확인한다."
+          }
+        ]
+      },
+      {
+        "key": "crate",
+        "label": "Supply Crate",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-d2cf006659361eb3ba75cd90",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "support",
+        "label": "Support a Streamer",
+        "kind": "topic",
+        "scope": "",
+        "group": "events",
+        "entityId": "entity-9a520ed1dc016b8597ecae13",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      },
+      {
+        "key": "turner",
+        "label": "Head Turner",
+        "kind": "topic",
+        "scope": "",
+        "group": "events",
+        "entityId": "entity-83d30cda4d05483a8eb8b70b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "taker",
+        "label": "Head Taker",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-778d141693fa321071a4eeb3",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "psplus",
+        "label": "PlayStation Plus Game of the Month",
+        "kind": "event",
+        "scope": "2026-10",
+        "group": "events",
+        "entityId": "entity-b48da4d9148249ed710e7553",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-11-02\", \"event_id\": \"hunt-playstation-plus-game-of-month-2026-10\", \"source_url\": \"https://www.huntshowdown.com/news/welcome-new-hunters\", \"start_date\": \"2026-10-06\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.\", \"title\": \"PlayStation Plus Game of the Month\"}"
+          }
+        ]
+      },
+      {
+        "key": "blood",
+        "label": "Blood Testament",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "cleave",
+        "label": "All Hallows’ Cleave",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-854bd199e4cac0dbbdd89d90",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "atlas",
+        "label": "Atlas",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-9dee1c0ed39ef4e2686f974b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "temperance",
+        "label": "Temperance",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-dba646c42f79ae40a017c452",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "long",
+        "label": "Long Derringer",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-e41740306d7a2e1cee4304cc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Long Derringer는 도구 슬롯에 들어가는 단발 Long Ammo 권총이다. 속도와 탄도에 제약이 있지만, 주무기가 닿기 애매한 거리에서 한 발을 추가하거나 Long Ammo 예비탄을 보완하는 색다른 선택지를 만든다."
+          }
+        ]
+      },
+      {
+        "key": "bili",
+        "label": "Bilibili 별도 라이브 드롭",
+        "kind": "event",
+        "scope": "2026-11 중국 플랫폼",
+        "group": "events",
+        "entityId": "entity-af6540e6ca688040c32e7112",
+        "aliases": [
+          "Bilibili 4차 라이브 드롭"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "🇨🇳 중국 · Bilibili 4차 라이브 드롭 예고\n반응 성격: 지역 플랫폼 보상 · 수량 제한\nBilibili 직접 캠페인 페이지는 11월 4일~10일의 중국권 별도 시청 보상을 안내한다. Twitch 글로벌 캠페인과 수령 경로·보상·기간이 다르고 일일 수량 제한도 있으므로 같은 이벤트로 통합하지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "rolling-rumor",
+        "label": "Long Derringer 후속 롤링블록 소총설",
+        "kind": "topic",
+        "scope": "2026-11-02 브리핑의 미확인 후속 무기 추측",
+        "group": "rumors",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Long Derringer 후속 롤링블록 소총설"
+          }
+        ]
+      },
+      {
+        "key": "carry-rumor",
+        "label": "Twitch 보상 창 진행률 자동 이월설",
+        "kind": "topic",
+        "scope": "2026-10 Twitch Drops 캠페인",
+        "group": "rumors",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Twitch 보상 창 진행률 자동 이월설"
+          }
+        ]
+      },
+      {
+        "key": "steamdb",
+        "label": "SteamDB",
+        "kind": "topic",
+        "scope": "공개 빌드 기록 서비스",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "SteamDB 공개 기록의 11월 1일 메타데이터 변경은 관찰 신호일 뿐이다. 공식 릴리스 노트나 depot 변화가 함께 확인되지 않으면 새 핫픽스·콘텐츠 배포로 분류하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "psych-video",
+        "label": "Hunt Cinema - Twitch Drops October Highlights Part 1 - Solo Hunt",
+        "kind": "topic",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — Hunt Cinema - Twitch Drops October Highlights Part 1 - Solo Hunt · 공개: 6시간 전\n영상 직접 보기 · Twitch Drops 기간의 솔로 Hunt 하이라이트를 장편으로 묶었다. Stalker Beetle·근접 교전·재배치가 이어지는 실전 플레이 중심 영상으로, 현재 채널의 최신 공개 Hunt 업로드다."
+          }
+        ]
+      },
+      {
+        "key": "rex-video",
+        "label": "솔로 vs 트리오, 최악의 권총으로... | 헌트: 쇼다운 1896",
+        "kind": "topic",
+        "scope": "REXNOR 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — 솔로 vs 트리오, 최악의 권총으로... | 헌트: 쇼다운 1896 · 공개: 7일 전\n영상 직접 보기 · 이후 공개 영상은 HUNGER 중심이고 최신 Hunt 영상은 이 솔로 대 트리오 플레이다. 불리한 권총 조합에서 거리 관리와 재교전 판단을 보여 준다."
+          }
+        ]
+      },
+      {
+        "key": "toxic-video",
+        "label": "Proof Crytek know ball..",
+        "kind": "topic",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — Proof Crytek know ball.. · 공개: 2일 전\n영상 직접 보기 · Long Derringer 해금 뒤 실제 매치에서 사용하는 최신 공개 Hunt 영상이다. 최종 공동 보상이 실제 로드아웃에서 어떤 재미와 제한을 만드는지 확인할 수 있다."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "twitch-dates",
+        "subject": "twitch",
+        "aspect": "캠페인 기간",
+        "value": "2026-10-27T00:00:00+09:00 ~ 2026-11-10T00:00:00+09:00",
+        "statement": "브리핑은 2026년 10월 Twitch Drops 캠페인의 시작과 종료를 KST 시각으로 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-27T00:00:00+09:00",
+        "effectiveTo": "2026-11-10T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      },
+      {
+        "key": "ps-dates",
+        "subject": "psplus",
+        "aspect": "제공 기간",
+        "value": "2026-10-06 ~ 2026-11-02",
+        "statement": "브리핑은 Hunt의 2026년 10월 PS Plus Game of the Month 제공 기간을 날짜 단위로 명시한다. 종료 시각은 명시하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-06",
+        "effectiveTo": "2026-11-02",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-11-02\", \"event_id\": \"hunt-playstation-plus-game-of-month-2026-10\", \"source_url\": \"https://www.huntshowdown.com/news/welcome-new-hunters\", \"start_date\": \"2026-10-06\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.\", \"title\": \"PlayStation Plus Game of the Month\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-11-02\", \"event_id\": \"hunt-playstation-plus-game-of-month-2026-10\", \"source_url\": \"https://www.huntshowdown.com/news/welcome-new-hunters\", \"start_date\": \"2026-10-06\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.\", \"title\": \"PlayStation Plus Game of the Month\"}"
+          }
+        ]
+      },
+      {
+        "key": "blood-dates",
+        "subject": "blood",
+        "aspect": "이벤트 기간",
+        "value": "2026-09-08 ~ 2026-12-08",
+        "statement": "브리핑에 수록된 Blood Testament 2026 이벤트 기간이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-09-08",
+        "effectiveTo": "2026-12-08",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "cleave-start",
+        "subject": "cleave",
+        "aspect": "시작일",
+        "value": "2026-10-13",
+        "statement": "브리핑은 All Hallows’ Cleave 2026의 시작일을 10월 13일로 안내한다. 전체 종료일을 뜻하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-13",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-10-13\", \"event_id\": \"hunt-all-hallows-cleave-start\", \"source_url\": \"https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes\", \"start_date\": \"2026-10-13\", \"status\": \"confirmed\", \"summary\": \"다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.\", \"title\": \"All Hallows’ Cleave 시작\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "{\"end_date\": \"2026-10-13\", \"event_id\": \"hunt-all-hallows-cleave-start\", \"source_url\": \"https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes\", \"start_date\": \"2026-10-13\", \"status\": \"confirmed\", \"summary\": \"다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.\", \"title\": \"All Hallows’ Cleave 시작\"}"
+          }
+        ]
+      },
+      {
+        "key": "part12-end",
+        "subject": "part12",
+        "aspect": "보상 창 종료 시각",
+        "value": "2026-11-03T00:00:00+09:00",
+        "statement": "브리핑에 따르면 Week 1 Part 2는 11월 2일 15:00 UTC, 한국시간 11월 3일 00:00에 종료된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "2026-11-03T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "part21-start",
+        "subject": "part21",
+        "aspect": "보상 창 시작 시각",
+        "value": "2026-11-03T00:00:00+09:00",
+        "statement": "브리핑은 Week 1 Part 2 종료와 동시에 Week 2 Part 1이 시작된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-03T00:00:00+09:00",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다.\n같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다.\n같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "part12-rewards",
+        "subject": "part12",
+        "aspect": "보상 순서",
+        "value": "1·2·3시간 Supply Crate 이후 4시간 Leap of Faith",
+        "statement": "브리핑은 Supply Crate를 순차 Claim한 뒤 4시간 Leap of Faith 보상이 열리는지 확인하도록 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "leap-skin",
+        "subject": "leap",
+        "aspect": "외형 대상",
+        "value": "Stamina Shot",
+        "statement": "브리핑은 Leap of Faith를 Stamina Shot 외형 보상으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "hide-skin",
+        "subject": "hide",
+        "aspect": "외형 대상",
+        "value": "Choke Bombs",
+        "statement": "브리핑은 Hide and Seek를 신규 Choke Bombs 외형으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Week 2는 세 구간이다. Random Charm 다음에는 신규 Choke Bombs 외형 Hide and Seek가 오고, 마지막 창은 Random Avatar와 Random Hunter를 포함한다. 짧은 창마다 Twitch 인벤토리 진행률이 새로 표시되는지 확인한다."
+          }
+        ]
+      },
+      {
+        "key": "week2-order",
+        "subject": "twitch",
+        "aspect": "Week 2 보상 창 순서",
+        "value": "Random Charm → Hide and Seek → Random Avatar·Random Hunter",
+        "statement": "브리핑에 따르면 2026년 10월 캠페인의 Week 2는 세 보상 창으로 나뉜다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Week 2는 세 구간이다. Random Charm 다음에는 신규 Choke Bombs 외형 Hide and Seek가 오고, 마지막 창은 Random Avatar와 Random Hunter를 포함한다. 짧은 창마다 Twitch 인벤토리 진행률이 새로 표시되는지 확인한다."
+          }
+        ]
+      },
+      {
+        "key": "support-one",
+        "subject": "support",
+        "aspect": "1회 구독 보상",
+        "value": "채팅 배지와 Head Turner 타이틀",
+        "statement": "브리핑이 인용한 FAQ는 구독·선물 구독 1회에 채팅 배지와 Head Turner 타이틀을 제공한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "support-two",
+        "subject": "support",
+        "aspect": "누적 2회 구독 보상",
+        "value": "Head Taker",
+        "statement": "브리핑이 인용한 FAQ는 구독·선물 구독 누적 2회에 Head Taker를 제공한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "support-separate",
+        "subject": "support",
+        "aspect": "보상 조건 구분",
+        "value": "시청 시간 보상과 결제 조건은 별개",
+        "statement": "브리핑은 시청 시간 보상과 Support a Streamer의 결제 조건을 구분한다. Prime 구독 적용 여부는 이 자료만으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "cleave-stages",
+        "subject": "cleave",
+        "aspect": "공동 해금 구조",
+        "value": "다섯 단계; Stage 1 The Atlas, Stage 3 The Temperance, 최종 Long Derringer",
+        "statement": "브리핑은 All Hallows’ Cleave의 다섯 단계 공동 해금과 단계별 보상을 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "long-type",
+        "subject": "long",
+        "aspect": "무기·슬롯 특성",
+        "value": "도구 슬롯의 단발 Long Ammo 권총",
+        "statement": "브리핑은 Long Derringer를 도구 슬롯에 넣는 단발 Long Ammo 권총으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Long Derringer는 도구 슬롯에 들어가는 단발 Long Ammo 권총이다. 속도와 탄도에 제약이 있지만, 주무기가 닿기 애매한 거리에서 한 발을 추가하거나 Long Ammo 예비탄을 보완하는 색다른 선택지를 만든다."
+          }
+        ]
+      },
+      {
+        "key": "long-tradeoff",
+        "subject": "long",
+        "aspect": "사용 특성과 제약",
+        "value": "속도·탄도 제약과 추가 사격·Long Ammo 예비탄 보완",
+        "statement": "브리핑은 Long Derringer의 속도·탄도 제약과 보조 사격 및 예비탄 보완 용도를 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Long Derringer는 도구 슬롯에 들어가는 단발 Long Ammo 권총이다. 속도와 탄도에 제약이 있지만, 주무기가 닿기 애매한 거리에서 한 발을 추가하거나 Long Ammo 예비탄을 보완하는 색다른 선택지를 만든다."
+          }
+        ]
+      },
+      {
+        "key": "long-unlock",
+        "subject": "long",
+        "aspect": "최종 단계 해금 후 반응",
+        "value": "공동 최종 단계 도달을 축하하고 실전 역할을 토론",
+        "statement": "브리핑은 커뮤니티가 최종 단계에 도달한 뒤 Long Derringer의 역할을 논의한다고 전한다. 정확한 해금 일시는 제시하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Reddit 직접 글에서는 All Hallows’ Cleave 최종 단계 도달을 축하하면서 Long Derringer의 역할을 토론한다. 해금 자체는 환영받지만 공동 진행 속도와 보정 방식에는 비판도 남았다."
+          }
+        ]
+      },
+      {
+        "key": "long-loadouts",
+        "subject": "long",
+        "aspect": "해금 후 로드아웃 실험",
+        "value": "Sparks 탄 공유 및 shotgun·akimbo의 중거리 보완",
+        "statement": "브리핑은 커뮤니티의 실험 사례로 Sparks 계열 탄 공유와 shotgun·akimbo 조합의 중거리 보완을 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "커뮤니티가 최종 단계에 도달하자 관심은 “해금 가능 여부”에서 “어떤 조합에 넣을 것인가”로 이동했다. Sparks 계열과 함께 탄을 공유하거나 shotgun·akimbo 조합의 빈 중거리를 메우는 실험이 대표적이다."
+          }
+        ]
+      },
+      {
+        "key": "bili-announcement",
+        "subject": "bili",
+        "aspect": "별도 지역 드롭 예고",
+        "value": "11월 4일~10일 중국권 시청 보상, 일일 수량 제한",
+        "statement": "브리핑은 중국 Bilibili 별도 드롭의 기간과 수량 제한을 전한다. 이번 수집에서 직접 페이지를 확보하지 못했으므로 브리핑에 귀속된 설명이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Bilibili 직접 캠페인 페이지는 11월 4일~10일의 중국권 별도 시청 보상을 안내한다. Twitch 글로벌 캠페인과 수령 경로·보상·기간이 다르고 일일 수량 제한도 있으므로 같은 이벤트로 통합하지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "bili-distinct",
+        "subject": "bili",
+        "aspect": "캠페인 구분",
+        "value": "Twitch 글로벌 캠페인과 수령 경로·보상·기간이 다름",
+        "statement": "브리핑은 Bilibili 중국권 보상을 Twitch 글로벌 캠페인과 구별한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Bilibili 직접 캠페인 페이지는 11월 4일~10일의 중국권 별도 시청 보상을 안내한다. Twitch 글로벌 캠페인과 수령 경로·보상·기간이 다르고 일일 수량 제한도 있으므로 같은 이벤트로 통합하지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "rolling-status",
+        "subject": "rolling-rumor",
+        "aspect": "확인 상태",
+        "value": "미확인 후속 소총 추측; 공식 확인 없음",
+        "statement": "브리핑은 Long Derringer의 구조에서 파생된 후속 롤링블록 소총 기대를 커뮤니티 추측으로 설명하며, 공식 노트가 후속 소총을 언급하지 않았다고 전한다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Reddit 직접 토론은 Long Derringer의 롤링블록 구조를 근거로 정식 소총 추가를 기대한다. 그러나 공식 패치 노트는 Long Derringer만 Stage 5 보상으로 확정했으며 후속 소총은 언급하지 않았다. 커뮤니티 신뢰도: 낮음. 공식 확인 여부: 없음."
+          }
+        ]
+      },
+      {
+        "key": "carry-status",
+        "subject": "carry-rumor",
+        "aspect": "확인 상태",
+        "value": "미완료 진행률 자동 이월은 보장되지 않은 미확인 주장",
+        "statement": "브리핑은 보상 창 사이 미완료 진행률 자동 이월설에 공식 보장이 없다고 전한다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Drops 개시 토론에서는 필요한 시청 시간과 보상 구분 질문이 반복된다. 공식 페이지는 Week 1·2를 별도 보상 창으로 설명하지만 미완료 진행률 이월을 보장하지 않는다. 커뮤니티 신뢰도: 낮음. 공식 확인 여부: 없음."
+          }
+        ]
+      },
+      {
+        "key": "steam-signal",
+        "subject": "steamdb",
+        "aspect": "관찰 신호의 한계",
+        "value": "11월 1일 메타데이터 변경만으로 새 핫픽스·콘텐츠 배포 확정 불가",
+        "statement": "브리핑은 SteamDB 메타데이터 변화를 관찰 신호로 구분하며 실제 콘텐츠 배포로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "SteamDB 공개 기록의 11월 1일 메타데이터 변경은 관찰 신호일 뿐이다. 공식 릴리스 노트나 depot 변화가 함께 확인되지 않으면 새 핫픽스·콘텐츠 배포로 분류하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "psych-video-summary",
+        "subject": "psych-video",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Stalker Beetle·근접 교전·재배치 중심의 솔로 Hunt 하이라이트",
+        "statement": "브리핑은 Psychoghost Gaming의 이 영상을 ‘Stalker Beetle·근접 교전·재배치 중심의 솔로 Hunt 하이라이트’ 내용으로 소개한다. 영상 자체의 독립 확인이나 정확한 업로드 일시를 의미하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — Hunt Cinema - Twitch Drops October Highlights Part 1 - Solo Hunt · 공개: 6시간 전\n영상 직접 보기 · Twitch Drops 기간의 솔로 Hunt 하이라이트를 장편으로 묶었다. Stalker Beetle·근접 교전·재배치가 이어지는 실전 플레이 중심 영상으로, 현재 채널의 최신 공개 Hunt 업로드다."
+          }
+        ]
+      },
+      {
+        "key": "rex-video-summary",
+        "subject": "rex-video",
+        "aspect": "브리핑의 영상 소개",
+        "value": "불리한 권총 조합의 솔로 대 트리오 거리 관리와 재교전",
+        "statement": "브리핑은 REXNOR의 이 영상을 ‘불리한 권총 조합의 솔로 대 트리오 거리 관리와 재교전’ 내용으로 소개한다. 영상 자체의 독립 확인이나 정확한 업로드 일시를 의미하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — 솔로 vs 트리오, 최악의 권총으로... | 헌트: 쇼다운 1896 · 공개: 7일 전\n영상 직접 보기 · 이후 공개 영상은 HUNGER 중심이고 최신 Hunt 영상은 이 솔로 대 트리오 플레이다. 불리한 권총 조합에서 거리 관리와 재교전 판단을 보여 준다."
+          }
+        ]
+      },
+      {
+        "key": "toxic-video-summary",
+        "subject": "toxic-video",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Long Derringer 해금 뒤 실제 매치 사용",
+        "statement": "브리핑은 Toxic Pancake의 이 영상을 ‘Long Derringer 해금 뒤 실제 매치 사용’ 내용으로 소개한다. 영상 자체의 독립 확인이나 정확한 업로드 일시를 의미하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — Proof Crytek know ball.. · 공개: 2일 전\n영상 직접 보기 · Long Derringer 해금 뒤 실제 매치에서 사용하는 최신 공개 Hunt 영상이다. 최종 공동 보상이 실제 로드아웃에서 어떤 재미와 제한을 만드는지 확인할 수 있다."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "rel-part12",
+        "from": "part12",
+        "to": "twitch",
+        "type": "part_of",
+        "statement": "브리핑에서 Week 1 Part 2는 해당 Twitch Drops 캠페인의 보상 창이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-part21",
+        "from": "part21",
+        "to": "twitch",
+        "type": "part_of",
+        "statement": "브리핑은 전체 Twitch Drops 캠페인 내 다음 보상 창으로 Week 2 Part 1을 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-charm",
+        "from": "part21",
+        "to": "charm",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Week 2 Part 1의 마지막 보상은 Random Charm이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "같은 시각 Week 2 Part 1이 시작된다. 이 창의 마지막 보상은 Random Charm이고, 이후 Hide and Seek(Choke Bombs), Random Avatar·Random Hunter 창이 짧은 간격으로 이어진다. 전체 캠페인은 11월 10일 00:00 KST까지지만 각 창의 진행률과 Claim 마감은 별도로 관리해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-leap",
+        "from": "part12",
+        "to": "leap",
+        "type": "rewards",
+        "statement": "브리핑은 Week 1 Part 2의 4시간 보상으로 Leap of Faith를 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-crate",
+        "from": "part12",
+        "to": "crate",
+        "type": "rewards",
+        "statement": "브리핑은 해당 창에서 1·2·3시간 Supply Crate를 순차 Claim한다고 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "공식 Twitch Drops 일정에서 Week 1 Part 2는 11월 2일 15:00 UTC에 닫힌다. 한국시간으로는 11월 3일 00:00이므로, 11월 2일 오전 발행 시점에는 Leap of Faith(Stamina Shot)까지 약 15시간이 남아 있다. 1·2·3시간 Supply Crate를 순서대로 Claim한 뒤 4시간 보상이 열렸는지 확인해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-turner",
+        "from": "support",
+        "to": "turner",
+        "type": "rewards",
+        "statement": "브리핑의 Support a Streamer 설명은 구독·선물 구독 1회에 Head Turner 타이틀을 제공한다고 전한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Support a Streamer 마지막 확인\nOFFICIAL · SUBSCRIPTION REWARDS\n공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-taker",
+        "from": "support",
+        "to": "taker",
+        "type": "rewards",
+        "statement": "브리핑의 Support a Streamer 설명은 누적 구독·선물 구독 2회에 Head Taker를 제공한다고 전한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "Support a Streamer 마지막 확인\nOFFICIAL · SUBSCRIPTION REWARDS\n공식 FAQ는 1회 구독·선물 구독에 채팅 배지와 Head Turner 타이틀, 누적 2회에 Head Taker를 제공한다고 설명한다. 시청 시간 보상과 결제 조건은 별개이며, Prime 구독 적용 여부는 공식 페이지에 명시된 조건만 기준으로 판단한다."
+          }
+        ]
+      },
+      {
+        "key": "rel-atlas",
+        "from": "cleave",
+        "to": "atlas",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave Stage 1의 보상으로 The Atlas를 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "rel-temperance",
+        "from": "cleave",
+        "to": "temperance",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave Stage 3의 보상으로 The Temperance를 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      },
+      {
+        "key": "rel-long",
+        "from": "cleave",
+        "to": "long",
+        "type": "rewards",
+        "statement": "브리핑은 All Hallows’ Cleave의 최종 공동 해금 보상으로 Long Derringer를 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe69da39ac4af50dce29ab94",
+            "quote": "The Story of Blood Testament Continues는 All Hallows’ Cleave를 다섯 단계의 공동 해금으로 설계했다. Stage 1의 The Atlas, Stage 3의 The Temperance를 지나 마지막에는 Long Derringer가 기다렸다."
+          }
+        ]
+      }
+    ]
+  }
+}
