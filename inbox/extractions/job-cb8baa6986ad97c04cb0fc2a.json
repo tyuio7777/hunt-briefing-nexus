@@ -1,0 +1,1232 @@
+{
+  "jobId": "job-cb8baa6986ad97c04cb0fc2a",
+  "sourceHash": "16e9e997ba0da700e701290e868c100501bdb7dcca063e1581a6523b88b4c17a",
+  "extraction": {
+    "entities": [
+      {
+        "key": "patch3",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "kind": "update",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Blood Testament Chapter 3 Patch Notes\n3:15am\n\\[Patch Introduction]\n\\[Highlights]"
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "heavy-knife",
+        "label": "Heavy Knife",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-e28c38a29c794519cbbab046",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "bileweaver",
+        "label": "Bileweaver",
+        "kind": "monster",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-27e84c3af7841441460be7ab",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ]
+      },
+      {
+        "key": "fair-play",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ]
+      },
+      {
+        "key": "high-ping",
+        "label": "High ping queue",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "harvest",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "drops-notice",
+        "label": "Twitch Drops Dates | Blood Testament",
+        "kind": "topic",
+        "group": "events",
+        "scope": "Steam 공지 목록 · Oct 20 표기 · 연도 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops Dates | Blood Testament\nOct 20\n🎁 Twitch Drops are back!\nFrom Oct 26th to Nov 9th, you’ll have another chance to earn exclusive rewards just by watching your favorite Hunt creators live on Twitch.\nSupport the community, claim your drops, and get ready for some exciting rewards. 🔥"
+          }
+        ]
+      },
+      {
+        "key": "drops-week2",
+        "label": "Twitch Drops - Week 2 | Blood Testament",
+        "kind": "topic",
+        "group": "events",
+        "scope": "Steam 공지 목록 · Nov 2 표기 · 연도 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\nNov 2\nWe are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "drops-week1",
+        "label": "Twitch Drops start tomorrow! | Blood Testament",
+        "kind": "topic",
+        "group": "events",
+        "scope": "Steam 공지 목록 · Oct 25 표기 · 연도 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops start tomorrow! | Blood Testament\nOct 25\n🎁 Twitch Drops return tomorrow!\nTune in, support your favorite Hunt streamers, and unlock two full weeks of rewards.\nFor Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin\nWho's ready to start watching? 👀"
+          }
+        ]
+      },
+      {
+        "key": "hide-seek",
+        "label": "Hide and Seek",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-09474958ce4cdf87b7fe6991",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\nNov 2\nWe are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "leap-faith",
+        "label": "Leap of Faith",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-a69dda93b7d4e7b58eba6856",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops start tomorrow! | Blood Testament\nOct 25\n🎁 Twitch Drops return tomorrow!\nTune in, support your favorite Hunt streamers, and unlock two full weeks of rewards.\nFor Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin\nWho's ready to start watching? 👀"
+          }
+        ]
+      },
+      {
+        "key": "survey",
+        "label": "Blood Testament Event Survey",
+        "kind": "topic",
+        "group": "events",
+        "scope": "설문 TB3N9ZB",
+        "entityId": "entity-a80e75f6dc72ca4a3601b246",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Blood Testament | Event Survey\nOct 19\n📢 Hunters, we need your feedback!\nOur Blood Testament Event Survey is now open. Let us know what you enjoyed, what could be improved, and what you'd like to see in future events.\nhttps://www.surveymonkey.com/r/TB3N9ZB\nYour feedback plays a key role in helping us create even better events for the community. 🤠"
+          }
+        ]
+      },
+      {
+        "key": "cursed",
+        "label": "Cursed Kin",
+        "kind": "topic",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-8d5a16e57a1c0b74fd4fc452",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔\nFind out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "moses",
+        "label": "Moses Poultry",
+        "kind": "location",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-48a467faddba002759d6a658",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔\nFind out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "pack",
+        "label": "Among Crimson Shadows",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-c22ead9ddbeb1bd6f68b2bfe",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Among Crimson Shadows | Starter Pack\nOct 9\nAnswering the call of the last Elias, a man known by many names steps out from the crimson shadows.🤠\nHe has battled covens older than civilization itself and survived horrors beyond imagining. 🗡️\nWhat is one more of Lynch's monstrosities to a man who's already taken on so much?\nPick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack.\nhttps://store.steampowered.com/app/5036120/Hunt_Showdown_1896__Starter_Pack_Among_Crimson_Shadows/"
+          }
+        ]
+      },
+      {
+        "key": "hex",
+        "label": "Hex Breaker",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-f61400f995e3c54760d32281",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Among Crimson Shadows | Starter Pack\nOct 9\nAnswering the call of the last Elias, a man known by many names steps out from the crimson shadows.🤠\nHe has battled covens older than civilization itself and survived horrors beyond imagining. 🗡️\nWhat is one more of Lynch's monstrosities to a man who's already taken on so much?\nPick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack.\nhttps://store.steampowered.com/app/5036120/Hunt_Showdown_1896__Starter_Pack_Among_Crimson_Shadows/"
+          }
+        ]
+      },
+      {
+        "key": "dlc",
+        "label": "Bound by Blood",
+        "kind": "topic",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-ba62362b89fff8b56e928175",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "protegee",
+        "label": "The Protegee",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-1e3b50e699b479c44d163c30",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "primrose",
+        "label": "The Primrose",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-d3a57e6aa815a7ec6bcc2825",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-deep",
+        "label": "Skin Deep",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-4206a9b39fe7626a1c1eb769",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-silencer",
+        "label": "Skin Deep: Silencer",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-6fd2d3ab21e4a331875d0b36",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "white-fox",
+        "label": "The White Fox",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-f2875bd89f1f2a1d02e87b2d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "lan-design",
+        "subject": "lancaster",
+        "aspect": "공지된 무기 구조",
+        "value": "4총열 중형탄 권총",
+        "statement": "Chapter 3 패치 노트는 Lancaster를 회전식 공이로 높은 연사력을 내는 4총열 중형탄 권총으로 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "lan-ejection",
+        "subject": "lancaster",
+        "aspect": "공지된 배출 동작",
+        "value": "중절식 개방 시 모든 탄 배출",
+        "statement": "공지에서는 Lancaster의 중절식 장치를 열면 항상 모든 탄이 배출된다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "lan-ammo",
+        "subject": "lancaster",
+        "aspect": "공지된 탄약 구성",
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12",
+        "statement": "Lancaster 소개에는 Basic 4/12, High Velocity 4/8, Poison 4/12가 기재되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "lan-dual",
+        "subject": "lancaster",
+        "aspect": "공지된 사용 방식",
+        "value": "쌍수 사용 가능",
+        "statement": "Lancaster 소개에서는 쌍수 사용이 가능하다고 밝혔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cle-design",
+        "subject": "cleaver",
+        "aspect": "공지된 변형 구조",
+        "value": "총열 아래 칼날",
+        "statement": "Lancaster Cleaver는 Lancaster에 총열 아래 칼날을 더한 변형으로 소개되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cle-melee",
+        "subject": "cleaver",
+        "aspect": "공지된 근접 공격",
+        "value": "Heavy Knife와 유사한 궤적·피해",
+        "statement": "Lancaster Cleaver의 근접 공격은 Heavy Knife와 휘두르는 궤적과 피해가 유사하다고 설명되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cle-ammo",
+        "subject": "cleaver",
+        "aspect": "공지된 탄약 구성",
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12",
+        "statement": "Lancaster Cleaver 소개에는 Basic 4/12, High Velocity 4/8, Poison 4/12가 기재되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cle-dual",
+        "subject": "cleaver",
+        "aspect": "공지된 사용 방식",
+        "value": "쌍수 사용 가능",
+        "statement": "Lancaster Cleaver 소개에서는 쌍수 사용이 가능하다고 밝혔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "patch-compounds",
+        "subject": "patch3",
+        "aspect": "공지된 Chapter 3 변경",
+        "value": "Bileweaver 감염 거점 출현",
+        "statement": "Chapter 3에는 신규·기존 Bileweaver 감염 거점 모두가 출현할 수 있고, 경기마다 5개 거점이 활성화된다고 공지했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ]
+      },
+      {
+        "key": "fair-notification",
+        "subject": "fair-play",
+        "aspect": "공지된 신고 후속 알림",
+        "value": "신고한 플레이어 제재 알림",
+        "statement": "Fair Play Follow Up은 신고한 플레이어가 제재되면 후속 알림을 제공한다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ]
+      },
+      {
+        "key": "fair-refund",
+        "subject": "fair-play",
+        "aspect": "공지된 환급",
+        "value": "제재된 플레이어에게 사망 시 Hunt Dollar 환급",
+        "statement": "Fair Play Follow Up은 제재된 플레이어에게 사망한 경우 Hunt Dollar를 환급한다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ]
+      },
+      {
+        "key": "ping-test",
+        "subject": "high-ping",
+        "aspect": "공지된 시험 범위",
+        "value": "Chapter 3 동안 유럽 임시 시험",
+        "statement": "High ping queue는 Chapter 3 기간 동안 유럽에서 임시로 시험한다고 공지되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "ping-routing",
+        "subject": "high-ping",
+        "aspect": "공지된 매칭 방식",
+        "value": "임계 핑 초과 시 별도 큐, 매칭 실패 시 일반 큐 복귀",
+        "statement": "High ping queue 설명은 핑이 임계값보다 높으면 별도 큐로 보내고 매칭을 찾지 못하면 일반 큐로 복귀한다고 밝혔다. 임계값 수치는 제시되지 않았다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "harvest-plan",
+        "subject": "harvest",
+        "aspect": "당시 예고된 시작 시점",
+        "value": "Chapter 3 후반 예정",
+        "statement": "Reap the Harvest는 Chapter 3의 나중 시점에 시작할 예정인 커뮤니티 이벤트로 예고되었다. 실제 시작이나 현재 진행 여부는 이 예고로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-progress",
+        "subject": "harvest",
+        "aspect": "예고된 진행 방식",
+        "value": "5단계·경기 목표 달성으로 공동 포인트 획득",
+        "statement": "Reap the Harvest는 경기 내 목표 달성으로 커뮤니티 이벤트 포인트를 얻어 진행하는 5단계 이벤트이며 각 단계 보상은 커뮤니티 전체에 제공된다고 예고했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-stage-1",
+        "subject": "harvest",
+        "aspect": "예고된 1단계 보상",
+        "value": "5K Hunt Dollars & 1K Event Points",
+        "statement": "Reap the Harvest의 1단계 보상으로 5K Hunt Dollars & 1K Event Points이 예고되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-stage-2",
+        "subject": "harvest",
+        "aspect": "예고된 2단계 보상",
+        "value": "Lancaster",
+        "statement": "Reap the Harvest의 2단계 보상으로 Lancaster이 예고되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-stage-3",
+        "subject": "harvest",
+        "aspect": "예고된 3단계 보상",
+        "value": "10K Hunt Dollars & 2.5K Event Points",
+        "statement": "Reap the Harvest의 3단계 보상으로 10K Hunt Dollars & 2.5K Event Points이 예고되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-stage-4",
+        "subject": "harvest",
+        "aspect": "예고된 4단계 보상",
+        "value": "Lancaster Cleaver",
+        "statement": "Reap the Harvest의 4단계 보상으로 Lancaster Cleaver이 예고되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-stage-5",
+        "subject": "harvest",
+        "aspect": "예고된 5단계 보상",
+        "value": "Random Legendary Skin",
+        "statement": "Reap the Harvest의 5단계 보상으로 Random Legendary Skin이 예고되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "drops-date-announcement",
+        "subject": "drops-notice",
+        "aspect": "공지에 기재된 일정",
+        "value": "10월 26일~11월 9일, 연도 미상",
+        "statement": "해당 Blood Testament Twitch Drops 공지는 10월 26일부터 11월 9일까지 보상을 얻을 기회가 있다고 밝혔다. 목록 본문의 연도가 없어 적용일 필드는 비워 둔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops Dates | Blood Testament\nOct 20\n🎁 Twitch Drops are back!\nFrom Oct 26th to Nov 9th, you’ll have another chance to earn exclusive rewards just by watching your favorite Hunt creators live on Twitch.\nSupport the community, claim your drops, and get ready for some exciting rewards. 🔥"
+          }
+        ]
+      },
+      {
+        "key": "drops-week2-rewards",
+        "subject": "drops-week2",
+        "aspect": "2주차 공지 보상",
+        "value": "Supply Crates · Hide and Seek · 무작위 Legendary Hunter",
+        "statement": "2주차 공지는 방송 시청 보상으로 Supply Crates, Hide and Seek 및 무작위 Legendary Hunter 등을 열거했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\nNov 2\nWe are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "hide-skin",
+        "subject": "hide-seek",
+        "aspect": "공지된 스킨 대상",
+        "value": "Choke Bomb",
+        "statement": "2주차 공지는 Hide and Seek를 Choke Bomb 스킨으로 명시했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\nNov 2\nWe are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "drops-week1-rewards",
+        "subject": "drops-week1",
+        "aspect": "1주차 공지 보상",
+        "value": "Support-a-Streamer 재등장·시청 보상",
+        "statement": "1주차 예고는 Support-a-Streamer 보상이 돌아오며, 시청 보상에 Supply Crates, Leap of Faith, 무작위 Legendary Skin이 포함된다고 밝혔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops start tomorrow! | Blood Testament\nOct 25\n🎁 Twitch Drops return tomorrow!\nTune in, support your favorite Hunt streamers, and unlock two full weeks of rewards.\nFor Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin\nWho's ready to start watching? 👀"
+          }
+        ]
+      },
+      {
+        "key": "leap-skin",
+        "subject": "leap-faith",
+        "aspect": "공지된 스킨 대상",
+        "value": "Stamina Shot",
+        "statement": "1주차 예고는 Leap of Faith를 Stamina Shot 스킨으로 명시했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Twitch Drops start tomorrow! | Blood Testament\nOct 25\n🎁 Twitch Drops return tomorrow!\nTune in, support your favorite Hunt streamers, and unlock two full weeks of rewards.\nFor Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin\nWho's ready to start watching? 👀"
+          }
+        ]
+      },
+      {
+        "key": "survey-open",
+        "subject": "survey",
+        "aspect": "당시 설문 개시 공지",
+        "value": "TB3N9ZB 설문",
+        "statement": "Blood Testament Event Survey 공지는 TB3N9ZB 설문이 열렸다고 알리고 즐거웠던 점과 개선점, 향후 이벤트에 대한 의견을 요청했다. 현재 접수 상태는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Blood Testament | Event Survey\nOct 19\n📢 Hunters, we need your feedback!\nOur Blood Testament Event Survey is now open. Let us know what you enjoyed, what could be improved, and what you'd like to see in future events.\nhttps://www.surveymonkey.com/r/TB3N9ZB\nYour feedback plays a key role in helping us create even better events for the community. 🤠"
+          }
+        ]
+      },
+      {
+        "key": "cursed-release",
+        "subject": "cursed",
+        "aspect": "당시 공개·유형 안내",
+        "value": "Premium Story Challenge",
+        "statement": "Cursed Kin은 해당 공지에서 새 Premium Story Challenge로 소개되며 당시 이용 가능하다고 안내되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔\nFind out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "cursed-premise",
+        "subject": "cursed",
+        "aspect": "공지된 이야기 설정",
+        "value": "소원해진 사촌의 Moses Poultry 장악 시도",
+        "statement": "Cursed Kin 소개는 소원해진 사촌이 Moses Poultry를 차지하려 나타나는 상황을 이야기의 도입으로 제시했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔\nFind out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "pack-contents",
+        "subject": "pack",
+        "aspect": "당시 Starter Pack 구성",
+        "value": "Hex Breaker·해당 아바타·추가 Blood Bonds",
+        "statement": "Among Crimson Shadows Starter Pack 공지는 Hex Breaker와 그의 아바타, 추가 Blood Bonds를 구성품으로 안내했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Among Crimson Shadows | Starter Pack\nOct 9\nAnswering the call of the last Elias, a man known by many names steps out from the crimson shadows.🤠\nHe has battled covens older than civilization itself and survived horrors beyond imagining. 🗡️\nWhat is one more of Lynch's monstrosities to a man who's already taken on so much?\nPick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack.\nhttps://store.steampowered.com/app/5036120/Hunt_Showdown_1896__Starter_Pack_Among_Crimson_Shadows/"
+          }
+        ]
+      },
+      {
+        "key": "dlc-release",
+        "subject": "dlc",
+        "aspect": "당시 출시 안내",
+        "value": "DLC 이용 가능 공지",
+        "statement": "Bound by Blood는 해당 공지에서 당시 이용 가능한 DLC로 안내되었다. 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "protegee-type",
+        "subject": "protegee",
+        "aspect": "DLC 공지에 기재된 대상·유형",
+        "value": "Legendary Hunter",
+        "statement": "Bound by Blood 구성 목록은 The Protegee를 Legendary Hunter 항목으로 기재했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "primrose-type",
+        "subject": "primrose",
+        "aspect": "DLC 공지에 기재된 대상·유형",
+        "value": "Mosin-Nagant",
+        "statement": "Bound by Blood 구성 목록은 The Primrose를 Mosin-Nagant 항목으로 기재했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-deep-type",
+        "subject": "skin-deep",
+        "aspect": "DLC 공지에 기재된 대상·유형",
+        "value": "Sparks Pistol",
+        "statement": "Bound by Blood 구성 목록은 Skin Deep를 Sparks Pistol 항목으로 기재했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-silencer-type",
+        "subject": "skin-silencer",
+        "aspect": "DLC 공지에 기재된 대상·유형",
+        "value": "Sparks Pistol Silencer",
+        "statement": "Bound by Blood 구성 목록은 Skin Deep: Silencer를 Sparks Pistol Silencer 항목으로 기재했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "white-fox-type",
+        "subject": "white-fox",
+        "aspect": "DLC 공지에 기재된 대상·유형",
+        "value": "Ammo Box",
+        "statement": "Bound by Blood 구성 목록은 The White Fox를 Ammo Box 항목으로 기재했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "dlc-avatar-frame",
+        "subject": "dlc",
+        "aspect": "당시 부가 구성",
+        "value": "The Protegee 아바타·프레임",
+        "statement": "Bound by Blood 구성 목록에는 Legendary Hunter와 별도로 The Protegee 아바타와 프레임이 기재되었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "cle-variant",
+        "from": "cleaver",
+        "to": "lancaster",
+        "type": "related_to",
+        "statement": "Lancaster Cleaver는 Lancaster의 총열 아래 칼날 변형으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cle-knife-comparison",
+        "from": "cleaver",
+        "to": "heavy-knife",
+        "type": "related_to",
+        "statement": "Lancaster Cleaver의 근접 공격 궤적과 피해를 Heavy Knife와 비교했다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "harvest-lan",
+        "from": "harvest",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "Reap the Harvest의 예고된 2단계 보상은 Lancaster다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "harvest-cle",
+        "from": "harvest",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "Reap the Harvest의 예고된 4단계 보상은 Lancaster Cleaver다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "cursed-moses",
+        "from": "cursed",
+        "to": "moses",
+        "type": "related_to",
+        "statement": "Cursed Kin 소개는 Moses Poultry를 차지하려는 사촌의 이야기라고 명시했다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔\nFind out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "hex-pack",
+        "from": "hex",
+        "to": "pack",
+        "type": "part_of",
+        "statement": "Hex Breaker는 Among Crimson Shadows Starter Pack 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "Among Crimson Shadows | Starter Pack\nOct 9\nAnswering the call of the last Elias, a man known by many names steps out from the crimson shadows.🤠\nHe has battled covens older than civilization itself and survived horrors beyond imagining. 🗡️\nWhat is one more of Lynch's monstrosities to a man who's already taken on so much?\nPick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack.\nhttps://store.steampowered.com/app/5036120/Hunt_Showdown_1896__Starter_Pack_Among_Crimson_Shadows/"
+          }
+        ]
+      },
+      {
+        "key": "protegee-in-dlc",
+        "from": "protegee",
+        "to": "dlc",
+        "type": "part_of",
+        "statement": "The Protegee는 Bound by Blood DLC 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "primrose-in-dlc",
+        "from": "primrose",
+        "to": "dlc",
+        "type": "part_of",
+        "statement": "The Primrose는 Bound by Blood DLC 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-deep-in-dlc",
+        "from": "skin-deep",
+        "to": "dlc",
+        "type": "part_of",
+        "statement": "Skin Deep는 Bound by Blood DLC 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "skin-silencer-in-dlc",
+        "from": "skin-silencer",
+        "to": "dlc",
+        "type": "part_of",
+        "statement": "Skin Deep: Silencer는 Bound by Blood DLC 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      },
+      {
+        "key": "white-fox-in-dlc",
+        "from": "white-fox",
+        "to": "dlc",
+        "type": "part_of",
+        "statement": "The White Fox는 Bound by Blood DLC 구성품으로 명시되었다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-ed973681bd0d6a54fb8b9ff1",
+            "quote": "🩸Bound by Blood ❤️| Out Now!\nOct 7\n🩸Bound by Blood is available now! ❤️\nThis DLC contains:\n- The Protegee (Legendary Hunter)\n- The Primrose (Mosin-Nagant)\n- Skin Deep (Sparks Pistol)\n- Skin Deep: Silencer (Sparks Pistol Silencer)\n- The White Fox (Ammo Box)\n- The Protegee (Avatar)\n- The Protegee (Frame)"
+          }
+        ]
+      }
+    ]
+  }
+}
