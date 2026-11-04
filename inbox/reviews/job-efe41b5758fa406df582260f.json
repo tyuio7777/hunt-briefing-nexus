@@ -1,0 +1,144 @@
+{
+  "jobId": "job-efe41b5758fa406df582260f",
+  "sourceHash": "440032e0945a39bafe4c6d54474fcea779824834e5521541207ecaf2739f7cc7",
+  "reviewedExtractionHash": "6fe48126e40f6b38542889cf3d9d050c17c90e450d5ef21dfb67ed553d7f872c",
+  "review": {
+    "decisions": [
+      {
+        "key": "boss-class",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사의 Boss Target 분류와 일치; Wild Target과 구별. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "unlock-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사의 최종 3단계 도달 후 해금 보도와 일치; 당시 보도로 한정. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "launch-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사에 September 8, 2026 명시; 매체의 날짜 주장으로 보존하며 타 출처를 대체하지 않음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "phase1-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "장갑·느린 이동·강한 근접 공격·장갑 파괴 후 변신 설명 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "phase2-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "속도·순간이동·근접 공격·장갑 형태 복귀 없음 설명 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "siphon-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "처치 보상 Siphon 및 약탈 시 Scarce Trait 탈취 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "banish-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추방 내내 주변 몬스터 공격성 증가와 Blood Moon 행동 유사성 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "interview-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Gamescom 2026 인터뷰 회고와 Update 2.9 암시가 이어짐; 당시 공식 확인으로 확대하지 않음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "story-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Warren Russett의 상실 및 Lynch의 혈청 제안이라는 서사 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "dependency-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Russett의 강해지는 갈증과 혈청 의존 서사 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "identity-unconfirmed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사 자체가 공식 동일성을 유보함; Bloodskin과 Warren을 합치지 않고 unconfirmed 유지. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "testament",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament: 원문 명칭·대상 종류 및 2026 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "challenge",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Make Them Bleed: 원문 명칭·대상 종류 및 2026 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "siphon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Siphon: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "warren",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Warren Russett: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "lynch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lynch: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "gamescom",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Gamescom 2026: 원문 명칭·대상 종류 및 2026 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "boss-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin 처치의 Siphon 보상 관계 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

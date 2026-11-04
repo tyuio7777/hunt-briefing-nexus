@@ -1,0 +1,396 @@
+{
+  "jobId": "job-0eb68ea7e89bb785b2f300f3",
+  "sourceHash": "6ccb3af196baa22e7f4fd07be1b0c70578e866bc7755aef74863cd2578fa43e2",
+  "reviewedExtractionHash": "ce3f9592c18ae415479a33dbcce79c28da4a64580b98a1a87cd0e97019fb926a",
+  "review": {
+    "decisions": [
+      {
+        "key": "lan-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4총열·중형탄·회전 공이 설명과 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "lan-ejection",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중절식 개방 시 모든 탄 배출을 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "lan-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Basic 4/12, High Velocity 4/8, Poison 4/12 수치 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "lan-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Can be dual-wielded 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "총열 아래 칼날을 가진 Lancaster 변형 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife와 궤적·피해 유사성을 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 항목의 세 탄약 수치 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver의 쌍수 가능 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "patch-compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신규·기존 감염 거점과 경기당 5곳 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "fair-notification",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고 대상 제재 후 알림 조건 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "fair-refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재된 플레이어에게 사망 시 Hunt Dollar 환급 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "ping-test",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 동안 유럽 임시 시험으로 한정. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "ping-routing",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "임계 핑 초과 별도 큐와 매칭 실패 시 복귀 조건 일치; 수치 추정 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-plan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "later in Chapter 3를 나중 시점의 예고로 보존. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "경기 목표 달성·공동 포인트·5단계·전체 보상 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-stage-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1단계 5K Hunt Dollars와 1K Event Points 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-stage-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2단계 Lancaster 보상 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-stage-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3단계 10K Hunt Dollars와 2.5K Event Points 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-stage-4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4단계 Lancaster Cleaver 보상 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-stage-5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계 Random Legendary Skin 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "drops-week2-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 시청 보상 세 종류 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "hide-skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek를 Choke Bomb Skin으로 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "drops-live-announcement",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 진행 안내만 보존하고 현재 상태를 추정하지 않음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "week1-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Support-a-Streamer 복귀와 별도 시청 보상 목록 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "leap-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith의 Stamina Shot Skin 표기 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "date-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 26th~Nov 9th만 보존; 연도·시각 추정 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "survey-open",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "TB3N9ZB 링크와 당시 개방 안내 일치; 현재 종료 여부 추정 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cursed-release",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 available now인 Premium Story Challenge 안내 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cursed-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "소원한 사촌의 Moses Poultry 장악 시도라는 줄거리 일치. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "pack-contents",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hex Breaker·그의 아바타·추가 Blood Bonds 구성 명시. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "dlc-contents",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 언어의 구성 목록과 일치; 일반·소음기 무기 외형 및 헌터·아바타·프레임을 구별. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "patch3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 3 Patch Notes: 원문 명칭·대상 종류 및 Blood Testament Chapter 3 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster Cleaver: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "heavy-knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "bileweaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bileweaver: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "fair-play",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "high-ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "High ping queue: 원문 명칭·대상 종류 및 Blood Testament Chapter 3 · Europe 임시 시험 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Reap the Harvest: 원문 명칭·대상 종류 및 Blood Testament Chapter 3 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "drops-week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops - Week 2 | Blood Testament: 원문 명칭·대상 종류 및 Steam 공지 목록 · Nov 2 표기 · 연도 미상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "hide-seek",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "drops-live",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops are live! | Blood Testament: 원문 명칭·대상 종류 및 Steam 공지 목록 · Oct 26 표기 · 연도 미상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "week1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops start tomorrow! | Blood Testament: 원문 명칭·대상 종류 및 Steam 공지 목록 · Oct 25 표기 · 연도 미상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "leap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "dates-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops Dates | Blood Testament: 원문 명칭·대상 종류 및 Steam 공지 목록 · Oct 20 표기 · 연도 미상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "survey",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Event Survey: 원문 명칭·대상 종류 및 설문 TB3N9ZB 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cursed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cursed Kin: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "moses",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Moses Poultry: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "pack",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Among Crimson Shadows: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "hex",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hex Breaker: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bound by Blood: 원문 명칭·대상 종류 및 단일 대상 범위를 대조. 별칭 추가나 다른 대상 병합 없음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-variant",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "변형이라는 명시적 관계이며 두 무기를 동일 개체로 합치지 않음. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "cle-knife-comparison",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "근접 궤적·피해의 명시적 비교 관계. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-lan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "예고된 2단계 보상 관계 명시; 현재 해금 주장 아님. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      },
+      {
+        "key": "harvest-cle",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "예고된 4단계 보상 관계 명시; 현재 해금 주장 아님. 원문 의미 검토이며 독립적 사실 확인은 아님."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
