@@ -1,0 +1,508 @@
+{
+  "jobId": "job-cb8baa6986ad97c04cb0fc2a",
+  "sourceHash": "16e9e997ba0da700e701290e868c100501bdb7dcca063e1581a6523b88b4c17a",
+  "reviewedExtractionHash": "bef009f004a90f7b983f4e59376e2f1abded625306e0e1116bb7b5c26f2a427d",
+  "review": {
+    "decisions": [
+      {
+        "key": "lan-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "four barreled, medium ammo pistol 및 rotating firing pin 설명을 정확히 귀속했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lan-ejection",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개방 시 always eject all rounds를 과거 공지 설명으로 한정했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lan-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형 문단의 세 탄약 표기와 수치가 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lan-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형 문단의 Can be dual-wielded와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "변형 문단의 under-barrel blade를 정확히 반영한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "swing pattern and damage 양쪽의 유사성을 과장 없이 반영한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 문단의 세 탄약 수치와 일치하며 기본형과 분리한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 문단의 쌍수 사용 설명과 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "patch-compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신규·기존 거점 출현 가능성과 경기당 5개를 Chapter 3 공지에 귀속한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-notification",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고한 플레이어의 제재 후 알림이라는 조건이 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재된 플레이어에게 사망한 경우 Hunt Dollar 환급이라는 조건이 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-test",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3 기간의 임시 시험이며 현재 상시 기능으로 바꾸지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-routing",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "핑 임계값 초과 시 별도 큐, 매칭 실패 시 복귀를 보존하고 수치를 만들지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-plan",
+        "supported": false,
+        "identityCorrect": true,
+        "temporalCorrect": false,
+        "reason": "later in Chapter 3는 장의 나중 시점만 뜻한다. value의 '후반'은 기간의 후반부로 좁혀 원문보다 구체적이므로 시점 판정을 보류한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계, 경기 목표로 포인트 획득, 전체 커뮤니티 보상을 예고로 보존한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-stage-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 1 보상과 이름·수치가 일치하며 예고로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-stage-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 2 보상과 이름·수치가 일치하며 예고로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-stage-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 3 보상과 이름·수치가 일치하며 예고로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-stage-4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 4 보상과 이름·수치가 일치하며 예고로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-stage-5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 5 보상과 이름·수치가 일치하며 예고로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-date-announcement",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 26th to Nov 9th를 월·일만 보존하고 불명확한 연도·적용일을 추가하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-week2-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 2주차 문단이 세 보상을 열거하며 현재 획득 가능으로 단정하지 않는다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hide-skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek (Choke Bomb Skin)과 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-week1-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Support-a-Streamer 재등장과 별도 시청 보상 목록의 구별이 원문과 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "leap-skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith (Stamina Shot Skin)과 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "survey-open",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "설문 개시와 질문 내용을 당시 공지로 한정하며 현재 접수 여부를 단정하지 않는다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cursed-release",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "newest Premium Story Challenge, available now를 공지 당시 상태로 한정한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cursed-premise",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "estranged cousin 및 take over Moses Poultry의 이야기 도입을 충실히 반영한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "pack-contents",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hex Breaker, his avatar, bonus Blood Bonds라는 명시된 구성과 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "dlc-release",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "available now를 당시 출시 안내로 해석하고 현재 판매로 확장하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "protegee-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Legendary Hunter 항목과 일치하며 아바타·프레임과 구별한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "primrose-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Primrose (Mosin-Nagant)와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-deep-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Skin Deep (Sparks Pistol)와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-silencer-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Skin Deep: Silencer (Sparks Pistol Silencer)와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "white-fox-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The White Fox (Ammo Box)와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "dlc-avatar-frame",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "별도 Avatar 및 Frame 목록을 Hunter와 구별했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "patch3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제목과 Chapter 3 범위가 일치하며 적용일을 추정하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문이 Lancaster 권총을 명명한다. Cleaver 변형 및 기존 Lancaster pistol 명칭과 임의 병합하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "New Variant가 별도 명칭과 칼날 구조를 명시해 기본형과 구별된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "heavy-knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "근접 공격 비교 대상 Heavy Knife가 명시되어 있다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bileweaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bileweaver 감염 거점 문맥의 명칭이 기존 Bileweaver 개체와 일치하며 Bloodweaver로 합치지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-play",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시스템 제목과 신고 알림·환급 기능이 명시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "high-ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 유럽 임시 시험 범위가 원문에 직접 명시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "커뮤니티 이벤트 이름과 Chapter 3 범위가 명시되며 실제 시작으로 단정하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 공지 제목·Oct 20 표기가 일치한다. 특정 연도 이벤트와 통합하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 공지 제목·Nov 2 표기가 일치하며 Week 2 Part 1로 좁히지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-week1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시작 전 공지 제목·Oct 25 표기를 보존하며 현재 진행으로 단정하지 않았다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hide-seek",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Bomb Skin으로 명시된 Hide and Seek와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "leap-faith",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stamina Shot Skin으로 명시된 Leap of Faith와 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "survey",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "설문 명칭 및 TB3N9ZB 링크가 같은 설문 범위를 뒷받침한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cursed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Premium Story Challenge 제목과 명칭이 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "moses",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "사촌이 차지하려는 Moses Poultry 장소가 명시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "pack",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Starter Pack의 명칭과 상품 URL이 일치한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hex",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Starter Pack의 인물과 그의 아바타를 구별한 문맥이 Hex Breaker를 뒷받침한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "DLC 명칭과 구성 목록이 직접 제시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "protegee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Legendary Hunter를 선택해 동명 아바타·프레임과 구별했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "primrose",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Mosin-Nagant 항목의 The Primrose가 직접 명시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-deep",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Sparks Pistol 항목이며 Silencer 변형과 구별했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-silencer",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Sparks Pistol Silencer 항목으로 기본 Skin Deep와 구별했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "white-fox",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Ammo Box 항목의 The White Fox가 명시된다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-variant",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "A variant of the Lancaster가 명시된 변형 관계이며 두 무기를 병합하지 않는다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cle-knife-comparison",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife와 궤적·피해를 비교하는 명시적 관계다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-lan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 보상으로 Lancaster가 명시되며 예고 상태를 보존한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "harvest-cle",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 보상으로 Lancaster Cleaver가 명시되며 예고 상태를 보존한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cursed-moses",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cursed Kin 줄거리가 Moses Poultry 장악 시도를 명시해 단순 동시 언급이 아니다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hex-pack",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Pick up Hex Breaker ... in ... Starter Pack이 명시적 포함 관계를 뒷받침한다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "protegee-in-dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "This DLC contains 목록에 해당 구성품이 직접 기재되어 있으며 동명·변형을 분리했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "primrose-in-dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "This DLC contains 목록에 해당 구성품이 직접 기재되어 있으며 동명·변형을 분리했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-deep-in-dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "This DLC contains 목록에 해당 구성품이 직접 기재되어 있으며 동명·변형을 분리했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin-silencer-in-dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "This DLC contains 목록에 해당 구성품이 직접 기재되어 있으며 동명·변형을 분리했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "white-fox-in-dlc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "This DLC contains 목록에 해당 구성품이 직접 기재되어 있으며 동명·변형을 분리했다. 원문 대조에 의한 AI 의미 검토이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
