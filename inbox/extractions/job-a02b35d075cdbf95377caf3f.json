@@ -1,0 +1,746 @@
+{
+  "jobId": "job-a02b35d075cdbf95377caf3f",
+  "sourceHash": "78bc269c1b5be8c4800ae5beda4cd75c78829d7a9526c41fb4dadbd5c0cffa04",
+  "extraction": {
+    "entities": [
+      {
+        "aliases": [],
+        "entityId": "entity-3feb96921317988a90be869b",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Blood Testament Chapter 3 Patch Notes"
+          }
+        ],
+        "group": "updates",
+        "key": "patch3",
+        "kind": "update",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "scope": "Blood Testament Chapter 3"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "group": "equipment",
+        "key": "lancaster",
+        "kind": "weapon",
+        "label": "Lancaster",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "group": "equipment",
+        "key": "cleaver",
+        "kind": "weapon",
+        "label": "Lancaster Cleaver",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-e28c38a29c794519cbbab046",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "group": "equipment",
+        "key": "heavy-knife",
+        "kind": "weapon",
+        "label": "Heavy Knife",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-27e84c3af7841441460be7ab",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ],
+        "group": "world",
+        "key": "bileweaver",
+        "kind": "monster",
+        "label": "Bileweaver",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ],
+        "group": "updates",
+        "key": "fair-play",
+        "kind": "system",
+        "label": "Fair Play Follow Up",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ],
+        "group": "updates",
+        "key": "high-ping",
+        "kind": "system",
+        "label": "High ping queue",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "group": "events",
+        "key": "harvest",
+        "kind": "event",
+        "label": "Reap the Harvest",
+        "scope": "Blood Testament Chapter 3"
+      },
+      {
+        "key": "drops-week2",
+        "label": "Twitch Drops - Week 2 | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Nov 2 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-4af625a867d545ce8176ff03",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\n11月2日\nWe are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "hide-seek",
+        "label": "Hide and Seek",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-09474958ce4cdf87b7fe6991",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "We are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "drops-live",
+        "label": "Twitch Drops are live! | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Oct 26 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Twitch Drops are live! | Blood Testament\n10月26日\n🙌 Twitch Drops are live!\nJump into our latest campaign and earn a haul of rewards just for watching your favorite Hunt creators. The longer you watch, the more you unlock.\nStart earning now and give your roster and arsenal the upgrade they deserve. 🎁"
+          }
+        ]
+      },
+      {
+        "key": "replay",
+        "label": "HuntReplay Studio",
+        "kind": "system",
+        "scope": "공개 가이드가 연결한 Mlovo/HuntOpenHighlights",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "HuntReplay Studio - Аналог Nvidia highlights для других видеокарт\nБесплатный open-source рекордер, который сам сохраняет клипы с убийствами и нокаутами на любой видеокарте: https://github.com/Mlovo/HuntOpenHighlights"
+          }
+        ]
+      },
+      {
+        "key": "self-revive",
+        "label": "Self revive",
+        "kind": "topic",
+        "scope": "Hunt: Showdown 자기 부활에 관한 공개 의견",
+        "group": "updates",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "But my god have they ruined it for me with 1 thing. Self revive.\nSolo players went from tactical and careful to aggressive and fool prove with this change."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "applicability": "historical",
+        "aspect": "공지된 무기 구조",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "lan-design",
+        "statement": "Chapter 3 패치 노트는 Lancaster를 회전식 공이로 높은 연사력을 내는 4총열 중형탄 권총으로 설명했다.",
+        "subject": "lancaster",
+        "supersedes": [],
+        "value": "4총열 중형탄 권총"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 배출 동작",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "lan-ejection",
+        "statement": "공지에서는 Lancaster의 중절식 장치를 열면 항상 모든 탄이 배출된다고 설명했다.",
+        "subject": "lancaster",
+        "supersedes": [],
+        "value": "중절식 개방 시 모든 탄 배출"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 탄약 구성",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "lan-ammo",
+        "statement": "Lancaster 소개에는 Basic 4/12, High Velocity 4/8, Poison 4/12가 기재되었다.",
+        "subject": "lancaster",
+        "supersedes": [],
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 사용 방식",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "lan-dual",
+        "statement": "Lancaster 소개에서는 쌍수 사용이 가능하다고 밝혔다.",
+        "subject": "lancaster",
+        "supersedes": [],
+        "value": "쌍수 사용 가능"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 변형 구조",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "cle-design",
+        "statement": "Lancaster Cleaver는 Lancaster에 총열 아래 칼날을 더한 변형으로 소개되었다.",
+        "subject": "cleaver",
+        "supersedes": [],
+        "value": "총열 아래 칼날"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 근접 공격",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "cle-melee",
+        "statement": "Lancaster Cleaver의 근접 공격은 Heavy Knife와 휘두르는 궤적과 피해가 유사하다고 설명되었다.",
+        "subject": "cleaver",
+        "supersedes": [],
+        "value": "Heavy Knife와 유사한 궤적·피해"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 탄약 구성",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "cle-ammo",
+        "statement": "Lancaster Cleaver 소개에는 Basic 4/12, High Velocity 4/8, Poison 4/12가 기재되었다.",
+        "subject": "cleaver",
+        "supersedes": [],
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 사용 방식",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "key": "cle-dual",
+        "statement": "Lancaster Cleaver 소개에서는 쌍수 사용이 가능하다고 밝혔다.",
+        "subject": "cleaver",
+        "supersedes": [],
+        "value": "쌍수 사용 가능"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 Chapter 3 변경",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ],
+        "key": "patch-compounds",
+        "statement": "Chapter 3에는 신규·기존 Bileweaver 감염 거점 모두가 출현할 수 있고, 경기마다 5개 거점이 활성화된다고 공지했다.",
+        "subject": "patch3",
+        "supersedes": [],
+        "value": "Bileweaver 감염 거점 출현"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 신고 후속 알림",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ],
+        "key": "fair-notification",
+        "statement": "Fair Play Follow Up은 신고한 플레이어가 제재되면 후속 알림을 제공한다고 설명했다.",
+        "subject": "fair-play",
+        "supersedes": [],
+        "value": "신고한 플레이어 제재 알림"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 환급",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned\nPlayers get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ],
+        "key": "fair-refund",
+        "statement": "Fair Play Follow Up은 제재된 플레이어에게 사망한 경우 Hunt Dollar를 환급한다고 설명했다.",
+        "subject": "fair-play",
+        "supersedes": [],
+        "value": "제재된 플레이어에게 사망 시 Hunt Dollar 환급"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 시험 범위",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ],
+        "key": "ping-test",
+        "statement": "High ping queue는 Chapter 3 기간 동안 유럽에서 임시로 시험한다고 공지되었다.",
+        "subject": "high-ping",
+        "supersedes": [],
+        "value": "Chapter 3 동안 유럽 임시 시험"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "공지된 매칭 방식",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ],
+        "key": "ping-routing",
+        "statement": "High ping queue 설명은 핑이 임계값보다 높으면 별도 큐로 보내고 매칭을 찾지 못하면 일반 큐로 복귀한다고 밝혔다. 임계값 수치는 제시되지 않았다.",
+        "subject": "high-ping",
+        "supersedes": [],
+        "value": "임계 핑 초과 시 별도 큐, 매칭 실패 시 일반 큐 복귀"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "당시 예고된 시작 시점",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-plan",
+        "statement": "Reap the Harvest는 Chapter 3의 나중 시점에 시작할 예정인 커뮤니티 이벤트로 예고되었다. 실제 시작이나 현재 진행 여부는 이 예고로 확정하지 않는다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "Chapter 3의 나중 시점에 시작 예정"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 진행 방식",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-progress",
+        "statement": "Reap the Harvest는 경기 내 목표 달성으로 커뮤니티 이벤트 포인트를 얻어 진행하는 5단계 이벤트이며 각 단계 보상은 커뮤니티 전체에 제공된다고 예고했다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "5단계·경기 목표 달성으로 공동 포인트 획득"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 1단계 보상",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-stage-1",
+        "statement": "Reap the Harvest의 1단계 보상으로 5K Hunt Dollars & 1K Event Points이 예고되었다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "5K Hunt Dollars & 1K Event Points"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 2단계 보상",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-stage-2",
+        "statement": "Reap the Harvest의 2단계 보상으로 Lancaster이 예고되었다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "Lancaster"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 3단계 보상",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-stage-3",
+        "statement": "Reap the Harvest의 3단계 보상으로 10K Hunt Dollars & 2.5K Event Points이 예고되었다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "10K Hunt Dollars & 2.5K Event Points"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 4단계 보상",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-stage-4",
+        "statement": "Reap the Harvest의 4단계 보상으로 Lancaster Cleaver이 예고되었다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "Lancaster Cleaver"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "예고된 5단계 보상",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "key": "harvest-stage-5",
+        "statement": "Reap the Harvest의 5단계 보상으로 Random Legendary Skin이 예고되었다.",
+        "subject": "harvest",
+        "supersedes": [],
+        "value": "Random Legendary Skin"
+      },
+      {
+        "key": "drops-week2-rewards",
+        "subject": "drops-week2",
+        "aspect": "공지된 2주차 보상",
+        "value": "Supply Crates · Hide and Seek · 무작위 Legendary Hunter",
+        "statement": "2주차 공지는 시청 보상으로 Supply Crates, Hide and Seek, 무작위 Legendary Hunter 등을 안내했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "We are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "hide-skin",
+        "subject": "hide-seek",
+        "aspect": "공지된 스킨 대상",
+        "value": "Choke Bomb",
+        "statement": "2주차 공지는 Hide and Seek를 Choke Bomb 스킨으로 명시했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "We are rolling into Week 2 of Twitch Drops!\nKeep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "drops-live-announcement",
+        "subject": "drops-live",
+        "aspect": "당시 개시 안내",
+        "value": "Twitch Drops 진행 안내",
+        "statement": "해당 공지는 당시 Twitch Drops가 진행 중이며 Hunt 방송을 시청해 보상을 받을 수 있다고 알렸다. 현재 진행 상태는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "Twitch Drops are live! | Blood Testament\n10月26日\n🙌 Twitch Drops are live!\nJump into our latest campaign and earn a haul of rewards just for watching your favorite Hunt creators. The longer you watch, the more you unlock.\nStart earning now and give your roster and arsenal the upgrade they deserve. 🎁"
+          }
+        ]
+      },
+      {
+        "key": "replay-description",
+        "subject": "replay",
+        "aspect": "공개 가이드의 도구 소개",
+        "value": "무료 오픈 소스 자동 클립 녹화 도구",
+        "statement": "공개 커뮤니티 가이드는 HuntReplay Studio를 모든 그래픽카드에서 처치·다운 클립을 자동 저장하는 무료 오픈 소스 녹화기로 소개하고 Mlovo/HuntOpenHighlights에 연결했다. 실제 호환성·기능은 이 소개만으로 검증하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "HuntReplay Studio - Аналог Nvidia highlights для других видеокарт\nБесплатный open-source рекордер, который сам сохраняет клипы с убийствами и нокаутами на любой видеокарте: https://github.com/Mlovo/HuntOpenHighlights"
+          }
+        ]
+      },
+      {
+        "key": "self-feedback",
+        "subject": "self-revive",
+        "aspect": "공개 이용자 평가",
+        "value": "자기 부활에 대한 부정적 의견",
+        "statement": "공개 이용자 평가는 Self revive 때문에 솔로 플레이가 더 공격적으로 바뀌었다는 불만을 표현했다. 이는 이용자 평가이며 실제 효과를 검증한 결론이 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "But my god have they ruined it for me with 1 thing. Self revive.\nSolo players went from tactical and careful to aggressive and fool prove with this change."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "from": "cleaver",
+        "key": "cle-variant",
+        "statement": "Lancaster Cleaver는 Lancaster의 총열 아래 칼날 변형으로 명시되었다.",
+        "to": "lancaster",
+        "type": "related_to"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ],
+        "from": "cleaver",
+        "key": "cle-knife-comparison",
+        "statement": "Lancaster Cleaver의 근접 공격 궤적과 피해를 Heavy Knife와 비교했다.",
+        "to": "heavy-knife",
+        "type": "related_to"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "from": "harvest",
+        "key": "harvest-lan",
+        "statement": "Reap the Harvest의 예고된 2단계 보상은 Lancaster다.",
+        "to": "lancaster",
+        "type": "rewards"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-1d74e1815fb47a9a6b003e20",
+            "quote": "New Community Event: “Reap the Harvest”\n“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches.\nCommunity Event Stage Rewards\nStage 1: 5K Hunt Dollars & 1K Event Points\nStage 2: Lancaster (New Weapon)\nStage 3: 10K Hunt Dollars & 2.5K Event Points\nStage 4: Lancaster Cleaver (New Weapon)\nStage 5: Random Legendary Skin"
+          }
+        ],
+        "from": "harvest",
+        "key": "harvest-cle",
+        "statement": "Reap the Harvest의 예고된 4단계 보상은 Lancaster Cleaver다.",
+        "to": "cleaver",
+        "type": "rewards"
+      }
+    ]
+  }
+}

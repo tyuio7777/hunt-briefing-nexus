@@ -1,0 +1,113 @@
+{
+  "jobId": "job-6302251529540d6f3bbf284f",
+  "sourceHash": "c96f24dae747460e993aa2a8eac30e2cae591099e7b4e7ae67d2cc93afb37bc9",
+  "extraction": {
+    "entities": [
+      {
+        "key": "replay",
+        "label": "HuntReplay Studio",
+        "kind": "system",
+        "scope": "공개 가이드가 연결한 Mlovo/HuntOpenHighlights",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "HuntReplay Studio - Аналог Nvidia highlights для других видеокарт\nБесплатный open-source рекордер, который сам сохраняет клипы с убийствами и нокаутами на любой видеокарте: https://github.com/Mlovo/HuntOpenHighlights"
+          }
+        ]
+      },
+      {
+        "key": "mmr",
+        "label": "MMR",
+        "kind": "topic",
+        "scope": "",
+        "group": "updates",
+        "entityId": "topic-5a89f81fca23381f58e05617",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "-Das MMR System... wie soll ich sagen es ist einfach nicht nachvollziehbar."
+          }
+        ]
+      },
+      {
+        "key": "fps",
+        "label": "FPS",
+        "kind": "topic",
+        "scope": "독일어 Steam 공개 이용자 평가",
+        "group": "updates",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "- Ich habe überwiegend ~100 FPS im Spiel aber an vereinzelten zufälligen Orten an manchen Maps starke drops auf 40 FPS. Wenn ich dann an dieser Stelle stehgen bleibe, läufts auf 40 FPS weiter und gehe ich ein paar Schritte weg habe ich wieder die 100 FPS."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "replay-description",
+        "subject": "replay",
+        "aspect": "공개 가이드의 도구 소개",
+        "value": "무료 오픈 소스 자동 클립 녹화 도구",
+        "statement": "공개 커뮤니티 가이드는 HuntReplay Studio를 모든 그래픽카드에서 처치·다운 클립을 자동 저장하는 무료 오픈 소스 녹화기로 소개하고 Mlovo/HuntOpenHighlights에 연결했다. 실제 호환성·기능은 이 소개만으로 검증하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "HuntReplay Studio - Аналог Nvidia highlights для других видеокарт\nБесплатный open-source рекордер, который сам сохраняет клипы с убийствами и нокаутами на любой видеокарте: https://github.com/Mlovo/HuntOpenHighlights"
+          }
+        ]
+      },
+      {
+        "key": "mmr-feedback",
+        "subject": "mmr",
+        "aspect": "공개 이용자 평가",
+        "value": "등급 변화에 대한 불만",
+        "statement": "독일어 공개 평가는 MMR 등급 변화를 납득하기 어렵다는 불만을 표현했다. 이어진 개인 경험을 전체 등급 규칙으로 일반화하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "-Das MMR System... wie soll ich sagen es ist einfach nicht nachvollziehbar."
+          }
+        ]
+      },
+      {
+        "key": "fps-report",
+        "subject": "fps",
+        "aspect": "공개 이용자 경험 제보",
+        "value": "일부 위치에서 약 100 FPS에서 40 FPS로 하락",
+        "statement": "독일어 공개 평가는 일부 맵 위치에서 약 100 FPS가 40 FPS로 떨어지고 몇 걸음 이동하면 회복되는 경험을 제보했다. 재현 시험이나 전체 이용자의 성능 상태로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7161755cdf0b028bb79f6f97",
+            "quote": "- Ich habe überwiegend ~100 FPS im Spiel aber an vereinzelten zufälligen Orten an manchen Maps starke drops auf 40 FPS. Wenn ich dann an dieser Stelle stehgen bleibe, läufts auf 40 FPS weiter und gehe ich ein paar Schritte weg habe ich wieder die 100 FPS."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

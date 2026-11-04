@@ -1,0 +1,585 @@
+{
+  "jobId": "job-a0f17176612551a9a9763897",
+  "sourceHash": "f4584b2dabf8c9f2c4d16f1326ccc13b2def358a42207641cd7a55f4229ba92a",
+  "extraction": {
+    "entities": [
+      {
+        "key": "fair-news",
+        "label": "An Update from the Fair Play Task Force",
+        "kind": "topic",
+        "scope": "공식 뉴스 · 2026-11-03",
+        "group": "updates",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "November 03, 2026\n•\nnews\nAn Update from the Fair Play Task Force\nAn Update from the Fair Play Task Force"
+          }
+        ]
+      },
+      {
+        "key": "drops-oct",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "scope": "2026-10",
+        "group": "events",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 23, 2026\n• news | community\nTwitch Drops are back!\nOctober 26th 15:00 UTC until November 9th 15:00 UTC"
+          }
+        ]
+      },
+      {
+        "key": "ps-news",
+        "label": "Welcome new Hunters!",
+        "kind": "topic",
+        "scope": "공식 뉴스 · 2026-10-06 · PlayStation Plus",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 06, 2026\n• news | events | community\nWelcome new Hunters!\nPlayStation Plus subscribers can now unleash hell in the bayou!"
+          }
+        ]
+      },
+      {
+        "key": "bt2",
+        "label": "Blood Testament Chapter 2",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-58a2fd88d983daf2edfddcdb",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 06, 2026\n• news\nThe Story of Blood Testament Continues\nBlood Testament Chapter 2 Patch Notes"
+          }
+        ]
+      },
+      {
+        "key": "big-news",
+        "label": "Biggest, Bloodiest Update to Hunt: Showdown 1896 is Almost Here",
+        "kind": "topic",
+        "scope": "공식 뉴스 · 2026-08-24",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 24, 2026\n• news | events\nBiggest, Bloodiest Update to Hunt: Showdown 1896 is Almost Here\nOur new in-game Event will be the biggest one this year!"
+          }
+        ]
+      },
+      {
+        "key": "bt",
+        "label": "Blood Testament",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 24, 2026\n• news | events\nBlood Testament Has Arrived\nThe night is upon us, and Blood Testament has arrived."
+          }
+        ]
+      },
+      {
+        "key": "design-news",
+        "label": "Developer Insight: Behind the Design and History of Road to Hell",
+        "kind": "topic",
+        "scope": "공식 뉴스 · 2026-08-11",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 11, 2026\n• story | events | community\nDeveloper Insight: Behind the Design and History of Road to Hell\nLearn more about the event was researched, the military Cargo Balloon design and hydrogen balloons! "
+          }
+        ]
+      },
+      {
+        "key": "gamescom",
+        "label": "Hunt: Showdown 1896 Descends Upon Gamescom",
+        "kind": "topic",
+        "scope": "공식 뉴스 · 2026-08-05",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news\nHunt: Showdown 1896 Descends Upon Gamescom\nThis August, you’ll be able to find us in Hall 6 at Gamescom! "
+          }
+        ]
+      },
+      {
+        "key": "rth3",
+        "label": "Road to Hell Chapter 3",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-8bcc5e2cac3f921f1ee39d8f",
+        "aliases": [
+          "Chapter 3 of Road to Hell"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "crashed",
+        "label": "Crashed Balloons",
+        "kind": "topic",
+        "scope": "Road to Hell Chapter 3 · 2026",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "crates",
+        "label": "Confiscated Cargo Crates",
+        "kind": "topic",
+        "scope": "Road to Hell Chapter 3 · 2026",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "drops-july",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "scope": "2026-07 공식 뉴스 안내 회차",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 21, 2026\n• news | events | community\nTwitch Drops are back for 2026!\nEarn some sweet rewards including the new Legendary Skin, Golden Hair Trigger: Dolch Precision "
+          }
+        ]
+      },
+      {
+        "key": "golden",
+        "label": "Golden Hair Trigger",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-2b0e9ec3d8e76981b3024956",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 21, 2026\n• news | events | community\nTwitch Drops are back for 2026!\nEarn some sweet rewards including the new Legendary Skin, Golden Hair Trigger: Dolch Precision "
+          }
+        ]
+      },
+      {
+        "key": "rth2",
+        "label": "Road to Hell Chapter 2",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-6036bf4c05c1433d22111162",
+        "aliases": [
+          "Chapter 2 of Road to Hell"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 02, 2026\n• news | events\nTake to new heights in Chapter 2 of Road to Hell!\nToday we launch Chapter 2 of Road to Hell!"
+          }
+        ]
+      },
+      {
+        "key": "profile",
+        "label": "Player Profile Customization",
+        "kind": "system",
+        "scope": "",
+        "group": "updates",
+        "entityId": "entity-88f9a874ae014950710d6d57",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 30, 2026\n• news | community\nPlayer Profile Customization\nSoon with DLC Avatar additions!"
+          }
+        ]
+      },
+      {
+        "key": "update28",
+        "label": "Update 2.8",
+        "kind": "update",
+        "scope": "",
+        "group": "updates",
+        "entityId": "entity-46b0d50b38b6b1d10fad98e3",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 09, 2026\n• news | events\nUpdate 2.8, Road to Hell Go Live\nThe time has come, and Road to Hell is here."
+          }
+        ]
+      },
+      {
+        "key": "rth",
+        "label": "Road to Hell",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 09, 2026\n• news | events\nUpdate 2.8, Road to Hell Go Live\nThe time has come, and Road to Hell is here."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "fair-listing",
+        "subject": "fair-news",
+        "aspect": "공식 목록 게시일",
+        "value": "2026-11-03",
+        "statement": "공식 뉴스 목록은 Fair Play Task Force 업데이트 글을 2026년 11월 3일자로 표시한다. 목록에 없는 대책의 내용·효과는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "November 03, 2026\n•\nnews\nAn Update from the Fair Play Task Force\nAn Update from the Fair Play Task Force"
+          }
+        ]
+      },
+      {
+        "key": "drops-window",
+        "subject": "drops-oct",
+        "aspect": "공지된 캠페인 기간",
+        "value": "2026-10-26 15:00 UTC ~ 2026-11-09 15:00 UTC",
+        "statement": "2026년 10월 23일 공식 뉴스 항목은 Twitch Drops 기간을 10월 26일 15:00 UTC부터 11월 9일 15:00 UTC까지로 안내했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 23, 2026\n• news | community\nTwitch Drops are back!\nOctober 26th 15:00 UTC until November 9th 15:00 UTC"
+          }
+        ]
+      },
+      {
+        "key": "ps-announcement",
+        "subject": "ps-news",
+        "aspect": "구독자 이용 안내",
+        "value": "PlayStation Plus 구독자 대상 안내",
+        "statement": "2026년 10월 6일 공식 뉴스는 PlayStation Plus 구독자가 당시 게임에 참여할 수 있다고 안내했다. 현재 구독 제공 여부나 종료일은 이 목록에서 확인되지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 06, 2026\n• news | events | community\nWelcome new Hunters!\nPlayStation Plus subscribers can now unleash hell in the bayou!"
+          }
+        ]
+      },
+      {
+        "key": "bt2-notes",
+        "subject": "bt2",
+        "aspect": "패치 노트 목록 게시",
+        "value": "2026-10-06",
+        "statement": "공식 뉴스 목록은 2026년 10월 6일 The Story of Blood Testament Continues 항목에 Blood Testament Chapter 2 Patch Notes를 소개했다. 세부 변경이나 적용 시작 시각은 목록만으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "October 06, 2026\n• news\nThe Story of Blood Testament Continues\nBlood Testament Chapter 2 Patch Notes"
+          }
+        ]
+      },
+      {
+        "key": "big-teaser",
+        "subject": "big-news",
+        "aspect": "당시 홍보 예고",
+        "value": "해당 연도 최대 규모 이벤트 예고",
+        "statement": "2026년 8월 24일 뉴스 항목은 새 게임 내 이벤트가 그해 최대 규모일 것이라고 홍보했다. 실제 규모 비교를 독립적으로 확인한 진술은 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 24, 2026\n• news | events\nBiggest, Bloodiest Update to Hunt: Showdown 1896 is Almost Here\nOur new in-game Event will be the biggest one this year!"
+          }
+        ]
+      },
+      {
+        "key": "bt-arrival",
+        "subject": "bt",
+        "aspect": "도착 안내 재기록",
+        "value": "2026-08-24 뉴스의 도착 안내",
+        "statement": "2026년 8월 24일 공식 뉴스 항목은 Blood Testament가 도착했다고 알렸다. 게시일을 최초 도입일로 단정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 24, 2026\n• news | events\nBlood Testament Has Arrived\nThe night is upon us, and Blood Testament has arrived."
+          }
+        ]
+      },
+      {
+        "key": "design-topics",
+        "subject": "design-news",
+        "aspect": "개발자 글 소개",
+        "value": "이벤트 조사·군용 Cargo Balloon 설계·수소 풍선",
+        "statement": "공식 목록은 이 개발자 글이 이벤트 조사와 군용 Cargo Balloon 설계 및 수소 풍선을 다룬다고 소개했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 11, 2026\n• story | events | community\nDeveloper Insight: Behind the Design and History of Road to Hell\nLearn more about the event was researched, the military Cargo Balloon design and hydrogen balloons! "
+          }
+        ]
+      },
+      {
+        "key": "gamescom-hall",
+        "subject": "gamescom",
+        "aspect": "공지된 행사 위치",
+        "value": "해당 8월 Gamescom Hall 6",
+        "statement": "2026년 8월 5일 공식 뉴스는 그해 8월 Gamescom의 Hall 6에서 Hunt를 만날 수 있다고 예고했다. 정확한 행사 날짜는 덧붙이지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news\nHunt: Showdown 1896 Descends Upon Gamescom\nThis August, you’ll be able to find us in Hall 6 at Gamescom! "
+          }
+        ]
+      },
+      {
+        "key": "rth3-preview",
+        "subject": "rth3",
+        "aspect": "공식 목록의 콘텐츠 소개",
+        "value": "Legacy Chronicle · Crashed Balloons · Confiscated Cargo Crates",
+        "statement": "2026년 8월 5일 공식 뉴스는 Road to Hell Chapter 3와 함께 새 Legacy Chronicle, Crashed Balloons, Confiscated Cargo Crates를 예고했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "golden-skin",
+        "subject": "golden",
+        "aspect": "공식 목록의 스킨 대상",
+        "value": "Dolch Precision",
+        "statement": "2026년 7월 21일 뉴스는 Golden Hair Trigger를 Dolch Precision용 새 Legendary Skin으로 소개했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 21, 2026\n• news | events | community\nTwitch Drops are back for 2026!\nEarn some sweet rewards including the new Legendary Skin, Golden Hair Trigger: Dolch Precision "
+          }
+        ]
+      },
+      {
+        "key": "rth2-launch",
+        "subject": "rth2",
+        "aspect": "당시 출시 공지",
+        "value": "2026-07-02 항목에서 당일 출시 안내",
+        "statement": "2026년 7월 2일 공식 뉴스 항목은 Road to Hell Chapter 2를 이날 출시한다고 안내했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 02, 2026\n• news | events\nTake to new heights in Chapter 2 of Road to Hell!\nToday we launch Chapter 2 of Road to Hell!"
+          }
+        ]
+      },
+      {
+        "key": "profile-avatar",
+        "subject": "profile",
+        "aspect": "당시 추가 예고",
+        "value": "DLC Avatar 추가 예정",
+        "statement": "2026년 6월 30일 공식 목록은 Player Profile Customization에 DLC Avatar가 곧 추가된다고 예고했다. 실제 적용일이나 현재 제공 상태는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 30, 2026\n• news | community\nPlayer Profile Customization\nSoon with DLC Avatar additions!"
+          }
+        ]
+      },
+      {
+        "key": "update28-live",
+        "subject": "update28",
+        "aspect": "당시 공개 안내",
+        "value": "2026-06-09 뉴스의 Go Live 안내",
+        "statement": "공식 뉴스 목록은 2026년 6월 9일 Update 2.8, Road to Hell Go Live라는 제목을 게시했다. 현재 버전으로 표시하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 09, 2026\n• news | events\nUpdate 2.8, Road to Hell Go Live\nThe time has come, and Road to Hell is here."
+          }
+        ]
+      },
+      {
+        "key": "rth-arrival",
+        "subject": "rth",
+        "aspect": "당시 도착 안내",
+        "value": "2026-06-09 뉴스의 도착 안내",
+        "statement": "2026년 6월 9일 항목은 Road to Hell이 도착했다고 안내했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "June 09, 2026\n• news | events\nUpdate 2.8, Road to Hell Go Live\nThe time has come, and Road to Hell is here."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "crashed-chapter",
+        "from": "crashed",
+        "to": "rth3",
+        "type": "related_to",
+        "statement": "Chapter 3 소개는 Crashed Balloons를 해당 장에서 기다리는 콘텐츠로 명시한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "crates-chapter",
+        "from": "crates",
+        "to": "rth3",
+        "type": "related_to",
+        "statement": "Chapter 3 소개는 Confiscated Cargo Crates를 해당 장에서 기다리는 콘텐츠로 명시한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "August 05, 2026\n• news | community\nChapter 3 of Road to Hell unfolds\nNew Legacy Chronicle, Crashed Balloons, and Confiscated Cargo Crates await! "
+          }
+        ]
+      },
+      {
+        "key": "july-reward",
+        "from": "drops-july",
+        "to": "golden",
+        "type": "rewards",
+        "statement": "2026년 7월 뉴스의 Twitch Drops 보상 소개에 Golden Hair Trigger가 포함되어 있다. 10월 캠페인과 합치지 않는다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-c9ed9930c37ca5782ecff43a",
+            "quote": "July 21, 2026\n• news | events | community\nTwitch Drops are back for 2026!\nEarn some sweet rewards including the new Legendary Skin, Golden Hair Trigger: Dolch Precision "
+          }
+        ]
+      }
+    ]
+  }
+}
