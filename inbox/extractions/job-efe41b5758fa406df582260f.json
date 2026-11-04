@@ -1,0 +1,342 @@
+{
+  "jobId": "job-efe41b5758fa406df582260f",
+  "sourceHash": "440032e0945a39bafe4c6d54474fcea779824834e5521541207ecaf2739f7cc7",
+  "extraction": {
+    "entities": [
+      {
+        "key": "bloodskin",
+        "label": "Bloodskin",
+        "kind": "monster",
+        "scope": "",
+        "group": "world",
+        "entityId": "topic-6660065f355ab190f2b1340d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Bloodskin is not simply another monster or Wild Target like Rotjaw or Hellborn. Crytek introduces the creature as a proper Boss Target."
+          }
+        ]
+      },
+      {
+        "key": "testament",
+        "label": "Blood Testament",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "That happened faster than expected. Blood Testament only launched in Hunt: Showdown 1896 on September 8, 2026, together with the large Make Them Bleed Community Challenge. Just a few days later, players have already reached the third and final stage. As a result, Bloodskin is now part of the hunt."
+          }
+        ]
+      },
+      {
+        "key": "challenge",
+        "label": "Make Them Bleed",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-ca377fc7c14a5d2824a68d00",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "That happened faster than expected. Blood Testament only launched in Hunt: Showdown 1896 on September 8, 2026, together with the large Make Them Bleed Community Challenge. Just a few days later, players have already reached the third and final stage. As a result, Bloodskin is now part of the hunt."
+          }
+        ]
+      },
+      {
+        "key": "siphon",
+        "label": "Siphon",
+        "kind": "trait",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-b8cf9eccda31d3c1dc28292f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Defeating Bloodskin also rewards you with the Siphon Burn Trait, which you may already know from the Blood Wells introduced with the current event. Siphon allows you to steal a Scarce Trait when looting an enemy Hunter."
+          }
+        ]
+      },
+      {
+        "key": "warren",
+        "label": "Warren Russett",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-bacb77ddffefa93356e4f386",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Bloodskin also appears to play an important role in the story of the event. Blood Testament revolves around the Hunter Warren Russett, who lost everything to the Corruption. Lynch eventually offers him a newly developed blood serum."
+          }
+        ]
+      },
+      {
+        "key": "lynch",
+        "label": "Lynch",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-56e6671e4d50034fcb8a78b8",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Bloodskin also appears to play an important role in the story of the event. Blood Testament revolves around the Hunter Warren Russett, who lost everything to the Corruption. Lynch eventually offers him a newly developed blood serum."
+          }
+        ]
+      },
+      {
+        "key": "gamescom",
+        "label": "Gamescom 2026",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "The reveal is especially interesting for us because Crytek had essentially been hiding the new boss right in front of us at Gamescom 2026."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "boss-class",
+        "subject": "bloodskin",
+        "aspect": "기사의 보스 분류",
+        "value": "Boss Target",
+        "statement": "Guided 기사는 Bloodskin을 Wild Target과 구별되는 Boss Target으로 소개했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Bloodskin is not simply another monster or Wild Target like Rotjaw or Hellborn. Crytek introduces the creature as a proper Boss Target."
+          }
+        ]
+      },
+      {
+        "key": "unlock-report",
+        "subject": "bloodskin",
+        "aspect": "기사 당시 해금 보도",
+        "value": "Make Them Bleed 최종 3단계 도달 후 해금",
+        "statement": "Guided 기사는 커뮤니티가 Make Them Bleed의 세 번째 최종 단계에 도달하여 Bloodskin이 해금됐다고 보도했다. 기사 당시의 보도이며 현재 이용 가능 여부를 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "That happened faster than expected. Blood Testament only launched in Hunt: Showdown 1896 on September 8, 2026, together with the large Make Them Bleed Community Challenge. Just a few days later, players have already reached the third and final stage. As a result, Bloodskin is now part of the hunt."
+          }
+        ]
+      },
+      {
+        "key": "launch-report",
+        "subject": "testament",
+        "aspect": "기사에 기재된 이벤트 시작일",
+        "value": "2026-09-08 (Guided 보도)",
+        "statement": "Guided 기사는 Blood Testament가 Make Them Bleed와 함께 2026년 9월 8일 시작됐다고 서술했다. 이 날짜는 해당 매체의 주장으로 보존하며 다른 출처의 도입일을 정정하거나 대체하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "That happened faster than expected. Blood Testament only launched in Hunt: Showdown 1896 on September 8, 2026, together with the large Make Them Bleed Community Challenge. Just a few days later, players have already reached the third and final stage. As a result, Bloodskin is now part of the hunt."
+          }
+        ]
+      },
+      {
+        "key": "phase1-report",
+        "subject": "bloodskin",
+        "aspect": "기사의 1단계 전투 설명",
+        "value": "중장갑·느린 이동·강한 근접 공격",
+        "statement": "Guided 기사에 따르면 1단계 Bloodskin은 중장갑으로 보호되며 느리게 움직이지만 근접 공격 피해가 크고, 전투 중 장갑이 파괴되면 변신한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "At the beginning, Bloodskin is protected by heavy armor. In this state, the boss moves relatively slowly, but can deal heavy damage in close combat. As the fight progresses, its protective shell is destroyed and Bloodskin transforms."
+          }
+        ]
+      },
+      {
+        "key": "phase2-report",
+        "subject": "bloodskin",
+        "aspect": "기사의 2단계 전투 설명",
+        "value": "빠른 이동·순간이동·장갑 형태 복귀 없음",
+        "statement": "Guided 기사에 따르면 2단계는 더 빠르고 민첩하며 순간이동 후 근접 공격을 가하고, 한 번 2단계에 들어가면 장갑 형태로 돌아가지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "During the second phase, the previously sluggish enemy becomes considerably faster and more agile. Bloodskin can now teleport and uses this ability to surprise Hunters inside its lair before attacking them at close range. Once the second phase has begun, the boss will not return to its armored form."
+          }
+        ]
+      },
+      {
+        "key": "siphon-report",
+        "subject": "siphon",
+        "aspect": "기사의 특성 효과",
+        "value": "적 Hunter 약탈 시 Scarce Trait 탈취",
+        "statement": "Guided 기사는 Bloodskin 처치 보상인 Siphon Burn Trait이 적 Hunter 약탈 시 Scarce Trait을 훔칠 수 있게 한다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Defeating Bloodskin also rewards you with the Siphon Burn Trait, which you may already know from the Blood Wells introduced with the current event. Siphon allows you to steal a Scarce Trait when looting an enemy Hunter."
+          }
+        ]
+      },
+      {
+        "key": "banish-report",
+        "subject": "bloodskin",
+        "aspect": "기사의 추방 중 주변 몬스터 행동",
+        "value": "추방 중 주변 몬스터 공격성 증가",
+        "statement": "Guided 기사는 Bloodskin 추방이 시작되면 주변 몬스터의 공격성이 증가하며 Blood Moon의 강렬한 단계와 유사한 행동이 추방 내내 지속된다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "The banishing process also comes with a special twist. Once you begin banishing Bloodskin, monsters in the surrounding area become more aggressive. Their behavior resembles the intense phase of the Blood Moon and remains active throughout the banish."
+          }
+        ]
+      },
+      {
+        "key": "interview-report",
+        "subject": "gamescom",
+        "aspect": "기사의 Gamescom 인터뷰 회고",
+        "value": "새 보스 질문에 Update 2.9와 new nightmare를 암시했다고 회고",
+        "statement": "Guided는 Gamescom 2026 인터뷰에서 개발진이 새 보스 질문에 명확한 답을 주지 않고 Update 2.9 및 Blood Testament에서 풀려날 new nightmare를 언급했다고 회고했다. 당시 공식 보스 확인으로 해석하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "The reveal is especially interesting for us because Crytek had essentially been hiding the new boss right in front of us at Gamescom 2026.\nDuring our interview, we directly asked the developers when Hunt: Showdown 1896 would finally receive another new boss. Crytek did not want to give us a clear answer. Instead, the team pointed toward Update 2.9 and a previously unrevealed “new nightmare“ that would be unleashed during Blood Testament."
+          }
+        ]
+      },
+      {
+        "key": "story-report",
+        "subject": "warren",
+        "aspect": "기사의 이벤트 서사 설명",
+        "value": "Corruption으로 모든 것을 잃고 Lynch에게 혈청을 제안받음",
+        "statement": "Guided는 Blood Testament가 Warren Russett를 중심으로 전개되며, Corruption으로 모든 것을 잃은 그에게 Lynch가 새 혈청을 제안했다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Bloodskin also appears to play an important role in the story of the event. Blood Testament revolves around the Hunter Warren Russett, who lost everything to the Corruption. Lynch eventually offers him a newly developed blood serum."
+          }
+        ]
+      },
+      {
+        "key": "dependency-report",
+        "subject": "warren",
+        "aspect": "기사의 혈청 의존 서사",
+        "value": "강해지는 피에 대한 갈증과 혈청 의존",
+        "statement": "Guided는 Russett가 점차 강한 피의 갈증을 느끼고 혈청에 의존하게 된다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Russett subsequently develops an increasingly powerful thirst for blood and becomes dependent on the serum. Before the event began, Crytek had already announced that players would discover the consequences of these experiments throughout Blood Testament."
+          }
+        ]
+      },
+      {
+        "key": "identity-unconfirmed",
+        "subject": "bloodskin",
+        "aspect": "기사 당시 Warren Russett 동일성 추정",
+        "value": "공식 동일성 미확인",
+        "statement": "Guided 기사는 Bloodskin이 Warren Russett인지 Crytek의 명시적 확인 전까지 신중하게 다뤄야 한다고 경고했다. 두 개체의 동일성은 미확인으로 남긴다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Whether Bloodskin officially is Warren Russett, however, should still be treated cautiously until Crytek explicitly confirms the connection."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "boss-reward",
+        "from": "bloodskin",
+        "to": "siphon",
+        "type": "rewards",
+        "statement": "Guided 기사에 따르면 Bloodskin을 처치하면 Siphon Burn Trait을 보상으로 얻는다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-fe22b635c14c0c89bcbd3f09",
+            "quote": "Defeating Bloodskin also rewards you with the Siphon Burn Trait, which you may already know from the Blood Wells introduced with the current event. Siphon allows you to steal a Scarce Trait when looting an enemy Hunter."
+          }
+        ]
+      }
+    ]
+  }
+}

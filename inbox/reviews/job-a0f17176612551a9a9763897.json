@@ -1,0 +1,249 @@
+{
+  "jobId": "job-a0f17176612551a9a9763897",
+  "sourceHash": "f4584b2dabf8c9f2c4d16f1326ccc13b2def358a42207641cd7a55f4229ba92a",
+  "reviewedExtractionHash": "dc8652c3654810a0c095ca9ce059d2bd7a5ba7d7330c8dd7f131940b769be4cb",
+  "review": {
+    "decisions": [
+      {
+        "key": "fair-listing",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공식 목록 게시일: 2026-11-03. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-window",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공지된 캠페인 기간: 2026-10-26 15:00 UTC ~ 2026-11-09 15:00 UTC. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ps-announcement",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "구독자 이용 안내: PlayStation Plus 구독자 대상 안내. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bt2-notes",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "패치 노트 목록 게시: 2026-10-06. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "big-teaser",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 홍보 예고: 해당 연도 최대 규모 이벤트 예고. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bt-arrival",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도착 안내 재기록: 2026-08-24 뉴스의 도착 안내. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "design-topics",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개발자 글 소개: 이벤트 조사·군용 Cargo Balloon 설계·수소 풍선. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "gamescom-hall",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공지된 행사 위치: 해당 8월 Gamescom Hall 6. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth3-preview",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공식 목록의 콘텐츠 소개: Legacy Chronicle · Crashed Balloons · Confiscated Cargo Crates. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "golden-skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공식 목록의 스킨 대상: Dolch Precision. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth2-launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 출시 공지: 2026-07-02 항목에서 당일 출시 안내. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "profile-avatar",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 추가 예고: DLC Avatar 추가 예정. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "update28-live",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 공개 안내: 2026-06-09 뉴스의 Go Live 안내. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth-arrival",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 도착 안내: 2026-06-09 뉴스의 도착 안내. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-news",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "An Update from the Fair Play Task Force: 원문 명칭과 공식 뉴스 · 2026-11-03 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-oct",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops: 원문 명칭과 2026-10 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ps-news",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Welcome new Hunters!: 원문 명칭과 공식 뉴스 · 2026-10-06 · PlayStation Plus 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bt2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 2: 원문 명칭과 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "big-news",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Biggest, Bloodiest Update to Hunt: Showdown 1896 is Almost Here: 원문 명칭과 공식 뉴스 · 2026-08-24 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bt",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament: 원문 명칭과 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "design-news",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Developer Insight: Behind the Design and History of Road to Hell: 원문 명칭과 공식 뉴스 · 2026-08-11 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "gamescom",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown 1896 Descends Upon Gamescom: 원문 명칭과 공식 뉴스 · 2026-08-05 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Road to Hell Chapter 3: 원문 명칭과 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crashed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Crashed Balloons: 원문 명칭과 Road to Hell Chapter 3 · 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Confiscated Cargo Crates: 원문 명칭과 Road to Hell Chapter 3 · 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-july",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops: 원문 명칭과 2026-07 공식 뉴스 안내 회차 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "golden",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Golden Hair Trigger: 원문 명칭과 동일 대상 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Road to Hell Chapter 2: 원문 명칭과 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "profile",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Player Profile Customization: 원문 명칭과 동일 대상 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "update28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.8: 원문 명칭과 동일 대상 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rth",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Road to Hell: 원문 명칭과 2026 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crashed-chapter",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 소개는 Crashed Balloons를 해당 장에서 기다리는 콘텐츠로 명시한다. 원문의 직접 비교·보상·콘텐츠 안내를 대조했으며 단순 동시 언급에 의존하지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crates-chapter",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 소개는 Confiscated Cargo Crates를 해당 장에서 기다리는 콘텐츠로 명시한다. 원문의 직접 비교·보상·콘텐츠 안내를 대조했으며 단순 동시 언급에 의존하지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "july-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026년 7월 뉴스의 Twitch Drops 보상 소개에 Golden Hair Trigger가 포함되어 있다. 10월 캠페인과 합치지 않는다. 원문의 직접 비교·보상·콘텐츠 안내를 대조했으며 단순 동시 언급에 의존하지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

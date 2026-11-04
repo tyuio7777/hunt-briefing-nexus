@@ -1,0 +1,53 @@
+{
+  "jobId": "job-6302251529540d6f3bbf284f",
+  "sourceHash": "c96f24dae747460e993aa2a8eac30e2cae591099e7b4e7ae67d2cc93afb37bc9",
+  "reviewedExtractionHash": "42cd1a2b3644689bd3af19e5143264ba5b28a3c05b53aa7c45ae014a18d912a4",
+  "review": {
+    "decisions": [
+      {
+        "key": "replay-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공개 가이드의 도구 소개: 무료 오픈 소스 자동 클립 녹화 도구. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mmr-feedback",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공개 이용자 평가: 등급 변화에 대한 불만. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fps-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공개 이용자 경험 제보: 일부 위치에서 약 100 FPS에서 40 FPS로 하락. 원문 의미와 수치·조건을 대조했고 당시 안내 또는 출처에 귀속된 의견으로 보존했다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "replay",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "HuntReplay Studio: 원문 명칭과 공개 가이드가 연결한 Mlovo/HuntOpenHighlights 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mmr",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "MMR: 원문 명칭과 동일 대상 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fps",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "FPS: 원문 명칭과 독일어 Steam 공개 이용자 평가 범위를 대조했다. 변형·주차·다른 인물과 합치지 않았다. AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
