@@ -1,0 +1,560 @@
+{
+  "jobId": "job-a9af3b4600d1931605b5e9cb",
+  "sourceHash": "2a8c604c44e0bb9bd394b8fdd9f1364ad0223883c0ff59aa8be9deb0ffc13232",
+  "extraction": {
+    "entities": [
+      {
+        "key": "patch",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "kind": "update",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-3feb96921317988a90be869b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Blood Testament Chapter 3 Patch Notes"
+          }
+        ]
+      },
+      {
+        "key": "lanc",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Weapon: Lancaster"
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Variant: Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "knife",
+        "label": "Heavy Knife",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-e28c38a29c794519cbbab046",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "A variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "harvest",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "“Reap the Harvest\" is a new Community Event that is planned to start later in Chapter 3."
+          }
+        ]
+      },
+      {
+        "key": "follow",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Fair Play Follow Up"
+          }
+        ]
+      },
+      {
+        "key": "ping",
+        "label": "High ping queue",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "High ping queue (Temporary test in Europe for the\nduration of Chapter 3)"
+          }
+        ]
+      },
+      {
+        "key": "compounds",
+        "label": "Bileweaver Infested Compounds",
+        "kind": "location",
+        "group": "world",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "lanc_design",
+        "subject": "lanc",
+        "aspect": "weapon_design",
+        "value": "4총열 Medium Ammo 권총 · 회전식 공이",
+        "statement": "패치 노트는 Lancaster를 회전식 공이를 사용해 높은 발사 속도를 내는 4총열 Medium Ammo 권총으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "A four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate."
+          }
+        ]
+      },
+      {
+        "key": "ejection",
+        "subject": "lanc",
+        "aspect": "reload",
+        "value": "브레이크 액션 개방 시 모든 탄 배출",
+        "statement": "패치 노트는 Lancaster의 브레이크 액션을 열면 항상 모든 탄이 배출된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Opening the break-action will always eject all rounds."
+          }
+        ]
+      },
+      {
+        "key": "lanc_ammo",
+        "subject": "lanc",
+        "aspect": "ammo_capacity",
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12",
+        "statement": "패치 노트는 Lancaster의 탄약 구성을 Basic 4/12, High Velocity 4/8, Poison 4/12로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "lanc_dual",
+        "subject": "lanc",
+        "aspect": "dual_wield",
+        "value": "쌍수 지원",
+        "statement": "패치 노트는 Lancaster의 쌍수 사용을 지원한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver_ammo",
+        "subject": "cleaver",
+        "aspect": "ammo_capacity",
+        "value": "Basic 4/12 · High Velocity 4/8 · Poison 4/12",
+        "statement": "패치 노트는 Lancaster Cleaver의 탄약 구성을 Basic 4/12, High Velocity 4/8, Poison 4/12로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver_dual",
+        "subject": "cleaver",
+        "aspect": "dual_wield",
+        "value": "쌍수 지원",
+        "statement": "패치 노트는 Lancaster Cleaver의 쌍수 사용을 지원한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "blade",
+        "subject": "cleaver",
+        "aspect": "variant_design",
+        "value": "하부 칼날 · Heavy Knife와 유사한 근접 공격",
+        "statement": "Lancaster Cleaver는 하부 칼날이 있는 Lancaster 변형이며 근접 공격 패턴과 피해가 Heavy Knife와 유사하다고 설명된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "A variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "world_pool",
+        "subject": "compounds",
+        "aspect": "spawn_pool",
+        "value": "새 구역과 기존 구역 모두 후보",
+        "statement": "Chapter 3에서는 새 구역과 기존 구역을 포함한 모든 Bileweaver 감염 컴파운드에 생성 기회가 주어진다고 설명된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3."
+          }
+        ]
+      },
+      {
+        "key": "world_count",
+        "subject": "compounds",
+        "aspect": "active_per_game",
+        "value": "매 게임 5개",
+        "statement": "Chapter 3 패치 노트는 매 게임 5개 컴파운드가 활성화된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ]
+      },
+      {
+        "key": "notice",
+        "subject": "follow",
+        "aspect": "ban_notification",
+        "value": "신고 대상 제재 시 후속 알림",
+        "statement": "패치 노트는 신고한 플레이어가 제재되면 후속 알림을 받는다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Players\nget a follow up notification when a player they reported was banned"
+          }
+        ]
+      },
+      {
+        "key": "refund",
+        "subject": "follow",
+        "aspect": "compensation",
+        "value": "제재 대상에게 사망한 이용자 보상",
+        "statement": "패치 노트는 제재된 플레이어에게 사망한 이용자가 Hunt Dollar 환급을 받는다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Players\nget a Hunt dollar refund when they get killed by a player who was banned"
+          }
+        ]
+      },
+      {
+        "key": "ping_scope",
+        "subject": "ping",
+        "aspect": "test_scope",
+        "value": "Chapter 3 동안 유럽 임시 시험",
+        "statement": "패치 노트의 고핑 큐는 Chapter 3 동안 유럽에서 시행하는 임시 시험이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "High ping queue (Temporary test in Europe for the\nduration of Chapter 3)"
+          }
+        ]
+      },
+      {
+        "key": "event_plan",
+        "subject": "harvest",
+        "aspect": "planned_start",
+        "value": "Chapter 3의 나중 시점 · 날짜 미제시",
+        "statement": "공식 패치 노트는 Reap the Harvest를 Chapter 3의 나중 시점에 시작할 계획이라고 설명하며 정확한 날짜를 제시하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "“Reap the Harvest\" is a new Community Event that is planned to start later in Chapter 3."
+          }
+        ]
+      },
+      {
+        "key": "stages",
+        "subject": "harvest",
+        "aspect": "structure",
+        "value": "공동 진행 5단계",
+        "statement": "공동 이벤트는 커뮤니티 전체에 보상을 주는 5단계로 구성된다고 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "The Community Event will consist of 5 Stages, each offering a reward to the whole of the community."
+          }
+        ]
+      },
+      {
+        "key": "points",
+        "subject": "harvest",
+        "aspect": "progression",
+        "value": "매치 목표 달성으로 Community Event Points 획득",
+        "statement": "플레이어가 매치 내 목표를 완료해 Community Event Points를 얻어 공동 이벤트를 진행한다고 설명된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches."
+          }
+        ]
+      },
+      {
+        "key": "stage_1",
+        "subject": "harvest",
+        "aspect": "stage_1_reward",
+        "value": "5K Hunt Dollars와 1K Event Points",
+        "statement": "Reap the Harvest의 1단계 보상은 5K Hunt Dollars와 1K Event Points로 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 1: 5K Hunt Dollars & 1K Event Points"
+          }
+        ]
+      },
+      {
+        "key": "stage_2",
+        "subject": "harvest",
+        "aspect": "stage_2_reward",
+        "value": "Lancaster",
+        "statement": "Reap the Harvest의 2단계 보상은 Lancaster로 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 2: Lancaster (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "stage_3",
+        "subject": "harvest",
+        "aspect": "stage_3_reward",
+        "value": "10K Hunt Dollars와 2.5K Event Points",
+        "statement": "Reap the Harvest의 3단계 보상은 10K Hunt Dollars와 2.5K Event Points로 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 3: 10K Hunt Dollars & 2.5K Event Points"
+          }
+        ]
+      },
+      {
+        "key": "stage_4",
+        "subject": "harvest",
+        "aspect": "stage_4_reward",
+        "value": "Lancaster Cleaver",
+        "statement": "Reap the Harvest의 4단계 보상은 Lancaster Cleaver로 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 4: Lancaster Cleaver (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "stage_5",
+        "subject": "harvest",
+        "aspect": "stage_5_reward",
+        "value": "Random Legendary Skin",
+        "statement": "Reap the Harvest의 5단계 보상은 Random Legendary Skin로 예고됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 5: Random Legendary Skin"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "variant",
+        "from": "cleaver",
+        "to": "lanc",
+        "type": "related_to",
+        "statement": "Lancaster Cleaver는 Lancaster의 하부 칼날 장착 변형이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "reward_lanc",
+        "from": "harvest",
+        "to": "lanc",
+        "type": "rewards",
+        "statement": "Reap the Harvest의 2단계 보상으로 Lancaster가 예고됐다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 2: Lancaster (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "reward_cleaver",
+        "from": "harvest",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "Reap the Harvest의 4단계 보상으로 Lancaster Cleaver가 예고됐다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-4f51d7a98acc86622730dd2c",
+            "quote": "Stage 4: Lancaster Cleaver (New Weapon)"
+          }
+        ]
+      }
+    ]
+  }
+}

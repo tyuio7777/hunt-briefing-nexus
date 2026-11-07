@@ -1,0 +1,233 @@
+{
+  "jobId": "job-d1b08db93b12a917d778c2e8",
+  "sourceHash": "87d2c212f8d715e893672d59fffbba2494690a5b50f3dc0f1bbf3ffab3223561",
+  "extraction": {
+    "entities": [
+      {
+        "key": "follow",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "We are happy to announce that the Fair Play Follow Up feature is now live."
+          }
+        ]
+      },
+      {
+        "key": "ping",
+        "label": "High ping queue",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [
+          "High-Ping Queue"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "High-Ping Queue Test\nOne of THE most requested topics is regarding High-Ping Matchmaking. We are happy to report that we will be running a test on the European servers during Chapter 3."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "launch",
+        "subject": "follow",
+        "aspect": "launch_announcement",
+        "value": "서비스 개시 발표",
+        "statement": "공식 글은 Fair Play Follow Up 서비스가 당시 개시됐다고 발표했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "We are happy to announce that the Fair Play Follow Up feature is now live."
+          }
+        ]
+      },
+      {
+        "key": "notification",
+        "subject": "follow",
+        "aspect": "ban_notification",
+        "value": "신고 대상 제재 시 알림",
+        "statement": "공식 설명에 따르면 치팅으로 신고한 플레이어가 제재되면 조치 알림을 받는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "- If you reported them for cheating, you will get notified that we have taken action against the cheater"
+          }
+        ]
+      },
+      {
+        "key": "eligibility",
+        "subject": "follow",
+        "aspect": "compensation_eligibility",
+        "value": "특정 기간 내 제재 대상에게 사망한 이용자",
+        "statement": "공식 설명은 제재된 플레이어에게 특정 기간 내 사망한 사람들에게 잠재적 피해 보상을 지급한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "- If you were killed by them, you will get compensation, along with all the people who were killed within a specific timeframe, for potentially being the victim of a cheater."
+          }
+        ]
+      },
+      {
+        "key": "amount",
+        "subject": "follow",
+        "aspect": "compensation_amount",
+        "value": "1000 Hunt Dollars",
+        "statement": "공식 글은 보상액을 평균 장비와 헌터 비용을 합산하고 올림한 1000 Hunt Dollars로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "The compensation will be 1000 Hunt Dollars, which was calculated by adding the average loadout and Hunter cost, and rounding it up."
+          }
+        ]
+      },
+      {
+        "key": "not_proof",
+        "subject": "follow",
+        "aspect": "compensation_meaning",
+        "value": "개별 교전 치팅 확정 아님",
+        "statement": "보상 수령은 해당 교전에서 핵이 사용됐음을 뜻하지 않으며 잠재적 피해자를 넓게 보상한다는 공식 설명이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "This said, receiving compensation doesn't mean that you were killed by someone who used a hack, but rather that we compensate everybody who was potentially affected."
+          }
+        ]
+      },
+      {
+        "key": "adjust",
+        "subject": "follow",
+        "aspect": "adjustment_plan",
+        "value": "피드백에 따른 조정 계획",
+        "statement": "공식 글은 피드백에 따라 시스템과 보상을 조정할 계획이라고 밝혔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "This is a first step, and we plan to adjust the system and compensation as we receive your feedback."
+          }
+        ]
+      },
+      {
+        "key": "test_scope",
+        "subject": "ping",
+        "aspect": "test_scope",
+        "value": "Chapter 3 기간 유럽 서버 시험",
+        "statement": "공식 글은 High-Ping Queue 시험을 Chapter 3 기간의 유럽 서버로 한정해 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "We are happy to report that we will be running a test on the European servers during Chapter 3."
+          }
+        ]
+      },
+      {
+        "key": "threshold",
+        "subject": "ping",
+        "aspect": "test_threshold",
+        "value": "125ms 초과 · 변경 가능",
+        "statement": "공식 설명은 125ms 초과 플레이어를 분리하는 시험이며 기준값은 시험 중 바뀔 수 있다고 명시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "The objective is to experiment with the ways we separate players with a ping above 125 ms (this value is subject to change during the test) from regular players to reduce their exposure to high-latency gameplay."
+          }
+        ]
+      },
+      {
+        "key": "fallback",
+        "subject": "ping",
+        "aspect": "fallback",
+        "value": "일정 시간 미매칭 시 일반 매치 선택",
+        "statement": "공식 설명은 고핑 큐에서 일정 시간 매치를 찾지 못하면 일반 매치를 찾는 선택권을 제공한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "After a set period, if no match is found in the high ping queue, you will have the option to find a “normal\" match."
+          }
+        ]
+      },
+      {
+        "key": "team",
+        "subject": "ping",
+        "aspect": "team_threshold",
+        "value": "시험 시작 시 팀 최고 핑 기준",
+        "statement": "공식 글은 시험 시작 시 팀 내 가장 높은 핑으로 고핑 큐 진입을 판단한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4636b00c0417a14f860c4df8",
+            "quote": "At the start of the test, we will use the highest ping of the team to decide if they'll enter the high ping matchmaking queue."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

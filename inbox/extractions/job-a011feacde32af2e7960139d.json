@@ -1,0 +1,181 @@
+{
+  "jobId": "job-a011feacde32af2e7960139d",
+  "sourceHash": "6d3d802bed042178ed7523e7b5a02121b8fdad3719769116be881dbff52d9ca4",
+  "extraction": {
+    "entities": [
+      {
+        "key": "ledger",
+        "label": "Bayou Ledger",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-b8f2be1ab0a439a4125afc85",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "The Bayou Ledger The Bayou Index Roster Pick rates"
+          }
+        ]
+      },
+      {
+        "key": "index",
+        "label": "Bayou Index",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-32d339a1c6bd35fd3a4700a9",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "roster",
+        "label": "The Bayou Roster",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster"
+          }
+        ]
+      },
+      {
+        "key": "picks",
+        "label": "Pick rates",
+        "kind": "system",
+        "group": "sources",
+        "scope": "Bayou Ledger",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Pick rates for every weapon, trait, tool and weapon pair is open to everyone."
+          }
+        ]
+      },
+      {
+        "key": "cleave",
+        "label": "All Hallows’ Cleave",
+        "kind": "topic",
+        "group": "events",
+        "scope": "Bayou Ledger 수집 화면 · 회차 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "All Hallows’ Cleave Stage 5 of 5\n50M125M225M350M500M\n500,000,000 / 500,000,000 100%"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "pick_access",
+        "subject": "picks",
+        "aspect": "public_access",
+        "value": "무기·특성·도구·무기 조합 선택률 공개",
+        "statement": "Bayou Ledger는 무기·특성·도구·무기 조합의 선택률을 모두에게 공개한다고 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Pick rates for every weapon, trait, tool and weapon pair is open to everyone."
+          }
+        ]
+      },
+      {
+        "key": "langs",
+        "subject": "ledger",
+        "aspect": "languages",
+        "value": "독일어·프랑스어·스페인어 추가",
+        "statement": "Bayou Ledger는 독일어·프랑스어·스페인어 지원을 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "The site now reads in German, French and Spanish."
+          }
+        ]
+      },
+      {
+        "key": "index_role",
+        "subject": "index",
+        "aspect": "purpose",
+        "value": "지식 기반",
+        "statement": "사이트는 The Bayou Index를 Hunt: Showdown 1896 지식 기반으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "roster_role",
+        "subject": "roster",
+        "aspect": "purpose",
+        "value": "순위표와 플레이어 통계",
+        "statement": "The Bayou Roster는 Hunt: Showdown 1896 순위표와 플레이어 통계를 제공한다고 소개된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster\nLeaderboard and player stats for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "progress",
+        "subject": "cleave",
+        "aspect": "displayed_progress",
+        "value": "5/5단계 · 100%",
+        "statement": "수집된 Bayou Ledger 화면은 All Hallows’ Cleave를 5/5단계, 500,000,000/500,000,000, 100%로 표시한다. 회차와 실제 달성 시각은 이 구간만으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2db89e2402b371a52bde4bd3",
+            "quote": "All Hallows’ Cleave Stage 5 of 5\n50M125M225M350M500M\n500,000,000 / 500,000,000 100%"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

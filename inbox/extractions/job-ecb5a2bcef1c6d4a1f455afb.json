@@ -1,0 +1,557 @@
+{
+  "jobId": "job-ecb5a2bcef1c6d4a1f455afb",
+  "sourceHash": "35752ef53c32fe5de38d8d732d3b6f1ce324d71673f55add24eb0e24a10c4cf5",
+  "extraction": {
+    "entities": [
+      {
+        "key": "lanc",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster는 4/12 탄약의 Medium Ammo 권총으로 High Velocity·Poison 탄을 지원하고 쌍수 사용이 가능하다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster와 Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "harvest",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Reap the Harvest 보상과 Lancaster 운용"
+          }
+        ]
+      },
+      {
+        "key": "follow",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Fair Play Follow Up 서비스 개시"
+          }
+        ]
+      },
+      {
+        "key": "ping",
+        "label": "High ping queue",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [
+          "High-Ping Queue"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "유럽 High-Ping Queue 임시 시험"
+          }
+        ]
+      },
+      {
+        "key": "drops",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-10",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Twitch Drops는 마지막 주말"
+          }
+        ]
+      },
+      {
+        "key": "blood",
+        "label": "Blood Testament",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "\"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\""
+          }
+        ]
+      },
+      {
+        "key": "patch",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "kind": "update",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-3feb96921317988a90be869b",
+        "aliases": [
+          "Blood Testament Chapter 3 패치 노트"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "공식 Blood Testament Chapter 3 패치 노트는 11월 3일 적용된 세 번째 장의 핵심을 공개했다."
+          }
+        ]
+      },
+      {
+        "key": "tuesday",
+        "label": "Reap the Harvest 다음 화요일 개시설",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Blood Testament Chapter 3 · 2026-11-07 브리핑",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Reap the Harvest 다음 화요일 개시설"
+          }
+        ]
+      },
+      {
+        "key": "global",
+        "label": "High-Ping Queue 전 지역 영구화설",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Blood Testament Chapter 3 · 2026-11-07 브리핑",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "High-Ping Queue 전 지역 영구화설"
+          }
+        ]
+      },
+      {
+        "key": "video_psy",
+        "label": "The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt · 공개: 2026년 11월 6일 KST"
+          }
+        ]
+      },
+      {
+        "key": "video_rex",
+        "label": "Tired Of LOSING? Play This Loadout Instead... | Hunt: Showdown 1896",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "REXNOR 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — Tired Of LOSING? Play This Loadout Instead... | Hunt: Showdown 1896 · 공개: 2026년 11월 4일 KST"
+          }
+        ]
+      },
+      {
+        "key": "video_toxic",
+        "label": "PLAGUE DOCTOR returns: NEW legacy chronicle update! (HUNT: Showdown News Roundup)",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — PLAGUE DOCTOR returns: NEW legacy chronicle update! (HUNT: Showdown News Roundup) · 공개: 2026년 11월 3일 KST"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "lanc_specs",
+        "subject": "lanc",
+        "aspect": "weapon_configuration",
+        "value": "4/12 Medium Ammo · High Velocity·Poison · 쌍수",
+        "statement": "브리핑은 Lancaster를 4/12 Medium Ammo 권총으로 소개하며 High Velocity·Poison 탄과 쌍수 사용을 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster는 4/12 탄약의 Medium Ammo 권총으로 High Velocity·Poison 탄을 지원하고 쌍수 사용이 가능하다."
+          }
+        ]
+      },
+      {
+        "key": "reload",
+        "subject": "lanc",
+        "aspect": "reload",
+        "value": "남은 실탄도 배출",
+        "statement": "브리핑은 Lancaster의 브레이크 액션을 열면 남은 실탄도 모두 배출된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "브레이크 액션을 열면 남은 실탄까지 모두 배출하므로 부분 재장전의 손실을 계산해야 한다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver_melee",
+        "subject": "cleaver",
+        "aspect": "melee_design",
+        "value": "하부 칼날 · Heavy Knife 계열 공격",
+        "statement": "브리핑은 Cleaver의 하부 칼날이 Heavy Knife 계열 근접 공격 패턴과 피해를 제공한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Cleaver는 하부 칼날로 Heavy Knife 계열 근접 공격 패턴과 피해를 제공한다."
+          }
+        ]
+      },
+      {
+        "key": "reward",
+        "subject": "harvest",
+        "aspect": "weapon_rewards",
+        "value": "Stage 2 Lancaster · Stage 4 Cleaver",
+        "statement": "브리핑은 예정된 Reap the Harvest에서 Lancaster는 Stage 2, Cleaver는 Stage 4 보상이라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster는 예정된 공동 이벤트 Reap the Harvest의 Stage 2 보상이고 Cleaver는 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "schedule_unknown",
+        "subject": "harvest",
+        "aspect": "start_date_status",
+        "value": "브리핑 당시 미정",
+        "statement": "브리핑은 Reap the Harvest 시작일이 당시 미정이며 다음 화요일은 커뮤니티 추정이라고 구별한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Reap the Harvest 시작일은 아직 미정이다. ‘다음 화요일’은 커뮤니티 추정이지 확정 일정이 아니다."
+          }
+        ]
+      },
+      {
+        "key": "follow_launch",
+        "subject": "follow",
+        "aspect": "launch_report",
+        "value": "서비스 개시 보도",
+        "statement": "브리핑은 Fair Play Follow Up의 제재 알림과 1,000 Hunt Dollars 보상이 실제 서비스로 전환됐다고 보도한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Fair Play Follow Up은 제재 알림과 1,000 Hunt Dollars 보상을 실제 서비스로 전환했다."
+          }
+        ]
+      },
+      {
+        "key": "follow_caveat",
+        "subject": "follow",
+        "aspect": "compensation_meaning",
+        "value": "교전 치팅 확정과 구별",
+        "statement": "브리핑은 보상 수령이 해당 교전에서 치트 사용이 확인됐다는 뜻은 아니라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "공식 설명은 보상이 곧 해당 교전에서 치트 사용이 확인됐다는 뜻은 아니라고 분명히 구분한다."
+          }
+        ]
+      },
+      {
+        "key": "ping_scope",
+        "subject": "ping",
+        "aspect": "test_scope",
+        "value": "Chapter 3 유럽 · 125ms 초과",
+        "statement": "브리핑은 Chapter 3 동안 유럽 서버에서 125ms 초과 이용자를 별도 매칭하는 시험이라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Fair Play Task Force 공지는 Chapter 3 동안 유럽 서버에서 125ms 초과 이용자를 별도 매칭하는 시험을 진행한다고 설명한다."
+          }
+        ]
+      },
+      {
+        "key": "ping_fallback",
+        "subject": "ping",
+        "aspect": "test_rules",
+        "value": "기준 변경 가능 · 일반 큐 복귀 선택",
+        "statement": "브리핑은 기준값이 바뀔 수 있고 일정 시간 미매칭 시 일반 큐 복귀 선택지가 있다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "기준값은 변경될 수 있으며, 일정 시간 매치가 잡히지 않으면 일반 큐로 돌아갈 선택지가 제공된다."
+          }
+        ]
+      },
+      {
+        "key": "drops_dates",
+        "subject": "drops",
+        "aspect": "campaign_schedule",
+        "value": "2026-10-27 00:00 KST ~ 2026-11-10 00:00 KST",
+        "statement": "브리핑의 일정 항목은 2026년 10월 Twitch Drops 캠페인의 시작과 종료 시각을 한국시간으로 명시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-27T00:00:00+09:00",
+        "effectiveTo": "2026-11-10T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      },
+      {
+        "key": "blood_dates",
+        "subject": "blood",
+        "aspect": "event_schedule",
+        "value": "2026-09-08 ~ 2026-12-08",
+        "statement": "브리핑의 일정 항목은 Blood Testament 이벤트 기간을 2026-09-08부터 2026-12-08까지로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-09-08",
+        "effectiveTo": "2026-12-08",
+        "dateEvidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "tuesday_claim",
+        "subject": "tuesday",
+        "aspect": "rumor",
+        "value": "다음 화요일 개시 추정",
+        "statement": "브리핑에 소개된 다음 화요일 개시 예상은 미확인 루머이며 확정 날짜로 환산하지 않는다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "“Reap the Harvest는 다음 화요일 시작”\n상태: 미확인 · 날짜 공식 발표 없음"
+          }
+        ]
+      },
+      {
+        "key": "global_claim",
+        "subject": "global",
+        "aspect": "rumor",
+        "value": "전 지역 영구화 추정",
+        "statement": "브리핑은 125ms 큐의 전 지역 영구화설을 공식 범위를 넘는 확대 해석으로 다룬다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "“125ms 큐는 곧 전 지역의 영구 규칙이 된다”\n상태: 확대 해석 · 임시 유럽 시험"
+          }
+        ]
+      },
+      {
+        "key": "video_psy_listed",
+        "subject": "video_psy",
+        "aspect": "briefing_video_listing",
+        "value": "Psychoghost Gaming 영상 소개",
+        "statement": "브리핑은 Psychoghost Gaming의 공개 Hunt 영상으로 The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt을 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt · 공개: 2026년 11월 6일 KST"
+          }
+        ]
+      },
+      {
+        "key": "video_rex_listed",
+        "subject": "video_rex",
+        "aspect": "briefing_video_listing",
+        "value": "REXNOR 영상 소개",
+        "statement": "브리핑은 REXNOR의 공개 Hunt 영상으로 Tired Of LOSING? Play This Loadout Instead... | Hunt: Showdown 1896을 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — Tired Of LOSING? Play This Loadout Instead... | Hunt: Showdown 1896 · 공개: 2026년 11월 4일 KST"
+          }
+        ]
+      },
+      {
+        "key": "video_toxic_listed",
+        "subject": "video_toxic",
+        "aspect": "briefing_video_listing",
+        "value": "Toxic Pancake 영상 소개",
+        "statement": "브리핑은 Toxic Pancake의 공개 Hunt 영상으로 PLAGUE DOCTOR returns: NEW legacy chronicle update! (HUNT: Showdown News Roundup)을 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — PLAGUE DOCTOR returns: NEW legacy chronicle update! (HUNT: Showdown News Roundup) · 공개: 2026년 11월 3일 KST"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "reward_lanc",
+        "from": "harvest",
+        "to": "lanc",
+        "type": "rewards",
+        "statement": "브리핑이 예고한 Reap the Harvest Stage 2 보상은 Lancaster다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster는 예정된 공동 이벤트 Reap the Harvest의 Stage 2 보상이고 Cleaver는 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "reward_cleaver",
+        "from": "harvest",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "브리핑이 예고한 Reap the Harvest Stage 4 보상은 Cleaver다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-dc75ad1e8cbc5b32baf11f3a",
+            "quote": "Lancaster는 예정된 공동 이벤트 Reap the Harvest의 Stage 2 보상이고 Cleaver는 Stage 4 보상이다."
+          }
+        ]
+      }
+    ]
+  }
+}
