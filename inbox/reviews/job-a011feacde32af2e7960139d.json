@@ -1,0 +1,81 @@
+{
+  "jobId": "job-a011feacde32af2e7960139d",
+  "sourceHash": "6d3d802bed042178ed7523e7b5a02121b8fdad3719769116be881dbff52d9ca4",
+  "reviewedExtractionHash": "60eb37cdfb33092da845982b82cf5cea8af3258accdf4cc5b61f235c660f0524",
+  "review": {
+    "decisions": [
+      {
+        "key": "ledger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "페이지 명칭과 공개 통계 사이트 문맥이 기존 Bayou Ledger를 가리킨다."
+      },
+      {
+        "key": "index",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "지식 기반이라는 원문 설명이 기존 Bayou Index와 일치한다."
+      },
+      {
+        "key": "roster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문에 The Bayou Roster라는 통계 서비스 명칭이 직접 제시된다."
+      },
+      {
+        "key": "picks",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bayou Ledger의 선택률 기능으로 범위를 한정해 다른 서비스와 혼동하지 않았다."
+      },
+      {
+        "key": "cleave",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "회차가 명시되지 않은 화면 표기를 별도 topic으로 한정했고 2026 이벤트와 합치지 않았다."
+      },
+      {
+        "key": "pick_access",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "모든 무기·특성·도구·무기 조합 선택률이 공개된다는 문장을 정확히 요약했다. 현재 상태로 확장하지 않았다."
+      },
+      {
+        "key": "langs",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "세 새 언어라는 뉴스 제목과 German, French, Spanish 본문이 추가 지원 설명을 뒷받침한다."
+      },
+      {
+        "key": "index_role",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "knowledge base라는 원문을 지식 기반으로 옮겼고 적용일을 만들지 않았다."
+      },
+      {
+        "key": "roster_role",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leaderboard and player stats라는 설명과 서비스명이 일치한다."
+      },
+      {
+        "key": "progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5/5와 500,000,000/500,000,000 및 100% 화면 표기를 보존하고 회차·달성일을 추정하지 않았다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

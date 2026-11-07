@@ -1,0 +1,95 @@
+{
+  "jobId": "job-d1b08db93b12a917d778c2e8",
+  "sourceHash": "87d2c212f8d715e893672d59fffbba2494690a5b50f3dc0f1bbf3ffab3223561",
+  "reviewedExtractionHash": "ab029fb737862d7797cb40665ced5320c9f76a171a3f4d45d99a1d78f9791fd4",
+  "review": {
+    "decisions": [
+      {
+        "key": "follow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "명시된 기능명과 기존 Fair Play Follow Up 시스템의 동일성이 일치한다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "하이픈 표기는 같은 유럽 Chapter 3 고핑 큐 시험을 뜻한다. 영구·전 지역 제도로 합치지 않았다."
+      },
+      {
+        "key": "launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "now live 발표를 당시 서비스 개시로 한정했으며 발행일을 적용일로 넣지 않았다."
+      },
+      {
+        "key": "notification",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "치팅 신고 대상 제재 시 알림이라는 조건을 원문과 대조했다."
+      },
+      {
+        "key": "eligibility",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "특정 기간 내 제재 대상에게 사망한 잠재적 피해자라는 보상 범위를 보존했다."
+      },
+      {
+        "key": "amount",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1000 Hunt Dollars와 평균 장비·헌터 비용을 합산해 올림했다는 설명이 원문에 있다."
+      },
+      {
+        "key": "not_proof",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상과 개별 교전의 핵 사용을 동일시하지 않는 원문의 주의사항을 보존했다."
+      },
+      {
+        "key": "adjust",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "피드백에 따른 시스템·보상 조정은 완료 사실이 아닌 계획으로 표현됐다."
+      },
+      {
+        "key": "test_scope",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽 서버 및 Chapter 3 기간이라는 시험 범위를 그대로 유지했다."
+      },
+      {
+        "key": "threshold",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "above 125 ms와 시험 중 변경 가능 조건을 모두 보존했다."
+      },
+      {
+        "key": "fallback",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 시간 미매칭 시 일반 매치를 선택할 수 있다는 내용이며 자동 복귀로 바꾸지 않았다."
+      },
+      {
+        "key": "team",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시험 시작 시 팀 최고 핑을 사용한다는 조건과 시점을 보존했다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

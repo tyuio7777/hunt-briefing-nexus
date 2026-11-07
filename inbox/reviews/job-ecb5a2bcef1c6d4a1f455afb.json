@@ -1,0 +1,228 @@
+{
+  "jobId": "job-ecb5a2bcef1c6d4a1f455afb",
+  "sourceHash": "35752ef53c32fe5de38d8d732d3b6f1ce324d71673f55add24eb0e24a10c4cf5",
+  "reviewedExtractionHash": "f6a49180570101def8c3bdb997b79a4bb9faafb5f7f20d4ccc814bc93983d85c",
+  "review": {
+    "decisions": [
+      {
+        "key": "lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 Medium Ammo 기본 권총 문맥이 기존 Lancaster와 일치한다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "같은 절에서 Lancaster Cleaver라는 변형명을 명시하며 기본형과 분리했다."
+      },
+      {
+        "key": "harvest",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑 전체에서 Blood Testament Chapter 3 공동 이벤트로 특정된다."
+      },
+      {
+        "key": "follow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 기능명과 제재 알림·보상 설명이 기존 시스템을 가리킨다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽 Chapter 3 임시 시험 문맥에서 하이픈 표기는 같은 고핑 큐를 뜻한다."
+      },
+      {
+        "key": "drops",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 2026년 10월 일정과 캠페인 ID로 해당 회차를 식별했으며 2025·7월 회차와 합치지 않았다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 항목의 2026년 범위와 이벤트명이 기존 2026 Blood Testament와 일치한다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "한국어 패치 노트 표기는 문맥상 같은 Chapter 3 문서이며 다른 업데이트와 합치지 않는다."
+      },
+      {
+        "key": "tuesday",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 명시적 루머 제목을 해당 회차와 브리핑 날짜 범위로 한정했다."
+      },
+      {
+        "key": "global",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "전 지역 영구화설은 별도의 루머 주제이며 실제 유럽 시험과 구분했다."
+      },
+      {
+        "key": "video_psy",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제목·제작자·Part 2가 명시되며 기존 Part 1 영상과 별도 대상으로 식별됐다."
+      },
+      {
+        "key": "video_rex",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑에 명시된 REXNOR 영상 제목으로 특정되며 영상 본문 검증을 주장하지 않는다."
+      },
+      {
+        "key": "video_toxic",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑에 명시된 Toxic Pancake 영상 제목으로 특정되며 실제 영상 내용을 확인했다고 표시하지 않는다."
+      },
+      {
+        "key": "lanc_specs",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 탄약·탄종·쌍수 설명을 브리핑에 귀속했으며 별도 직접 검증 사실로 만들지 않았다."
+      },
+      {
+        "key": "reload",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "남은 실탄까지 배출한다는 브리핑 설명을 보존했고 현재 해금 여부를 추가하지 않았다."
+      },
+      {
+        "key": "cleaver_melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "바로 앞 Lancaster Cleaver 문맥에서 칼날·Heavy Knife 계열 공격을 설명한다."
+      },
+      {
+        "key": "reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 기본형과 Stage 4 Cleaver 보상 구분 및 예정 상태가 일치한다."
+      },
+      {
+        "key": "schedule_unknown",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑 당시 시작일 미정과 화요일 추정이라는 구분을 유지했고 날짜를 계산하지 않았다."
+      },
+      {
+        "key": "follow_launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 서비스 전환 보도를 귀속된 과거 설명으로 유지했다."
+      },
+      {
+        "key": "follow_caveat",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상과 해당 교전의 치트 확인을 구별하는 문구를 보존했다."
+      },
+      {
+        "key": "ping_scope",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3·125ms 초과 시험으로 범위를 한정했고 전 지역 도입으로 확대하지 않았다."
+      },
+      {
+        "key": "ping_fallback",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "변경 가능한 기준과 일정 시간 뒤 일반 큐 복귀 선택이라는 조건을 보존했다."
+      },
+      {
+        "key": "drops_dates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑 일정의 두 ISO 시각과 +09:00을 그대로 사용했고 종료를 날짜 포함 경계로 바꾸지 않았다. 브리핑 귀속 정보다."
+      },
+      {
+        "key": "blood_dates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑에 명시된 2026-09-08 및 2026-12-08을 사용했으며 발행일을 적용일로 대신하지 않았다. 브리핑 귀속 일정이다."
+      },
+      {
+        "key": "tuesday_claim",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문이 미확인으로 명시한 화요일 예상이며 unconfirmed·unknown을 유지하고 확정일을 만들지 않았다."
+      },
+      {
+        "key": "global_claim",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문에서 확대 해석으로 구분한 전 지역 영구화설을 unconfirmed·unknown으로 보존했다."
+      },
+      {
+        "key": "video_psy_listed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 제작자 아래의 영상 소개 제목을 정확히 대응했고 실제 영상 내용 검증으로 확대하지 않았다."
+      },
+      {
+        "key": "video_rex_listed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "REXNOR 아래의 해당 제목을 대조했으며 브리핑의 소개라는 주장으로 한정했다."
+      },
+      {
+        "key": "video_toxic_listed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Toxic Pancake 아래의 해당 제목을 대조했으며 브리핑의 소개라는 주장으로 한정했다."
+      },
+      {
+        "key": "reward_lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑이 공동 이벤트의 Stage 2 보상으로 기본 Lancaster를 명시한다."
+      },
+      {
+        "key": "reward_cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "같은 문장의 Cleaver는 해당 문서의 Lancaster Cleaver이며 Stage 4 보상으로 직접 연결된다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
