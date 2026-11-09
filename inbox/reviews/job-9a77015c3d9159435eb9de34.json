@@ -1,7 +1,7 @@
 {
   "jobId": "job-9a77015c3d9159435eb9de34",
   "sourceHash": "9d9295c69e4cfe5d912d8c81a5651db4b75f39711dc7fd949f4aa64e4e10bcb0",
-  "reviewedExtractionHash": "4b0708b229b38bcde1abe2c0af8ff6182cbc6f768431e44c737be2b43a5e0d9e",
+  "reviewedExtractionHash": "c5bc60a0c9e1967291eaa4b9cda9270f9ba6d654d7317e045b4280c09d2b2b48",
   "review": {
     "decisions": [
       {
@@ -205,7 +205,7 @@
         "supported": true,
         "identityCorrect": true,
         "temporalCorrect": true,
-        "reason": "제목·본문의 Chapter 3 유럽 임시 시험과 catalog scope가 일치한다. 영구·전 지역으로 확장하지 않았다. AI의 원문 의미 대조이며 독립적 사실 확인은 아니다."
+        "reason": "수정된 High-Ping Queue 별칭을 원문 제목과 이어지는 Chapter 3·유럽·125ms 초과 임시 시험 문맥에 다시 대조했다. catalog의 동일 ID·scope 및 기존 별칭과 일치하며 전 지역 영구 규칙으로 확대하지 않는다. AI의 원문 의미 대조이며 독립적 사실 확인은 아니다."
       },
       {
         "key": "steamdb",
