@@ -175,7 +175,9 @@
         "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
         "group": "updates",
         "entityId": "entity-2ae222d993b38738795dacba",
-        "aliases": [],
+        "aliases": [
+          "High-Ping Queue"
+        ],
         "evidence": [
           {
             "sourceId": "source-91a1dbb6a8773cc036a25223",
