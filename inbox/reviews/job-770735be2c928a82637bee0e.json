@@ -1,0 +1,32 @@
+{
+  "jobId": "job-770735be2c928a82637bee0e",
+  "sourceHash": "d64f21e04c36f78e2dc5e11bdd3308236dfec0938797f8a3021918c7bb873a65",
+  "reviewedExtractionHash": "92939d675eb6f9782be77005dc3fd17b2d332b6dabb0c74ad571961940d9022f",
+  "review": {
+    "decisions": [
+      {
+        "key": "self-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "작성자의 수령 경험 진술만 요약했다. 방법의 효과·현재 유효성 또는 독립 검증을 주장하지 않는다. AI의 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "deadline-claim",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "작성자의 구독 드롭스 마감 표현과 일치한다. 시간대·연도를 보충하지 않았고 전체 캠페인 마감과 구별했다. AI의 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "guide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "게시물 제목·URL의 57666 및 본문 작성일 2026.10.28이 가이드 범위를 뒷받침한다. 수집일을 작성일로 쓰지 않았다. AI의 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
