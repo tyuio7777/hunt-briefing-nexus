@@ -1,0 +1,633 @@
+{
+  "jobId": "job-9a77015c3d9159435eb9de34",
+  "sourceHash": "9d9295c69e4cfe5d912d8c81a5651db4b75f39711dc7fd949f4aa64e4e10bcb0",
+  "extraction": {
+    "entities": [
+      {
+        "key": "crow",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "doctor",
+        "label": "Plague Doctor",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "surgeon",
+        "label": "The Plague Surgeon",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "bloodskin",
+        "label": "Bloodskin",
+        "kind": "monster",
+        "scope": "",
+        "group": "world",
+        "entityId": "topic-6660065f355ab190f2b1340d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "knife",
+        "label": "Heavy Knife",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-e28c38a29c794519cbbab046",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "scope": "Blood Testament Chapter 3",
+        "group": "events",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "twitch",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "scope": "2026-10",
+        "group": "events",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "공식 Twitch Drops 페이지는 캠페인 종료 시각을 11월 9일 15:00 UTC로 명시한다. 한국시간으로는 11월 10일 00:00다. Watch Time Rewards와 Support a Streamer 보상은 조건이 다르며, 이미 연결된 동일 캠페인이므로 기존 event_id를 그대로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "support",
+        "label": "Support a Streamer",
+        "kind": "topic",
+        "scope": "",
+        "group": "events",
+        "entityId": "entity-9a520ed1dc016b8597ecae13",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "공식 Twitch Drops 페이지는 캠페인 종료 시각을 11월 9일 15:00 UTC로 명시한다. 한국시간으로는 11월 10일 00:00다. Watch Time Rewards와 Support a Streamer 보상은 조건이 다르며, 이미 연결된 동일 캠페인이므로 기존 event_id를 그대로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "fair",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "scope": "",
+        "group": "updates",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue"
+          }
+        ]
+      },
+      {
+        "key": "queue",
+        "label": "High ping queue",
+        "kind": "system",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "group": "updates",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue"
+          }
+        ]
+      },
+      {
+        "key": "steamdb",
+        "label": "SteamDB",
+        "kind": "topic",
+        "scope": "공개 빌드 기록 서비스",
+        "group": "sources",
+        "entityId": "entity-1375e552e7b8b532def33f7b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "SteamDB 공개 기록에는 11월 8일 본편 패키지와 Test Server 항목 변경이 보인다. 그러나 공개 depot의 마지막 업데이트 표시는 10월 7일이므로, 이 기록만으로 새 핫픽스나 Reap the Harvest 개시를 단정하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "psych",
+        "label": "The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt",
+        "kind": "topic",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "entity-cf98d924c003955021e91545",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt · 공개: 2026년 11월 6일 KST"
+          }
+        ]
+      },
+      {
+        "key": "rex",
+        "label": "The BEST Way To Use The Long Derringer?! | The Hunt: Showdown Experience",
+        "kind": "topic",
+        "scope": "REXNOR 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — The BEST Way To Use The Long Derringer?! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ]
+      },
+      {
+        "key": "toxic",
+        "label": "UPDATE 2.9.3 overview: *NEW* LANCASTER + plague doctor returns! (HUNT: Showdown News Roundup)",
+        "kind": "topic",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — UPDATE 2.9.3 overview: *NEW* LANCASTER + plague doctor returns! (HUNT: Showdown News Roundup) · 공개: 2026년 11월 4일 KST"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "crow-story",
+        "subject": "crow",
+        "aspect": "서사",
+        "value": "Plague Doctor와 Bloodskin 탄생",
+        "statement": "브리핑은 As the Crow Carves가 챌린지를 통해 Plague Doctor와 Bloodskin 탄생의 연관 서사를 공개한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "surgeon-reward",
+        "subject": "surgeon",
+        "aspect": "보상 외형",
+        "value": "새 모습의 Legendary Hunter",
+        "statement": "브리핑은 The Plague Surgeon을 As the Crow Carves 완료 보상에 포함된 새 모습의 Legendary Hunter로 소개한다. Plague Doctor와 별도 명칭·외형으로 보존한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "crow-launch",
+        "subject": "crow",
+        "aspect": "공개일",
+        "value": "2026-11-06",
+        "statement": "브리핑 일정은 As the Crow Carves의 공개일을 2026-11-06으로 기록한다. 챌린지 종료일이나 최초 게임 내 이용 가능일은 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-06",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "{\"end_date\": \"2026-11-06\", \"event_id\": \"hunt-as-the-crow-carves-legacy-chronicle-launch\", \"source_url\": \"https://store.steampowered.com/news/app/594650/view/1848664643346977\", \"start_date\": \"2026-11-06\", \"status\": \"confirmed\", \"summary\": \"Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.\", \"title\": \"As the Crow Carves 공개\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "{\"end_date\": \"2026-11-06\", \"event_id\": \"hunt-as-the-crow-carves-legacy-chronicle-launch\", \"source_url\": \"https://store.steampowered.com/news/app/594650/view/1848664643346977\", \"start_date\": \"2026-11-06\", \"status\": \"confirmed\", \"summary\": \"Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.\", \"title\": \"As the Crow Carves 공개\"}"
+          }
+        ]
+      },
+      {
+        "key": "lancaster-ammo",
+        "subject": "lancaster",
+        "aspect": "탄약 구성",
+        "value": "4/12 Medium Ammo; High Velocity·Poison",
+        "statement": "브리핑은 Chapter 3 패치 노트의 Lancaster를 4/12 Medium Ammo 권총으로, High Velocity·Poison을 지원한다고 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-dual",
+        "subject": "lancaster",
+        "aspect": "쌍수",
+        "value": "가능",
+        "statement": "브리핑은 Lancaster가 쌍수 사용을 지원한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-melee",
+        "subject": "cleaver",
+        "aspect": "근접 변형",
+        "value": "Heavy Knife형 공격",
+        "statement": "브리핑은 Lancaster Cleaver가 Heavy Knife형 근접 공격을 더한 변형이라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "reap-unscheduled",
+        "subject": "reap",
+        "aspect": "시작 일정의 확인 상태",
+        "value": "Chapter 3 후반; 정확한 날짜 미확인",
+        "statement": "브리핑은 Reap the Harvest의 공식 시작 안내를 Chapter 3 후반으로 한정하며 정확한 날짜·시간은 미확인이라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "공식 패치 노트는 “Chapter 3 후반”이라고만 했으며 날짜·시간을 확정하지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "reap-rumor",
+        "subject": "reap",
+        "aspect": "개시일 추측",
+        "value": "11월 10일 개시설",
+        "statement": "브리핑에 수록된 11월 10일 개시설은 미확인 추측이다. 적용일로 등록하지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "“Reap the Harvest는 11월 10일 시작”\n상태: 미확인 · 공식 날짜 없음"
+          }
+        ]
+      },
+      {
+        "key": "twitch-period",
+        "subject": "twitch",
+        "aspect": "캠페인 기간",
+        "value": "2026-10-27T00:00:00+09:00 ~ 2026-11-10T00:00:00+09:00",
+        "statement": "브리핑 일정은 2026년 10월 Twitch Drops의 시작·종료를 해당 KST 시각으로 안내한다. 개별 보상 창의 마감으로 일반화하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-10-27T00:00:00+09:00",
+        "effectiveTo": "2026-11-10T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "{\"end_at\": \"2026-11-10T00:00:00+09:00\", \"end_date\": \"2026-11-10\", \"event_id\": \"hunt-twitch-drops-2026-10-26\", \"source_url\": \"https://www.huntshowdown.com/twitchdrops\", \"start_at\": \"2026-10-27T00:00:00+09:00\", \"start_date\": \"2026-10-27\", \"status\": \"confirmed\", \"summary\": \"시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.\", \"title\": \"2026년 10월 Twitch Drops\"}"
+          }
+        ]
+      },
+      {
+        "key": "support-condition",
+        "subject": "support",
+        "aspect": "보상 조건 구분",
+        "value": "구독·선물 구독 조건",
+        "statement": "브리핑은 Support a Streamer의 구독·선물 구독 조건을 무료 시청 보상과 구분한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "TWITCH DROPS · SUPPORT A STREAMER\n구독·선물 구독 조건은 무료 시청 보상과 별개다. 무료 보상과 유료 지원 보상을 같은 조건으로 합치지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "fair-report",
+        "subject": "fair",
+        "aspect": "브리핑의 운영 설명",
+        "value": "제재 알림 및 1,000 Hunt Dollars",
+        "statement": "브리핑은 Fair Play Follow Up에 관해 신고 후 제재 알림과 1,000 Hunt Dollars 보상이 운영 중이라고 설명한다. 지급 요건 전체나 현재 운영 여부를 추가 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Fair Play Task Force 공지에 따라 신고 후 제재 알림과 1,000 Hunt Dollars 보상이 운영 중이다. 유럽에서는 Chapter 3 기간 125ms 초과 이용자 별도 큐 시험이 진행되며, 기준과 범위는 후속 데이터에 따라 달라질 수 있다."
+          }
+        ]
+      },
+      {
+        "key": "queue-test",
+        "subject": "queue",
+        "aspect": "시험 범위",
+        "value": "Chapter 3 유럽; 125ms 초과",
+        "statement": "브리핑은 Chapter 3 기간 유럽의 125ms 초과 이용자 별도 큐를 임시 시험으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Fair Play Task Force 공지에 따라 신고 후 제재 알림과 1,000 Hunt Dollars 보상이 운영 중이다. 유럽에서는 Chapter 3 기간 125ms 초과 이용자 별도 큐 시험이 진행되며, 기준과 범위는 후속 데이터에 따라 달라질 수 있다."
+          }
+        ]
+      },
+      {
+        "key": "queue-rumor",
+        "subject": "queue",
+        "aspect": "확대·영구화 추측",
+        "value": "전 지역 영구화설",
+        "statement": "브리핑에 수록된 High-Ping Queue 전 지역 영구화설은 미확인 확대 해석이다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "“High-Ping Queue는 곧 전 지역 영구 규칙”\n상태: 확대 해석 · 유럽 임시 시험"
+          }
+        ]
+      },
+      {
+        "key": "steamdb-signal",
+        "subject": "steamdb",
+        "aspect": "배포 관찰 신호",
+        "value": "패키지·Test Server 항목 변경",
+        "statement": "브리핑은 11월 8일 패키지·Test Server 기록과 10월 7일 depot 표시를 구분한다. 이를 새 핫픽스나 Reap the Harvest 개시의 확인으로 취급하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "SteamDB 공개 기록에는 11월 8일 본편 패키지와 Test Server 항목 변경이 보인다. 그러나 공개 depot의 마지막 업데이트 표시는 10월 7일이므로, 이 기록만으로 새 핫픽스나 Reap the Harvest 개시를 단정하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "psych-listing",
+        "subject": "psych",
+        "aspect": "브리핑 수록",
+        "value": "공개 Hunt 영상 소개",
+        "statement": "브리핑은 Psychoghost Gaming의 해당 영상을 2026년 11월 6일 KST 공개 영상으로 소개한다. 영상 본문을 독립 확인한 결과는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Psychoghost Gaming\n유튜브 최신/화제 동영상 — The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt · 공개: 2026년 11월 6일 KST"
+          }
+        ]
+      },
+      {
+        "key": "rex-listing",
+        "subject": "rex",
+        "aspect": "브리핑 수록",
+        "value": "공개 Hunt 영상 소개",
+        "statement": "브리핑은 REXNOR의 해당 영상을 2026년 11월 8일 KST 공개 영상으로 소개한다. 영상 본문을 독립 확인한 결과는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "REXNOR\n유튜브 최신/화제 동영상 — The BEST Way To Use The Long Derringer?! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ]
+      },
+      {
+        "key": "toxic-listing",
+        "subject": "toxic",
+        "aspect": "브리핑 수록",
+        "value": "공개 Hunt 영상 소개",
+        "statement": "브리핑은 Toxic Pancake의 해당 영상을 2026년 11월 4일 KST 공개 영상으로 소개한다. 영상 본문을 독립 확인한 결과는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Toxic Pancake\n유튜브 최신/화제 동영상 — UPDATE 2.9.3 overview: *NEW* LANCASTER + plague doctor returns! (HUNT: Showdown News Roundup) · 공개: 2026년 11월 4일 KST"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "crow-rewards",
+        "from": "crow",
+        "to": "surgeon",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 As the Crow Carves 완료 보상에 The Plague Surgeon이 포함된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Steam 공식 ‘As the Crow Carves’ 공지는 11월 6일 새 Legacy Chronicle을 공개했다. 과거 Plague Doctor로 알려진 인물이 Bloodskin 탄생에 어떤 역할을 했는지 챌린지를 통해 풀어내며, 완료 보상에는 새 모습의 Legendary Hunter The Plague Surgeon이 포함된다."
+          }
+        ]
+      },
+      {
+        "key": "reap-lancaster",
+        "from": "reap",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "브리핑은 Reap the Harvest Stage 2 보상을 Lancaster로 설명하며 실제 해금 완료를 주장하지 않는다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      },
+      {
+        "key": "reap-cleaver",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "브리핑은 Reap the Harvest Stage 4 보상을 Lancaster Cleaver로 설명하며 실제 해금 완료를 주장하지 않는다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-91a1dbb6a8773cc036a25223",
+            "quote": "Chapter 3 패치 노트에서 Lancaster는 4/12 Medium Ammo 권총, High Velocity·Poison 지원, 쌍수 가능으로 소개된다. Lancaster Cleaver는 Heavy Knife형 근접 공격을 더한다. 두 무기는 각각 Reap the Harvest Stage 2와 Stage 4 보상이다."
+          }
+        ]
+      }
+    ]
+  }
+}

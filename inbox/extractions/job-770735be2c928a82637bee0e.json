@@ -1,0 +1,64 @@
+{
+  "jobId": "job-770735be2c928a82637bee0e",
+  "sourceHash": "d64f21e04c36f78e2dc5e11bdd3308236dfec0938797f8a3021918c7bb873a65",
+  "extraction": {
+    "entities": [
+      {
+        "key": "guide",
+        "label": "한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법",
+        "kind": "topic",
+        "scope": "디시인사이드 huntshowdown 게시물 57666 · 2026-10-28",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-3a6d7bce581b11dae6d12903",
+            "quote": "[팁/정보] 한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "self-report",
+        "subject": "guide",
+        "aspect": "작성자의 경험 보고",
+        "value": "구독 보상 수령을 주장",
+        "statement": "공개 가이드 작성자는 제시한 방법으로 보상을 받았다고 주장한다. 방법의 효과나 현재 유효성을 독립 검증한 결과는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-3a6d7bce581b11dae6d12903",
+            "quote": "일단 인증\n본인은 이 방법으로 잘 받아먹음"
+          }
+        ]
+      },
+      {
+        "key": "deadline-claim",
+        "subject": "guide",
+        "aspect": "작성자의 구독 드롭스 마감 안내",
+        "value": "10월 30일 금요일 오후 11시 59분",
+        "statement": "공개 가이드는 구독 드롭스 마감을 10월 30일 금요일 오후 11시 59분이라고 안내한다. 시간대가 없으며 전체 캠페인 마감과 동일시하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-3a6d7bce581b11dae6d12903",
+            "quote": "구독 드랍스는 10월 30일 금요일 오후 11시 59분, 드랍스 캠페인 1주차 끝날때 종료되니 만약 얻고 싶은 훈따들 있으면 꼭꼭꼭 미리 해놔라"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}
