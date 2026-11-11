@@ -1,0 +1,186 @@
+{
+  "jobId": "job-323914b295f1a231e777051f",
+  "sourceHash": "10f571f6bf5aa52f21c9ad61265f8f4323ac1be88c3dc6de308fbc326768e951",
+  "reviewedExtractionHash": "b55357e80be8a50dadf2ec24f5e254d4ec99dbc3f7efb81028e13f818ea5d82e",
+  "review": {
+    "decisions": [
+      {
+        "key": "unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "세 번째 최종 단계 달성·해금을 기사 당시 보도로 한정한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026년 9월 8일은 본문의 명시적 도입 날짜이며 발행일에서 추정하지 않았다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "target-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Boss Target과 Wild Target의 구별이 명시된다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "armor-phase",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "첫 단계의 중장갑·느린 움직임·강한 근접·외피 파괴 설명이 일치한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "agile-phase",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "두 번째 단계의 속도·민첩·순간이동·근접 기습 설명이 일치한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "no-return",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "장갑 형태로 돌아가지 않는다는 기사 문장을 출처에 귀속해 보존했다. 다른 자료를 대체하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "siphon-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "처치 보상 Siphon Burn Trait이 직접 명시된다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "trait-effect",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "적 헌터 루팅 시 Scarce Trait 탈취라는 설명이 일치한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "banish-effect",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추방 중 주변 몬스터 공격성 증가와 Blood Moon 유사성이 명시된다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "teaser",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Gamescom 인터뷰의 Update 2.9·새 악몽 암시를 회고로 구별한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "story-loss",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Corruption 때문에 모든 것을 잃은 Warren 이야기로 귀속한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "serum",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "앞 문장의 Russett를 받는 him과 Lynch의 혈청 제안을 대조했다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "dependency",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "혈청 의존과 강해지는 피의 갈증이 명시된다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "identity-unconfirmed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사가 동일성을 유보하며 후보도 미확인으로 유지한다. 두 개체를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "event",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament의 직접 언급과 2026 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "challenge",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Make Them Bleed의 직접 언급과 2026 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "siphon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Siphon의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "wells",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Wells의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "warren",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Warren Russett의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lynch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lynch의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "gamescom",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Gamescom 2026의 직접 언급과 2026 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "update",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.9의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "moon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Moon의 직접 언급과 개별 대상 범위가 일치한다. 변형·회차를 병합하지 않는다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reward-link",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사의 처치 보상 문장이 직접 관계를 지지한다. AI 원문 의미 대조이며 독립적인 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
