@@ -1,0 +1,522 @@
+{
+  "jobId": "job-650e572296463ff3fced2f53",
+  "sourceHash": "7ece66b11eea458cc1de14c5089910cdae5fce502bced7abb803748c7d246a7e",
+  "reviewedExtractionHash": "bf1c08a0fd8d221e063943cb9e13615908157292e3121c685cd8616c5177ad56",
+  "review": {
+    "decisions": [
+      {
+        "key": "crow-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Plague Doctor의 Bloodskin 탄생 관여라는 이야기 소개가 직접 서술된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-unlocks",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전 완료로 이야기와 보상 해금이라는 조건이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-availability",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Available now를 공지 당시 상태로 한정했다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon-rendition",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "새 버전이라는 표현을 보존하며 인물을 병합하지 않는다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4연장·중형 탄약·회전식 공이·발사 속도 설명이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-eject",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개방 시 모든 탄약 배출이라는 설명이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형의 세 탄종 수치 4/12·4/8·4/12가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형의 양손 사용 설명이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "칼날 변형과 Heavy Knife의 공격 방식·피해 유사성이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 변형의 세 탄종 수치를 기본형과 구별했다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 항목에 양손 사용 가능이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds-spawn",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 신규·기존 감염 구역의 등장 가능성을 보존한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds-count",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "게임당 활성 구역 5개가 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고 대상 제재 후 알림 조건을 보존한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재된 이용자에게 사망한 경우의 환급 설명을 보존한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-scope",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3 기간·임시 시험으로 한정한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-threshold",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "임계값 초과 별도 대기열 및 지연 노출 감소 목적이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-fallback",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치 탐색 실패 시 일반 대기열 복귀가 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-plan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "later를 나중 시점으로 보존하며 날짜나 현재 진행을 추정하지 않는다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stages",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계와 커뮤니티 전체 보상이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치 목표 완료에 의한 포인트 진행이 명시된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-reward-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1단계 5K·1K 수치가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-reward-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2단계 Lancaster 기본형 보상이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-reward-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3단계 10K·2.5K 수치가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-reward-4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4단계 Cleaver 변형 보상이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-reward-5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계 무작위 전설 스킨이 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "week2-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 시청 보상 목록을 보존하고 현재 획득 가능으로 확장하지 않는다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hide-skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Bomb Skin 표기가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-lore",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "사파리 헌터의 자기방어·신뢰성·저지력 설명에 귀속한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "banstats-numbers",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "292·58·9 수치를 게시자의 Crytek 제공 주장으로 한정한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "assassin-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "램프·불·독 조언을 미확인 이용자 의견으로 유지한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "scrap-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "독 조언을 미확인 이용자 의견으로 유지한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "spider-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "불 조언을 미확인 이용자 의견으로 유지한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "rootjaw-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Rootjaw 원문 표기를 유지하고 다른 개체와 병합하지 않는다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "근접·창·카타나 조언을 미확인으로 유지한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "butcher-advice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "sticky 효과의 과장을 수치나 공식 판정으로 승격하지 않는다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "tips-scope",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "이동·소리·장비·협동·탈출 및 100개 팁 소개가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "review-criticism",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치메이킹·상설 모드 비판을 해당 평가자의 의견으로 보존한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "review-team",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "듀오·트리오 협동의 장점에 대한 평가가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "review-modes",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bounty Hunt·Clash 설명을 평가자의 주장으로 한정한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "clash-opinion",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "친구와 빠른 매치에 좋다는 평가가 일치한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "As the Crow Carves의 직접 언급과 'Blood Testament · 2026 Legacy Chronicle' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Plague Doctor의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Plague Surgeon의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 3 Patch Notes의 직접 언급과 'Blood Testament Chapter 3' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster Cleaver의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bileweaver Infested Compounds의 직접 언급과 'Blood Testament Chapter 3' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "High ping queue의 직접 언급과 'Blood Testament Chapter 3 · Europe 임시 시험' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Reap the Harvest의 직접 언급과 'Blood Testament Chapter 3' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Twitch Drops - Week 2 | Blood Testament의 직접 언급과 'Steam 공지 목록 · 2026-11-02' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek의 직접 언급과 '개별 대상' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "banstats",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Weekly Ban Statistics - 02/11/2026 - 08/11/2026의 직접 언급과 'Steam 공개 토론 · Dave의 주간 통계 게시물' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bossguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Boss Guide for new players.의 직접 언급과 'Steam 공개 토론 · Resurgimus의 조언' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "tips",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "100 Tips & Tricks for Hunt: Showdown 1896의 직접 언급과 'Steam 공개 가이드 · MR.SCHMALBERT' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "equipment-guide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Ключевые слова для экипировки의 직접 언급과 'Steam 공개 가이드 · Brain Blockade' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "german-tips",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "100 Tipps und Tricks für Hunt: Showdown 1896의 직접 언급과 'Steam 공개 가이드 · MR.SCHMALBERT' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "settings-guide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "[2025] Hunt Showdown 1896 - BEST PC Settings (Maximize FPS and Visibility)의 직접 언급과 'Steam 공개 가이드 · kph' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "buckshot-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Using Buckshot Long-Range의 직접 언급과 'Steam 공개 영상 · Katherine DeadEye' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "uppercut-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "crytek pls buff uppercut의 직접 언급과 'Steam 공개 영상 · blake' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "music-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown / Продал душу — Музыкальный клип의 직접 언급과 'Steam 공개 영상 · Left for Мыша' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "edit-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt Showdown - A [scumge] Mini Edit의 직접 언급과 'Steam 공개 영상 · scumge pyro' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "review",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "A Unique Masterpiece Undermined by Its Own Systems의 직접 언급과 'Steam 공개 평가 · The_Pale_Prince_of_Ruins' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "clash-review",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Clash의 직접 언급과 'Steam 공개 평가 · STOTANS' 범위를 확인했다. 다른 회차·변형의 통합은 없다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상에 Surgeon이 직접 포함된다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor-bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "탄생 관여가 직접 서술된 관계다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-variant",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형과 변형 관계가 명시되며 개체는 분리한다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2단계 보상표의 명시적 연결이다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4단계 보상표의 명시적 연결이다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "week2-hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 보상 목록의 명시적 연결이다. AI 원문 의미 대조이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
