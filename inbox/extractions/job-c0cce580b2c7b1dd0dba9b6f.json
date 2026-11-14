@@ -1,0 +1,53 @@
+{
+  "jobId": "job-c0cce580b2c7b1dd0dba9b6f",
+  "sourceHash": "e2baaff369ea2cc50b335614b576244d92c1691a3af44533217870bd4721e963",
+  "extraction": {
+    "entities": [
+      {
+        "key": "mmr",
+        "label": "MMR",
+        "kind": "topic",
+        "group": "updates",
+        "scope": "",
+        "entityId": "topic-5a89f81fca23381f58e05617",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-4a52f6792bb369e5f9453658",
+            "quote": "기회가 닿아서 mmr매우 높아 보이는 6성 두명이랑 했는데 매판 0킬, 0킬, 0킬, 1킬, 0킬, 0킬, 2킬, 0킬, 0킬 성적이 지구 내핵 뚫고 내려감"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "mmr-positioning-anecdote",
+        "subject": "mmr",
+        "aspect": "고 MMR 플레이 회고",
+        "value": "게시글 작성자는 3성 친구와 하던 경험을 6성 동료들과의 매치 경험과 비교하며, 이전에는 잘못된 포지셔닝이 처벌되지 않았고 자신의 엄폐 활용이 부족했다고 회고한다. 개인 경험이며 전체 MMR 구간의 일반적 사실로 확정하지 않는다.",
+        "statement": "게시글 작성자는 3성 친구와 하던 경험을 6성 동료들과의 매치 경험과 비교하며, 이전에는 잘못된 포지셔닝이 처벌되지 않았고 자신의 엄폐 활용이 부족했다고 회고한다. 개인 경험이며 전체 MMR 구간의 일반적 사실로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-4a52f6792bb369e5f9453658",
+            "quote": "계속 개돌하다가 죽으면 플레이도 어느새 나도 모르게 소극적이게 되고, 안좋은 포지셔닝이 지금껏 퍼니쉬 당하지 않았을 뿐이지 기본적으로 엄폐 끼는 능력 자체가 부족했구나 싶음"
+          },
+          {
+            "sourceId": "source-4a52f6792bb369e5f9453658",
+            "quote": "맨날 3성 친구랑 해서 난 내가 이겜 좀 치는 줄 알았음 ㅋㅋ"
+          },
+          {
+            "sourceId": "source-4a52f6792bb369e5f9453658",
+            "quote": "기회가 닿아서 mmr매우 높아 보이는 6성 두명이랑 했는데 매판 0킬, 0킬, 0킬, 1킬, 0킬, 0킬, 2킬, 0킬, 0킬 성적이 지구 내핵 뚫고 내려감"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

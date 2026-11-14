@@ -1,0 +1,275 @@
+{
+  "jobId": "job-83715a701babfcb774ee8b3f",
+  "sourceHash": "f3793188117d88581f723a795e77c2ab9898052f58cd112eb160003cf8e24e04",
+  "extraction": {
+    "entities": [
+      {
+        "key": "ledger",
+        "label": "Bayou Ledger",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-b8f2be1ab0a439a4125afc85",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "The Bayou Ledger The Bayou Index Roster Pick rates"
+          }
+        ]
+      },
+      {
+        "key": "index",
+        "label": "Bayou Index",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-32d339a1c6bd35fd3a4700a9",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "roster",
+        "label": "The Bayou Roster",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-d26e9e7ab2c59e7f90b9ea7d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster"
+          }
+        ]
+      },
+      {
+        "key": "cleave",
+        "label": "All Hallows’ Cleave",
+        "kind": "topic",
+        "group": "events",
+        "scope": "Bayou Ledger 수집 화면 · 회차 미상",
+        "entityId": "entity-fa055382c363c59615b0a532",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "All Hallows’ Cleave Stage 5 of 5"
+          }
+        ]
+      },
+      {
+        "key": "nagant-silencer",
+        "label": "Nagant M1895 Silencer",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Nagant M1895 Silencer"
+          }
+        ]
+      },
+      {
+        "key": "vetterli-silencer",
+        "label": "Vetterli 71 Silencer",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Vetterli 71 Silencer"
+          }
+        ]
+      },
+      {
+        "key": "mosin-nagant",
+        "label": "Mosin-Nagant",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Mosin-Nagant"
+          }
+        ]
+      },
+      {
+        "key": "bornheim-silencer",
+        "label": "Bornheim No. 3 Silencer",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Bornheim No. 3 Silencer"
+          }
+        ]
+      },
+      {
+        "key": "ranger",
+        "label": "Ranger 73",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Ranger 73"
+          }
+        ]
+      },
+      {
+        "key": "lemat",
+        "label": "LeMat",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-a981520dc9091144d6d1e65d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Ranger 73\nLeMat"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "ledger-picks",
+        "subject": "ledger",
+        "aspect": "사이트 기능 안내",
+        "value": "Bayou Ledger의 수집 화면은 모든 무기·특성·도구·무기 쌍의 선택률을 누구나 볼 수 있다고 안내한다.",
+        "statement": "Bayou Ledger의 수집 화면은 모든 무기·특성·도구·무기 쌍의 선택률을 누구나 볼 수 있다고 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Pick rates for every weapon, trait, tool and weapon pair is open to everyone."
+          }
+        ]
+      },
+      {
+        "key": "ledger-plans",
+        "subject": "ledger",
+        "aspect": "지원 요금제 안내",
+        "value": "Bayou Ledger의 뉴스는 Contractor와 Banisher 요금제, 최대 12개월 구매 및 새 결제 수단을 안내한다.",
+        "statement": "Bayou Ledger의 뉴스는 Contractor와 Banisher 요금제, 최대 12개월 구매 및 새 결제 수단을 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Supporter plans come down to Contractor and Banisher, sell for up to 12 months and\nget a new payment method."
+          }
+        ]
+      },
+      {
+        "key": "ledger-languages",
+        "subject": "ledger",
+        "aspect": "지원 언어 안내",
+        "value": "Bayou Ledger의 뉴스는 독일어·프랑스어·스페인어 지원을 안내한다.",
+        "statement": "Bayou Ledger의 뉴스는 독일어·프랑스어·스페인어 지원을 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "get a new payment method. The site now reads in German, French and Spanish."
+          }
+        ]
+      },
+      {
+        "key": "index-purpose",
+        "subject": "index",
+        "aspect": "자료 성격",
+        "value": "Bayou Ledger의 뉴스는 Bayou Index를 Hunt: Showdown 1896 지식 기반으로 소개한다.",
+        "statement": "Bayou Ledger의 뉴스는 Bayou Index를 Hunt: Showdown 1896 지식 기반으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "roster-purpose",
+        "subject": "roster",
+        "aspect": "자료 성격",
+        "value": "수집 화면은 The Bayou Roster를 Hunt: Showdown 1896 통계 추적기로 소개한다.",
+        "statement": "수집 화면은 The Bayou Roster를 Hunt: Showdown 1896 통계 추적기로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster"
+          }
+        ]
+      },
+      {
+        "key": "cleave-progress",
+        "subject": "cleave",
+        "aspect": "수집 화면의 진행 표시",
+        "value": "Bayou Ledger 수집 화면의 All Hallows’ Cleave 표시는 5단계 중 5단계, 500,000,000/500,000,000(100%)이다. 해당 회차·달성 날짜와 현재 게임 상태는 이 화면만으로 확정하지 않는다.",
+        "statement": "Bayou Ledger 수집 화면의 All Hallows’ Cleave 표시는 5단계 중 5단계, 500,000,000/500,000,000(100%)이다. 해당 회차·달성 날짜와 현재 게임 상태는 이 화면만으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-b211168e3a350fa2b28924dc",
+            "quote": "All Hallows’ Cleave Stage 5 of 5\n50M125M225M350M500M\n500,000,000 / 500,000,000 100%"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

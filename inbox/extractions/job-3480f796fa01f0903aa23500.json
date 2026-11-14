@@ -1,0 +1,832 @@
+{
+  "jobId": "job-3480f796fa01f0903aa23500",
+  "sourceHash": "2ee0058969c5b4afd8871acc54275e8d560b35d102808d2b17d4f584c605fe0a",
+  "extraction": {
+    "entities": [
+      {
+        "key": "blood-testament",
+        "label": "Blood Testament",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "chapter3",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "kind": "update",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-3feb96921317988a90be869b",
+        "aliases": [
+          "Blood Testament Chapter 3 패치 노트"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Blood Testament Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반에 시작할 공동 이벤트로 소개한다. 다섯 단계 중 Stage 2는 Lancaster, Stage 4는 Lancaster Cleaver를 열지만 시작 날짜와 시각은 적지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "chronicle",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "As the Crow Carves Legacy Chronicle 운영 중"
+          }
+        ]
+      },
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Blood Testament Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반에 시작할 공동 이벤트로 소개한다. 다섯 단계 중 Stage 2는 Lancaster, Stage 4는 Lancaster Cleaver를 열지만 시작 날짜와 시각은 적지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Lancaster는 네 발 장전 Medium Ammo 권총이며 Basic·High Velocity·Poison 탄을 지원하고 쌍수가 가능하다. 실제 사용 가능일은 Stage 2 완료 시점이다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Lancaster Cleaver는 하부 칼날로 Heavy Knife형 근접 공격을 더한다. Stage 4 전에는 패치 노트의 데이터만으로 즉시 사용 가능하다고 보지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "doctor",
+        "label": "Plague Doctor",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-c89f98faf8d3fdcbe5e2375f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 공식 종료일은 명시되지 않았으므로 공개일 일정만 기존 event_id로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "bloodskin",
+        "label": "Bloodskin",
+        "kind": "monster",
+        "group": "world",
+        "scope": "",
+        "entityId": "topic-6660065f355ab190f2b1340d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 공식 종료일은 명시되지 않았으므로 공개일 일정만 기존 event_id로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "surgeon",
+        "label": "The Plague Surgeon",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-72518b826ba95d44ba3633d6",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 공식 종료일은 명시되지 않았으므로 공개일 일정만 기존 event_id로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "fairplay",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue"
+          }
+        ]
+      },
+      {
+        "key": "pingqueue",
+        "label": "High ping queue",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [
+          "High-Ping Queue"
+        ],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue"
+          }
+        ]
+      },
+      {
+        "key": "steamdb",
+        "label": "SteamDB",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "공개 빌드 기록 서비스",
+        "entityId": "entity-1375e552e7b8b532def33f7b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Hunt 본편 SteamDB 기록과 Test Server 기록에는 11월 13일 변경 시점이 보인다. 다만 공식 릴리스 노트나 이벤트 공지가 없으므로 새 핫픽스·Reap 개시로 분류하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "drops",
+        "label": "Twitch Drops",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026-10",
+        "entityId": "entity-32c7fd4d9ab872376ae3ba9f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Twitch Drops 캠페인은 종료 상태\nOFFICIAL · ENDED 2026-11-10 00:00 KST"
+          }
+        ]
+      },
+      {
+        "key": "mmr",
+        "label": "MMR",
+        "kind": "topic",
+        "group": "updates",
+        "scope": "",
+        "entityId": "topic-5a89f81fca23381f58e05617",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "디시인사이드 직접 글은 3성 파티 경험과 6성 로비의 엄폐·동선·딜교 운영 차이를 비교한다. 단순 조준 실력보다 포지셔닝과 교전 선택이 고 MMR에서 더 강하게 처벌된다는 체감 공유다."
+          }
+        ]
+      },
+      {
+        "key": "long-derringer",
+        "label": "Long Derringer",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "topic-e41740306d7a2e1cee4304cc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신 공개 Hunt 영상 — These Long Derringer TRICK SHOTS Are INSANE! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ]
+      },
+      {
+        "key": "bound",
+        "label": "Bound by Blood",
+        "kind": "topic",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-ba62362b89fff8b56e928175",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "영상 직접 보기 · 11월 11일 03:31 KST 공개. Bound by Blood DLC 로드아웃을 실전에서 운용하며 현재 메타의 체감 변화를 짚는다."
+          }
+        ]
+      },
+      {
+        "key": "reap-tuesday-rumor",
+        "label": "Reap the Harvest 다음 화요일 개시설",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Blood Testament Chapter 3 · 2026-11-14 브리핑",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Reap the Harvest 다음 화요일 개시설"
+          }
+        ]
+      },
+      {
+        "key": "build-rumor",
+        "label": "11월 13일 SteamDB 변경이 Reap 직전 배포라는 해석",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Blood Testament Chapter 3 · 2026-11-14 브리핑",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "11월 13일 SteamDB 변경이 Reap 직전 배포라는 해석"
+          }
+        ]
+      },
+      {
+        "key": "psychoghost-video",
+        "label": "Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay · 공개: 2026년 11월 13일 KST"
+          }
+        ]
+      },
+      {
+        "key": "rexnor-video",
+        "label": "These Long Derringer TRICK SHOTS Are INSANE! | The Hunt: Showdown Experience",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "REXNOR 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신 공개 Hunt 영상 — These Long Derringer TRICK SHOTS Are INSANE! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ]
+      },
+      {
+        "key": "toxic-video",
+        "label": "This isn't what it used to be..",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — This isn't what it used to be.. · 공개: 2026년 11월 11일 KST"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "season-period",
+        "subject": "blood-testament",
+        "aspect": "이벤트 기간",
+        "value": "브리핑 일정은 Blood Testament의 기간을 2026-09-08부터 2026-12-08까지로 기록한다.",
+        "statement": "브리핑 일정은 Blood Testament의 기간을 2026-09-08부터 2026-12-08까지로 기록한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-09-08",
+        "effectiveTo": "2026-12-08",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-12-08\", \"event_id\": \"hunt-blood-testament\", \"source_url\": \"https://store.crytek.com/\", \"start_date\": \"2026-09-08\", \"status\": \"confirmed\", \"summary\": \"Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.\", \"title\": \"Blood Testament\"}"
+          }
+        ]
+      },
+      {
+        "key": "chapter-applied",
+        "subject": "chapter3",
+        "aspect": "적용일",
+        "value": "브리핑 일정은 Blood Testament Chapter 3의 적용일을 2026-11-03으로 기록한다.",
+        "statement": "브리핑 일정은 Blood Testament Chapter 3의 적용일을 2026-11-03으로 기록한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-03",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-11-03\", \"event_id\": \"hunt-blood-testament-chapter-3-start\", \"source_url\": \"https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes\", \"start_date\": \"2026-11-03\", \"status\": \"confirmed\", \"summary\": \"Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.\", \"title\": \"Blood Testament Chapter 3 적용\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-11-03\", \"event_id\": \"hunt-blood-testament-chapter-3-start\", \"source_url\": \"https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes\", \"start_date\": \"2026-11-03\", \"status\": \"confirmed\", \"summary\": \"Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.\", \"title\": \"Blood Testament Chapter 3 적용\"}"
+          }
+        ]
+      },
+      {
+        "key": "chronicle-release",
+        "subject": "chronicle",
+        "aspect": "공개일",
+        "value": "브리핑 일정은 As the Crow Carves 공개일을 2026-11-06으로 기록한다. 종료일을 뜻하지 않는다.",
+        "statement": "브리핑 일정은 As the Crow Carves 공개일을 2026-11-06으로 기록한다. 종료일을 뜻하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-06",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-11-06\", \"event_id\": \"hunt-as-the-crow-carves-legacy-chronicle-launch\", \"source_url\": \"https://store.steampowered.com/news/app/594650/view/1848664643346977\", \"start_date\": \"2026-11-06\", \"status\": \"confirmed\", \"summary\": \"Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.\", \"title\": \"As the Crow Carves 공개\"}"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-11-06\", \"event_id\": \"hunt-as-the-crow-carves-legacy-chronicle-launch\", \"source_url\": \"https://store.steampowered.com/news/app/594650/view/1848664643346977\", \"start_date\": \"2026-11-06\", \"status\": \"confirmed\", \"summary\": \"Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.\", \"title\": \"As the Crow Carves 공개\"}"
+          }
+        ]
+      },
+      {
+        "key": "chronicle-story",
+        "subject": "chronicle",
+        "aspect": "서사와 보상",
+        "value": "브리핑은 As the Crow Carves가 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀며 The Plague Surgeon을 보상으로 제공한다고 설명한다. 공식 종료일은 명시되지 않았다고 전한다.",
+        "statement": "브리핑은 As the Crow Carves가 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀며 The Plague Surgeon을 보상으로 제공한다고 설명한다. 공식 종료일은 명시되지 않았다고 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor와 Bloodskin의 연결을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 공식 종료일은 명시되지 않았으므로 공개일 일정만 기존 event_id로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-schedule",
+        "subject": "reap",
+        "aspect": "예정 시점과 날짜 미확인",
+        "value": "브리핑이 인용한 Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반으로 소개하며 시작 날짜·시각은 명시하지 않는다.",
+        "statement": "브리핑이 인용한 Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반으로 소개하며 시작 날짜·시각은 명시하지 않는다.",
+        "applicability": "unknown",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Blood Testament Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반에 시작할 공동 이벤트로 소개한다. 다섯 단계 중 Stage 2는 Lancaster, Stage 4는 Lancaster Cleaver를 열지만 시작 날짜와 시각은 적지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "reap-rewards",
+        "subject": "reap",
+        "aspect": "단계별 보상 구조",
+        "value": "브리핑은 Reap the Harvest 보상을 Stage 1 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin으로 설명한다.",
+        "statement": "브리핑은 Reap the Harvest 보상을 Stage 1 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "공식 Chapter 3 문서가 확인한 것은 5단계 공동 진행과 보상뿐이다. Stage 1은 5K Hunt Dollars·1K Event Points, Stage 2는 Lancaster, Stage 3은 10K Hunt Dollars·2.5K Event Points, Stage 4는 Lancaster Cleaver, Stage 5는 무작위 Legendary Skin이다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-spec",
+        "subject": "lancaster",
+        "aspect": "공개된 무기 설명",
+        "value": "브리핑은 Lancaster를 네 발 장전 Medium Ammo 권총으로 설명하고 Basic·High Velocity·Poison 탄과 쌍수 사용을 안내한다.",
+        "statement": "브리핑은 Lancaster를 네 발 장전 Medium Ammo 권총으로 설명하고 Basic·High Velocity·Poison 탄과 쌍수 사용을 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Lancaster는 네 발 장전 Medium Ammo 권총이며 Basic·High Velocity·Poison 탄을 지원하고 쌍수가 가능하다. 실제 사용 가능일은 Stage 2 완료 시점이다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-unlock",
+        "subject": "lancaster",
+        "aspect": "해금 조건",
+        "value": "브리핑은 Lancaster의 실제 사용 가능 시점을 Reap the Harvest Stage 2 완료 시점으로 설명한다. 구체적인 해금 날짜는 제시하지 않는다.",
+        "statement": "브리핑은 Lancaster의 실제 사용 가능 시점을 Reap the Harvest Stage 2 완료 시점으로 설명한다. 구체적인 해금 날짜는 제시하지 않는다.",
+        "applicability": "unknown",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "REAP THE HARVEST · STAGE 2\nLancaster는 네 발 장전 Medium Ammo 권총이며 Basic·High Velocity·Poison 탄을 지원하고 쌍수가 가능하다. 실제 사용 가능일은 Stage 2 완료 시점이다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-spec",
+        "subject": "cleaver",
+        "aspect": "변형의 근접 공격",
+        "value": "브리핑은 Lancaster Cleaver가 하부 칼날로 Heavy Knife형 근접 공격을 더한다고 설명한다.",
+        "statement": "브리핑은 Lancaster Cleaver가 하부 칼날로 Heavy Knife형 근접 공격을 더한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Lancaster Cleaver는 하부 칼날로 Heavy Knife형 근접 공격을 더한다. Stage 4 전에는 패치 노트의 데이터만으로 즉시 사용 가능하다고 보지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-unlock",
+        "subject": "cleaver",
+        "aspect": "해금 조건",
+        "value": "브리핑은 Lancaster Cleaver를 Reap the Harvest Stage 4 해금 보상으로 설명하며, 패치 노트 수록만으로 즉시 사용 가능하다고 보지 않는다.",
+        "statement": "브리핑은 Lancaster Cleaver를 Reap the Harvest Stage 4 해금 보상으로 설명하며, 패치 노트 수록만으로 즉시 사용 가능하다고 보지 않는다.",
+        "applicability": "unknown",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "REAP THE HARVEST · STAGE 4\nLancaster Cleaver는 하부 칼날로 Heavy Knife형 근접 공격을 더한다. Stage 4 전에는 패치 노트의 데이터만으로 즉시 사용 가능하다고 보지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "fairplay-process",
+        "subject": "fairplay",
+        "aspect": "신고 후속 절차 안내",
+        "value": "브리핑은 Fair Play Follow Up을 신고 대상 이용자 제재 알림과 보상 절차로 소개한다.",
+        "statement": "브리핑은 Fair Play Follow Up을 신고 대상 이용자 제재 알림과 보상 절차로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue\nOFFICIAL · FAIR PLAY\nFair Play Task Force 공지에 따라 신고한 이용자 제재 알림과 보상 절차가 운영 중이며, Chapter 3 동안 유럽에서 125ms 초과 이용자 별도 큐를 시험한다. 일반 큐 복귀 조건이 있어 효과와 부작용 모두 후속 데이터가 필요하다."
+          }
+        ]
+      },
+      {
+        "key": "ping-trial",
+        "subject": "pingqueue",
+        "aspect": "유럽 시험 범위",
+        "value": "브리핑은 Chapter 3 동안 유럽에서 125ms 초과 이용자의 별도 큐를 시험하고 일반 큐 복귀 조건도 있다고 설명한다. 구체적인 복귀 조건은 이 자료에 없다.",
+        "statement": "브리핑은 Chapter 3 동안 유럽에서 125ms 초과 이용자의 별도 큐를 시험하고 일반 큐 복귀 조건도 있다고 설명한다. 구체적인 복귀 조건은 이 자료에 없다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Fair Play Task Force 공지에 따라 신고한 이용자 제재 알림과 보상 절차가 운영 중이며, Chapter 3 동안 유럽에서 125ms 초과 이용자 별도 큐를 시험한다. 일반 큐 복귀 조건이 있어 효과와 부작용 모두 후속 데이터가 필요하다."
+          }
+        ]
+      },
+      {
+        "key": "ping-reactions",
+        "subject": "pingqueue",
+        "aspect": "이용자 체감 보고",
+        "value": "브리핑은 고핑 이용자 노출 감소와 공정성 개선 체감, 남아프리카 이용자의 긴 대기·빈 로비 우려를 함께 전한다. 검증된 보편적 효과로 확정하지 않는다.",
+        "statement": "브리핑은 고핑 이용자 노출 감소와 공정성 개선 체감, 남아프리카 이용자의 긴 대기·빈 로비 우려를 함께 전한다. 검증된 보편적 효과로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Reddit 직접 글에는 고핑 이용자 노출이 줄고 교전이 공정해졌다는 체감이 있는 반면, 공식 공지 토론에는 남아프리카 이용자의 긴 대기와 빈 로비 우려도 기록됐다."
+          }
+        ]
+      },
+      {
+        "key": "build-observation",
+        "subject": "steamdb",
+        "aspect": "본편·테스트 서버 변경 기록",
+        "value": "브리핑은 11월 13일 Hunt 본편과 Test Server SteamDB 변경 기록을 전하지만 공식 릴리스 노트나 이벤트 공지가 없어 새 핫픽스 또는 Reap 개시로 분류하지 않는다.",
+        "statement": "브리핑은 11월 13일 Hunt 본편과 Test Server SteamDB 변경 기록을 전하지만 공식 릴리스 노트나 이벤트 공지가 없어 새 핫픽스 또는 Reap 개시로 분류하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Hunt 본편 SteamDB 기록과 Test Server 기록에는 11월 13일 변경 시점이 보인다. 다만 공식 릴리스 노트나 이벤트 공지가 없으므로 새 핫픽스·Reap 개시로 분류하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "drops-end",
+        "subject": "drops",
+        "aspect": "캠페인 종료 시각",
+        "value": "브리핑은 2026-10-26 회차 Twitch Drops의 종료 시각을 2026-11-10 00:00 KST로 기록한다.",
+        "statement": "브리핑은 2026-10-26 회차 Twitch Drops의 종료 시각을 2026-11-10 00:00 KST로 기록한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "2026-11-10T00:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "OFFICIAL · ENDED 2026-11-10 00:00 KST"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Twitch Drops 캠페인은 종료 상태\nOFFICIAL · ENDED 2026-11-10 00:00 KST\n지난 Drops는 검증된 종료 시각을 지나 종료됐다. 오늘 calendar_events에는 현재 브리핑의 핵심 일정만 유지하며, 과거 JSON의 hunt-twitch-drops-2026-10-26 기록과 정확한 시각은 보존된다."
+          }
+        ]
+      },
+      {
+        "key": "tuesday-uncertain",
+        "subject": "reap-tuesday-rumor",
+        "aspect": "미확인 시작일 추정",
+        "value": "브리핑은 일부 이용자가 다음 화요일을 예상한다고 전하지만 공식 문구는 later in Chapter 3뿐이며 날짜는 미확인이라고 설명한다. 화요일을 특정 날짜로 변환하지 않는다.",
+        "statement": "브리핑은 일부 이용자가 다음 화요일을 예상한다고 전하지만 공식 문구는 later in Chapter 3뿐이며 날짜는 미확인이라고 설명한다. 화요일을 특정 날짜로 변환하지 않는다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Lancaster 대기 토론의 일부 이용자는 관례와 남은 이벤트 기간을 근거로 다음 화요일을 예상한다. 공식 문서는 “later in Chapter 3”만 적고 있어 특정 날짜는 calendar_events에 넣지 않는다. 커뮤니티 신뢰도: 낮음. 공식 확인 여부: 없음."
+          }
+        ]
+      },
+      {
+        "key": "build-uncertain",
+        "subject": "build-rumor",
+        "aspect": "미확인 배포 연결 해석",
+        "value": "브리핑에 소개된 SteamDB 변경과 Reap 직전 배포를 연결하는 해석은 공식 문서로 확인되지 않았다.",
+        "statement": "브리핑에 소개된 SteamDB 변경과 Reap 직전 배포를 연결하는 해석은 공식 문서로 확인되지 않았다.",
+        "applicability": "unknown",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "“SteamDB 변경은 Reap 직전 배포다”\n상태: 정황 해석 · 공식 연결 없음\n11월 13일 본편 기록과 테스트 서버 기록이 같은 날 움직였다는 점은 후속 배포 가능성을 높인다. 그러나 변경 내용과 Reap의 연결을 확인할 공식 문서가 없어 일정·패치로 확정하지 않는다. 커뮤니티 신뢰도: 낮음. 공식 확인 여부: 없음."
+          }
+        ]
+      },
+      {
+        "key": "mmr-report",
+        "subject": "mmr",
+        "aspect": "공개 플레이 회고 소개",
+        "value": "브리핑은 디시인사이드 글의 3성 파티·6성 로비 경험을 엄폐·동선·딜교·포지셔닝 차이에 대한 개인 체감으로 소개한다.",
+        "statement": "브리핑은 디시인사이드 글의 3성 파티·6성 로비 경험을 엄폐·동선·딜교·포지셔닝 차이에 대한 개인 체감으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "디시인사이드 직접 글은 3성 파티 경험과 6성 로비의 엄폐·동선·딜교 운영 차이를 비교한다. 단순 조준 실력보다 포지셔닝과 교전 선택이 고 MMR에서 더 강하게 처벌된다는 체감 공유다."
+          }
+        ]
+      },
+      {
+        "key": "psychoghost-publication",
+        "subject": "psychoghost-video",
+        "aspect": "영상 공개 안내",
+        "value": "브리핑은 Psychoghost Gaming의 해당 영상을 2026-11-13 KST 공개 영상으로 소개한다.",
+        "statement": "브리핑은 Psychoghost Gaming의 해당 영상을 2026-11-13 KST 공개 영상으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-13",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay · 공개: 2026년 11월 13일 KST"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay · 공개: 2026년 11월 13일 KST"
+          }
+        ]
+      },
+      {
+        "key": "rexnor-publication",
+        "subject": "rexnor-video",
+        "aspect": "영상 공개 안내",
+        "value": "브리핑은 REXNOR의 해당 Long Derringer 트릭샷 영상을 2026-11-08 KST 공개 영상으로 소개한다.",
+        "statement": "브리핑은 REXNOR의 해당 Long Derringer 트릭샷 영상을 2026-11-08 KST 공개 영상으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-08",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신 공개 Hunt 영상 — These Long Derringer TRICK SHOTS Are INSANE! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신 공개 Hunt 영상 — These Long Derringer TRICK SHOTS Are INSANE! | The Hunt: Showdown Experience · 공개: 2026년 11월 8일 KST"
+          }
+        ]
+      },
+      {
+        "key": "toxic-publication",
+        "subject": "toxic-video",
+        "aspect": "영상 공개 안내",
+        "value": "브리핑은 Toxic Pancake의 해당 영상을 2026-11-11 KST 공개 영상으로 소개한다.",
+        "statement": "브리핑은 Toxic Pancake의 해당 영상을 2026-11-11 KST 공개 영상으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-11",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — This isn't what it used to be.. · 공개: 2026년 11월 11일 KST"
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "유튜브 최신/화제 동영상 — This isn't what it used to be.. · 공개: 2026년 11월 11일 KST"
+          }
+        ]
+      },
+      {
+        "key": "toxic-content",
+        "subject": "toxic-video",
+        "aspect": "소개된 영상 내용",
+        "value": "브리핑은 해당 Toxic Pancake 영상이 Bound by Blood DLC 로드아웃의 실전 운용과 메타 체감을 다룬다고 소개한다. 영상 원문을 별도로 확인한 결과는 아니다.",
+        "statement": "브리핑은 해당 Toxic Pancake 영상이 Bound by Blood DLC 로드아웃의 실전 운용과 메타 체감을 다룬다고 소개한다. 영상 원문을 별도로 확인한 결과는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "영상 직접 보기 · 11월 11일 03:31 KST 공개. Bound by Blood DLC 로드아웃을 실전에서 운용하며 현재 메타의 체감 변화를 짚는다."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "reap-lancaster",
+        "from": "reap",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Reap the Harvest Stage 2는 Lancaster 해금 보상이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Blood Testament Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반에 시작할 공동 이벤트로 소개한다. 다섯 단계 중 Stage 2는 Lancaster, Stage 4는 Lancaster Cleaver를 열지만 시작 날짜와 시각은 적지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "reap-cleaver",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Reap the Harvest Stage 4는 Lancaster Cleaver 해금 보상이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "Blood Testament Chapter 3 패치 노트는 Reap the Harvest를 Chapter 3 후반에 시작할 공동 이벤트로 소개한다. 다섯 단계 중 Stage 2는 Lancaster, Stage 4는 Lancaster Cleaver를 열지만 시작 날짜와 시각은 적지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "chronicle-surgeon",
+        "from": "chronicle",
+        "to": "surgeon",
+        "type": "rewards",
+        "statement": "브리핑은 As the Crow Carves의 The Plague Surgeon 보상을 안내한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7b9c05d991833f273562acf0",
+            "quote": "{\"end_date\": \"2026-11-06\", \"event_id\": \"hunt-as-the-crow-carves-legacy-chronicle-launch\", \"source_url\": \"https://store.steampowered.com/news/app/594650/view/1848664643346977\", \"start_date\": \"2026-11-06\", \"status\": \"confirmed\", \"summary\": \"Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.\", \"title\": \"As the Crow Carves 공개\"}"
+          }
+        ]
+      }
+    ]
+  }
+}
