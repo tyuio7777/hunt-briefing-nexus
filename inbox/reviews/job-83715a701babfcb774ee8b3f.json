@@ -1,0 +1,123 @@
+{
+  "jobId": "job-83715a701babfcb774ee8b3f",
+  "sourceHash": "f3793188117d88581f723a795e77c2ab9898052f58cd112eb160003cf8e24e04",
+  "reviewedExtractionHash": "ed2db4fe997f32e2e2bca2b7a82daa5b2e94f333a6a49521d15211a6cdcafbb8",
+  "review": {
+    "decisions": [
+      {
+        "key": "ledger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "사이트 머리글의 명칭과 서비스 문맥이 일치하며 다른 서비스와 병합하지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "index",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "뉴스가 Hunt 지식 기반인 Bayou Index를 명시한다. 기존 동일 명칭 서비스와 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "roster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "통계 추적기 소개에서 The Bayou Roster를 직접 명명한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleave",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "수집 화면의 회차 미상 주제로 한정되어 있어 특정 연도 이벤트와 통합하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "nagant-silencer",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치 장비 목록의 Nagant M1895 Silencer를 독립 변형으로 보존한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "vetterli-silencer",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치 장비 목록의 Vetterli 71 Silencer를 일반 Vetterli와 합치지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mosin-nagant",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "목록에 Mosin-Nagant가 명시되며 Sniper 등 다른 변형의 동일성을 주장하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bornheim-silencer",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bornheim No. 3 Silencer가 직접 명시되며 다른 Bornheim 변형과 구분된다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ranger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "매치 장비 항목 Ranger 73의 명칭이 일치하고 출시일·상태를 추가하지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lemat",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "장비 목록의 LeMat 명칭과 기존 무기 대상이 일치한다. 인접 Ranger와 관계를 만들지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ledger-picks",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "모든 무기·특성·도구·무기 쌍 선택률 공개 안내를 정확히 요약하며 현재 상태로 일반화하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ledger-plans",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Contractor·Banisher 및 최대 12개월과 새 결제 수단이 인용에 명시되어 있다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ledger-languages",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "German·French·Spanish의 사이트 지원 안내가 인용과 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "index-purpose",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "지식 기반이라는 설명이 명시되어 있고 연도 없는 Sep 28로 적용일을 만들지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "roster-purpose",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "통계 추적기라는 원문 소개와 일치하며 별도 기능을 추정하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleave-progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5/5와 500,000,000/500,000,000 및 100%가 정확하다. 회차·달성일·현재 게임 상태를 확정하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

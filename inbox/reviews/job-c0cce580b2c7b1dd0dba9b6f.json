@@ -1,0 +1,25 @@
+{
+  "jobId": "job-c0cce580b2c7b1dd0dba9b6f",
+  "sourceHash": "e2baaff369ea2cc50b335614b576244d92c1691a3af44533217870bd4721e963",
+  "reviewedExtractionHash": "e61a1e833f189f067425a5bdfcf14d3e9058f9d2954f05ded9c0ac727b572ee8",
+  "review": {
+    "decisions": [
+      {
+        "key": "mmr",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 높은 mmr 및 6성 동료 문맥이 MMR 주제와 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mmr-positioning-anecdote",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3성 친구, 6성 두 명과의 매치 및 엄폐·포지셔닝 회고가 모두 원문에 있다. 개인 체감으로 귀속하고 수집일을 경험 날짜로 바꾸지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

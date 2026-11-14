@@ -1,0 +1,333 @@
+{
+  "jobId": "job-3480f796fa01f0903aa23500",
+  "sourceHash": "2ee0058969c5b4afd8871acc54275e8d560b35d102808d2b17d4f584c605fe0a",
+  "reviewedExtractionHash": "46e4bfe6be21bd5782ddce78401a1cc93a9bd80b8405b96bfa10a1ee9637770e",
+  "review": {
+    "decisions": [
+      {
+        "key": "blood-testament",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026년 기간과 이벤트 ID가 명시되어 해당 회차의 기존 개체와 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chapter3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "같은 Chapter 3 패치 노트를 가리키는 한국어 별칭과 기존 개체 범위가 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chronicle",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 2026년 Legacy Chronicle 공개 정보가 해당 회차를 식별한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 3 후반 공동 이벤트로 특정되어 다른 회차와 섞이지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "네 발 권총의 명칭을 명시하며 Cleaver 변형과 분리되어 있다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "하부 칼날이 있는 Lancaster Cleaver를 기본형과 별도 개체로 유지한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 Chronicle 서사의 Plague Doctor를 명시하며 Surgeon과 합치지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 Chronicle의 Bloodskin 문맥이 기존 세계관 대상과 일치한다. 새 별칭이나 날짜를 만들지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Plague Surgeon 보상 명칭이 직접 등장하며 Plague Doctor와 구분한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fairplay",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up 제목과 이어지는 신고 후속 절차가 같은 시스템을 가리킨다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "pingqueue",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽 Chapter 3 시험이라는 본문 범위가 기존 개체와 일치한다. High-Ping Queue는 같은 표기의 별칭이다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "steamdb",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본편·테스트 서버 기록을 제공하는 SteamDB 서비스 문맥으로 식별된다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "drops",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 hunt-twitch-drops-2026-10-26가 해당 2026-10 캠페인을 식별한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mmr",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "고 MMR에서의 플레이 회고라는 본문 문맥과 일치한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "long-derringer",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "영상 제목과 설명에 Long Derringer가 직접 등장하며 일반 Derringer와 합치지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bound",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "영상 소개가 Bound by Blood를 DLC로 명시한다. 동명의 다른 대상과 병합하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-tuesday-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 제목과 미확인 설명이 있으며 11월 14일 브리핑 범위로 분리하여 지난 주 화요일 추정과 합치지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "build-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 13일 변경을 Reap 배포와 연결하는 해석의 제목이 직접 존재한다. 확정 업데이트 개체로 만들지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "psychoghost-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Psychoghost Gaming 항목의 제목이 정확히 일치하며 다른 영상과 분리된다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rexnor-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "REXNOR 항목의 정확한 영상 제목과 일치한다. 다른 Long Derringer 영상과 합치지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "toxic-video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Toxic Pancake 항목의 제목과 문맥이 일치하며 동명 가능성을 채널 범위로 구분한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "season-period",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 JSON에 시작·종료 날짜가 모두 명시되어 있다. 브리핑 기록으로 귀속하며 독립 사실 확인을 주장하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chapter-applied",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 JSON의 2026-11-03 적용일을 보존하고 같은 날 end_date를 패치 종료일로 오해하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chronicle-release",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026-11-06은 공개일이라는 설명과 일치한다. Chronicle 종료일을 만들지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chronicle-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제목과 이어지는 본문이 서사 연결·Surgeon 보상·종료일 미명시를 뒷받침한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-schedule",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 후반과 시작 날짜·시각 미명시를 그대로 반영하며 예정일을 계산하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "다섯 단계의 수치와 보상 명칭이 인용과 모두 일치한다. 실제 단계 완료를 주장하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lancaster-spec",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "네 발·Medium Ammo·세 탄종·쌍수 설명이 원문과 일치한다. 현재 해금 여부와 분리했다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lancaster-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 완료 조건이 명시되어 있다. 날짜나 현재 이용 가능 상태를 추가하지 않았다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-spec",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "하부 칼날과 Heavy Knife형 근접 공격 설명이 일치하며 기본형에 잘못 귀속하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 문맥과 전체 단계별 보상 설명이 해금 조건을 뒷받침한다. 즉시 이용 가능으로 처리하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fairplay-process",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재 알림과 보상 절차가 제목 아래 설명에 명시되어 있다. 브리핑 소개로 한정한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-trial",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3·유럽·125ms 초과·복귀 조건 존재가 모두 명시된다. 복귀 세부 조건은 추정하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-reactions",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개선 체감과 남아프리카 대기·빈 로비 우려를 함께 보존하고 보편적 효과로 단정하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "build-observation",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 13일 기록과 공식 패치·Reap 연결 미확인을 구분한다. 실제 패치 적용 날짜를 만들지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "drops-end",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026-10-26 회차와 2026-11-10 00:00 KST가 본문에 명시되며 +09:00 종료 경계로 정확히 보존된다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "tuesday-uncertain",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일부 이용자의 추정에 불과하고 unconfirmed·unknown을 유지한다. 상대 요일을 날짜로 확정하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "build-uncertain",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공식 연결 문서가 없다는 본문과 일치한다. 정황 해석을 미확인으로 보존한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "mmr-report",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문은 개인 플레이 회고의 소개이며 후보도 엄폐·동선·딜교 체감으로 한정한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "psychoghost-publication",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": false,
+        "reason": "날짜와 영상 동일성은 맞지만 본문에 2026-11-13 01:43 KST가 있다. 명시 시각을 날짜로 축약했으므로 정확한 시간대 포함 시각 보존이 필요하다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rexnor-publication",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문은 2026년 11월 8일 KST까지만 명시한다. 일 단위 공개일 보존이 적절하다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "toxic-publication",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": false,
+        "reason": "날짜와 영상 동일성은 맞지만 본문에 2026-11-11 03:31 KST가 있다. 명시 시각을 날짜로 축약했으므로 정확한 시간대 포함 시각 보존이 필요하다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "toxic-content",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "채널 제목 다음 문장이 DLC 로드아웃과 메타 체감을 명시한다. 영상 직접 검증으로 표시하지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "단순 동시 언급이 아니라 Stage 2에서 Lancaster를 연다는 보상 관계가 명시되어 있다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4에서 Lancaster Cleaver를 연다는 보상 관계가 명시되어 있으며 기본형과 구분한다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "chronicle-surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chronicle 일정의 설명에 The Plague Surgeon 보상 제공이 명시되어 있다. 공개일을 관계 종료일로 바꾸지 않는다. 원문에 대한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
