@@ -1,0 +1,83 @@
+{
+  "jobId": "job-90e9fb9fa2ef225b1f7ee9bd",
+  "sourceHash": "1ee8f3e4f72c4939d708911e36e06f4ffd4ca0790d9efb9ade02315a0970eab2",
+  "extraction": {
+    "entities": [
+      {
+        "key": "guide",
+        "label": "한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법",
+        "kind": "topic",
+        "scope": "디시인사이드 공개 게시글 57666 · 2026-10-28",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-466827f3cdc1c84837f879b5",
+            "quote": "[팁/정보] 한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "receipt-report",
+        "subject": "guide",
+        "aspect": "작성자의 보상 획득 보고",
+        "value": "작성자 개인의 성공 주장",
+        "statement": "공개 가이드 작성자는 소개한 방법으로 보상을 받았다고 주장한다. 실제 성공 여부나 현재 재현 가능성을 검증한 기록은 아니다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-466827f3cdc1c84837f879b5",
+            "quote": "일단 인증\n본인은 이 방법으로 잘 받아먹음"
+          }
+        ]
+      },
+      {
+        "key": "renewal-report",
+        "subject": "guide",
+        "aspect": "작성자의 자동 갱신 취소 설명",
+        "value": "다음 달 자동 결제만 중단된다는 주장",
+        "statement": "작성자는 자동 갱신 취소 후 결제한 한 달의 구독과 드롭스가 유지된다고 설명한다. 현재 결제 정책을 확인한 사실로 취급하지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-466827f3cdc1c84837f879b5",
+            "quote": "바로 취소한다고 해도 돈낸 한달동안 그 구독은 유지되고, 다음달 자동 결제만 막히는거니까, 구독 취소 했다고 드랍스 날아갈 걱정은 안해도 됨"
+          }
+        ]
+      },
+      {
+        "key": "deadline-report",
+        "subject": "guide",
+        "aspect": "커뮤니티의 구독 드롭스 마감 주장",
+        "value": "10월 30일 금요일 오후 11시 59분이라는 게시글 주장",
+        "statement": "게시글은 구독 드롭스가 10월 30일 금요일 오후 11시 59분 종료된다고 주장한다. 시간대와 공식 근거가 제시되지 않아 확정 일정이나 ISO 적용일로 변환하지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-466827f3cdc1c84837f879b5",
+            "quote": "구독 드랍스는 10월 30일 금요일 오후 11시 59분, 드랍스 캠페인 1주차 끝날때 종료되니 만약 얻고 싶은 훈따들 있으면 꼭꼭꼭 미리 해놔라"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

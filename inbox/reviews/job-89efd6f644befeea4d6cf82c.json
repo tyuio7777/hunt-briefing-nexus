@@ -1,0 +1,25 @@
+{
+  "jobId": "job-89efd6f644befeea4d6cf82c",
+  "sourceHash": "17570c504a8466d38882341bde0691ae27f7627ccbc6bb763f0e935d451a956c",
+  "reviewedExtractionHash": "d4956d1f211fe24dac120a4a2ad0db1069c2afa954a0de57674f558e313f6352",
+  "review": {
+    "decisions": [
+      {
+        "key": "post",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "게시글 제목과 본문의 게시일 2026.11.10이 범위와 일치한다. 수집 기준일 11월 16일을 게시일로 오인하지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "opinion",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "게시글 본문의 불만을 작성자 의견으로만 요약했으며 전체 여론이나 공식 기간으로 일반화하지 않았다. 원문 기반 AI 의미 검토."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

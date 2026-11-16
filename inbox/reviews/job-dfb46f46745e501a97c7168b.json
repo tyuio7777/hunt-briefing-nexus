@@ -1,0 +1,214 @@
+{
+  "jobId": "job-dfb46f46745e501a97c7168b",
+  "sourceHash": "c385db71e3e1b842d0712aae83d18f9c7502f5f4c5c2f05552d7049918d5cf46",
+  "reviewedExtractionHash": "6c2afe1b54aaa4ac4e5915b6eeb3ad8a73c691dd14a53a2b0a835b4b4e224f0c",
+  "review": {
+    "decisions": [
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 회차와 기존 이벤트 ID가 일치하며 다른 회차와 합치지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 기본 무기로 명시돼 Cleaver 변형과 구분된다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 Lancaster Cleaver 명칭과 기존 변형 ID가 일치한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up 명칭과 시스템 분류가 본문 문맥에 부합한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "chronicle",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 Blood Testament Legacy Chronicle 문맥 및 기존 ID가 일치한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chronicle 보상 명칭이 명시되고 카탈로그의 헌터 개체와 일치한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reap-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 16일 브리핑의 11월 17일 개시설로 범위를 한정해 이전 화요일설과 분리했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "build-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 15일 변경에 관한 추측으로 이전 빌드 날짜의 추측과 구분했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "psycho",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "채널과 전체 영상 제목이 일치하며 별도의 날짜 주장을 추가하지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "rexnor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "REXNOR의 해당 제목 영상으로 범위를 구별했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "toxic",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Toxic Pancake의 해당 제목 영상으로 다른 챌린지 영상과 구분했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "maynard",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문에 Maynard Sniper Silencer 변형이 명시돼 기본형과 합치지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reap-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 다섯 단계 순서와 일치하며 과거 브리핑 재언급으로 한정한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reap-date",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공식 미정이라는 당시 브리핑 판단으로 한정해 현재 상태를 확정하지 않는다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "lancaster-spec",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 문단의 장전수·탄종·쌍수 설명과 일치하는 출처 귀속 주장이다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "lancaster-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 도달 조건을 보존해 이미 사용 가능하다고 바꾸지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 문단이 하부 칼날의 Heavy Knife형 공격을 명시한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "fair-compensation",
+        "supported": false,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문 전체는 신고 대상의 제재를 전제로 한다. 후보는 사망만으로 보상받는 것으로 조건을 축약해 supported=false. AI 의미 대조이며 독립 사실 확인이 아니다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "chronicle-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chronicle 문단에 Plague Doctor와 Bloodskin 탄생의 역할 설명이 명시된다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reap-rumor-status",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "미확인 표기를 유지하고 추측 날짜를 적용일로 추가하지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "build-rumor-status",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "연결 근거 없음이라는 본문 판단을 유지해 배포 사실로 승격하지 않았다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "psycho-content",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Mosin·Crown 솔로 플레이라는 브리핑 소개와 일치하며 영상 직접 검증을 주장하지 않는다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "rexnor-content",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Maynard Sniper Silencer와 보조 권총 구성이라는 브리핑 소개와 일치한다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "toxic-content",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2018년식 규칙의 챌린지라는 소개와 일치하며 2018년 공개 영상으로 오인하지 않는다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "rexnor-published",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 2026년 11월 15일 18:00 KST를 +09:00 ISO 시각으로 정확히 보존했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "toxic-published",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 2026년 11월 16일 03:17 KST를 +09:00 ISO 시각으로 정확히 보존했다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reward-lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 보상이라는 명시적 관계이며 해금 완료를 뜻하지 않는다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "reward-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 보상이라는 명시적 관계이며 기본형과 구별된다. 원문 기반 AI 의미 검토."
+      },
+      {
+        "key": "chronicle-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chronicle 문단에 The Plague Surgeon 보상 제공이 명시돼 단순 동시 언급이 아니다. 원문 기반 AI 의미 검토."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
