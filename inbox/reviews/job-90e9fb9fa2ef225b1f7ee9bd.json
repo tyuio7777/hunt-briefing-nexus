@@ -1,0 +1,39 @@
+{
+  "jobId": "job-90e9fb9fa2ef225b1f7ee9bd",
+  "sourceHash": "1ee8f3e4f72c4939d708911e36e06f4ffd4ca0790d9efb9ade02315a0970eab2",
+  "reviewedExtractionHash": "4d507bf8593fabf06450b5d829aa2a73fbf4c0476b9f4db8eaa945d44e8dc73b",
+  "review": {
+    "decisions": [
+      {
+        "key": "guide",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "제목과 게시물 57666, 본문 작성일 2026-10-28은 확인된다. 그러나 catalog의 entity-585026ec64c1c7d7cc340170과 동일한 게시글인데 entityId가 비어 있고 scope 표현도 달라 중복 개체 후보가 된다. 기존 ID와 scope를 사용한 별도 수정·재검토가 필요하다."
+      },
+      {
+        "key": "receipt-report",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "인용은 작성자의 보상 획득 주장만 뒷받침하며 historical/unconfirmed 및 적용일 공란은 적절하다. 독립적인 성공 확인은 아니다. 다만 subject guide가 catalog의 동일 게시글 ID에 연결되지 않은 중복 후보이므로 동일성 승인을 보류한다."
+      },
+      {
+        "key": "renewal-report",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "원문은 자동 갱신 취소 후 한 달 구독과 드롭스가 유지된다는 작성자의 설명을 담고 있다. 현재 정책으로 확정하지 않고 historical/unconfirmed로 제한한 점은 적절하다. subject guide의 기존 게시글 ID 연결이 누락되어 동일성 승인을 보류한다."
+      },
+      {
+        "key": "deadline-report",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "10월 30일 금요일 오후 11시 59분이라는 작성자의 마감 주장은 인용과 일치한다. 시간대 없는 주장을 확정 일정이나 적용일로 변환하지 않은 점은 적절하다. subject guide가 기존 동일 게시글 ID에 연결되지 않아 동일성 승인을 보류한다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
