@@ -1,0 +1,45 @@
+{
+  "jobId": "job-89efd6f644befeea4d6cf82c",
+  "sourceHash": "17570c504a8466d38882341bde0691ae27f7627ccbc6bb763f0e935d451a956c",
+  "extraction": {
+    "entities": [
+      {
+        "key": "post",
+        "label": "이벤트를 겁나 띄엄띄엄 내네 ㅇㅇ",
+        "kind": "topic",
+        "scope": "디시인사이드 공개 게시글 · 2026-11-10",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2cd2e91f30d2c536bde7a687",
+            "quote": "[잡담] 이벤트를 겁나 띄엄띄엄 내네 ㅇㅇ"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "opinion",
+        "subject": "post",
+        "aspect": "공개 게시글의 의견",
+        "value": "이벤트 간격과 체감 기간에 대한 불만",
+        "statement": "게시글 작성자는 콘텐츠를 간격을 두고 내는 방식과 체감상 긴 시즌에 불만을 표현했다. 전체 이용자 여론이나 공식 일정으로 일반화하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2cd2e91f30d2c536bde7a687",
+            "quote": "어차피 이번 스테이지3도 그냥 배급이던데\n띄엄띄엄 내면 양이 늘어나보이나\n붉은달 곁들인 플레인 시즌 3개월 졸라 길다\nㅇㄱㄹㅇ"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}
