@@ -1,0 +1,1113 @@
+{
+  "jobId": "job-97c7d2a08fc88571b488f7e8",
+  "sourceHash": "1fb17464bc4dbf0a681cfbea4d35a703cea183b04a29f283e81f4bc5554cdff2",
+  "extraction": {
+    "entities": [
+      {
+        "key": "crow",
+        "label": "As the Crow Carves - Legacy Chronicle",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Nov 6 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-3e51ce7f9a1f0b2f4c6247e7",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "As the Crow Carves - Legacy Chronicle\nNov 6"
+          }
+        ]
+      },
+      {
+        "key": "doctor",
+        "label": "Plague Doctor",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-c89f98faf8d3fdcbe5e2375f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ]
+      },
+      {
+        "key": "bloodskin",
+        "label": "Bloodskin",
+        "kind": "monster",
+        "scope": "",
+        "group": "world",
+        "entityId": "topic-6660065f355ab190f2b1340d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ]
+      },
+      {
+        "key": "surgeon",
+        "label": "The Plague Surgeon",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-72518b826ba95d44ba3633d6",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ]
+      },
+      {
+        "key": "patch",
+        "label": "Blood Testament Chapter 3 Patch Notes",
+        "kind": "update",
+        "scope": "Blood Testament Chapter 3",
+        "group": "updates",
+        "entityId": "entity-3feb96921317988a90be869b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Blood Testament Chapter 3 Patch Notes\nNov 3"
+          }
+        ]
+      },
+      {
+        "key": "lanc",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds."
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "knife",
+        "label": "Heavy Knife",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-e28c38a29c794519cbbab046",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "compounds",
+        "label": "Bileweaver Infested Compounds",
+        "kind": "location",
+        "scope": "Blood Testament Chapter 3",
+        "group": "world",
+        "entityId": "entity-6374fd140138b213e6e28d3f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ]
+      },
+      {
+        "key": "fair",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "scope": "",
+        "group": "updates",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Fair Play Follow Up\nPlayers get a follow up notification when a player they reported was banned"
+          }
+        ]
+      },
+      {
+        "key": "ping",
+        "label": "High ping queue",
+        "kind": "system",
+        "scope": "Blood Testament Chapter 3 · Europe 임시 시험",
+        "group": "updates",
+        "entityId": "entity-2ae222d993b38738795dacba",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "scope": "Blood Testament Chapter 3",
+        "group": "events",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches."
+          }
+        ]
+      },
+      {
+        "key": "week2",
+        "label": "Twitch Drops - Week 2 | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Nov 2 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-4af625a867d545ce8176ff03",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Twitch Drops - Week 2 | Blood Testament\nNov 2"
+          }
+        ]
+      },
+      {
+        "key": "hide",
+        "label": "Hide and Seek",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-09474958ce4cdf87b7fe6991",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Keep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "crate",
+        "label": "Supply Crate",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-d2cf006659361eb3ba75cd90",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Keep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "live",
+        "label": "Twitch Drops are live! | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Oct 26 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-b12c30f5b309f576f23312d0",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Twitch Drops are live! | Blood Testament\nOct 26"
+          }
+        ]
+      },
+      {
+        "key": "tomorrow",
+        "label": "Twitch Drops start tomorrow! | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Oct 25 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-b18da7e3a4ef555bdbda5a04",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Twitch Drops start tomorrow! | Blood Testament\nOct 25"
+          }
+        ]
+      },
+      {
+        "key": "leap",
+        "label": "Leap of Faith",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-a69dda93b7d4e7b58eba6856",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "For Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "blog",
+        "label": "Twitch Drops Blog | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Oct 23 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-879e28239477dc42be0de80d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Twitch Drops Blog | Blood Testament\nOct 23"
+          }
+        ]
+      },
+      {
+        "key": "dates",
+        "label": "Twitch Drops Dates | Blood Testament",
+        "kind": "topic",
+        "scope": "Steam 공지 목록 · Oct 20 표기 · 연도 미상",
+        "group": "events",
+        "entityId": "entity-ca401faac3e21df69ac09cee",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Twitch Drops Dates | Blood Testament\nOct 20"
+          }
+        ]
+      },
+      {
+        "key": "survey",
+        "label": "Blood Testament Event Survey",
+        "kind": "topic",
+        "scope": "설문 TB3N9ZB",
+        "group": "events",
+        "entityId": "entity-a80e75f6dc72ca4a3601b246",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Our Blood Testament Event Survey is now open. Let us know what you enjoyed, what could be improved, and what you'd like to see in future events.\nhttps://www.surveymonkey.com/r/TB3N9ZB"
+          }
+        ]
+      },
+      {
+        "key": "cursed",
+        "label": "Cursed Kin",
+        "kind": "topic",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-8d5a16e57a1c0b74fd4fc452",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Find out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "moses",
+        "label": "Moses Poultry",
+        "kind": "location",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-48a467faddba002759d6a658",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "What happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔"
+          }
+        ]
+      },
+      {
+        "key": "pack",
+        "label": "Among Crimson Shadows",
+        "kind": "topic",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-c22ead9ddbeb1bd6f68b2bfe",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Pick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack."
+          }
+        ]
+      },
+      {
+        "key": "hex",
+        "label": "Hex Breaker",
+        "kind": "character",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-f61400f995e3c54760d32281",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Pick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "crow-story",
+        "subject": "crow",
+        "aspect": "story-subject",
+        "value": "Plague Doctor / Bloodskin",
+        "statement": "공지에서는 과거 The Plague Doctor로 알려진 인물이 Bloodskin의 탄생에 관여한 이야기를 다룬다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ]
+      },
+      {
+        "key": "crow-unlock",
+        "subject": "crow",
+        "aspect": "challenge-reward",
+        "value": "The Plague Surgeon",
+        "statement": "공지에서는 도전 과제로 전체 이야기와 보상을 해금하며, 보상에 The Plague Surgeon이라는 익숙한 전설 헌터의 새 모습이 포함된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ]
+      },
+      {
+        "key": "crow-announced",
+        "subject": "crow",
+        "aspect": "availability-at-announcement",
+        "value": "Available now",
+        "statement": "Nov 6으로 표시된 공지는 당시 이용 가능하다고 안내한다. 연도·현재 이용 가능 여부는 이 목록으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "🐦‍⬛ Available now! 🐦‍⬛"
+          }
+        ]
+      },
+      {
+        "key": "lanc-design",
+        "subject": "lanc",
+        "aspect": "design-at-announcement",
+        "value": "four barrels / medium ammo",
+        "statement": "패치 노트는 Lancaster를 회전식 공이로 높은 발사 속도를 내는 4연장 중형탄 권총으로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds."
+          }
+        ]
+      },
+      {
+        "key": "lanc-eject",
+        "subject": "lanc",
+        "aspect": "reload-behavior",
+        "value": "eject all rounds",
+        "statement": "패치 노트에 따르면 브레이크 액션을 열면 모든 탄이 배출된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-melee",
+        "subject": "cleaver",
+        "aspect": "variant-melee",
+        "value": "under-barrel blade",
+        "statement": "Lancaster Cleaver는 하부 칼날을 장착한 Lancaster 변형이며, 근접 공격의 휘두르기 방식과 피해가 Heavy Knife와 유사하다고 설명된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage."
+          }
+        ]
+      },
+      {
+        "key": "lanc-ammo",
+        "subject": "lanc",
+        "aspect": "ammo-at-announcement",
+        "value": "Basic 4/12; High Velocity 4/8; Poison 4/12",
+        "statement": "패치 노트는 탄약 수치를 Basic 4/12, High Velocity 4/8, Poison 4/12로 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "lanc-dual",
+        "subject": "lanc",
+        "aspect": "dual-wield",
+        "value": "supported",
+        "statement": "패치 노트에 양손 동시 장착이 가능하다고 기재되어 있다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-ammo",
+        "subject": "cleaver",
+        "aspect": "ammo-at-announcement",
+        "value": "Basic 4/12; High Velocity 4/8; Poison 4/12",
+        "statement": "패치 노트는 탄약 수치를 Basic 4/12, High Velocity 4/8, Poison 4/12로 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-dual",
+        "subject": "cleaver",
+        "aspect": "dual-wield",
+        "value": "supported",
+        "statement": "패치 노트에 양손 동시 장착이 가능하다고 기재되어 있다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "compounds-spawn",
+        "subject": "compounds",
+        "aspect": "chapter3-spawn",
+        "value": "5 per game",
+        "statement": "Chapter 3에서는 신규·기존 감염 거점 모두 등장 가능성이 있고, 한 게임에 5개 거점이 활성화될 예정이라고 공지가 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "All Bileweaver Infested Compounds (new and Old) will have a chance to spawn in Chapter 3. There will be 5 compounds active per game."
+          }
+        ]
+      },
+      {
+        "key": "fair-notice",
+        "subject": "fair",
+        "aspect": "ban-followup",
+        "value": "reported player banned",
+        "statement": "자신이 신고한 플레이어가 차단되면 후속 알림을 받는다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Players get a follow up notification when a player they reported was banned"
+          }
+        ]
+      },
+      {
+        "key": "fair-refund",
+        "subject": "fair",
+        "aspect": "hunt-dollar-refund",
+        "value": "killed by banned player",
+        "statement": "차단된 플레이어에게 사망한 경우 Hunt Dollar 환급을 받는다고 해당 패치 노트가 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Players get a Hunt Dollar refund when they get killed by a player who was banned"
+          }
+        ]
+      },
+      {
+        "key": "ping-test",
+        "subject": "ping",
+        "aspect": "test-scope",
+        "value": "Europe / Chapter 3",
+        "statement": "Chapter 3 기간 유럽에서 한시 시험하는 큐로 설명되며, 전 지역 영구 적용을 뜻하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "ping-routing",
+        "subject": "ping",
+        "aspect": "queue-routing",
+        "value": "threshold / fallback",
+        "statement": "핑이 기준을 넘으면 별도 큐로 배정하고 매치를 찾지 못하면 일반 매치메이킹 큐로 복귀한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "High ping queue (Temporary test in Europe for the duration of Chapter 3)\nPlayers get matchmade into a separate queue if their ping is above a threshold. The goal is to reduce exposure to high-latency gameplay. Should they not be able to find a match, they rejoin the regular matchmaking queue."
+          }
+        ]
+      },
+      {
+        "key": "reap-plan",
+        "subject": "reap",
+        "aspect": "planned-introduction",
+        "value": "later in Chapter 3",
+        "statement": "공지 당시 Chapter 3 후반에 시작할 예정으로 소개됐으며 정확한 시작일은 제시되지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches."
+          }
+        ]
+      },
+      {
+        "key": "reap-progression",
+        "subject": "reap",
+        "aspect": "progression",
+        "value": "5 stages / match objectives",
+        "statement": "매치 내 목표를 완료해 Community Event Points를 획득하며, 커뮤니티 전체 보상을 주는 5단계로 구성될 예정이라고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "“Reap the Harvest” is a new Community Event that is planned to start later in Chapter 3. The Community Event will consist of 5 Stages, each offering a reward to the whole of the community. Players will progress the Community Event by earning Community Event Points which is done by completing objectives in matches."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage1",
+        "subject": "reap",
+        "aspect": "planned-stage-1",
+        "value": "5K Hunt Dollars & 1K Event Points",
+        "statement": "공지에 기재된 1단계 예정 보상은 5K Hunt Dollars & 1K Event Points이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 1: 5K Hunt Dollars & 1K Event Points"
+          }
+        ]
+      },
+      {
+        "key": "reap-stage2",
+        "subject": "reap",
+        "aspect": "planned-stage-2",
+        "value": "Lancaster (New Weapon)",
+        "statement": "공지에 기재된 2단계 예정 보상은 Lancaster (New Weapon)이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 2: Lancaster (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "reap-stage3",
+        "subject": "reap",
+        "aspect": "planned-stage-3",
+        "value": "10K Hunt Dollars & 2.5K Event Points",
+        "statement": "공지에 기재된 3단계 예정 보상은 10K Hunt Dollars & 2.5K Event Points이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 3: 10K Hunt Dollars & 2.5K Event Points"
+          }
+        ]
+      },
+      {
+        "key": "reap-stage4",
+        "subject": "reap",
+        "aspect": "planned-stage-4",
+        "value": "Lancaster Cleaver (New Weapon)",
+        "statement": "공지에 기재된 4단계 예정 보상은 Lancaster Cleaver (New Weapon)이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 4: Lancaster Cleaver (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "reap-stage5",
+        "subject": "reap",
+        "aspect": "planned-stage-5",
+        "value": "Random Legendary Skin",
+        "statement": "공지에 기재된 5단계 예정 보상은 Random Legendary Skin이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 5: Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "week2-rewards",
+        "subject": "week2",
+        "aspect": "announced-rewards",
+        "value": "Supply Crates / Hide and Seek / random Legendary Hunter",
+        "statement": "2주차 공지는 시청 보상으로 Supply Crates, Hide and Seek 초크 폭탄 스킨, 무작위 전설 헌터 등을 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Keep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "hide-type",
+        "subject": "hide",
+        "aspect": "skin-type",
+        "value": "Choke Bomb Skin",
+        "statement": "공지에서 Hide and Seek는 초크 폭탄 스킨으로 설명된다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Keep on watching your favorite streamers play Hunt: Showdown 1896 to earn Supply Crates, Hide and Seek (Choke Bomb Skin), a random Legendary Hunter, and more this week. 🍂"
+          }
+        ]
+      },
+      {
+        "key": "live-announced",
+        "subject": "live",
+        "aspect": "availability-at-announcement",
+        "value": "live",
+        "statement": "Oct 26 표기 공지는 당시 Twitch Drops 캠페인이 시작됐다고 알린다. 현재 상태나 연도는 이 목록으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "🙌 Twitch Drops are live!"
+          }
+        ]
+      },
+      {
+        "key": "week1-rewards",
+        "subject": "tomorrow",
+        "aspect": "announced-week1-rewards",
+        "value": "Support-a-Streamer / watch-time rewards",
+        "statement": "1주차에는 Support-a-Streamer 보상과 시청 보상이 돌아오며, 시청 보상 예시로 Supply Crates, Leap of Faith, 무작위 전설 스킨이 기재됐다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "For Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "leap-type",
+        "subject": "leap",
+        "aspect": "skin-type",
+        "value": "Stamina Shot Skin",
+        "statement": "Leap of Faith는 스태미나 주사 스킨으로 기재되어 있다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "For Week 1, the beloved Support-a-Streamer rewards are back, joined by watch-time rewards, including:\n📦 Supply Crates\n💉 Leap of Faith (Stamina Shot Skin)\n✨ A Random Legendary Skin"
+          }
+        ]
+      },
+      {
+        "key": "blog-announcement",
+        "subject": "blog",
+        "aspect": "reward-blog",
+        "value": "watching and supporting streamers",
+        "statement": "공지에서는 향후 2주 동안 시청 및 스트리머 지원으로 받을 보상을 블로그에서 소개한다고 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "We're excited to share all the rewards you can earn over the next two weeks simply by watching Hunt: Showdown 1896 and supporting your favorite streamers!"
+          }
+        ]
+      },
+      {
+        "key": "dates-window",
+        "subject": "dates",
+        "aspect": "announced-window",
+        "value": "Oct 26th to Nov 9th; year unspecified",
+        "statement": "공지에는 Twitch 시청 보상 기간이 10월 26일부터 11월 9일까지라고 적혀 있다. 연도·시간대·정확한 종료 시각은 이 목록에 없어 적용일 필드를 비운다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "From Oct 26th to Nov 9th, you’ll have another chance to earn exclusive rewards just by watching your favorite Hunt creators live on Twitch."
+          }
+        ]
+      },
+      {
+        "key": "survey-open",
+        "subject": "survey",
+        "aspect": "availability-at-announcement",
+        "value": "open",
+        "statement": "공지 당시 설문 TB3N9ZB가 열려 있으며 이벤트의 좋았던 점·개선점·향후 기대를 묻는다고 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Our Blood Testament Event Survey is now open. Let us know what you enjoyed, what could be improved, and what you'd like to see in future events."
+          }
+        ]
+      },
+      {
+        "key": "cursed-format",
+        "subject": "cursed",
+        "aspect": "format-at-announcement",
+        "value": "Premium Story Challenge",
+        "statement": "공지에서는 Cursed Kin을 당시 이용 가능한 신규 Premium Story Challenge로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Find out in Cursed Kin, our newest Premium Story Challenge, available now. 🪓"
+          }
+        ]
+      },
+      {
+        "key": "cursed-setting",
+        "subject": "cursed",
+        "aspect": "story-premise",
+        "value": "Moses Poultry",
+        "statement": "Cursed Kin 공지는 소원해진 사촌이 Moses Poultry를 차지하러 나타나는 이야기의 전제를 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Cursed Kin | Premium Story Challenge\nOct 14\nWhat happens when an estranged cousin with a serious bone to pick shows up to take over Moses Poultry? 🐔"
+          }
+        ]
+      },
+      {
+        "key": "pack-content",
+        "subject": "pack",
+        "aspect": "pack-contents",
+        "value": "Hex Breaker / avatar / bonus Blood Bonds",
+        "statement": "스타터 팩 구성으로 Hex Breaker, 그의 아바타, 보너스 Blood Bonds를 안내한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Pick up Hex Breaker, his avatar, and bonus Blood Bonds today in the Among Crimson Shadows Starter Pack."
+          }
+        ]
+      },
+      {
+        "key": "hex-lore",
+        "subject": "hex",
+        "aspect": "lore-description",
+        "value": "battled covens",
+        "statement": "해당 스타터 팩 공지는 소개하는 인물이 문명보다 오래된 마녀 집단과 싸우고 상상 이상의 공포를 견뎠다고 서술한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "He has battled covens older than civilization itself and survived horrors beyond imagining. 🗡️"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "crow-reward",
+        "from": "crow",
+        "to": "surgeon",
+        "type": "rewards",
+        "statement": "도전 과제 보상에 The Plague Surgeon이 포함된다고 공지가 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ]
+      },
+      {
+        "key": "lanc-intro",
+        "from": "lanc",
+        "to": "patch",
+        "type": "introduced_in",
+        "statement": "해당 Chapter 3 패치 노트에서 신규 무기 또는 신규 변형으로 소개된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Weapon: Lancaster\nA four barreled, medium ammo pistol with a rotating firing pin which allows for a high fire rate. Favored by Hunters on safari as a self-defense weapon due to its superior reliability and stopping power. Opening the break-action will always eject all rounds.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-intro",
+        "from": "cleaver",
+        "to": "patch",
+        "type": "introduced_in",
+        "statement": "해당 Chapter 3 패치 노트에서 신규 무기 또는 신규 변형으로 소개된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "New Variant: Lancaster Cleaver\nA variant of the Lancaster with an under-barrel blade, changing its melee attacks to be similar to a Heavy Knife in both swing pattern and damage.\nBasic - 4/12\nHigh Velocity - 4/8\nPoison - 4/12\nCan be dual-wielded."
+          }
+        ]
+      },
+      {
+        "key": "reap-lanc",
+        "from": "reap",
+        "to": "lanc",
+        "type": "rewards",
+        "statement": "2단계 예정 보상으로 Lancaster가 기재되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 2: Lancaster (New Weapon)"
+          }
+        ]
+      },
+      {
+        "key": "reap-cleaver",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "4단계 예정 보상으로 Lancaster Cleaver가 기재되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-7c86a0f7354325be69fb3381",
+            "quote": "Stage 4: Lancaster Cleaver (New Weapon)"
+          }
+        ]
+      }
+    ]
+  }
+}
