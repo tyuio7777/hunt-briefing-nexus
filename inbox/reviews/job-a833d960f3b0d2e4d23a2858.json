@@ -1,0 +1,417 @@
+{
+  "jobId": "job-a833d960f3b0d2e4d23a2858",
+  "sourceHash": "5e12944e7088e5a2f6eb67e2b3f2195b502a215db8aa46f9d6a5c2e0c50ce6b5",
+  "reviewedExtractionHash": "0f29cf6752a863c13c9b7bfed41d2fe210c05d692ec47ab5c56a469eb0cf25bb",
+  "review": {
+    "decisions": [
+      {
+        "key": "lanc-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4연장·중형탄·회전식 공이·높은 발사 속도가 직접 서술된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-eject",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브레이크 액션 개방 시 모든 탄 배출이 명시된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "하부 칼날 및 Heavy Knife와 유사한 휘두르기·피해가 직접 명시된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형 구간의 Basic 4/12, High Velocity 4/8, Poison 4/12와 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형 구간의 Can be dual-wielded가 근거이며 당시 설명으로 한정된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 구간의 세 탄약 수치와 일치하며 기본형과 주체를 구분한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 구간에서 양손 동시 장착이 명시된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds-spawn",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신규·기존 거점 등장 가능성과 매치당 5개 활성화가 Chapter 3 예정 설명에 포함된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "자신이 신고한 플레이어의 차단이라는 알림 조건을 보존한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "차단된 플레이어에게 사망한 경우 환급이라는 문구에 없는 신고 조건을 추가하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-test",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3 기간의 임시 시험을 현재 영구 기능으로 확장하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-routing",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "핑 임계값 초과 시 별도 큐, 매치 실패 시 일반 큐 복귀를 그대로 옮긴다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-plan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": false,
+        "reason": "원문의 later in Chapter 3는 이후 시점을 뜻하지만 후반부로 한정하지 않는다. 'Chapter 3 후반'이라는 좁은 시점은 근거가 부족하여 temporalCorrect=false로 보류한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-progression",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계·전체 커뮤니티 보상·매치 목표를 통한 포인트 획득이 모두 명시되며 예정 설명을 유지한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1단계 예정 보상 5K Hunt Dollars와 1K Event Points가 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2단계 예정 보상 Lancaster가 명시되며 이미 달성되었다고 주장하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3단계 예정 보상 10K Hunt Dollars와 2.5K Event Points가 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4단계 예정 보상 Lancaster Cleaver가 명시되며 기본형과 구분된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계 예정 보상 Random Legendary Skin과 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "week2-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 시청 보상으로 세 항목이 직접 나열되며 무작위 헌터를 스킨으로 바꾸지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "hide-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "괄호 안 Choke Bomb Skin을 그대로 설명한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "live-announced",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 26일 표기 공지 당시의 live 안내이며 현재 이용 가능 상태를 주장하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "week1-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Support-a-Streamer 보상 재등장 및 나열된 시청 보상 설명을 유지한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "leap-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "괄호 안 Stamina Shot Skin과 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "blog-announcement",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시청·스트리머 지원을 통한 향후 2주 보상과 블로그 안내 문맥에 부합한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "dates-window",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 26일~11월 9일 문구만 보존하며 원문에 없는 연도·시간대·정확한 종료 시각을 생성하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "survey-open",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "설문 개방과 피드백 항목이 직접 명시되고 당시의 상태로 한정된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "瘟疫医生의 과거와 血魔 탄생 과정의 이야기를 소개하는 문구에 부합하며 별도 인물 동일성 관계를 생성하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-reward",
+        "supported": false,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "원문은 익숙한 전설 헌터의 새 버전을 瘟疫外科医生로 명명한다. 후보는 瘟疫外科医生라는 익숙한 헌터의 새 모습으로 수식하여 기존 헌터 이름과 새 보상 이름을 혼동할 수 있다. supported와 identityCorrect를 false로 보류한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "kin-premise",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원한을 품은 먼 친척의 방문과 摩西养鸡场 탈취 의도를 이야기 전제로 서술한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "kin-available",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "새 이야기 도전의 당시 공개 안내를 보존하며 현재 상태를 단정하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "pack-items",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "破咒人 헌터·配套头像·추가 血脉券이 구성품으로 직접 나열된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "pack-window",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 전 플랫폼 공개 및 血之遗证 활동 기간 한정 공급을 보존하고 실제 날짜는 추정하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "pack-lore",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "末代伊莱亚斯의 부름과 문명보다 오래된 마녀 집단과의 싸움·생존이 팩 소개의 서사로 명시된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제목과 Chapter 3 범위가 일치하며 별도 패치 회차와 합치지 않았다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신규 기본 무기 Lancaster가 명시되고 Cleaver 변형과 ID가 구분된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster의 하부 칼날 변형으로 직접 명시되어 기본형과 구분된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife는 근접 공격 비교 대상 무기로 직접 등장한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "감염 거점 명칭과 Chapter 3 범위를 보존한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "후속 통지·환급 시스템 제목이 원문과 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽의 Chapter 3 한시 시험이라는 범위를 보존한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3에 예정된 동명 커뮤니티 이벤트로 범위가 한정된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 2일 표기 2주차 공지이며 연도 미상 범위와 기존 ID가 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문이 Hide and Seek를 Choke Bomb Skin으로 명시한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "crate",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시청 보상의 Supply Crates를 단수 명칭으로 정규화했으며 다른 상품을 추가하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "live",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 26일 표기 개시 공지를 연도 미상 주제로 구분한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "tomorrow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 25일 표기 사전 안내를 개시 공지 및 다른 회차와 구분한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "leap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith가 Stamina Shot Skin으로 직접 명시된다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "blog",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 23일 표기 블로그 소개 공지의 제목과 범위가 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "dates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 20일 표기 기간 안내를 연도 미상 주제로 유지한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "survey",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "설문 명칭과 URL의 TB3N9ZB 식별자가 일치한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-zh",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중국어 제목 및 11월 6일 표기가 일치하며 영어 명칭과의 동일성을 새로 주장하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "kin-zh",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중국어 이야기 도전의 고유 제목을 보존하며 다른 언어의 대상을 임의로 병합하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "pack-zh",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중국어 동봉팩의 제목을 보존하며 다른 언어 명칭과의 동일성을 단정하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-intro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 패치의 New Weapon 제목이 도입 관계를 직접 뒷받침하며 날짜를 추가하지 않는다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-intro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 패치의 New Variant 제목이 변형 도입을 직접 뒷받침한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "이벤트 단계 보상 목록의 Stage 2가 Lancaster를 직접 연결하며 예정 상태를 유지한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "이벤트 단계 보상 목록의 Stage 4가 Cleaver를 직접 연결하며 기본형 및 달성 사실과 구분한다. 원문 의미·동일성·시점의 AI 대조이며 독립적인 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
