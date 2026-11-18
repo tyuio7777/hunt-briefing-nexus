@@ -1,0 +1,473 @@
+{
+  "jobId": "job-ef995a190a09204312b4a34f",
+  "sourceHash": "5ec81ad221a4a6a327d1afb669cd7ab81de5073646632df7eb7b0ee617b92a73",
+  "reviewedExtractionHash": "aa8a3a25072421dddea3d5a59099eeff2e96a338d0d14b963f257b4b8cb30e71",
+  "review": {
+    "decisions": [
+      {
+        "key": "crow-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Plague Doctor의 Bloodskin 탄생 관여 이야기와 일치. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전으로 해금하는 보상에 Surgeon 포함. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-announced",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문 해당 공지의 당시 Available now로 한정하고 최초 개시일을 추정하지 않음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-design",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4연장·중형탄·회전 공이·높은 발사 속도 설명과 일치. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-eject",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개방 시 모든 탄 배출 조건과 일치. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "하부 칼날 변형 및 Heavy Knife와의 유사성만 기술. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형의 4/12·4/8·4/12 수치 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기본형 양손 장착 문장 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 문단의 4/12·4/8·4/12 수치 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-dual",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "변형 양손 장착 문장 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds-spawn",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 신규·기존 거점 등장 가능성과 게임당 5개 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-notice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고한 대상의 차단 시 알림 조건 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fair-refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "차단 대상에게 사망한 경우 환급이며 신고 조건은 추가하지 않음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-test",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Europe·Chapter 3 한시 시험 범위 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping-routing",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "임계치 초과 별도 큐 및 실패 시 일반 큐 복귀 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-plan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 후반 예정 안내로 한정. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-progression",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "목표 완료 포인트·전체 보상·5단계 설명 일치. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1단계 보상 명칭·수치 일치, 해금 완료 아닌 예정으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2단계 보상 명칭·수치 일치, 해금 완료 아닌 예정으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3단계 보상 명칭·수치 일치, 해금 완료 아닌 예정으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4단계 보상 명칭·수치 일치, 해금 완료 아닌 예정으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-stage5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계 보상 명칭·수치 일치, 해금 완료 아닌 예정으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week2-rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Supply Crates·Hide and Seek·무작위 전설 헌터 보상 일치. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "hide-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Bomb Skin 분류 명시. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-tips-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "100개 팁·이동·소리·장비·팀워크·탈출 및 번호·목차 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-build-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "build/check/roll/link와 팬 사이트 귀속 확인. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-cheap-en-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5개 구성·$687~$837·Quartermaster 불필요라는 소개에만 귀속. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-cheap-pt-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "포르투갈어 소개의 5개 구성·가격·특성 조건 보존, 영어 문서와 합치지 않음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-ballistics-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "러시아어 설명의 조준·그래픽·소리·솔로 주제 일치, 엔진 버전 사실화 없음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-bloodmoon-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시인성·반복 불만 및 이탈 추측을 미확인 의견으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-meta-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "berthier+shotgun 선호 의견이며 실제 무기 사용 불가로 해석하지 않음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-slug-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "25/30m 비판·15m 또는 특성 조건 제안을 실제 변경과 구분. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-ping-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "200~250ms·지역 잠금 불필요를 조건부 의견으로 보존. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-hunger-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "경쟁작 인상 및 개발 자극 기대를 사실화하지 않음. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "before-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "free fan site 문구에 직접 근거. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'As the Crow Carves' 명칭과 Blood Testament · 2026 Legacy Chronicle 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Plague Doctor' 명칭과 character 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Bloodskin' 명칭과 monster 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'The Plague Surgeon' 명칭과 character 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Blood Testament Chapter 3 Patch Notes' 명칭과 Blood Testament Chapter 3 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Lancaster' 명칭과 weapon 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Lancaster Cleaver' 명칭과 weapon 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Heavy Knife' 명칭과 weapon 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Bileweaver Infested Compounds' 명칭과 Blood Testament Chapter 3 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Fair Play Follow Up' 명칭과 system 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'High ping queue' 명칭과 Blood Testament Chapter 3 · Europe 임시 시험 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Reap the Harvest' 명칭과 Blood Testament Chapter 3 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Twitch Drops - Week 2 | Blood Testament' 명칭과 Steam 공지 목록 · 2026-11-02 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Hide and Seek' 명칭과 topic 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crate",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Supply Crate' 명칭과 topic 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-tips",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 '100 Tips & Tricks for Hunt: Showdown 1896' 명칭과 Steam 공개 가이드 · MR.SCHMALBERT 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-build",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'How to build and share your loadout (Before The Hunt)' 명칭과 Steam 공개 가이드 · Before The Hunt · 영어 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-cheap-en",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Beginner loadout: 5 cheap kits and why they work (Before The Hunt)' 명칭과 Steam 공개 가이드 · Before The Hunt · 영어 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-cheap-pt",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Loadout para iniciante: 5 kits baratos e o porquê (Before The Hunt)' 명칭과 Steam 공개 가이드 · Before The Hunt · 포르투갈어 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "guide-ballistics",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант' 명칭과 Steam 공개 가이드 · Masurtic · 러시아어 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-bloodmoon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Can't help but feel the devs have REALLY damaged this game.' 명칭과 Steam 공개 토론 · NitroG · 목록 발췌 · 날짜 미상 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-meta",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'meta has rotten' 명칭과 Steam 공개 토론 · Tryhard · 목록 발췌 · 날짜 미상 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-slug",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'The Shotgun Slug Meta is ruining the game' 명칭과 Steam 공개 토론 · Eien no Shuujin · 목록 발췌 · 날짜 미상 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'the ping limit' 명칭과 Steam 공개 토론 · Duncan.Idaho · 목록 발췌 · 날짜 미상 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "discussion-hunger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'yall gona try hunger?' 명칭과 Steam 공개 토론 · ClassyHobo · 목록 발췌 · 날짜 미상 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "before",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 'Before The Hunt' 명칭과 무료 Hunt 팬 사이트 범위를 확인했다. 별칭 추가나 다른 변형·회차 통합이 없다. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전 보상 Surgeon의 직접 관계. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc-intro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "New Weapon 문단의 패치 도입 관계. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver-intro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "New Variant 문단의 변형 도입 관계. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "예정 Stage 2의 Lancaster 보상. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "예정 Stage 4의 Cleaver 보상. 당시 출처에 한정한 AI 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
