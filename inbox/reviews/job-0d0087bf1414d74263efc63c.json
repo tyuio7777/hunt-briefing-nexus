@@ -1,0 +1,172 @@
+{
+  "jobId": "job-0d0087bf1414d74263efc63c",
+  "sourceHash": "3a271888248ab239c00a54859f3a29cb5a2deb3e32dafdee0def65e5b77e89c5",
+  "reviewedExtractionHash": "0c24ed170f15a96626f96bc68f591122bd3a3ec16208226d07564a1cff6a5e95",
+  "review": {
+    "decisions": [
+      {
+        "key": "launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사의 September 8, 2026 시작 보도에만 귀속. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "stage",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3번째 최종 단계 달성과 당시 해금 보도이며 날짜 미추정. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "boss-class",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wild Target과 구분한 Boss Target 보도 명시. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "phase1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "장갑·느린 이동·강한 근접 공격 설명 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "phase2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "속도·순간이동·근접 공격·장갑 복귀 없음 설명 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "처치 보상 Siphon Burn Trait 보도 명시. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "steal",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "적 헌터 약탈 시 Scarce Trait 탈취 설명 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "banish",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추방 중 주변 몬스터 공격성 지속 보도 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "tease",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Gamescom 인터뷰와 Update 2.9 악몽 예고 문맥 확인. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "warren-story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Corruption으로 상실 및 Lynch 혈청 제안 서사 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "dependency",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Russett의 갈증·혈청 의존 서사 일치. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "identity-open",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사 자체의 동일성 유보를 미확인으로 유지. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "availability",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사 당시 가능 안내이며 현재로 확대하지 않음. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Bloodskin' 명칭과 monster 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "testament",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Blood Testament' 명칭과 2026 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bleed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Make Them Bleed' 명칭과 2026 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "siphon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Siphon' 명칭과 trait 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "wells",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Blood Wells' 명칭과 system 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "warren",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Warren Russett' 명칭과 character 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lynch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Lynch' 명칭과 character 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "gamescom",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Gamescom 2026' 명칭과 2026 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "update",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 'Update 2.9' 명칭과 update 대상 확인, 다른 변형·회차와 구분. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reward-link",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "기사의 처치 보상 관계에 직접 근거. AI 원문 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
