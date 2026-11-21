@@ -1,0 +1,45 @@
+{
+  "jobId": "job-2fd7fbf5d0f8fa578db86ba6",
+  "sourceHash": "c0942772596228c4af91421b4a89b0c15dc55d985b5a7590a2c8df3956730267",
+  "extraction": {
+    "entities": [
+      {
+        "key": "post",
+        "label": "빨간약 한사발 드링킹 했다",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "DCInside 공개 게시물 · no=57908",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a940423881f089505ac969ea",
+            "quote": "[잡담] 빨간약 한사발 드링킹 했다앱에서 작성"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "positioning",
+        "subject": "post",
+        "aspect": "이용자 회고",
+        "value": "엄폐·포지셔닝 부족 체감",
+        "statement": "게시물 작성자는 높은 MMR 파티 경험 뒤 자신의 엄폐와 포지셔닝 부족을 체감했다고 서술한다. 개인 경험이며 전체 매치메이킹의 일반적 특성으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a940423881f089505ac969ea",
+            "quote": "계속 개돌하다가 죽으면 플레이도 어느새 나도 모르게 소극적이게 되고, 안좋은 포지셔닝이 지금껏 퍼니쉬 당하지 않았을 뿐이지 기본적으로 엄폐 끼는 능력 자체가 부족했구나 싶음"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

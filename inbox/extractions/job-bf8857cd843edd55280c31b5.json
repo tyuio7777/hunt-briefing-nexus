@@ -1,0 +1,25 @@
+{
+  "jobId": "job-bf8857cd843edd55280c31b5",
+  "sourceHash": "dee488e546fb6a46d27a42eb4164a70f86af3b2c918e73f7a2b6afb1f21542be",
+  "extraction": {
+    "entities": [
+      {
+        "key": "video",
+        "label": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "YouTube 공개 영상 · na67cXkn1uc",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-89a4c855ca880894d86f797a",
+            "quote": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896 - YouTube"
+          }
+        ]
+      }
+    ],
+    "assertions": [],
+    "relations": []
+  }
+}

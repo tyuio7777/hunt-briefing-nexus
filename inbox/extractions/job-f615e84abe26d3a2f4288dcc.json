@@ -1,0 +1,533 @@
+{
+  "jobId": "job-f615e84abe26d3a2f4288dcc",
+  "sourceHash": "322762fd101f0c097b9a5a8051ca97a7efad84447995ce65cd4b0d027463b4af",
+  "extraction": {
+    "entities": [
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 18일(KST) Reap the Harvest 진행 공식 확인과 커뮤니티 위키의 Stage 1 기록을 구분해 정리했습니다. As the Crow Carves는 11월 7일(KST) 공식 이용 가능 공지를 확인했으며, Reap의 11월 17일은 공식 이미지에 적힌 날짜이며 시간대는 명시되지 않았습니다. As the Crow Carves는 커뮤니티 기록에 따라 11월 3일을 표시하되 공식 개시일로 확정하지 않았습니다."
+          }
+        ]
+      },
+      {
+        "key": "crow",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 18일(KST) Reap the Harvest 진행 공식 확인과 커뮤니티 위키의 Stage 1 기록을 구분해 정리했습니다. As the Crow Carves는 11월 7일(KST) 공식 이용 가능 공지를 확인했으며, Reap의 11월 17일은 공식 이미지에 적힌 날짜이며 시간대는 명시되지 않았습니다. As the Crow Carves는 커뮤니티 기록에 따라 11월 3일을 표시하되 공식 개시일로 확정하지 않았습니다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Lancaster 조합 토론"
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 18일 01:50 KST 공식 커뮤니티 게시물은 Blood Testament의 마지막 Community Event인 Reap the Harvest가 이미 진행 중이라고 알렸다. 행사 이미지에 표시된 개시 안내일은 11월 17일(시간·시간대 미표기)이다. 캘린더에는 공지 이미지의 날짜만 기록하며 서버가 열린 정확한 시각과 종료일은 확인되지 않았다. 이용자는 매치 목표로 공동 포인트를 모아 Hunt Dollars·Event Points·Lancaster·Lancaster Cleaver·무작위 Legendary Skin을 차례로 해금한다."
+          }
+        ]
+      },
+      {
+        "key": "blood",
+        "label": "Blood Testament",
+        "kind": "event",
+        "group": "events",
+        "scope": "2026",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Blood Testament Chapter 3와 As the Crow Carves"
+          }
+        ]
+      },
+      {
+        "key": "steamdb",
+        "label": "SteamDB",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "공개 빌드 기록 서비스",
+        "entityId": "entity-1375e552e7b8b532def33f7b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 19일 SteamDB 변경의 핫픽스 연결설"
+          }
+        ]
+      },
+      {
+        "key": "video-0",
+        "label": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt — 10월 Twitch Drops 기간의 저격전·밈·솔로 플레이 하이라이트를 장편으로 묶었다."
+          }
+        ]
+      },
+      {
+        "key": "video-1",
+        "label": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896",
+        "scope": "YouTube 공개 영상 · na67cXkn1uc",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896 — 두 라운드의 Hunt Dollars 수익 구조와 생존·약탈·보상 흐름을 실전 사례로 보여 준다."
+          }
+        ]
+      },
+      {
+        "key": "video-2",
+        "label": "Playing HUNT: Showdown like it's 2018..",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Playing HUNT: Showdown like it's 2018.. — 최신 장비 편의보다 초기 Hunt 스타일의 제한된 운용과 긴장감을 재현한다."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "reap-announcement",
+        "subject": "reap",
+        "aspect": "과거 진행 공지",
+        "value": "11월 18일 01:50 KST 게시물이 이미 진행 중이라고 안내",
+        "statement": "브리핑은 11월 18일 01:50 KST 공식 커뮤니티 게시물이 Reap 진행 중임을 알렸다고 전한다. 게시 시각을 서버 개시 시각으로 취급하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 18일 01:50 KST 공식 커뮤니티 게시물은 Blood Testament의 마지막 Community Event인 Reap the Harvest가 이미 진행 중이라고 알렸다. 행사 이미지에 표시된 개시 안내일은 11월 17일(시간·시간대 미표기)이다. 캘린더에는 공지 이미지의 날짜만 기록하며 서버가 열린 정확한 시각과 종료일은 확인되지 않았다. 이용자는 매치 목표로 공동 포인트를 모아 Hunt Dollars·Event Points·Lancaster·Lancaster Cleaver·무작위 Legendary Skin을 차례로 해금한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-image-date",
+        "subject": "reap",
+        "aspect": "공지 이미지의 개시 안내일",
+        "value": "11월 17일·시간대 미표기",
+        "statement": "브리핑은 행사 이미지의 11월 17일 개시 안내일과 시간·시간대 부재를 기록한다. 정확한 서버 개시 시각과 종료일은 미확인이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "11월 18일 01:50 KST 공식 커뮤니티 게시물은 Blood Testament의 마지막 Community Event인 Reap the Harvest가 이미 진행 중이라고 알렸다. 행사 이미지에 표시된 개시 안내일은 11월 17일(시간·시간대 미표기)이다. 캘린더에는 공지 이미지의 날짜만 기록하며 서버가 열린 정확한 시각과 종료일은 확인되지 않았다. 이용자는 매치 목표로 공동 포인트를 모아 Hunt Dollars·Event Points·Lancaster·Lancaster Cleaver·무작위 Legendary Skin을 차례로 해금한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage1-record",
+        "subject": "reap",
+        "aspect": "커뮤니티 단계 완료 기록",
+        "value": "5천만 포인트·11월 19일 Stage 1 완료 기록",
+        "statement": "브리핑은 커뮤니티 위키의 5천만 포인트 Stage 1 완료일을 11월 19일로 전하며 공식 완료일은 미확인이라고 명시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "커뮤니티 위키에는 5천만 포인트 단계가 11월 19일 완료된 것으로 기록돼 있다. 공식 완료일은 확인되지 않았다. 보상은 5K Hunt Dollars와 1K Event Points다. 다음 실질 체크포인트는 Stage 2의 Lancaster 해금이다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage1-reward",
+        "subject": "reap",
+        "aspect": "Stage 1 보상",
+        "value": "5K Hunt Dollars·1K Event Points",
+        "statement": "브리핑은 Stage 1 보상을 5K Hunt Dollars와 1K Event Points로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "커뮤니티 위키에는 5천만 포인트 단계가 11월 19일 완료된 것으로 기록돼 있다. 공식 완료일은 확인되지 않았다. 보상은 5K Hunt Dollars와 1K Event Points다. 다음 실질 체크포인트는 Stage 2의 Lancaster 해금이다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage2",
+        "subject": "reap",
+        "aspect": "Stage 2 보상",
+        "value": "Lancaster",
+        "statement": "브리핑은 Reap Stage 2 보상을 Lancaster으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Chapter 3 공식 패치 노트는 Stage 1 자원 보상, Stage 2 Lancaster, Stage 3 자원 보상, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin 구조를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage4",
+        "subject": "reap",
+        "aspect": "Stage 4 보상",
+        "value": "Lancaster Cleaver",
+        "statement": "브리핑은 Reap Stage 4 보상을 Lancaster Cleaver으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Chapter 3 공식 패치 노트는 Stage 1 자원 보상, Stage 2 Lancaster, Stage 3 자원 보상, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin 구조를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage5",
+        "subject": "reap",
+        "aspect": "Stage 5 보상",
+        "value": "무작위 Legendary Skin",
+        "statement": "브리핑은 Reap Stage 5 보상을 무작위 Legendary Skin으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Chapter 3 공식 패치 노트는 Stage 1 자원 보상, Stage 2 Lancaster, Stage 3 자원 보상, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin 구조를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-ammo",
+        "subject": "lancaster",
+        "aspect": "소개된 탄종별 장탄수",
+        "value": "4/12 Basic·4/8 High Velocity·4/12 Poison",
+        "statement": "브리핑은 Lancaster의 Medium Ammo 장탄수를 Basic 4/12, High Velocity 4/8, Poison 4/12로 전하고 쌍수 가능하다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Lancaster는 4/12 Basic·4/8 High Velocity·4/12 Poison 탄을 지원하는 네 발 Medium Ammo 권총이며 쌍수가 가능하다. Cleaver는 하부 칼날로 Heavy Knife형 근접 공격을 더한다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-reload",
+        "subject": "lancaster",
+        "aspect": "개방식 재장전",
+        "value": "남은 탄도 모두 배출",
+        "statement": "브리핑의 Stage 2 Lancaster 안내는 개방식 재장전 시 남은 탄까지 모두 배출한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "한 칸 권총에 네 발을 담고 빠르게 연속 사격한다. 개방식 재장전은 남은 탄까지 모두 배출하므로, 탄 관리와 재장전 타이밍이 핵심이다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-melee",
+        "subject": "cleaver",
+        "aspect": "변형 근접 공격",
+        "value": "하부 칼날·Heavy Knife형",
+        "statement": "브리핑은 Cleaver의 하부 칼날이 Heavy Knife형 근접 공격을 더한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Lancaster는 4/12 Basic·4/8 High Velocity·4/12 Poison 탄을 지원하는 네 발 Medium Ammo 권총이며 쌍수가 가능하다. Cleaver는 하부 칼날로 Heavy Knife형 근접 공격을 더한다."
+          }
+        ]
+      },
+      {
+        "key": "blood-chapter3",
+        "subject": "blood",
+        "aspect": "당시 Chapter 3 운영 안내",
+        "value": "Bileweaver 감염 지역 순환·Fair Play 알림·유럽 큐 시험",
+        "statement": "11월 21일 브리핑은 Bileweaver 감염 지역 순환, Fair Play 후속 알림, 유럽 High-Ping Queue 시험이 이어진다고 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Bileweaver 감염 지역 순환, Fair Play 후속 알림, 유럽 High-Ping Queue 시험이 계속된다. 전체 Blood Testament 기간은 12월 8일까지로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "blood-end",
+        "subject": "blood",
+        "aspect": "이벤트 종료 안내",
+        "value": "12월 8일",
+        "statement": "브리핑은 전체 Blood Testament 기간을 12월 8일까지로 안내한다. 이 날짜를 Reap 종료일로 옮기지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Bileweaver 감염 지역 순환, Fair Play 후속 알림, 유럽 High-Ping Queue 시험이 계속된다. 전체 Blood Testament 기간은 12월 8일까지로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "crow-availability",
+        "subject": "crow",
+        "aspect": "과거 이용 가능 공지",
+        "value": "11월 7일 03:32 KST 이용 가능 안내",
+        "statement": "브리핑은 Steam의 11월 7일 03:32 KST 공지가 As the Crow Carves를 이미 이용 가능하다고 안내했다고 전하며 공식 개시일·시각은 미확인으로 구분한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Steam 공식 공지는 11월 7일 03:32 KST에 Legacy Chronicle을 이미 이용할 수 있다고 안내했다. Plague Doctor–Bloodskin 서사와 The Plague Surgeon 보상 챌린지는 계속 추적한다. 커뮤니티 위키와 당시 이용자 기록은 11월 3일 인게임 추가를 가리킨다. 캘린더에는 11월 3일을 커뮤니티 근거로 표시하며, 공식 개시일·시각은 확인되지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "reap-adjustment-rumor",
+        "subject": "reap",
+        "aspect": "목표치 운영 조정설",
+        "value": "최종 5억 포인트 목표의 참여량 기반 조정 추정",
+        "statement": "브리핑은 5억 포인트 목표가 실제 참여량에 따라 조정될 것이라는 토론을 과거 경험에 근거한 추정으로 다루며 Crytek의 공개된 조정 규칙으로 보지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "개시 게시물의 토론에서는 5억 포인트 최종 목표가 실제 참여량에 맞춰 조정될 것이라는 해석이 나온다. 과거 경험에 근거한 추정일 뿐, Crytek가 조정 규칙을 공개한 것은 아니다."
+          }
+        ]
+      },
+      {
+        "key": "steamdb-observation",
+        "subject": "steamdb",
+        "aspect": "브리핑의 레코드 관찰",
+        "value": "11월 19일 15:16 UTC 변경·내용 미확인",
+        "statement": "브리핑은 SteamDB 앱 레코드 변경 시각을 11월 19일 15:16 UTC로 전한다. 핫픽스·단계 전환·스토어 작업과의 연결은 미확인이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "SteamDB 앱 기록의 마지막 레코드 변경은 11월 19일 15:16 UTC다. 변경 사실은 확인되지만, 핫픽스·Stage 전환·스토어 작업 중 무엇과 연결되는지는 공식 노트가 없어 확정하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "video-0-description",
+        "subject": "video-0",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt — 10월 Twitch Drops 기간의 저격전·밈·솔로 플레이 하이라이트를 장편으로 묶었다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt — 10월 Twitch Drops 기간의 저격전·밈·솔로 플레이 하이라이트를 장편으로 묶었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt — 10월 Twitch Drops 기간의 저격전·밈·솔로 플레이 하이라이트를 장편으로 묶었다."
+          },
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt — 10월 Twitch Drops 기간의 저격전·밈·솔로 플레이 하이라이트를 장편으로 묶었다."
+          }
+        ]
+      },
+      {
+        "key": "video-1-description",
+        "subject": "video-1",
+        "aspect": "브리핑의 영상 소개",
+        "value": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896 — 두 라운드의 Hunt Dollars 수익 구조와 생존·약탈·보상 흐름을 실전 사례로 보여 준다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: The SECRET To Making INSANE Money! | Hunt: Showdown 1896 — 두 라운드의 Hunt Dollars 수익 구조와 생존·약탈·보상 흐름을 실전 사례로 보여 준다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896 — 두 라운드의 Hunt Dollars 수익 구조와 생존·약탈·보상 흐름을 실전 사례로 보여 준다."
+          },
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "The SECRET To Making INSANE Money! | Hunt: Showdown 1896 — 두 라운드의 Hunt Dollars 수익 구조와 생존·약탈·보상 흐름을 실전 사례로 보여 준다."
+          }
+        ]
+      },
+      {
+        "key": "video-2-description",
+        "subject": "video-2",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Playing HUNT: Showdown like it's 2018.. — 최신 장비 편의보다 초기 Hunt 스타일의 제한된 운용과 긴장감을 재현한다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: Playing HUNT: Showdown like it's 2018.. — 최신 장비 편의보다 초기 Hunt 스타일의 제한된 운용과 긴장감을 재현한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Playing HUNT: Showdown like it's 2018.. — 최신 장비 편의보다 초기 Hunt 스타일의 제한된 운용과 긴장감을 재현한다."
+          },
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Playing HUNT: Showdown like it's 2018.. — 최신 장비 편의보다 초기 Hunt 스타일의 제한된 운용과 긴장감을 재현한다."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "reap-rewards-lancaster",
+        "from": "reap",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "브리핑은 Reap Stage 2 보상으로 Lancaster를 명시한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Chapter 3 공식 패치 노트는 Stage 1 자원 보상, Stage 2 Lancaster, Stage 3 자원 보상, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin 구조를 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-rewards-cleaver",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "브리핑은 Reap Stage 4 보상으로 Lancaster Cleaver를 명시한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-1d068dc34881e9a3032bcd54",
+            "quote": "Chapter 3 공식 패치 노트는 Stage 1 자원 보상, Stage 2 Lancaster, Stage 3 자원 보상, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin 구조를 확정한다."
+          }
+        ]
+      }
+    ]
+  }
+}

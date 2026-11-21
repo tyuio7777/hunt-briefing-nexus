@@ -1,0 +1,98 @@
+{
+  "jobId": "job-43bbfc80cd47b245c520d429",
+  "sourceHash": "17dac925d1159ffc7e1e5dd89e5b800637573ff7379880004f70b28ba4f89bcf",
+  "extraction": {
+    "entities": [
+      {
+        "key": "roster",
+        "label": "The Bayou Roster",
+        "kind": "system",
+        "group": "sources",
+        "scope": "",
+        "entityId": "entity-d26e9e7ab2c59e7f90b9ea7d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-9ee0a948ad351e16e7689f84",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster"
+          }
+        ]
+      },
+      {
+        "key": "harvest",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-9ee0a948ad351e16e7689f84",
+            "quote": "Reap the Harvest Stage 2 of 5"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "roster-purpose",
+        "subject": "roster",
+        "aspect": "서비스 설명",
+        "value": "통계·순위 추적",
+        "statement": "공개 페이지는 The Bayou Roster를 Hunt: Showdown 1896 통계 및 순위 추적 서비스로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-9ee0a948ad351e16e7689f84",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster\nLeaderboard and player stats for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "roster-features",
+        "subject": "roster",
+        "aspect": "공지된 기능",
+        "value": "업적·혜택 공유·Company 탭·오버레이·언어",
+        "statement": "페이지의 Nov 17 공지는 업적, 유료 후원자의 팀원 혜택 공유, Contractor Company 탭, Banisher 오버레이와 포르투갈어·이탈리아어 지원을 설명한다. 연도와 현재 제공 상태는 별도로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-9ee0a948ad351e16e7689f84",
+            "quote": "Nov 17 Achievements, perk sharing, Company and two new languages\nHunters now earn achievements, and a paid supporter can share their perks with\nteammates. Contractor adds a Company tab to the dossier, Banisher gets up to five\noverlays with 15 art styles, and both sites read in Portuguese and Italian."
+          }
+        ]
+      },
+      {
+        "key": "harvest-snapshot",
+        "subject": "harvest",
+        "aspect": "비공식 진행 관측",
+        "value": "Stage 2 · 98,208,936/500,000,000",
+        "statement": "Bayou Ledger 수집 화면은 Reap the Harvest를 Stage 2 of 5, 98,208,936/500,000,000으로 표시한다. Stage 2 완료나 Lancaster 해금 완료를 뜻하지 않으며 화면 수치의 실제 관측 시각은 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-9ee0a948ad351e16e7689f84",
+            "quote": "Reap the Harvest Stage 2 of 5\n50M125M225M350M500M\n98,208,936 / 500,000,000 +34.5M/day 20%"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

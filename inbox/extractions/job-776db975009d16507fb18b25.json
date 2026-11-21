@@ -1,0 +1,545 @@
+{
+  "jobId": "job-776db975009d16507fb18b25",
+  "sourceHash": "ca163ea29cb88e6fb3b0a8c6348118f2db7580c0155e5b96ba2e5ad9b5058602",
+  "extraction": {
+    "entities": [
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament Chapter 3",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Reap the Harvest 시작 여부를 묻는 11월 15일 최신 화제와 같은 날 발생한 SteamDB 변경을 분리해 추적하고, Fair Play·High-Ping Queue 및 최신 Hunt 로드아웃 영상을 정리했습니다."
+          }
+        ]
+      },
+      {
+        "key": "crow",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "As the Crow Carves Legacy Chronicle"
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "{\"end_date\": \"2026-11-03\", \"event_id\": \"hunt-blood-testament-chapter-3-start\", \"source_url\": \"https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes\", \"start_date\": \"2026-11-03\", \"status\": \"confirmed\", \"summary\": \"Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.\", \"title\": \"Blood Testament Chapter 3 적용\"}"
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "group": "equipment",
+        "scope": "",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "surgeon",
+        "label": "The Plague Surgeon",
+        "kind": "character",
+        "group": "world",
+        "scope": "",
+        "entityId": "entity-72518b826ba95d44ba3633d6",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor가 Bloodskin 탄생에 남긴 역할을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 종료일이 없으므로 기존 공개일 일정만 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "fair",
+        "label": "Fair Play Follow Up",
+        "kind": "system",
+        "group": "updates",
+        "scope": "",
+        "entityId": "entity-0774dfb5f5ebebb5d7666e4a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Fair Play Follow Up과 유럽 High-Ping Queue"
+          }
+        ]
+      },
+      {
+        "key": "steamdb",
+        "label": "SteamDB",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "공개 빌드 기록 서비스",
+        "entityId": "entity-1375e552e7b8b532def33f7b",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Reap the Harvest 시작 여부를 묻는 11월 15일 최신 화제와 같은 날 발생한 SteamDB 변경을 분리해 추적하고, Fair Play·High-Ping Queue 및 최신 Hunt 로드아웃 영상을 정리했습니다."
+          }
+        ]
+      },
+      {
+        "key": "video-0",
+        "label": "Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay",
+        "scope": "Psychoghost Gaming 공개 Hunt 영상",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "entity-b945fb1be9042fc79c874369",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay · 공개: 2026년 11월 13일 KST"
+          }
+        ]
+      },
+      {
+        "key": "video-1",
+        "label": "This Loadout Does EVERYTHING! | Hunt: Showdown 1896",
+        "scope": "REXNOR 공개 Hunt 영상",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "entity-53e5d18af7bb78b9990da236",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — This Loadout Does EVERYTHING! | Hunt: Showdown 1896 · 공개: 2026년 11월 15일 18:00 KST"
+          }
+        ]
+      },
+      {
+        "key": "video-2",
+        "label": "This *OG* HUNT: Showdown challenge was refreshing!",
+        "scope": "Toxic Pancake 공개 Hunt 영상",
+        "kind": "topic",
+        "group": "sources",
+        "entityId": "entity-7dbe24546a1623d9446adb2a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — This *OG* HUNT: Showdown challenge was refreshing! · 공개: 2026년 11월 16일 03:17 KST"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "reap-stage-1",
+        "subject": "reap",
+        "aspect": "Stage 1 보상",
+        "value": "5K Hunt Dollars·1K Event Points",
+        "statement": "브리핑은 Reap the Harvest의 Stage 1 보상을 5K Hunt Dollars·1K Event Points으로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage-2",
+        "subject": "reap",
+        "aspect": "Stage 2 보상",
+        "value": "Lancaster",
+        "statement": "브리핑은 Reap the Harvest의 Stage 2 보상을 Lancaster으로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage-3",
+        "subject": "reap",
+        "aspect": "Stage 3 보상",
+        "value": "10K Hunt Dollars·2.5K Event Points",
+        "statement": "브리핑은 Reap the Harvest의 Stage 3 보상을 10K Hunt Dollars·2.5K Event Points으로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage-4",
+        "subject": "reap",
+        "aspect": "Stage 4 보상",
+        "value": "Lancaster Cleaver",
+        "statement": "브리핑은 Reap the Harvest의 Stage 4 보상을 Lancaster Cleaver으로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-stage-5",
+        "subject": "reap",
+        "aspect": "Stage 5 보상",
+        "value": "무작위 Legendary Skin",
+        "statement": "브리핑은 Reap the Harvest의 Stage 5 보상을 무작위 Legendary Skin으로 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "crow-reward",
+        "subject": "crow",
+        "aspect": "챌린지 보상",
+        "value": "The Plague Surgeon",
+        "statement": "브리핑은 As the Crow Carves의 챌린지 보상으로 The Plague Surgeon을 소개하며 종료일은 미확인으로 남긴다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor가 Bloodskin 탄생에 남긴 역할을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 종료일이 없으므로 기존 공개일 일정만 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "lancaster-spec",
+        "subject": "lancaster",
+        "aspect": "소개된 무기 사양",
+        "value": "4발 Medium Ammo; Basic·High Velocity·Poison; 쌍수",
+        "statement": "브리핑은 Lancaster를 네 발 장전 Medium Ammo 권총으로 소개하고 Basic·High Velocity·Poison 및 쌍수 지원과 Stage 2 해금 조건을 전한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "네 발 장전 Medium Ammo 권총이다. Basic·High Velocity·Poison 탄을 지원하고 쌍수가 가능하지만, 실제 해금은 공동 진행이 Stage 2에 도달한 뒤다."
+          }
+        ]
+      },
+      {
+        "key": "cleaver-melee",
+        "subject": "cleaver",
+        "aspect": "변형 근접 공격",
+        "value": "하부 칼날·Heavy Knife형",
+        "statement": "브리핑의 Lancaster Cleaver 안내는 하부 칼날의 Heavy Knife형 근접 공격을 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "하부 칼날이 Heavy Knife형 근접 공격을 추가한다. 실제 스태미나·교전 운용은 해금 후 별도 검증이 필요하다."
+          }
+        ]
+      },
+      {
+        "key": "reap-unannounced",
+        "subject": "reap",
+        "aspect": "당시 개시 공지 확인 범위",
+        "value": "11월 16일 브리핑에서 공식 날짜 미정",
+        "statement": "11월 16일 브리핑은 공식 뉴스와 Steam 이벤트 목록 확인 범위에서 Reap 날짜를 공식 미정으로 처리한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Hunt 공식 뉴스의 최신 항목은 11월 3일 Fair Play 공지이며, Steam 공식 이벤트 목록도 11월 7일(KST) As the Crow Carves 이용 가능 공지 이후 새 이벤트를 표시하지 않는다. 따라서 Reap의 날짜는 여전히 공식 미정으로 처리한다. As the Crow Carves의 경우 커뮤니티 위키와 당시 이용자 기록은 11월 3일 인게임 추가를 가리킨다. 캘린더에는 11월 3일을 커뮤니티 근거로 표시하며, 공식 개시일·시각은 확인되지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "fair-notification",
+        "subject": "fair",
+        "aspect": "신고 처리 피드백",
+        "value": "실제 제재 결과 후속 알림",
+        "statement": "브리핑은 신고한 이용자가 실제 제재 결과를 확인하도록 후속 알림을 연결한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Fair Play Task Force 공지의 핵심은 단순히 제재 수치를 공개하는 데서 끝나지 않는다. 신고한 이용자가 실제 제재 결과를 확인할 수 있도록 후속 알림을 연결한다."
+          }
+        ]
+      },
+      {
+        "key": "fair-compensation",
+        "subject": "fair",
+        "aspect": "제재 후 보상 조건",
+        "value": "신고 대상에게 사망한 경우 1,000 Hunt Dollars",
+        "statement": "브리핑은 신고 처리 후속 알림 문맥에서 신고 대상에게 사망한 경우 1,000 Hunt Dollars를 지급한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Fair Play Task Force 공지의 핵심은 단순히 제재 수치를 공개하는 데서 끝나지 않는다. 신고한 이용자가 실제 제재 결과를 확인할 수 있도록 후속 알림을 연결한다.\n신고 대상에게 사망했다면 1,000 Hunt Dollars가 지급된다. 금액 자체보다 중요한 점은 신고와 제재 사이의 보이지 않던 과정을 플레이어 경험으로 되돌린다는 것이다."
+          }
+        ]
+      },
+      {
+        "key": "ping-test",
+        "subject": "fair",
+        "aspect": "유럽 High-Ping Queue 시험 소개",
+        "value": "기준 초과 별도 큐·일정 시간 후 일반 큐 복귀",
+        "statement": "브리핑은 유럽에서 기준 초과 이용자를 별도 큐로 보내고 일정 시간 매치를 못 찾으면 일반 큐로 복귀시키는 Chapter 3 시험을 설명한다. 영구화·지역 확대는 미확인이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Chapter 3 문서는 유럽에서 기준 초과 이용자를 별도 큐로 보내고, 일정 시간 매치를 찾지 못하면 일반 큐로 복귀시키는 시험을 설명한다. 영구화·지역 확대는 공식 확인되지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "reap-rumor",
+        "subject": "reap",
+        "aspect": "당시 개시일 추정",
+        "value": "11월 17일설 미확인",
+        "statement": "11월 16일 브리핑은 11월 17일 Reap 개시설을 공식 날짜가 없는 미확인 주장으로 다룬다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "“Reap는 11월 17일 시작한다”"
+          }
+        ]
+      },
+      {
+        "key": "steamdb-observation",
+        "subject": "steamdb",
+        "aspect": "브리핑의 배포 기록 관찰",
+        "value": "11월 15일 패키지 변경·공개 depot 최근 빌드 10월 7일",
+        "statement": "브리핑은 11월 15일 패키지 변경을 관찰하되 공개 depot 빌드가 여전히 10월 7일로 표시되어 새 핫픽스나 Reap 개시를 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "SteamDB 패키지 기록에는 본편 02:50 UTC, Test Server 02:36 UTC 변경이 보인다. 공개 depot의 최근 빌드는 여전히 10월 7일로 표시되므로 이것만으로 Reap 개시나 새 핫픽스를 확정하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "video-0-description",
+        "subject": "video-0",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Mosin과 Crown 조합을 솔로 매치에서 다시 검증한다. 장거리 압박과 근거리 마무리를 한 로드아웃에 묶는 전통적 조합이 현재 환경에서도 왜 강한지 보여 준다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: Mosin과 Crown 조합을 솔로 매치에서 다시 검증한다. 장거리 압박과 근거리 마무리를 한 로드아웃에 묶는 전통적 조합이 현재 환경에서도 왜 강한지 보여 준다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — Is this STILL the Meta Loadout? Mosin & Crown stays undefeated - Solo Hunt Gameplay · 공개: 2026년 11월 13일 KST"
+          },
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "영상 직접 보기 · Mosin과 Crown 조합을 솔로 매치에서 다시 검증한다. 장거리 압박과 근거리 마무리를 한 로드아웃에 묶는 전통적 조합이 현재 환경에서도 왜 강한지 보여 준다."
+          }
+        ]
+      },
+      {
+        "key": "video-1-description",
+        "subject": "video-1",
+        "aspect": "브리핑의 영상 소개",
+        "value": "Maynard Sniper Silencer와 보조 권총을 결합한 전투 저격 로드아웃이다. 슬롯 개편 이후 덜 쓰게 된 무기를 은밀한 장거리 압박과 근거리 대응까지 가능한 구성으로 재평가한다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: Maynard Sniper Silencer와 보조 권총을 결합한 전투 저격 로드아웃이다. 슬롯 개편 이후 덜 쓰게 된 무기를 은밀한 장거리 압박과 근거리 대응까지 가능한 구성으로 재평가한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — This Loadout Does EVERYTHING! | Hunt: Showdown 1896 · 공개: 2026년 11월 15일 18:00 KST"
+          },
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "영상 직접 보기 · Maynard Sniper Silencer와 보조 권총을 결합한 전투 저격 로드아웃이다. 슬롯 개편 이후 덜 쓰게 된 무기를 은밀한 장거리 압박과 근거리 대응까지 가능한 구성으로 재평가한다."
+          }
+        ]
+      },
+      {
+        "key": "video-2-description",
+        "subject": "video-2",
+        "aspect": "브리핑의 영상 소개",
+        "value": "2018년식 Hunt 플레이 규칙을 되살린 챌린지다. 8년 동안 달라진 장비·흐름을 현재 버전에서 체감하며 옛 제약이 만드는 긴장감을 비교한다.",
+        "statement": "브리핑은 이 영상을 다음과 같이 소개한다: 2018년식 Hunt 플레이 규칙을 되살린 챌린지다. 8년 동안 달라진 장비·흐름을 현재 버전에서 체감하며 옛 제약이 만드는 긴장감을 비교한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "유튜브 최신/화제 동영상 — This *OG* HUNT: Showdown challenge was refreshing! · 공개: 2026년 11월 16일 03:17 KST"
+          },
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "영상 직접 보기 · 2018년식 Hunt 플레이 규칙을 되살린 챌린지다. 8년 동안 달라진 장비·흐름을 현재 버전에서 체감하며 옛 제약이 만드는 긴장감을 비교한다."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "reap-rewards-lancaster",
+        "from": "reap",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "Reap the Harvest Stage 2의 보상은 Lancaster로 소개된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "reap-rewards-cleaver",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "Reap the Harvest Stage 4의 보상은 Lancaster Cleaver로 소개된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "공식 Chapter 3 패치 노트는 Stage 1의 5K Hunt Dollars·1K Event Points, Stage 2 Lancaster, Stage 3 10K Hunt Dollars·2.5K Event Points, Stage 4 Lancaster Cleaver, Stage 5 무작위 Legendary Skin을 확정한다."
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-surgeon",
+        "from": "crow",
+        "to": "surgeon",
+        "type": "rewards",
+        "statement": "브리핑은 As the Crow Carves의 보상으로 The Plague Surgeon을 명시한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-a0aaebe48f873b261625bcfb",
+            "quote": "Steam 공식 Chronicle 공지는 Plague Doctor가 Bloodskin 탄생에 남긴 역할을 챌린지로 풀고 The Plague Surgeon 보상을 제공한다. 종료일이 없으므로 기존 공개일 일정만 유지한다."
+          }
+        ]
+      }
+    ]
+  }
+}

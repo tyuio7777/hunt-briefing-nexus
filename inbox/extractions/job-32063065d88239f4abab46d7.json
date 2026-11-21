@@ -1,0 +1,1328 @@
+{
+  "jobId": "job-32063065d88239f4abab46d7",
+  "sourceHash": "d1bef5821e32f4e51df42173e78398e5f2211480e60a6ef40dcab5c93ba7fb70",
+  "extraction": {
+    "entities": [
+      {
+        "key": "crow",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "group": "events",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "As the Crow Carves is a Premium Story Challenge costing 1250 and was added to the game on November 3rd 2026. It is the third Legacy Chronicles story challenge, bringing back redesigns of Mythic skins previously earned by players in the As the Crow Flies Event."
+          }
+        ]
+      },
+      {
+        "key": "reward-0",
+        "label": "Bitter Briar",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Chaos Bomb 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBitter Briar Chaos Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-1",
+        "label": "Surgically Precise",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Player Profile Title",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nSurgically Precise Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "reward-2",
+        "label": "Scavenger's Nest",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Concertina Bomb 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nScavenger's Nest Concertina Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-3",
+        "label": "Wyndham's Demise",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Weapon Charm",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nWyndham's Demise Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-4",
+        "label": "Miasma's Cure",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Conversion 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure Conversion Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-5",
+        "label": "Plague Surgeon Player Profile Frame",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Player Profile Frame",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "reward-6",
+        "label": "Shrike's Scream",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Bomb Lance 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "4\nShrike's Scream Bomb Lance Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-7",
+        "label": "Hollow Marrow",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · First Aid Kit 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nHollow Marrow First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-8",
+        "label": "Crow's Gift",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Weapon Charm",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nCrow's Gift Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-9",
+        "label": "Miasma's Cure: Chain Pistol",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Conversion Chain Pistol 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure: Chain Pistol Conversion Chain Pistol Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-10",
+        "label": "Plague Surgeon Player Profile Avatar",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Player Profile Avatar",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "reward-11",
+        "label": "Burnt Briar",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Sticky Bomb 스킨",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBurnt Briar Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-12",
+        "label": "Open Threat",
+        "kind": "topic",
+        "group": "equipment",
+        "scope": "As the Crow Carves · Bomb Lance Animation",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nOpen Threat Bomb Lance Animation"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "crow-addition",
+        "subject": "crow",
+        "aspect": "위키의 인게임 추가 기록",
+        "value": "2026-11-03",
+        "statement": "커뮤니티 위키는 As the Crow Carves가 2026년 11월 3일 게임에 추가됐다고 기록한다. 공식 개시 시각의 독립 확인은 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "2026-11-03",
+        "effectiveTo": "",
+        "dateEvidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "As the Crow Carves is a Premium Story Challenge costing 1250 and was added to the game on November 3rd 2026. It is the third Legacy Chronicles story challenge, bringing back redesigns of Mythic skins previously earned by players in the As the Crow Flies Event."
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "As the Crow Carves is a Premium Story Challenge costing 1250 and was added to the game on November 3rd 2026. It is the third Legacy Chronicles story challenge, bringing back redesigns of Mythic skins previously earned by players in the As the Crow Flies Event."
+          }
+        ]
+      },
+      {
+        "key": "crow-type",
+        "subject": "crow",
+        "aspect": "콘텐츠 분류",
+        "value": "세 번째 Legacy Chronicles Premium Story Challenge",
+        "statement": "위키는 As the Crow Carves를 세 번째 Legacy Chronicles 스토리 챌린지이자 Premium Story Challenge로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "As the Crow Carves is a Premium Story Challenge costing 1250 and was added to the game on November 3rd 2026. It is the third Legacy Chronicles story challenge, bringing back redesigns of Mythic skins previously earned by players in the As the Crow Flies Event."
+          }
+        ]
+      },
+      {
+        "key": "crow-redesign",
+        "subject": "crow",
+        "aspect": "보상 디자인의 과거 연관",
+        "value": "As the Crow Flies에서 획득했던 Mythic 스킨의 재디자인",
+        "statement": "위키는 As the Crow Carves가 과거 As the Crow Flies 이벤트에서 획득했던 Mythic 스킨의 재디자인을 제공한다고 설명한다. 두 이벤트 회차를 같은 개체로 합치지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "As the Crow Carves is a Premium Story Challenge costing 1250 and was added to the game on November 3rd 2026. It is the third Legacy Chronicles story challenge, bringing back redesigns of Mythic skins previously earned by players in the As the Crow Flies Event."
+          }
+        ]
+      },
+      {
+        "key": "crow-sigils",
+        "subject": "crow",
+        "aspect": "챌린지 보상 해금 방식",
+        "value": "Sigils 획득 후 선택한 순서로 소비",
+        "statement": "위키는 챌린지로 Sigils를 얻고 원하는 순서로 보상에 소비하며 일정 소비량에 따라 보상 구역이 열린다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "The system for unlocking rewards in Legacy Chronicles is currency-based. Completing challenges rewards Sigils , which can then be spent in the order a player chooses, with each section of rewards being unlocked by spending a certain amount of sigils. Completing all challenges in each chapter is still required to unlock the story and challenges of the following chapter."
+          }
+        ]
+      },
+      {
+        "key": "crow-chapter-unlock",
+        "subject": "crow",
+        "aspect": "다음 장 해금 조건",
+        "value": "해당 장의 모든 챌린지 완료",
+        "statement": "위키는 다음 장의 이야기와 챌린지를 열려면 현재 장의 모든 챌린지를 완료해야 한다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "The system for unlocking rewards in Legacy Chronicles is currency-based. Completing challenges rewards Sigils , which can then be spent in the order a player chooses, with each section of rewards being unlocked by spending a certain amount of sigils. Completing all challenges in each chapter is still required to unlock the story and challenges of the following chapter."
+          }
+        ]
+      },
+      {
+        "key": "challenge-I-0",
+        "subject": "crow",
+        "aspect": "Chapter I 챌린지 · Land headshots on enemy Hunters using: Pistols",
+        "value": "10 / 보상 4 Sigils",
+        "statement": "위키의 Chapter I 표는 'Land headshots on enemy Hunters using: Pistols' 과제의 요구량을 10, 보상을 4 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter I\nChallenge\nAmount\nReward\nLand headshots on enemy Hunters using: Pistols\n10\n4\nRestore Health for yourself or for your teammates\n5000\n3\nCollect Clues or visit Compounds\n30\n2\nBanish Target: Scrapbeak\n1\n2\nKill Crows\n5\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-I-3",
+        "subject": "crow",
+        "aspect": "Chapter I 챌린지 · Restore Health for yourself or for your teammates",
+        "value": "5000 / 보상 3 Sigils",
+        "statement": "위키의 Chapter I 표는 'Restore Health for yourself or for your teammates' 과제의 요구량을 5000, 보상을 3 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter I\nChallenge\nAmount\nReward\nLand headshots on enemy Hunters using: Pistols\n10\n4\nRestore Health for yourself or for your teammates\n5000\n3\nCollect Clues or visit Compounds\n30\n2\nBanish Target: Scrapbeak\n1\n2\nKill Crows\n5\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-I-6",
+        "subject": "crow",
+        "aspect": "Chapter I 챌린지 · Collect Clues or visit Compounds",
+        "value": "30 / 보상 2 Sigils",
+        "statement": "위키의 Chapter I 표는 'Collect Clues or visit Compounds' 과제의 요구량을 30, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter I\nChallenge\nAmount\nReward\nLand headshots on enemy Hunters using: Pistols\n10\n4\nRestore Health for yourself or for your teammates\n5000\n3\nCollect Clues or visit Compounds\n30\n2\nBanish Target: Scrapbeak\n1\n2\nKill Crows\n5\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-I-9",
+        "subject": "crow",
+        "aspect": "Chapter I 챌린지 · Banish Target: Scrapbeak",
+        "value": "1 / 보상 2 Sigils",
+        "statement": "위키의 Chapter I 표는 'Banish Target: Scrapbeak' 과제의 요구량을 1, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter I\nChallenge\nAmount\nReward\nLand headshots on enemy Hunters using: Pistols\n10\n4\nRestore Health for yourself or for your teammates\n5000\n3\nCollect Clues or visit Compounds\n30\n2\nBanish Target: Scrapbeak\n1\n2\nKill Crows\n5\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-I-12",
+        "subject": "crow",
+        "aspect": "Chapter I 챌린지 · Kill Crows",
+        "value": "5 / 보상 2 Sigils",
+        "statement": "위키의 Chapter I 표는 'Kill Crows' 과제의 요구량을 5, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter I\nChallenge\nAmount\nReward\nLand headshots on enemy Hunters using: Pistols\n10\n4\nRestore Health for yourself or for your teammates\n5000\n3\nCollect Clues or visit Compounds\n30\n2\nBanish Target: Scrapbeak\n1\n2\nKill Crows\n5\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-II-0",
+        "subject": "crow",
+        "aspect": "Chapter II 챌린지 · Kill enemy Hunters with: Conversion or Conversion Chain Pistol",
+        "value": "5 / 보상 4 Sigils",
+        "statement": "위키의 Chapter II 표는 'Kill enemy Hunters with: Conversion or Conversion Chain Pistol' 과제의 요구량을 5, 보상을 4 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter II\nChallenge\nAmount\nReward\nKill enemy Hunters with: Conversion or Conversion Chain Pistol\n5\n4\nLand hits on enemy Hunters using: Rending melee attacks\n20\n3\nCause Bleeding on enemy Hunters\n15\n2\nKill Monsters with: Poison Damage\n50\n2\nKill Crows. We need more Crows\n10\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-II-3",
+        "subject": "crow",
+        "aspect": "Chapter II 챌린지 · Land hits on enemy Hunters using: Rending melee attacks",
+        "value": "20 / 보상 3 Sigils",
+        "statement": "위키의 Chapter II 표는 'Land hits on enemy Hunters using: Rending melee attacks' 과제의 요구량을 20, 보상을 3 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter II\nChallenge\nAmount\nReward\nKill enemy Hunters with: Conversion or Conversion Chain Pistol\n5\n4\nLand hits on enemy Hunters using: Rending melee attacks\n20\n3\nCause Bleeding on enemy Hunters\n15\n2\nKill Monsters with: Poison Damage\n50\n2\nKill Crows. We need more Crows\n10\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-II-6",
+        "subject": "crow",
+        "aspect": "Chapter II 챌린지 · Cause Bleeding on enemy Hunters",
+        "value": "15 / 보상 2 Sigils",
+        "statement": "위키의 Chapter II 표는 'Cause Bleeding on enemy Hunters' 과제의 요구량을 15, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter II\nChallenge\nAmount\nReward\nKill enemy Hunters with: Conversion or Conversion Chain Pistol\n5\n4\nLand hits on enemy Hunters using: Rending melee attacks\n20\n3\nCause Bleeding on enemy Hunters\n15\n2\nKill Monsters with: Poison Damage\n50\n2\nKill Crows. We need more Crows\n10\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-II-9",
+        "subject": "crow",
+        "aspect": "Chapter II 챌린지 · Kill Monsters with: Poison Damage",
+        "value": "50 / 보상 2 Sigils",
+        "statement": "위키의 Chapter II 표는 'Kill Monsters with: Poison Damage' 과제의 요구량을 50, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter II\nChallenge\nAmount\nReward\nKill enemy Hunters with: Conversion or Conversion Chain Pistol\n5\n4\nLand hits on enemy Hunters using: Rending melee attacks\n20\n3\nCause Bleeding on enemy Hunters\n15\n2\nKill Monsters with: Poison Damage\n50\n2\nKill Crows. We need more Crows\n10\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-II-12",
+        "subject": "crow",
+        "aspect": "Chapter II 챌린지 · Kill Crows. We need more Crows",
+        "value": "10 / 보상 2 Sigils",
+        "statement": "위키의 Chapter II 표는 'Kill Crows. We need more Crows' 과제의 요구량을 10, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter II\nChallenge\nAmount\nReward\nKill enemy Hunters with: Conversion or Conversion Chain Pistol\n5\n4\nLand hits on enemy Hunters using: Rending melee attacks\n20\n3\nCause Bleeding on enemy Hunters\n15\n2\nKill Monsters with: Poison Damage\n50\n2\nKill Crows. We need more Crows\n10\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-III-0",
+        "subject": "crow",
+        "aspect": "Chapter III 챌린지 · Kill enemy Hunters with: Bomb Lance or Bomb Launcher",
+        "value": "5 / 보상 4 Sigils",
+        "statement": "위키의 Chapter III 표는 'Kill enemy Hunters with: Bomb Lance or Bomb Launcher' 과제의 요구량을 5, 보상을 4 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter III\nChallenge\nAmount\nReward\nKill enemy Hunters with: Bomb Lance or Bomb Launcher\n5\n4\nExtract with a Bounty Token or be the Soul Survivor\n5\n3\nDeal damage to enemy Hunters using: Consumables\n1000\n2\nKill Monsters with: Explosive Damage\n25\n2\nKILL CROWS KILL CROWS KILL CROWS\n20\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-III-3",
+        "subject": "crow",
+        "aspect": "Chapter III 챌린지 · Extract with a Bounty Token or be the Soul Survivor",
+        "value": "5 / 보상 3 Sigils",
+        "statement": "위키의 Chapter III 표는 'Extract with a Bounty Token or be the Soul Survivor' 과제의 요구량을 5, 보상을 3 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter III\nChallenge\nAmount\nReward\nKill enemy Hunters with: Bomb Lance or Bomb Launcher\n5\n4\nExtract with a Bounty Token or be the Soul Survivor\n5\n3\nDeal damage to enemy Hunters using: Consumables\n1000\n2\nKill Monsters with: Explosive Damage\n25\n2\nKILL CROWS KILL CROWS KILL CROWS\n20\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-III-6",
+        "subject": "crow",
+        "aspect": "Chapter III 챌린지 · Deal damage to enemy Hunters using: Consumables",
+        "value": "1000 / 보상 2 Sigils",
+        "statement": "위키의 Chapter III 표는 'Deal damage to enemy Hunters using: Consumables' 과제의 요구량을 1000, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter III\nChallenge\nAmount\nReward\nKill enemy Hunters with: Bomb Lance or Bomb Launcher\n5\n4\nExtract with a Bounty Token or be the Soul Survivor\n5\n3\nDeal damage to enemy Hunters using: Consumables\n1000\n2\nKill Monsters with: Explosive Damage\n25\n2\nKILL CROWS KILL CROWS KILL CROWS\n20\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-III-9",
+        "subject": "crow",
+        "aspect": "Chapter III 챌린지 · Kill Monsters with: Explosive Damage",
+        "value": "25 / 보상 2 Sigils",
+        "statement": "위키의 Chapter III 표는 'Kill Monsters with: Explosive Damage' 과제의 요구량을 25, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter III\nChallenge\nAmount\nReward\nKill enemy Hunters with: Bomb Lance or Bomb Launcher\n5\n4\nExtract with a Bounty Token or be the Soul Survivor\n5\n3\nDeal damage to enemy Hunters using: Consumables\n1000\n2\nKill Monsters with: Explosive Damage\n25\n2\nKILL CROWS KILL CROWS KILL CROWS\n20\n2"
+          }
+        ]
+      },
+      {
+        "key": "challenge-III-12",
+        "subject": "crow",
+        "aspect": "Chapter III 챌린지 · KILL CROWS KILL CROWS KILL CROWS",
+        "value": "20 / 보상 2 Sigils",
+        "statement": "위키의 Chapter III 표는 'KILL CROWS KILL CROWS KILL CROWS' 과제의 요구량을 20, 보상을 2 Sigils로 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Chapter III\nChallenge\nAmount\nReward\nKill enemy Hunters with: Bomb Lance or Bomb Launcher\n5\n4\nExtract with a Bounty Token or be the Soul Survivor\n5\n3\nDeal damage to enemy Hunters using: Consumables\n1000\n2\nKill Monsters with: Explosive Damage\n25\n2\nKILL CROWS KILL CROWS KILL CROWS\n20\n2"
+          }
+        ]
+      },
+      {
+        "key": "reward-0-type",
+        "subject": "reward-0",
+        "aspect": "보상 종류",
+        "value": "Chaos Bomb 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Bitter Briar를 Chaos Bomb 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBitter Briar Chaos Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-0-cost",
+        "subject": "reward-0",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Bitter Briar의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBitter Briar Chaos Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-1-type",
+        "subject": "reward-1",
+        "aspect": "보상 종류",
+        "value": "Player Profile Title",
+        "statement": "위키의 As the Crow Carves 보상 표는 Surgically Precise를 Player Profile Title로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nSurgically Precise Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "reward-1-cost",
+        "subject": "reward-1",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Surgically Precise의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nSurgically Precise Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "reward-2-type",
+        "subject": "reward-2",
+        "aspect": "보상 종류",
+        "value": "Concertina Bomb 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Scavenger's Nest를 Concertina Bomb 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nScavenger's Nest Concertina Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-2-cost",
+        "subject": "reward-2",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Scavenger's Nest의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nScavenger's Nest Concertina Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-3-type",
+        "subject": "reward-3",
+        "aspect": "보상 종류",
+        "value": "Weapon Charm",
+        "statement": "위키의 As the Crow Carves 보상 표는 Wyndham's Demise를 Weapon Charm로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nWyndham's Demise Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-3-cost",
+        "subject": "reward-3",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Wyndham's Demise의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nWyndham's Demise Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-4-type",
+        "subject": "reward-4",
+        "aspect": "보상 종류",
+        "value": "Conversion 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Miasma's Cure를 Conversion 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure Conversion Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-4-cost",
+        "subject": "reward-4",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Miasma's Cure의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure Conversion Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-5-type",
+        "subject": "reward-5",
+        "aspect": "보상 종류",
+        "value": "Player Profile Frame",
+        "statement": "위키의 As the Crow Carves 보상 표는 Plague Surgeon Player Profile Frame를 Player Profile Frame로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "reward-5-cost",
+        "subject": "reward-5",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Plague Surgeon Player Profile Frame의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "reward-6-type",
+        "subject": "reward-6",
+        "aspect": "보상 종류",
+        "value": "Bomb Lance 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Shrike's Scream를 Bomb Lance 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "4\nShrike's Scream Bomb Lance Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-6-cost",
+        "subject": "reward-6",
+        "aspect": "보상 비용",
+        "value": "4 Sigils",
+        "statement": "위키의 보상 표에서 Shrike's Scream의 비용은 4 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "4\nShrike's Scream Bomb Lance Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-7-type",
+        "subject": "reward-7",
+        "aspect": "보상 종류",
+        "value": "First Aid Kit 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Hollow Marrow를 First Aid Kit 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nHollow Marrow First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-7-cost",
+        "subject": "reward-7",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Hollow Marrow의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nHollow Marrow First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-8-type",
+        "subject": "reward-8",
+        "aspect": "보상 종류",
+        "value": "Weapon Charm",
+        "statement": "위키의 As the Crow Carves 보상 표는 Crow's Gift를 Weapon Charm로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nCrow's Gift Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-8-cost",
+        "subject": "reward-8",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Crow's Gift의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nCrow's Gift Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "reward-9-type",
+        "subject": "reward-9",
+        "aspect": "보상 종류",
+        "value": "Conversion Chain Pistol 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Miasma's Cure: Chain Pistol를 Conversion Chain Pistol 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure: Chain Pistol Conversion Chain Pistol Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-9-cost",
+        "subject": "reward-9",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Miasma's Cure: Chain Pistol의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure: Chain Pistol Conversion Chain Pistol Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-10-type",
+        "subject": "reward-10",
+        "aspect": "보상 종류",
+        "value": "Player Profile Avatar",
+        "statement": "위키의 As the Crow Carves 보상 표는 Plague Surgeon Player Profile Avatar를 Player Profile Avatar로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "reward-10-cost",
+        "subject": "reward-10",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Plague Surgeon Player Profile Avatar의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "reward-11-type",
+        "subject": "reward-11",
+        "aspect": "보상 종류",
+        "value": "Sticky Bomb 스킨",
+        "statement": "위키의 As the Crow Carves 보상 표는 Burnt Briar를 Sticky Bomb 스킨로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBurnt Briar Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-11-cost",
+        "subject": "reward-11",
+        "aspect": "보상 비용",
+        "value": "3 Sigils",
+        "statement": "위키의 보상 표에서 Burnt Briar의 비용은 3 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBurnt Briar Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "reward-12-type",
+        "subject": "reward-12",
+        "aspect": "보상 종류",
+        "value": "Bomb Lance Animation",
+        "statement": "위키의 As the Crow Carves 보상 표는 Open Threat를 Bomb Lance Animation로 분류한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nOpen Threat Bomb Lance Animation"
+          }
+        ]
+      },
+      {
+        "key": "reward-12-cost",
+        "subject": "reward-12",
+        "aspect": "보상 비용",
+        "value": "2 Sigils",
+        "statement": "위키의 보상 표에서 Open Threat의 비용은 2 Sigils다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nOpen Threat Bomb Lance Animation"
+          }
+        ]
+      },
+      {
+        "key": "crow-page2",
+        "subject": "crow",
+        "aspect": "Page II 해금 조건",
+        "value": "Sigils 15 소비",
+        "statement": "위키 보상 구역은 Page II 해금에 15의 소비가 필요하다고 설명하며 챌린지 설명은 사용 화폐를 Sigils로 명시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "Unlocking Page II requires spending 15 ."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "crow-rewards-0",
+        "from": "crow",
+        "to": "reward-0",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Bitter Briar를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBitter Briar Chaos Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-1",
+        "from": "crow",
+        "to": "reward-1",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Surgically Precise를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nSurgically Precise Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-2",
+        "from": "crow",
+        "to": "reward-2",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Scavenger's Nest를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nScavenger's Nest Concertina Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-3",
+        "from": "crow",
+        "to": "reward-3",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Wyndham's Demise를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nWyndham's Demise Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-4",
+        "from": "crow",
+        "to": "reward-4",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Miasma's Cure를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure Conversion Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-5",
+        "from": "crow",
+        "to": "reward-5",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Plague Surgeon Player Profile Frame를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-6",
+        "from": "crow",
+        "to": "reward-6",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page I 보상으로 Shrike's Scream를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "4\nShrike's Scream Bomb Lance Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-7",
+        "from": "crow",
+        "to": "reward-7",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Hollow Marrow를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nHollow Marrow First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-8",
+        "from": "crow",
+        "to": "reward-8",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Crow's Gift를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nCrow's Gift Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-9",
+        "from": "crow",
+        "to": "reward-9",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Miasma's Cure: Chain Pistol를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nMiasma's Cure: Chain Pistol Conversion Chain Pistol Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-10",
+        "from": "crow",
+        "to": "reward-10",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Plague Surgeon Player Profile Avatar를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nPlague Surgeon Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-11",
+        "from": "crow",
+        "to": "reward-11",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Burnt Briar를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "3\nBurnt Briar Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "crow-rewards-12",
+        "from": "crow",
+        "to": "reward-12",
+        "type": "rewards",
+        "statement": "위키는 As the Crow Carves의 Page II 보상으로 Open Threat를 열거한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-642753059f3bc59be0420d3c",
+            "quote": "2\nOpen Threat Bomb Lance Animation"
+          }
+        ]
+      }
+    ]
+  }
+}
