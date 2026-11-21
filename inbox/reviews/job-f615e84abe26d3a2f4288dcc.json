@@ -1,0 +1,214 @@
+{
+  "jobId": "job-f615e84abe26d3a2f4288dcc",
+  "sourceHash": "322762fd101f0c097b9a5a8051ca97a7efad84447995ce65cd4b0d027463b4af",
+  "reviewedExtractionHash": "4ac23c352be4e859aeb30d3eecb58224c3ba22d3fa07cf3fa91a7c11f3cf0751",
+  "review": {
+    "decisions": [
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Reap the Harvest의 Blood Testament Chapter 3 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. As the Crow Carves의 Blood Testament · 2026 Legacy Chronicle 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Lancaster의 weapon 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Lancaster Cleaver의 weapon 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Blood Testament의 2026 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "steamdb",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. SteamDB의 공개 빌드 기록 서비스 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "video-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt의 Psychoghost Gaming 공개 Hunt 영상 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "video-1",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "제목과 소개는 원문에 있지만 이 브리핑 원문에는 na67cXkn1uc URL이 없다. 제목 일치만으로 특정 영상 ID에 연결한 정체성은 보류한다."
+      },
+      {
+        "key": "video-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Playing HUNT: Showdown like it's 2018..의 Toxic Pancake 공개 Hunt 영상 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reap-announcement",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 과거 진행 공지 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-image-date",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 공지 이미지의 개시 안내일 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-stage1-record",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 커뮤니티 단계 완료 기록 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-stage1-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 1 보상 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-stage2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 2 보상 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-stage4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 4 보상 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-stage5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stage 5 보상 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "lancaster-ammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 소개된 탄종별 장탄수 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "lancaster-reload",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 개방식 재장전 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 변형 근접 공격 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "blood-chapter3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 당시 Chapter 3 운영 안내 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "blood-end",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 이벤트 종료 안내 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-availability",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 과거 이용 가능 공지 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-adjustment-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 목표치 운영 조정설 설명과 후보의 값·함의를 대조했다. 미확인 추정 상태를 유지한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "steamdb-observation",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 레코드 관찰 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "video-0-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 영상 소개 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "video-1-description",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "제목과 소개는 원문에 있지만 이 브리핑 원문에는 na67cXkn1uc URL이 없다. 제목 일치만으로 특정 영상 ID에 연결한 정체성은 보류한다."
+      },
+      {
+        "key": "video-2-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 영상 소개 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reap-rewards-lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "reap-rewards-cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

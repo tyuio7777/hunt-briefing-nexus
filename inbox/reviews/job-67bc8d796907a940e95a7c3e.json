@@ -1,0 +1,200 @@
+{
+  "jobId": "job-67bc8d796907a940e95a7c3e",
+  "sourceHash": "1db8b3903e96607e1d902d7d80caa83b3991a498024027f8930a771b597081f3",
+  "reviewedExtractionHash": "a63c01c689b1fc2f9856c09eae64d627128fa0e7db0b4594d952a424cc195f16",
+  "review": {
+    "decisions": [
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Reap the Harvest의 Blood Testament Chapter 3 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. As the Crow Carves의 Blood Testament · 2026 Legacy Chronicle 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Lancaster의 weapon 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Lancaster Cleaver의 weapon 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. The Plague Surgeon의 character 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Fair Play Follow Up의 system 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "steamdb",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. SteamDB의 공개 빌드 기록 서비스 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "drops",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Twitch Drops의 2026-10 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "video-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. The Insane Derringer Triangle - Twitch Drops October Highlights Part 2 - Solo Hunt의 Psychoghost Gaming 공개 Hunt 영상 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "video-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. The BEST Way To Use The Long Derringer?! | The Hunt: Showdown Experience의 REXNOR 공개 Hunt 영상 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "video-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. UPDATE 2.9.3 overview: *NEW* LANCASTER + plague doctor returns! (HUNT: Showdown News Roundup)의 Toxic Pancake 공개 Hunt 영상 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "crow-availability",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 과거 이용 가능 공지 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-addition",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 커뮤니티 도입 기록 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 챌린지 보상 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "lancaster-spec",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 소개된 무기 사양 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "cleaver-melee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 변형 근접 공격 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "lancaster-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 공동 이벤트 해금 조건 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "cleaver-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 공동 이벤트 해금 조건 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "drops-end",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 캠페인 종료 안내 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "drops-conditions",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 조건 구분 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "ping-test",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "유럽 High-Ping Queue는 매치메이킹 시험이고 Fair Play Follow Up은 신고 후속 알림·보상 시스템이다. 같은 공지에 있다는 이유만으로 후자의 속성으로 귀속할 수 없다."
+      },
+      {
+        "key": "reap-rumor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 당시 개시일 추정 설명과 후보의 값·함의를 대조했다. 미확인 추정 상태를 유지한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "steamdb-observation",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 배포 기록 관찰 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "video-0-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 영상 소개 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "video-1-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 영상 소개 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "video-2-description",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 브리핑의 영상 소개 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-rewards-surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

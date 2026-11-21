@@ -1,0 +1,46 @@
+{
+  "jobId": "job-43bbfc80cd47b245c520d429",
+  "sourceHash": "17dac925d1159ffc7e1e5dd89e5b800637573ff7379880004f70b28ba4f89bcf",
+  "reviewedExtractionHash": "048800652a8cfdb179a4c1e1dfd61c2646eef1c8b41bb6067852c742ec4c238a",
+  "review": {
+    "decisions": [
+      {
+        "key": "roster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. The Bayou Roster의 system 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "harvest",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Reap the Harvest의 Blood Testament Chapter 3 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "roster-purpose",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 서비스 설명 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "roster-features",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 공지된 기능 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "harvest-snapshot",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "화면은 Stage 2 of 5와 98,208,936/500,000,000을 표시한다. 완료·무기 해금으로 확대하지 않으며 원문 발행 메타데이터를 수치 관측 시각으로 사용하지 않았다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

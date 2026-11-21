@@ -1,0 +1,18 @@
+{
+  "jobId": "job-bf8857cd843edd55280c31b5",
+  "sourceHash": "dee488e546fb6a46d27a42eb4164a70f86af3b2c918e73f7a2b6afb1f21542be",
+  "reviewedExtractionHash": "3c6eda1cebd40c97c686ff487e421732bdbb38b7e0ca149c9a54152a92b0f4d5",
+  "review": {
+    "decisions": [
+      {
+        "key": "video",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. The SECRET To Making INSANE Money! | Hunt: Showdown 1896의 YouTube 공개 영상 · na67cXkn1uc 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

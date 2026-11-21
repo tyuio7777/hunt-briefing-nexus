@@ -1,0 +1,529 @@
+{
+  "jobId": "job-32063065d88239f4abab46d7",
+  "sourceHash": "d1bef5821e32f4e51df42173e78398e5f2211480e60a6ef40dcab5c93ba7fb70",
+  "reviewedExtractionHash": "e30abc534caded21a08bbda72258265dbe3f83c79fe3394ef312cc6eaafcbf93",
+  "review": {
+    "decisions": [
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. As the Crow Carves의 Blood Testament · 2026 Legacy Chronicle 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Bitter Briar의 As the Crow Carves · Chaos Bomb 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Surgically Precise의 As the Crow Carves · Player Profile Title 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Scavenger's Nest의 As the Crow Carves · Concertina Bomb 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Wyndham's Demise의 As the Crow Carves · Weapon Charm 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Miasma's Cure의 As the Crow Carves · Conversion 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Plague Surgeon Player Profile Frame의 As the Crow Carves · Player Profile Frame 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Shrike's Scream의 As the Crow Carves · Bomb Lance 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Hollow Marrow의 As the Crow Carves · First Aid Kit 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Crow's Gift의 As the Crow Carves · Weapon Charm 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Miasma's Cure: Chain Pistol의 As the Crow Carves · Conversion Chain Pistol 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Plague Surgeon Player Profile Avatar의 As the Crow Carves · Player Profile Avatar 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Burnt Briar의 As the Crow Carves · Sticky Bomb 스킨 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "reward-12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. Open Threat의 As the Crow Carves · Bomb Lance Animation 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "crow-addition",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "위키 본문은 November 3rd 2026 인게임 추가를 명시한다. 2026-11-03 해석은 맞고 공식 공지일·현재 이용 가능성으로 바꾸지 않았다."
+      },
+      {
+        "key": "crow-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 콘텐츠 분류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-redesign",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 디자인의 과거 연관 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-sigils",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 챌린지 보상 해금 방식 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-chapter-unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 다음 장 해금 조건 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-I-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter I 챌린지 · Land headshots on enemy Hunters using: Pistols 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-I-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter I 챌린지 · Restore Health for yourself or for your teammates 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-I-6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter I 챌린지 · Collect Clues or visit Compounds 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-I-9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter I 챌린지 · Banish Target: Scrapbeak 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-I-12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter I 챌린지 · Kill Crows 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-II-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter II 챌린지 · Kill enemy Hunters with: Conversion or Conversion Chain Pistol 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-II-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter II 챌린지 · Land hits on enemy Hunters using: Rending melee attacks 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-II-6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter II 챌린지 · Cause Bleeding on enemy Hunters 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-II-9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter II 챌린지 · Kill Monsters with: Poison Damage 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-II-12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter II 챌린지 · Kill Crows. We need more Crows 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-III-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter III 챌린지 · Kill enemy Hunters with: Bomb Lance or Bomb Launcher 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-III-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter III 챌린지 · Extract with a Bounty Token or be the Soul Survivor 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-III-6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter III 챌린지 · Deal damage to enemy Hunters using: Consumables 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-III-9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter III 챌린지 · Kill Monsters with: Explosive Damage 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "challenge-III-12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chapter III 챌린지 · KILL CROWS KILL CROWS KILL CROWS 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-0-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-0-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-1-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-1-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-2-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-2-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-3-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-3-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-4-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-4-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-5-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-5-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-6-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-6-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-7-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-7-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-8-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-8-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-9-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-9-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-10-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-10-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-11-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-11-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-12-type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 종류 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "reward-12-cost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 비용 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-page2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Page II 해금 조건 설명과 후보의 값·함의를 대조했다. 출처에 귀속된 설명으로만 인정한다. 과거 기록이며 현재 상태로 확대하지 않는다."
+      },
+      {
+        "key": "crow-rewards-0",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      },
+      {
+        "key": "crow-rewards-12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 보상 표·챌린지 문맥이 해당 대상 간 rewards 관계를 직접 설명한다. 동시 언급만으로 만든 관계가 아니며 해금 완료일을 추가하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

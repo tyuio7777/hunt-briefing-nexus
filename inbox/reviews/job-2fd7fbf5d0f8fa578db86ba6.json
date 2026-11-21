@@ -1,0 +1,25 @@
+{
+  "jobId": "job-2fd7fbf5d0f8fa578db86ba6",
+  "sourceHash": "c0942772596228c4af91421b4a89b0c15dc55d985b5a7590a2c8df3956730267",
+  "reviewedExtractionHash": "9686e7be0f7b7cb0ecfda12df2ad9057b0981d66fce16601a72b2e6955b8a24d",
+  "review": {
+    "decisions": [
+      {
+        "key": "post",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 명칭과 문맥을 대조했다. 빨간약 한사발 드링킹 했다의 DCInside 공개 게시물 · no=57908 정체성을 유지하며 별칭·다른 변형을 합치지 않는다."
+      },
+      {
+        "key": "positioning",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 6성 두 명과의 파티 경험 및 엄폐·포지셔닝 회고를 확인했다. 개인 체감만 설명하며 전체 MMR 규칙으로 일반화하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
