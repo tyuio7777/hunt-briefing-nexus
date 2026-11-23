@@ -1,0 +1,45 @@
+{
+  "jobId": "job-f240226c816626fea6b069d8",
+  "sourceHash": "ab26b233f27a484460e119582c6b36da70a2939b5fb4ae182d14ef5a8a222216",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "이벤트 배급 간격에 대한 게시글 의견",
+        "kind": "topic",
+        "scope": "DCInside 57920",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-bbcd65827d83b9ee91b776b3",
+            "quote": "어차피 이번 스테이지3도 그냥 배급이던데\n띄엄띄엄 내면 양이 늘어나보이나\n붉은달 곁들인 플레인 시즌 3개월 졸라 길다"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "개인 의견",
+        "value": "배급 간격과 시즌 길이 불만",
+        "statement": "작성자는 배급 간격과 붉은달 시즌의 길이에 불만을 표현했다. 특정 이벤트 회차와 정확한 기간은 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-bbcd65827d83b9ee91b776b3",
+            "quote": "어차피 이번 스테이지3도 그냥 배급이던데\n띄엄띄엄 내면 양이 늘어나보이나\n붉은달 곁들인 플레인 시즌 3개월 졸라 길다"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

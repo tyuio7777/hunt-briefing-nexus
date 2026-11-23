@@ -1,0 +1,83 @@
+{
+  "jobId": "job-cf1a14fdfaf98db8fdb6b866",
+  "sourceHash": "a28b17ce5d8ed4f40607d000bd8a45c83ea8b5b6e81b29683fe7b8ec3d08a752",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "This week in Hunt: Nov 16–22, 2026",
+        "kind": "topic",
+        "scope": "showdown.com.ua 2026-W47",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-459ba6d6c7281ba17c868312",
+            "quote": "This week in Hunt: Nov 16–22, 2026"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "주간 PC 이용자 통계",
+        "value": "최고 26,667·평균 12,279",
+        "statement": "팬 사이트는 해당 주 Steam 최고 동시 접속 26,667명, 평균 12,279명과 전주 대비 4% 감소를 보고한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-459ba6d6c7281ba17c868312",
+            "quote": "peak 26,667 (Sun, Nov 22) · average 12,279 · ▼ 4% vs the previous week"
+          }
+        ]
+      },
+      {
+        "key": "a3",
+        "subject": "e1",
+        "aspect": "수집 범위",
+        "value": "Steam PC만",
+        "statement": "사이트 통계는 Steam PC만 포함하며 콘솔은 제외한다고 명시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-459ba6d6c7281ba17c868312",
+            "quote": "Steam (PC) only, consoles not included."
+          }
+        ]
+      },
+      {
+        "key": "a4",
+        "subject": "e1",
+        "aspect": "점검 공지 인용",
+        "value": "지역 변경 문제·패킷 손실",
+        "statement": "팬 사이트가 인용한 공지는 일부 플레이어의 지역 변경 문제와 높은 패킷 손실을 데이터센터 제공자의 긴급 점검에 귀속한다. 현재 지속 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-459ba6d6c7281ba17c868312",
+            "quote": "⚠️Heads up, Hunters! We know some players may be having trouble switching regions and experiencing higher-than-normal packet loss today. This was caused by emergency maintenance that our data center provider needed to perform…"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

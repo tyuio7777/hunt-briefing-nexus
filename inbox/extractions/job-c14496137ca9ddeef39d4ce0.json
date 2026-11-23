@@ -1,0 +1,3200 @@
+{
+  "jobId": "job-c14496137ca9ddeef39d4ce0",
+  "sourceHash": "244dddad7c15e1d7788d4331ac72e38d728a4faae95d96706a1a750e587bc4c1",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "Scapula Romero 77 Hatchet Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Scapula Romero 77 Hatchet Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Scapula Romero 77 Hatchet Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "e3",
+        "label": "The Marwood Rival 78 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Marwood Rival 78 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Marwood Rival 78 Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "e5",
+        "label": "The Executioner Combat Axe Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Executioner Combat Axe Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Executioner Combat Axe Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "e7",
+        "label": "Skull Effigy Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Skull Effigy Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Skull Effigy Weapon Charm - 350"
+          }
+        ]
+      },
+      {
+        "key": "e9",
+        "label": "All Hallow's Eve Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000"
+          }
+        ]
+      },
+      {
+        "key": "e11",
+        "label": "Mama Maye",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Mama Maye",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Mama Maye - 1200"
+          }
+        ]
+      },
+      {
+        "key": "e14",
+        "label": "Backbone Vetterli 71 Bayonet Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Backbone Vetterli 71 Bayonet Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Backbone Vetterli 71 Bayonet Skin - 800"
+          }
+        ]
+      },
+      {
+        "key": "e17",
+        "label": "Skeleton Key Heavy Knife Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Skeleton Key Heavy Knife Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Skeleton Key Heavy Knife Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "e20",
+        "label": "Boneshard Pax Claw Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Boneshard Pax Claw Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Boneshard Pax Claw Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "e23",
+        "label": "Closed Casket Mosin Obrez Mace Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Closed Casket Mosin Obrez Mace Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Closed Casket Mosin Obrez Mace Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "e26",
+        "label": "Bloody Red's Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870"
+          }
+        ]
+      },
+      {
+        "key": "e28",
+        "label": "Bloody Red: Hood",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Bloody Red: Hood",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red: Hood - 1000"
+          }
+        ]
+      },
+      {
+        "key": "e31",
+        "label": "Bloody Red: Wolf",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Bloody Red: Wolf",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red: Wolf - 1000"
+          }
+        ]
+      },
+      {
+        "key": "e34",
+        "label": "Wolfsbane Lebel 1886 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Wolfsbane Lebel 1886 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane Lebel 1886 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e37",
+        "label": "Wolfsbane: Aperture Lebel 1886 Aperture Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Wolfsbane: Aperture Lebel 1886 Aperture Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Aperture Lebel 1886 Aperture Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e40",
+        "label": "Wolfsbane: Marksman Lebel 1886 Marksman Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Wolfsbane: Marksman Lebel 1886 Marksman Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Marksman Lebel 1886 Marksman Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e43",
+        "label": "Wolfsbane: Talon Lebel 1886 Talon Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Wolfsbane: Talon Lebel 1886 Talon Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Talon Lebel 1886 Talon Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e46",
+        "label": "Cowboy Beetles Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Cowboy Beetles Bundle - 600"
+          }
+        ]
+      },
+      {
+        "key": "e48",
+        "label": "Stalker Cowboy Beetle Stalker Beetle Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Stalker Cowboy Beetle Stalker Beetle Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Stalker Cowboy Beetle Stalker Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e51",
+        "label": "Fire Cowboy Beetle Fire Beetle Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Fire Cowboy Beetle Fire Beetle Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Fire Cowboy Beetle Fire Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e54",
+        "label": "Choke Cowboy Beetle Choke Beetle Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Choke Cowboy Beetle Choke Beetle Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Choke Cowboy Beetle Choke Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e57",
+        "label": "In the Name of the Father Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920"
+          }
+        ]
+      },
+      {
+        "key": "e59",
+        "label": "Sister Tabitha",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Sister Tabitha",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Sister Tabitha - 1500"
+          }
+        ]
+      },
+      {
+        "key": "e62",
+        "label": "Divine Submission Railroad Hammer Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Divine Submission Railroad Hammer Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Divine Submission Railroad Hammer Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "e65",
+        "label": "Forsaken Contrition Slate Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Forsaken Contrition Slate Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Forsaken Contrition Slate Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "e68",
+        "label": "Forsaken Contrition: Riposte Slate Riposte Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Forsaken Contrition: Riposte Slate Riposte Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Forsaken Contrition: Riposte Slate Riposte Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "e71",
+        "label": "On Hell's Wings Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900"
+          }
+        ]
+      },
+      {
+        "key": "e73",
+        "label": "Midnight's Shadow",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Midnight's Shadow",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Midnight's Shadow - 1000"
+          }
+        ]
+      },
+      {
+        "key": "e76",
+        "label": "To the Flame Auto-5 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · To the Flame Auto-5 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "To the Flame Auto-5 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e79",
+        "label": "To the Flame: Shorty Auto-4 Shorty Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · To the Flame: Shorty Auto-4 Shorty Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "To the Flame: Shorty Auto-4 Shorty Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e82",
+        "label": "Grim Nectar 1890 Cavalry Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Grim Nectar 1890 Cavalry Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Grim Nectar 1890 Cavalry Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "e85",
+        "label": "The Underwing LeMat Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Underwing LeMat Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Underwing LeMat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e88",
+        "label": "The Underwing: Haymaker Haymaker Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Underwing: Haymaker Haymaker Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Underwing: Haymaker Haymaker Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e91",
+        "label": "Nightfall Hand Crossbow Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Nightfall Hand Crossbow Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Nightfall Hand Crossbow Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e94",
+        "label": "The Hanged Man Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440"
+          }
+        ]
+      },
+      {
+        "key": "e96",
+        "label": "The Hanged Man",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Hanged Man",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man - 900"
+          }
+        ]
+      },
+      {
+        "key": "e99",
+        "label": "Short Drop Choke Bombs Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Short Drop Choke Bombs Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Short Drop Choke Bombs Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "e102",
+        "label": "Indecision's End Centennial Shorty Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Indecision's End Centennial Shorty Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End Centennial Shorty Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e105",
+        "label": "Indecision's End: Pointman Centennial Pointman Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Indecision's End: Pointman Centennial Pointman Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End: Pointman Centennial Pointman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e108",
+        "label": "Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e111",
+        "label": "The Righteous Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300"
+          }
+        ]
+      },
+      {
+        "key": "e113",
+        "label": "Hex Breaker",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Hex Breaker",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Hex Breaker - 1000"
+          }
+        ]
+      },
+      {
+        "key": "e123",
+        "label": "The Stormseer Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500"
+          }
+        ]
+      },
+      {
+        "key": "e125",
+        "label": "Stormseer",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Stormseer",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Stormseer - 800"
+          }
+        ]
+      },
+      {
+        "key": "e128",
+        "label": "Vertebrae Marathon Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Vertebrae Marathon Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Vertebrae Marathon Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "e131",
+        "label": "Vertebrae: Swift Marathon Swift Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Vertebrae: Swift Marathon Swift Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Vertebrae: Swift Marathon Swift Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "e134",
+        "label": "Splintered Jaw Uppercut Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Splintered Jaw Uppercut Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw Uppercut Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e137",
+        "label": "Splintered Jaw: Precision Uppercut Precision Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Splintered Jaw: Precision Uppercut Precision Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw: Precision Uppercut Precision Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e140",
+        "label": "Splintered Jaw: Deadeye Uppercut Deadeye Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Splintered Jaw: Deadeye Uppercut Deadeye Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw: Deadeye Uppercut Deadeye Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e143",
+        "label": "Web of the Empress Bundle",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 판매 번들",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100"
+          }
+        ]
+      },
+      {
+        "key": "e145",
+        "label": "The Empress",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · The Empress",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Empress - 1000"
+          }
+        ]
+      },
+      {
+        "key": "e148",
+        "label": "Argent Widow Conversion Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Argent Widow Conversion Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Argent Widow Conversion Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e151",
+        "label": "Argent Widow: Chain Pistol Conversion Chain Pistol Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Argent Widow: Chain Pistol Conversion Chain Pistol Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Argent Widow: Chain Pistol Conversion Chain Pistol Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e154",
+        "label": "Envenom Vetterli 71 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom Vetterli 71 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom Vetterli 71 Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e157",
+        "label": "Envenom: Bayonet Vetterli 71 Bayonet Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom: Bayonet Vetterli 71 Bayonet Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Bayonet Vetterli 71 Bayonet Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e160",
+        "label": "Envenom: Deadeye Vetterli 71 Deadeye Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom: Deadeye Vetterli 71 Deadeye Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Deadeye Vetterli 71 Deadeye Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e163",
+        "label": "Envenom: Silencer Vetterli 71 Silencer Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom: Silencer Vetterli 71 Silencer Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Silencer Vetterli 71 Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e166",
+        "label": "Envenom: Marksman Vetterli 71 Marksman Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom: Marksman Vetterli 71 Marksman Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Marksman Vetterli 71 Marksman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e169",
+        "label": "Envenom: Cyclone Vetterli 71 Cyclone Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Envenom: Cyclone Vetterli 71 Cyclone Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Cyclone Vetterli 71 Cyclone Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "e172",
+        "label": "Burning Web Dynamite Stick Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Burning Web Dynamite Stick Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Burning Web Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e175",
+        "label": "Waxed Burning Web Waxed Dynamite Stick Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Waxed Burning Web Waxed Dynamite Stick Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Waxed Burning Web Waxed Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e178",
+        "label": "Black Silk Mosin-Nagant Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Black Silk Mosin-Nagant Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk Mosin-Nagant Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e181",
+        "label": "Black Silk: Bayonet Mosin-Nagant Bayonet Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Black Silk: Bayonet Mosin-Nagant Bayonet Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Bayonet Mosin-Nagant Bayonet Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e184",
+        "label": "Black Silk: Sniper Mosin-Nagant Sniper Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Black Silk: Sniper Mosin-Nagant Sniper Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Sniper Mosin-Nagant Sniper Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e187",
+        "label": "Black Silk: Avtomat Mosin-Nagant Avtomat Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Black Silk: Avtomat Mosin-Nagant Avtomat Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Avtomat Mosin-Nagant Avtomat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "e190",
+        "label": "Blood Garnet",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 상점 항목 · Blood Garnet",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Garnet - 595"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "위키 상점 표기값",
+        "value": "700",
+        "statement": "위키는 Scapula Romero 77 Hatchet Skin의 값을 700으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Scapula Romero 77 Hatchet Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "a4",
+        "subject": "e3",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 The Marwood Rival 78 Skin의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Marwood Rival 78 Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "a6",
+        "subject": "e5",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 The Executioner Combat Axe Skin의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Executioner Combat Axe Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "a8",
+        "subject": "e7",
+        "aspect": "위키 상점 표기값",
+        "value": "350",
+        "statement": "위키는 Skull Effigy Weapon Charm의 값을 350으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Skull Effigy Weapon Charm - 350"
+          }
+        ]
+      },
+      {
+        "key": "a10",
+        "subject": "e9",
+        "aspect": "위키 상점 표기값",
+        "value": "2000",
+        "statement": "위키는 All Hallow's Eve Bundle의 값을 2000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000"
+          }
+        ]
+      },
+      {
+        "key": "a12",
+        "subject": "e11",
+        "aspect": "위키 상점 표기값",
+        "value": "1200",
+        "statement": "위키는 Mama Maye의 값을 1200으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Mama Maye - 1200"
+          }
+        ]
+      },
+      {
+        "key": "a15",
+        "subject": "e14",
+        "aspect": "위키 상점 표기값",
+        "value": "800",
+        "statement": "위키는 Backbone Vetterli 71 Bayonet Skin의 값을 800으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Backbone Vetterli 71 Bayonet Skin - 800"
+          }
+        ]
+      },
+      {
+        "key": "a18",
+        "subject": "e17",
+        "aspect": "위키 상점 표기값",
+        "value": "700",
+        "statement": "위키는 Skeleton Key Heavy Knife Skin의 값을 700으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Skeleton Key Heavy Knife Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "a21",
+        "subject": "e20",
+        "aspect": "위키 상점 표기값",
+        "value": "700",
+        "statement": "위키는 Boneshard Pax Claw Skin의 값을 700으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Boneshard Pax Claw Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "a24",
+        "subject": "e23",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 Closed Casket Mosin Obrez Mace Skin의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Closed Casket Mosin Obrez Mace Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "a27",
+        "subject": "e26",
+        "aspect": "위키 상점 표기값",
+        "value": "1870",
+        "statement": "위키는 Bloody Red's Bundle의 값을 1870으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870"
+          }
+        ]
+      },
+      {
+        "key": "a29",
+        "subject": "e28",
+        "aspect": "위키 상점 표기값",
+        "value": "1000",
+        "statement": "위키는 Bloody Red: Hood의 값을 1000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red: Hood - 1000"
+          }
+        ]
+      },
+      {
+        "key": "a32",
+        "subject": "e31",
+        "aspect": "위키 상점 표기값",
+        "value": "1000",
+        "statement": "위키는 Bloody Red: Wolf의 값을 1000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red: Wolf - 1000"
+          }
+        ]
+      },
+      {
+        "key": "a35",
+        "subject": "e34",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Wolfsbane Lebel 1886 Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane Lebel 1886 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a38",
+        "subject": "e37",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Wolfsbane: Aperture Lebel 1886 Aperture Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Aperture Lebel 1886 Aperture Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a41",
+        "subject": "e40",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Wolfsbane: Marksman Lebel 1886 Marksman Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Marksman Lebel 1886 Marksman Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a44",
+        "subject": "e43",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Wolfsbane: Talon Lebel 1886 Talon Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Wolfsbane: Talon Lebel 1886 Talon Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a47",
+        "subject": "e46",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 Cowboy Beetles Bundle의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Cowboy Beetles Bundle - 600"
+          }
+        ]
+      },
+      {
+        "key": "a49",
+        "subject": "e48",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Stalker Cowboy Beetle Stalker Beetle Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Stalker Cowboy Beetle Stalker Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a52",
+        "subject": "e51",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Fire Cowboy Beetle Fire Beetle Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Fire Cowboy Beetle Fire Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a55",
+        "subject": "e54",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Choke Cowboy Beetle Choke Beetle Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Choke Cowboy Beetle Choke Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a58",
+        "subject": "e57",
+        "aspect": "위키 상점 표기값",
+        "value": "1920",
+        "statement": "위키는 In the Name of the Father Bundle의 값을 1920으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920"
+          }
+        ]
+      },
+      {
+        "key": "a60",
+        "subject": "e59",
+        "aspect": "위키 상점 표기값",
+        "value": "1500",
+        "statement": "위키는 Sister Tabitha의 값을 1500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Sister Tabitha - 1500"
+          }
+        ]
+      },
+      {
+        "key": "a63",
+        "subject": "e62",
+        "aspect": "위키 상점 표기값",
+        "value": "700",
+        "statement": "위키는 Divine Submission Railroad Hammer Skin의 값을 700으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Divine Submission Railroad Hammer Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "a66",
+        "subject": "e65",
+        "aspect": "위키 상점 표기값",
+        "value": "500",
+        "statement": "위키는 Forsaken Contrition Slate Skin의 값을 500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Forsaken Contrition Slate Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "a69",
+        "subject": "e68",
+        "aspect": "위키 상점 표기값",
+        "value": "500",
+        "statement": "위키는 Forsaken Contrition: Riposte Slate Riposte Skin의 값을 500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Forsaken Contrition: Riposte Slate Riposte Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "a72",
+        "subject": "e71",
+        "aspect": "위키 상점 표기값",
+        "value": "1900",
+        "statement": "위키는 On Hell's Wings Bundle의 값을 1900으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900"
+          }
+        ]
+      },
+      {
+        "key": "a74",
+        "subject": "e73",
+        "aspect": "위키 상점 표기값",
+        "value": "1000",
+        "statement": "위키는 Midnight's Shadow의 값을 1000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Midnight's Shadow - 1000"
+          }
+        ]
+      },
+      {
+        "key": "a77",
+        "subject": "e76",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 To the Flame Auto-5 Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "To the Flame Auto-5 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a80",
+        "subject": "e79",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 To the Flame: Shorty Auto-4 Shorty Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "To the Flame: Shorty Auto-4 Shorty Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a83",
+        "subject": "e82",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 Grim Nectar 1890 Cavalry Skin의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Grim Nectar 1890 Cavalry Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "a86",
+        "subject": "e85",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 The Underwing LeMat Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Underwing LeMat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a89",
+        "subject": "e88",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 The Underwing: Haymaker Haymaker Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Underwing: Haymaker Haymaker Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a92",
+        "subject": "e91",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Nightfall Hand Crossbow Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Nightfall Hand Crossbow Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a95",
+        "subject": "e94",
+        "aspect": "위키 상점 표기값",
+        "value": "1440",
+        "statement": "위키는 The Hanged Man Bundle의 값을 1440으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440"
+          }
+        ]
+      },
+      {
+        "key": "a97",
+        "subject": "e96",
+        "aspect": "위키 상점 표기값",
+        "value": "900",
+        "statement": "위키는 The Hanged Man의 값을 900으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man - 900"
+          }
+        ]
+      },
+      {
+        "key": "a100",
+        "subject": "e99",
+        "aspect": "위키 상점 표기값",
+        "value": "600",
+        "statement": "위키는 Short Drop Choke Bombs Skin의 값을 600으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Short Drop Choke Bombs Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "a103",
+        "subject": "e102",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Indecision's End Centennial Shorty Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End Centennial Shorty Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a106",
+        "subject": "e105",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Indecision's End: Pointman Centennial Pointman Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End: Pointman Centennial Pointman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a109",
+        "subject": "e108",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a112",
+        "subject": "e111",
+        "aspect": "위키 상점 표기값",
+        "value": "2300",
+        "statement": "위키는 The Righteous Bundle의 값을 2300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300"
+          }
+        ]
+      },
+      {
+        "key": "a114",
+        "subject": "e113",
+        "aspect": "위키 상점 표기값",
+        "value": "1000",
+        "statement": "위키는 Hex Breaker의 값을 1000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Hex Breaker - 1000"
+          }
+        ]
+      },
+      {
+        "key": "a124",
+        "subject": "e123",
+        "aspect": "위키 상점 표기값",
+        "value": "1500",
+        "statement": "위키는 The Stormseer Bundle의 값을 1500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500"
+          }
+        ]
+      },
+      {
+        "key": "a126",
+        "subject": "e125",
+        "aspect": "위키 상점 표기값",
+        "value": "800",
+        "statement": "위키는 Stormseer의 값을 800으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Stormseer - 800"
+          }
+        ]
+      },
+      {
+        "key": "a129",
+        "subject": "e128",
+        "aspect": "위키 상점 표기값",
+        "value": "500",
+        "statement": "위키는 Vertebrae Marathon Skin의 값을 500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Vertebrae Marathon Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "a132",
+        "subject": "e131",
+        "aspect": "위키 상점 표기값",
+        "value": "500",
+        "statement": "위키는 Vertebrae: Swift Marathon Swift Skin의 값을 500으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Vertebrae: Swift Marathon Swift Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "a135",
+        "subject": "e134",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Splintered Jaw Uppercut Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw Uppercut Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a138",
+        "subject": "e137",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Splintered Jaw: Precision Uppercut Precision Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw: Precision Uppercut Precision Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a141",
+        "subject": "e140",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Splintered Jaw: Deadeye Uppercut Deadeye Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Splintered Jaw: Deadeye Uppercut Deadeye Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a144",
+        "subject": "e143",
+        "aspect": "위키 상점 표기값",
+        "value": "2100",
+        "statement": "위키는 Web of the Empress Bundle의 값을 2100으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100"
+          }
+        ]
+      },
+      {
+        "key": "a146",
+        "subject": "e145",
+        "aspect": "위키 상점 표기값",
+        "value": "1000",
+        "statement": "위키는 The Empress의 값을 1000으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Empress - 1000"
+          }
+        ]
+      },
+      {
+        "key": "a149",
+        "subject": "e148",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Argent Widow Conversion Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Argent Widow Conversion Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a152",
+        "subject": "e151",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Argent Widow: Chain Pistol Conversion Chain Pistol Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Argent Widow: Chain Pistol Conversion Chain Pistol Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a155",
+        "subject": "e154",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom Vetterli 71 Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom Vetterli 71 Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a158",
+        "subject": "e157",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom: Bayonet Vetterli 71 Bayonet Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Bayonet Vetterli 71 Bayonet Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a161",
+        "subject": "e160",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom: Deadeye Vetterli 71 Deadeye Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Deadeye Vetterli 71 Deadeye Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a164",
+        "subject": "e163",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom: Silencer Vetterli 71 Silencer Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Silencer Vetterli 71 Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a167",
+        "subject": "e166",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom: Marksman Vetterli 71 Marksman Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Marksman Vetterli 71 Marksman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a170",
+        "subject": "e169",
+        "aspect": "위키 상점 표기값",
+        "value": "300",
+        "statement": "위키는 Envenom: Cyclone Vetterli 71 Cyclone Skin의 값을 300으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Envenom: Cyclone Vetterli 71 Cyclone Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "a173",
+        "subject": "e172",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Burning Web Dynamite Stick Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Burning Web Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a176",
+        "subject": "e175",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Waxed Burning Web Waxed Dynamite Stick Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Waxed Burning Web Waxed Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a179",
+        "subject": "e178",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Black Silk Mosin-Nagant Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk Mosin-Nagant Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a182",
+        "subject": "e181",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Black Silk: Bayonet Mosin-Nagant Bayonet Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Bayonet Mosin-Nagant Bayonet Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a185",
+        "subject": "e184",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Black Silk: Sniper Mosin-Nagant Sniper Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Sniper Mosin-Nagant Sniper Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a188",
+        "subject": "e187",
+        "aspect": "위키 상점 표기값",
+        "value": "400",
+        "statement": "위키는 Black Silk: Avtomat Mosin-Nagant Avtomat Skin의 값을 400으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Black Silk: Avtomat Mosin-Nagant Avtomat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "a191",
+        "subject": "e190",
+        "aspect": "위키 상점 표기값",
+        "value": "595",
+        "statement": "위키는 Blood Garnet의 값을 595으로 표시한다. 수집 텍스트에 통화 아이콘이 없어 통화 단위와 현재 판매 여부는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Garnet - 595"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "r13",
+        "from": "e11",
+        "to": "e9",
+        "type": "part_of",
+        "statement": "위키는 Mama Maye를 All Hallow's Eve Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000\nMama Maye - 1200"
+          }
+        ]
+      },
+      {
+        "key": "r16",
+        "from": "e14",
+        "to": "e9",
+        "type": "part_of",
+        "statement": "위키는 Backbone Vetterli 71 Bayonet Skin를 All Hallow's Eve Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000\nMama Maye - 1200\nBackbone Vetterli 71 Bayonet Skin - 800"
+          }
+        ]
+      },
+      {
+        "key": "r19",
+        "from": "e17",
+        "to": "e9",
+        "type": "part_of",
+        "statement": "위키는 Skeleton Key Heavy Knife Skin를 All Hallow's Eve Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000\nMama Maye - 1200\nBackbone Vetterli 71 Bayonet Skin - 800\nSkeleton Key Heavy Knife Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "r22",
+        "from": "e20",
+        "to": "e9",
+        "type": "part_of",
+        "statement": "위키는 Boneshard Pax Claw Skin를 All Hallow's Eve Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000\nMama Maye - 1200\nBackbone Vetterli 71 Bayonet Skin - 800\nSkeleton Key Heavy Knife Skin - 700\nBoneshard Pax Claw Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "r25",
+        "from": "e23",
+        "to": "e9",
+        "type": "part_of",
+        "statement": "위키는 Closed Casket Mosin Obrez Mace Skin를 All Hallow's Eve Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallow's Eve Bundle - 2000\nMama Maye - 1200\nBackbone Vetterli 71 Bayonet Skin - 800\nSkeleton Key Heavy Knife Skin - 700\nBoneshard Pax Claw Skin - 700\nClosed Casket Mosin Obrez Mace Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "r30",
+        "from": "e28",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Bloody Red: Hood를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r33",
+        "from": "e31",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Bloody Red: Wolf를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000\nBloody Red: Wolf - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r36",
+        "from": "e34",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Wolfsbane Lebel 1886 Skin를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000\nBloody Red: Wolf - 1000\nWolfsbane Lebel 1886 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r39",
+        "from": "e37",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Wolfsbane: Aperture Lebel 1886 Aperture Skin를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000\nBloody Red: Wolf - 1000\nWolfsbane Lebel 1886 Skin - 400\nWolfsbane: Aperture Lebel 1886 Aperture Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r42",
+        "from": "e40",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Wolfsbane: Marksman Lebel 1886 Marksman Skin를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000\nBloody Red: Wolf - 1000\nWolfsbane Lebel 1886 Skin - 400\nWolfsbane: Aperture Lebel 1886 Aperture Skin - 400\nWolfsbane: Marksman Lebel 1886 Marksman Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r45",
+        "from": "e43",
+        "to": "e26",
+        "type": "part_of",
+        "statement": "위키는 Wolfsbane: Talon Lebel 1886 Talon Skin를 Bloody Red's Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Bloody Red's Bundle - 1870\nBloody Red: Hood - 1000\nBloody Red: Wolf - 1000\nWolfsbane Lebel 1886 Skin - 400\nWolfsbane: Aperture Lebel 1886 Aperture Skin - 400\nWolfsbane: Marksman Lebel 1886 Marksman Skin - 400\nWolfsbane: Talon Lebel 1886 Talon Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r50",
+        "from": "e48",
+        "to": "e46",
+        "type": "part_of",
+        "statement": "위키는 Stalker Cowboy Beetle Stalker Beetle Skin를 Cowboy Beetles Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Cowboy Beetles Bundle - 600\nStalker Cowboy Beetle Stalker Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r53",
+        "from": "e51",
+        "to": "e46",
+        "type": "part_of",
+        "statement": "위키는 Fire Cowboy Beetle Fire Beetle Skin를 Cowboy Beetles Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Cowboy Beetles Bundle - 600\nStalker Cowboy Beetle Stalker Beetle Skin - 400\nFire Cowboy Beetle Fire Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r56",
+        "from": "e54",
+        "to": "e46",
+        "type": "part_of",
+        "statement": "위키는 Choke Cowboy Beetle Choke Beetle Skin를 Cowboy Beetles Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Cowboy Beetles Bundle - 600\nStalker Cowboy Beetle Stalker Beetle Skin - 400\nFire Cowboy Beetle Fire Beetle Skin - 400\nChoke Cowboy Beetle Choke Beetle Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r61",
+        "from": "e59",
+        "to": "e57",
+        "type": "part_of",
+        "statement": "위키는 Sister Tabitha를 In the Name of the Father Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920\nSister Tabitha - 1500"
+          }
+        ]
+      },
+      {
+        "key": "r64",
+        "from": "e62",
+        "to": "e57",
+        "type": "part_of",
+        "statement": "위키는 Divine Submission Railroad Hammer Skin를 In the Name of the Father Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920\nSister Tabitha - 1500\nDivine Submission Railroad Hammer Skin - 700"
+          }
+        ]
+      },
+      {
+        "key": "r67",
+        "from": "e65",
+        "to": "e57",
+        "type": "part_of",
+        "statement": "위키는 Forsaken Contrition Slate Skin를 In the Name of the Father Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920\nSister Tabitha - 1500\nDivine Submission Railroad Hammer Skin - 700\nForsaken Contrition Slate Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "r70",
+        "from": "e68",
+        "to": "e57",
+        "type": "part_of",
+        "statement": "위키는 Forsaken Contrition: Riposte Slate Riposte Skin를 In the Name of the Father Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "In the Name of the Father Bundle - 1920\nSister Tabitha - 1500\nDivine Submission Railroad Hammer Skin - 700\nForsaken Contrition Slate Skin - 500\nForsaken Contrition: Riposte Slate Riposte Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "r75",
+        "from": "e73",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 Midnight's Shadow를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r78",
+        "from": "e76",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 To the Flame Auto-5 Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r81",
+        "from": "e79",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 To the Flame: Shorty Auto-4 Shorty Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r84",
+        "from": "e82",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 Grim Nectar 1890 Cavalry Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "r87",
+        "from": "e85",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 The Underwing LeMat Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r90",
+        "from": "e88",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 The Underwing: Haymaker Haymaker Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400\nThe Underwing: Haymaker Haymaker Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r93",
+        "from": "e91",
+        "to": "e71",
+        "type": "part_of",
+        "statement": "위키는 Nightfall Hand Crossbow Skin를 On Hell's Wings Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "On Hell's Wings Bundle - 1900\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400\nThe Underwing: Haymaker Haymaker Skin - 400\nNightfall Hand Crossbow Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r98",
+        "from": "e96",
+        "to": "e94",
+        "type": "part_of",
+        "statement": "위키는 The Hanged Man를 The Hanged Man Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440\nThe Hanged Man - 900"
+          }
+        ]
+      },
+      {
+        "key": "r101",
+        "from": "e99",
+        "to": "e94",
+        "type": "part_of",
+        "statement": "위키는 Short Drop Choke Bombs Skin를 The Hanged Man Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440\nThe Hanged Man - 900\nShort Drop Choke Bombs Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "r104",
+        "from": "e102",
+        "to": "e94",
+        "type": "part_of",
+        "statement": "위키는 Indecision's End Centennial Shorty Skin를 The Hanged Man Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440\nThe Hanged Man - 900\nShort Drop Choke Bombs Skin - 600\nIndecision's End Centennial Shorty Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r107",
+        "from": "e105",
+        "to": "e94",
+        "type": "part_of",
+        "statement": "위키는 Indecision's End: Pointman Centennial Pointman Skin를 The Hanged Man Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440\nThe Hanged Man - 900\nShort Drop Choke Bombs Skin - 600\nIndecision's End Centennial Shorty Skin - 300\nIndecision's End: Pointman Centennial Pointman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r110",
+        "from": "e108",
+        "to": "e94",
+        "type": "part_of",
+        "statement": "위키는 Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin를 The Hanged Man Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Hanged Man Bundle - 1440\nThe Hanged Man - 900\nShort Drop Choke Bombs Skin - 600\nIndecision's End Centennial Shorty Skin - 300\nIndecision's End: Pointman Centennial Pointman Skin - 300\nIndecision's End: Shorty Silencer Centennial Shorty Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r115",
+        "from": "e113",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 Hex Breaker를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r116",
+        "from": "e73",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 Midnight's Shadow를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r117",
+        "from": "e76",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 To the Flame Auto-5 Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r118",
+        "from": "e79",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 To the Flame: Shorty Auto-4 Shorty Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r119",
+        "from": "e82",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 Grim Nectar 1890 Cavalry Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600"
+          }
+        ]
+      },
+      {
+        "key": "r120",
+        "from": "e85",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 The Underwing LeMat Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r121",
+        "from": "e88",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 The Underwing: Haymaker Haymaker Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400\nThe Underwing: Haymaker Haymaker Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r122",
+        "from": "e91",
+        "to": "e111",
+        "type": "part_of",
+        "statement": "위키는 Nightfall Hand Crossbow Skin를 The Righteous Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Righteous Bundle - 2300\nHex Breaker - 1000\nMidnight's Shadow - 1000\nTo the Flame Auto-5 Skin - 400\nTo the Flame: Shorty Auto-4 Shorty Skin - 400\nGrim Nectar 1890 Cavalry Skin - 600\nThe Underwing LeMat Skin - 400\nThe Underwing: Haymaker Haymaker Skin - 400\nNightfall Hand Crossbow Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r127",
+        "from": "e125",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Stormseer를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800"
+          }
+        ]
+      },
+      {
+        "key": "r130",
+        "from": "e128",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Vertebrae Marathon Skin를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800\nVertebrae Marathon Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "r133",
+        "from": "e131",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Vertebrae: Swift Marathon Swift Skin를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800\nVertebrae Marathon Skin - 500\nVertebrae: Swift Marathon Swift Skin - 500"
+          }
+        ]
+      },
+      {
+        "key": "r136",
+        "from": "e134",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Splintered Jaw Uppercut Skin를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800\nVertebrae Marathon Skin - 500\nVertebrae: Swift Marathon Swift Skin - 500\nSplintered Jaw Uppercut Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r139",
+        "from": "e137",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Splintered Jaw: Precision Uppercut Precision Skin를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800\nVertebrae Marathon Skin - 500\nVertebrae: Swift Marathon Swift Skin - 500\nSplintered Jaw Uppercut Skin - 400\nSplintered Jaw: Precision Uppercut Precision Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r142",
+        "from": "e140",
+        "to": "e123",
+        "type": "part_of",
+        "statement": "위키는 Splintered Jaw: Deadeye Uppercut Deadeye Skin를 The Stormseer Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "The Stormseer Bundle - 1500\nStormseer - 800\nVertebrae Marathon Skin - 500\nVertebrae: Swift Marathon Swift Skin - 500\nSplintered Jaw Uppercut Skin - 400\nSplintered Jaw: Precision Uppercut Precision Skin - 400\nSplintered Jaw: Deadeye Uppercut Deadeye Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r147",
+        "from": "e145",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 The Empress를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000"
+          }
+        ]
+      },
+      {
+        "key": "r150",
+        "from": "e148",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Argent Widow Conversion Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r153",
+        "from": "e151",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Argent Widow: Chain Pistol Conversion Chain Pistol Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r156",
+        "from": "e154",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom Vetterli 71 Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r159",
+        "from": "e157",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom: Bayonet Vetterli 71 Bayonet Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r162",
+        "from": "e160",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom: Deadeye Vetterli 71 Deadeye Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r165",
+        "from": "e163",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom: Silencer Vetterli 71 Silencer Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r168",
+        "from": "e166",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom: Marksman Vetterli 71 Marksman Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r171",
+        "from": "e169",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Envenom: Cyclone Vetterli 71 Cyclone Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300"
+          }
+        ]
+      },
+      {
+        "key": "r174",
+        "from": "e172",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Burning Web Dynamite Stick Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r177",
+        "from": "e175",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Waxed Burning Web Waxed Dynamite Stick Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400\nWaxed Burning Web Waxed Dynamite Stick Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r180",
+        "from": "e178",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Black Silk Mosin-Nagant Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400\nWaxed Burning Web Waxed Dynamite Stick Skin - 400\nBlack Silk Mosin-Nagant Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r183",
+        "from": "e181",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Black Silk: Bayonet Mosin-Nagant Bayonet Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400\nWaxed Burning Web Waxed Dynamite Stick Skin - 400\nBlack Silk Mosin-Nagant Skin - 400\nBlack Silk: Bayonet Mosin-Nagant Bayonet Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r186",
+        "from": "e184",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Black Silk: Sniper Mosin-Nagant Sniper Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400\nWaxed Burning Web Waxed Dynamite Stick Skin - 400\nBlack Silk Mosin-Nagant Skin - 400\nBlack Silk: Bayonet Mosin-Nagant Bayonet Skin - 400\nBlack Silk: Sniper Mosin-Nagant Sniper Skin - 400"
+          }
+        ]
+      },
+      {
+        "key": "r189",
+        "from": "e187",
+        "to": "e143",
+        "type": "part_of",
+        "statement": "위키는 Black Silk: Avtomat Mosin-Nagant Avtomat Skin를 Web of the Empress Bundle 목록에 기재한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Web of the Empress Bundle - 2100\nThe Empress - 1000\nArgent Widow Conversion Skin - 400\nArgent Widow: Chain Pistol Conversion Chain Pistol Skin - 400\nEnvenom Vetterli 71 Skin - 300\nEnvenom: Bayonet Vetterli 71 Bayonet Skin - 300\nEnvenom: Deadeye Vetterli 71 Deadeye Skin - 300\nEnvenom: Silencer Vetterli 71 Silencer Skin - 300\nEnvenom: Marksman Vetterli 71 Marksman Skin - 300\nEnvenom: Cyclone Vetterli 71 Cyclone Skin - 300\nBurning Web Dynamite Stick Skin - 400\nWaxed Burning Web Waxed Dynamite Stick Skin - 400\nBlack Silk Mosin-Nagant Skin - 400\nBlack Silk: Bayonet Mosin-Nagant Bayonet Skin - 400\nBlack Silk: Sniper Mosin-Nagant Sniper Skin - 400\nBlack Silk: Avtomat Mosin-Nagant Avtomat Skin - 400"
+          }
+        ]
+      }
+    ]
+  }
+}

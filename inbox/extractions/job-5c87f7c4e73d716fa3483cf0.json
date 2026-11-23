@@ -1,0 +1,159 @@
+{
+  "jobId": "job-5c87f7c4e73d716fa3483cf0",
+  "sourceHash": "40510535f5d46027d393728effef54dd2a36b888ff703d4f9e5af6662cd2b865",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "이쯤에서 적어보는 내 로드아웃",
+        "kind": "topic",
+        "scope": "https://gall.dcinside.com/mgallery/board/view/?id=huntshowdown&no=57951&page=1",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "[팁/정보] 이쯤에서 적어보는 내 로드아웃"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "첫 무장 비용",
+        "value": "102원",
+        "statement": "작성자는 소음기·아음속 구성 비용을 102원으로 기재했다. 개인 구성 기록이며 공식 가격표로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "1. 소음기 + 아음속 (무장값 102원)"
+          }
+        ]
+      },
+      {
+        "key": "a3",
+        "subject": "e1",
+        "aspect": "첫 무장 운용",
+        "value": "프론티어 소음기와 밴달",
+        "statement": "작성자는 프론티어 소음기를 주로 쓰고 탄약과 레버링 공유를 위해 밴달을 휴대한다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "주로 프론티어 소음기를 사용하고 밴달은 총알 더 챙기고 레버링 공유하려고 들었음"
+          }
+        ]
+      },
+      {
+        "key": "a4",
+        "subject": "e1",
+        "aspect": "거리별 운용",
+        "value": "레버링과 조준",
+        "statement": "작성자는 근거리 레버링과 중거리 조준 헤드샷 운용을 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "근거리에서는 레버링으로 싸우고 중거리 정도되면 줌 키고 헤드 따기 함"
+          }
+        ]
+      },
+      {
+        "key": "a5",
+        "subject": "e1",
+        "aspect": "두 번째 무장 비용",
+        "value": "263원",
+        "statement": "작성자는 스팍스·르멧 구성 비용을 263원으로 적었다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "2. 스팍스 + 르멧 (무장값 263원)"
+          }
+        ]
+      },
+      {
+        "key": "a6",
+        "subject": "e1",
+        "aspect": "두 번째 무장 운용",
+        "value": "중거리와 근접 보완",
+        "statement": "작성자는 스팍스로 중거리를 맡고 르멧으로 벽 관통 사격과 근접 샷건 대응을 한다고 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "스팍스로 중거리 커버하고 피 감으려고 숨으면 르멧으로 월샷 때리고\n근접으로 붙었다고 하면 르멧 샷건 쓰는 편임"
+          }
+        ]
+      },
+      {
+        "key": "a7",
+        "subject": "e1",
+        "aspect": "도구 선호",
+        "value": "작은 주사 여러 개",
+        "statement": "작성자는 빠른 회복 후 재교전을 위해 작은 주사 여러 개를 선호한다고 밝혔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "그리고 나는 빠르게 피 채우고 다시 붙어서 교전하는 편이라 큰 주사 하나 보다는 작은 주사로 여러 개 챙기는 편"
+          }
+        ]
+      },
+      {
+        "key": "a8",
+        "subject": "e1",
+        "aspect": "도구 용도",
+        "value": "교란용 신관·신호탄",
+        "statement": "작성자는 교란용 신관의 활용도와 신호탄의 시체 소각 용도를 들어 휴대를 설명했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-129d3ceb673f5f03d3954389",
+            "quote": "교란용 신관은 활용도가 높아서 챙기고, 신호탄은 시체 태우기 용으로 매번 챙기고,"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

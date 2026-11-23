@@ -1,0 +1,3245 @@
+{
+  "jobId": "job-e02a82a907b242f574a1bc1c",
+  "sourceHash": "244dddad7c15e1d7788d4331ac72e38d728a4faae95d96706a1a750e587bc4c1",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "Blood Testament",
+        "kind": "event",
+        "scope": "wiki.gg 23번째 공식 이벤트 · 본문 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Testament ran from September 8th to December 8th as the twenty-third official Event of Hunt: Showdown 1896."
+          }
+        ]
+      },
+      {
+        "key": "e3",
+        "label": "Burgess",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-f2dd86e34cc18d360abb0b3e",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Weapon: Burgess"
+          }
+        ]
+      },
+      {
+        "key": "e5",
+        "label": "Siphon",
+        "kind": "trait",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-b8cf9eccda31d3c1dc28292f",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Siphon - Allows you to loot a Scarce Trait off an enemy Hunter's body, leaving Siphon in its place."
+          }
+        ]
+      },
+      {
+        "key": "e7",
+        "label": "Chupacabra",
+        "kind": "trait",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "topic-91002cc9b1f4e62d3c173c58",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Chupacabra - Interact with a live horse, cow, or animal cage to restore 1 Health Chunk\nCan be bought for 2 Upgrade Points\nBurns after used on an animal, killing the animal in the process"
+          }
+        ]
+      },
+      {
+        "key": "e9",
+        "label": "Blood Wells",
+        "kind": "system",
+        "scope": "",
+        "group": "events",
+        "entityId": "entity-be635e77b2cf44aba2f216d1",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Wells spawned once in each compound, and could be interacted with (costing a small amount of health) to gain the Siphon trait. Doing so would frenzy nearby AI, similar to the effect of the Intense Blood Moon."
+          }
+        ]
+      },
+      {
+        "key": "e11",
+        "label": "Inferno",
+        "kind": "system",
+        "scope": "",
+        "group": "events",
+        "entityId": "topic-79b1a3795041f402c7b0a55a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Return of the Inferno Time of Day including the Firefighter Supply, which holds a guaranteed Flame Rifle"
+          }
+        ]
+      },
+      {
+        "key": "e13",
+        "label": "Bloodweaver",
+        "kind": "monster",
+        "scope": "",
+        "group": "world",
+        "entityId": "entity-b9cc09b564e8c682fb1cacd4",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Monster variation: Bloodweavers (only during the Blood Moon Time of Day)"
+          }
+        ]
+      },
+      {
+        "key": "e15",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Beginning November 17th, the Reap the Harvest community event (see below) added more features:\nNew Weapon: Lancaster\nNew Variant: Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "e17",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Variant: Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "e21",
+        "label": "Pledge Marks",
+        "kind": "system",
+        "scope": "Blood Testament 위키 설명",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Pledge Marks act as a currency to break Pledge Seals and purchase Event Traits. Hunters could hold onto a maximum of six Pledge Marks, and could receive an unlimited amount in a mission. As in previous events, Pledge Marks were able to be stolen from Hunter corpses upon looting them. Each time a Pledge Mark was gained, it was also rewarded across the team - except in the case of looting Pledge Marks from Hunters. There were four sources of Pledge Marks:\nReaching the Event Point Thresholds - Gaining 25 EP would reward 1 each time (meaning 50 EP, 75 EP, etc. also grants 1 )\nBanishing a Target in Bounty Clash - 2\nBecoming the Soul Survivor – The surviving Hunter would receive 3\nLooting a Pledge Mark Envelope - 1-3\nStealing Pledge Marks - Looting a Hunter would steal all of the Hunter's accumulated Pledge Marks , retaining some only if the looting Hunter hit their maximum of 6 before looting them all."
+          }
+        ]
+      },
+      {
+        "key": "e23",
+        "label": "The Dark Friar",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · The Dark Friar",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "0 EP\nThe Dark Friar"
+          }
+        ]
+      },
+      {
+        "key": "e26",
+        "label": "Death's Head First Aid Kit Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Death's Head First Aid Kit Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "1000 EP\nDeath's Head First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "e29",
+        "label": "Blood Moon Rising (Tier 1) Player Profile Badge",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Blood Moon Rising (Tier 1) Player Profile Badge",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "2000 EP\nBlood Moon Rising (Tier 1) Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "e32",
+        "label": "Rise Up First Aid Kit Equipment Animation",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Rise Up First Aid Kit Equipment Animation",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "3000 EP\nRise Up First Aid Kit Equipment Animation"
+          }
+        ]
+      },
+      {
+        "key": "e35",
+        "label": "Proboscis Pax Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Proboscis Pax Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "4000 EP\nProboscis Pax Skin"
+          }
+        ]
+      },
+      {
+        "key": "e38",
+        "label": "Unholy Prayer Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Unholy Prayer Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "5000 EP\nUnholy Prayer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "e41",
+        "label": "The Dark Friar Player Profile Frame",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · The Dark Friar Player Profile Frame",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "7000 EP\nThe Dark Friar Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "e44",
+        "label": "Old Testament Centennial Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Old Testament Centennial Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "8000 EP\nOld Testament Centennial Skin"
+          }
+        ]
+      },
+      {
+        "key": "e47",
+        "label": "Winged Penance Rival 78 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Winged Penance Rival 78 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "9000 EP\nWinged Penance Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "e50",
+        "label": "Malignant Future Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Malignant Future Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "10,000 EP\nMalignant Future Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "e53",
+        "label": "Old Testament: Trauma Centennial Trauma Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Old Testament: Trauma Centennial Trauma Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "11,000 EP\nOld Testament: Trauma Centennial Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "e56",
+        "label": "The Dark Friar Player Profile Avatar",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · The Dark Friar Player Profile Avatar",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "12,000 EP\nThe Dark Friar Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "e59",
+        "label": "Winged Penance: Trauma Rival 78 Trauma Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Winged Penance: Trauma Rival 78 Trauma Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "14,000 EP\nWinged Penance: Trauma Rival 78 Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "e62",
+        "label": "Burgess Weapon Unlock",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Burgess Weapon Unlock",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "15,000 EP\nBurgess Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "e65",
+        "label": "Hell's Jaw Sticky Bomb Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Hell's Jaw Sticky Bomb Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "16,000 EP\nHell's Jaw Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "e68",
+        "label": "Conviction's Soul Player Profile Badge",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Conviction's Soul Player Profile Badge",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "17,000 EP\nConviction's Soul Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "e71",
+        "label": "Proboscis: Claw Pax Claw Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Proboscis: Claw Pax Claw Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "18,000 EP\nProboscis: Claw Pax Claw Skin"
+          }
+        ]
+      },
+      {
+        "key": "e74",
+        "label": "Dawn Flight Maynard Sniper Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Dawn Flight Maynard Sniper Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "19,000 EP\nDawn Flight Maynard Sniper Skin"
+          }
+        ]
+      },
+      {
+        "key": "e77",
+        "label": "Proboscis: Trueshot Pax Trueshot Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Proboscis: Trueshot Pax Trueshot Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "20,000 EP\nProboscis: Trueshot Pax Trueshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "e80",
+        "label": "Righteous Player Profile Title",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Righteous Player Profile Title",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "21,000 EP\nRighteous Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "e83",
+        "label": "Winged Penance: Shorty Rival 78 Shorty Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Winged Penance: Shorty Rival 78 Shorty Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "22,000 EP\nWinged Penance: Shorty Rival 78 Shorty Skin"
+          }
+        ]
+      },
+      {
+        "key": "e86",
+        "label": "Splintered Dignity Throwing Knives Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Splintered Dignity Throwing Knives Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "23,000 EP\nSplintered Dignity Throwing Knives Skin"
+          }
+        ]
+      },
+      {
+        "key": "e89",
+        "label": "Burgess Bayonet Weapon Unlock",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Burgess Bayonet Weapon Unlock",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "25,000 EP\nBurgess Bayonet Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "e92",
+        "label": "Spine Tooth Katana Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Spine Tooth Katana Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "26,000 EP\nSpine Tooth Katana Skin"
+          }
+        ]
+      },
+      {
+        "key": "e95",
+        "label": "Fidget Blade Throwing Knives Animation",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Fidget Blade Throwing Knives Animation",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "27,000 EP\nFidget Blade Throwing Knives Animation"
+          }
+        ]
+      },
+      {
+        "key": "e98",
+        "label": "Rib Cage Crossbow Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Rib Cage Crossbow Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "28,000 EP\nRib Cage Crossbow Skin"
+          }
+        ]
+      },
+      {
+        "key": "e101",
+        "label": "Hell's Profiteer",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Hell's Profiteer",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "29,000 EP\nHell's Profiteer"
+          }
+        ]
+      },
+      {
+        "key": "e104",
+        "label": "Winged Penance: Mace Rival 78 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Winged Penance: Mace Rival 78 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "30,000 EP\nWinged Penance: Mace Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "e107",
+        "label": "Lock and Load Burgess Animation",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Lock and Load Burgess Animation",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "31,000 EP\nLock and Load Burgess Animation"
+          }
+        ]
+      },
+      {
+        "key": "e110",
+        "label": "Hell's Profiteer Player Profile Frame",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Hell's Profiteer Player Profile Frame",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "32,000 EP\nHell's Profiteer Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "e113",
+        "label": "Hunter Gatherer Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Hunter Gatherer Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "33,000 EP\nHunter Gatherer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "e116",
+        "label": "Dawn Flight: Silencer Maynard Sniper Silencer Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Dawn Flight: Silencer Maynard Sniper Silencer Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "34,000 EP\nDawn Flight: Silencer Maynard Sniper Silencer Skin"
+          }
+        ]
+      },
+      {
+        "key": "e119",
+        "label": "Burgess Trauma Weapon Unlock",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Burgess Trauma Weapon Unlock",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "35,000 EP\nBurgess Trauma Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "e122",
+        "label": "Hell's Profiteer Player Profile Avatar",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Hell's Profiteer Player Profile Avatar",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "37,000 EP\nHell's Profiteer Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "e125",
+        "label": "Grave Light Fusees Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Grave Light Fusees Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "38,000 EP\nGrave Light Fusees Skin"
+          }
+        ]
+      },
+      {
+        "key": "e128",
+        "label": "Macabre Compulsion Auto-5 Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Macabre Compulsion Auto-5 Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "39,000 EP\nMacabre Compulsion Auto-5 Skin"
+          }
+        ]
+      },
+      {
+        "key": "e131",
+        "label": "Rib Cage Crossbow Deadeye Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Rib Cage Crossbow Deadeye Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "40,000 EP\nRib Cage Crossbow Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "e134",
+        "label": "A Closer Look Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · A Closer Look Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "41,000 EP\nA Closer Look Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "e137",
+        "label": "Bloodthirsty Player Profile Title",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Bloodthirsty Player Profile Title",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "42,000 EP\nBloodthirsty Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "e140",
+        "label": "Sterling Sacrament Derringer Pennyshot Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Sterling Sacrament Derringer Pennyshot Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "43,000 EP\nSterling Sacrament Derringer Pennyshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "e143",
+        "label": "Spin Draw Derringer Animation",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Spin Draw Derringer Animation",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "45,000 EP\nSpin Draw Derringer Animation"
+          }
+        ]
+      },
+      {
+        "key": "e146",
+        "label": "Agony's Muse: Weak Vitality Shot (Weak) Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Agony's Muse: Weak Vitality Shot (Weak) Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "46,000 EP\nAgony's Muse: Weak Vitality Shot (Weak) Skin"
+          }
+        ]
+      },
+      {
+        "key": "e149",
+        "label": "Lynch Player Profile Frame",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Lynch Player Profile Frame",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "47,000 EP\nLynch Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "e152",
+        "label": "Final Invocation Knife Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Final Invocation Knife Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "48,000 EP\nFinal Invocation Knife Skin"
+          }
+        ]
+      },
+      {
+        "key": "e155",
+        "label": "Divine Intervention Officer Carbine Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Divine Intervention Officer Carbine Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "49,000 EP\nDivine Intervention Officer Carbine Skin"
+          }
+        ]
+      },
+      {
+        "key": "e158",
+        "label": "Forsaken Desire Scottfield Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Forsaken Desire Scottfield Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "50,000 EP\nForsaken Desire Scottfield Skin"
+          }
+        ]
+      },
+      {
+        "key": "e161",
+        "label": "Corruption's Cup Player Profile Badge",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Corruption's Cup Player Profile Badge",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "51,000 EP\nCorruption's Cup Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "e164",
+        "label": "Divine Intervention: Deadeye Officer Carbine Deadeye Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Divine Intervention: Deadeye Officer Carbine Deadeye Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "52,000 EP\nDivine Intervention: Deadeye Officer Carbine Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "e167",
+        "label": "Agony's Muse Vitality Shot Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Agony's Muse Vitality Shot Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "53,000 EP\nAgony's Muse Vitality Shot Skin"
+          }
+        ]
+      },
+      {
+        "key": "e170",
+        "label": "Lynch Player Profile Avatar",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Lynch Player Profile Avatar",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "54,000 EP\nLynch Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "e173",
+        "label": "Purgatory's Ward Cavalry Saber skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Purgatory's Ward Cavalry Saber skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "56,000 EP\nPurgatory's Ward Cavalry Saber skin"
+          }
+        ]
+      },
+      {
+        "key": "e176",
+        "label": "Bloody Covenant Krag Skin",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Bloody Covenant Krag Skin",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "57,000 EP\nBloody Covenant Krag Skin"
+          }
+        ]
+      },
+      {
+        "key": "e179",
+        "label": "Lynch",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Lynch",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "58,000 EP\nLynch"
+          }
+        ]
+      },
+      {
+        "key": "e182",
+        "label": "Calyptra Weapon Charm",
+        "kind": "topic",
+        "scope": "Blood Testament 위키 보상 · Calyptra Weapon Charm",
+        "group": "equipment",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "73,000 EP\nCalyptra Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "e185",
+        "label": "Make Them Bleed",
+        "kind": "event",
+        "scope": "Blood Testament 위키 회차 · 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Make Them Bleed began alongside the start of the event, tasking players with collectively gathering points via objectives to unlock new features for the event. Unlike previous community events, progress was able to be tracked in real time with a dedicated page in-game."
+          }
+        ]
+      },
+      {
+        "key": "e187",
+        "label": "Double XP Weekend Contract",
+        "kind": "event",
+        "scope": "Blood Testament 위키 회차 · 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Double XP Weekend Contract ran from September 25th to 28th. As the name suggests, Players gained double the amount during this period to progess faster through the Bloodline."
+          }
+        ]
+      },
+      {
+        "key": "e189",
+        "label": "All Hallows' Cleave",
+        "kind": "event",
+        "scope": "Blood Testament 위키 회차 · 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallows' Cleave began on October 13th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with Make Them Bleed before, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages."
+          }
+        ]
+      },
+      {
+        "key": "e191",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "scope": "Blood Testament 위키 회차 · 연도 미상",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Reap the Harvest began on November 17th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with the two previous community events, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "위키의 개최 설명",
+        "value": "9월 8일~12월 8일·23번째",
+        "statement": "위키는 Blood Testament를 9월 8일부터 12월 8일까지의 23번째 공식 이벤트로 설명한다. 본문에 연도가 없어 날짜 필드는 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Testament ran from September 8th to December 8th as the twenty-third official Event of Hunt: Showdown 1896."
+          }
+        ]
+      },
+      {
+        "key": "a4",
+        "subject": "e3",
+        "aspect": "도입",
+        "value": "Chapter 1",
+        "statement": "위키는 Burgess를 Blood Testament Chapter 1의 신규 무기로 열거한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Weapon: Burgess"
+          }
+        ]
+      },
+      {
+        "key": "a6",
+        "subject": "e5",
+        "aspect": "이벤트 효과",
+        "value": "Scarce Trait 탈취",
+        "statement": "위키는 Siphon이 적 헌터 시체의 Scarce Trait을 가져오고 그 자리에 Siphon을 남긴다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Siphon - Allows you to loot a Scarce Trait off an enemy Hunter's body, leaving Siphon in its place."
+          }
+        ]
+      },
+      {
+        "key": "a8",
+        "subject": "e7",
+        "aspect": "이벤트 효과",
+        "value": "체력 청크 1개 회복·2 Upgrade Points",
+        "statement": "위키는 Chupacabra가 살아 있는 말·소·동물 우리와 상호작용해 체력 청크 하나를 회복하며, 2 Upgrade Points로 구매하고 사용 시 특성이 소모되고 동물도 죽는다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Chupacabra - Interact with a live horse, cow, or animal cage to restore 1 Health Chunk\nCan be bought for 2 Upgrade Points\nBurns after used on an animal, killing the animal in the process"
+          }
+        ]
+      },
+      {
+        "key": "a10",
+        "subject": "e9",
+        "aspect": "이벤트 기능",
+        "value": "Siphon 획득",
+        "statement": "위키는 컴파운드마다 Blood Wells가 하나씩 생성되었고 체력을 조금 사용해 Siphon을 얻으며 주변 AI를 흥분시켰다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Blood Wells spawned once in each compound, and could be interacted with (costing a small amount of health) to gain the Siphon trait. Doing so would frenzy nearby AI, similar to the effect of the Intense Blood Moon."
+          }
+        ]
+      },
+      {
+        "key": "a12",
+        "subject": "e11",
+        "aspect": "재등장",
+        "value": "Inferno와 Firefighter Supply",
+        "statement": "위키는 Chapter 2에서 Inferno와 Flame Rifle이 보장된 Firefighter Supply가 돌아왔다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Return of the Inferno Time of Day including the Firefighter Supply, which holds a guaranteed Flame Rifle"
+          }
+        ]
+      },
+      {
+        "key": "a14",
+        "subject": "e13",
+        "aspect": "이벤트 등장 조건",
+        "value": "Blood Moon 한정",
+        "statement": "위키는 Bloodweavers를 Blood Moon 시간대에만 등장하는 새 몬스터 변형으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Monster variation: Bloodweavers (only during the Blood Moon Time of Day)"
+          }
+        ]
+      },
+      {
+        "key": "a16",
+        "subject": "e15",
+        "aspect": "이벤트 추가",
+        "value": "Reap the Harvest",
+        "statement": "위키는 Reap the Harvest에서 Lancaster가 신규 무기로, Lancaster Cleaver가 별도 변형으로 추가됐다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Beginning November 17th, the Reap the Harvest community event (see below) added more features:\nNew Weapon: Lancaster\nNew Variant: Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "a18",
+        "subject": "e17",
+        "aspect": "변형 도입",
+        "value": "Lancaster Cleaver",
+        "statement": "위키는 Lancaster Cleaver를 새 변형으로 열거한다. Lancaster 기본형과 구분한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "New Variant: Lancaster Cleaver"
+          }
+        ]
+      },
+      {
+        "key": "a19",
+        "subject": "e1",
+        "aspect": "Chapter 3 재등장",
+        "value": "기존 감염 컴파운드 20곳",
+        "statement": "위키는 Chapter 3에서 과거 감염 컴파운드 20곳이 재등장해 신규 20곳과 섞이고 매치마다 5곳이 무작위 선택된다고 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Beginning November 3rd, following changes were made to the event:\nReintroduction of the 20 infected Compounds from previous events (they now get shuffled with the 20 new ones, 5 per match are selected randomly)"
+          }
+        ]
+      },
+      {
+        "key": "a20",
+        "subject": "e1",
+        "aspect": "이벤트 포인트 획득",
+        "value": "활동별 EP",
+        "statement": "위키는 몬스터 처치, 단서 조사, 시체 루팅, 현상금 탈출 등 활동별 이벤트 포인트를 제시한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Event points were gained in several ways:\nKilling Hellhounds - 1 EP\nKilling Hives and Armoreds - 2 EP\nKilling Immolators and Firebreathers - 3 EP\nKilling Meatheads and Brutes - 5 EP\nRevealing Hidden Extractions and Locations - 3 EP\nInvestigating Clues or Rifts - 8 EP\nLooting Hunter Corpses - 10 EP\nKilling a Target, or Activating the Wellspring - 20 EP\nExtracting with a Bounty or becoming the Soul Survivor - 30 EP\nComplete Challenges - 750-1500 EP\nEach Daily Milestone of Dark Tribute - 75 EP"
+          }
+        ]
+      },
+      {
+        "key": "a22",
+        "subject": "e21",
+        "aspect": "이벤트 획득·보유 규칙",
+        "value": "최대 6개 보유",
+        "statement": "위키는 Pledge Marks를 봉인 해제와 이벤트 특성 구매에 사용하는 화폐로 설명하며 최대 6개 보유, EP 누적·추방·생존·봉투·시체 약탈을 통한 획득 규칙을 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Pledge Marks act as a currency to break Pledge Seals and purchase Event Traits. Hunters could hold onto a maximum of six Pledge Marks, and could receive an unlimited amount in a mission. As in previous events, Pledge Marks were able to be stolen from Hunter corpses upon looting them. Each time a Pledge Mark was gained, it was also rewarded across the team - except in the case of looting Pledge Marks from Hunters. There were four sources of Pledge Marks:\nReaching the Event Point Thresholds - Gaining 25 EP would reward 1 each time (meaning 50 EP, 75 EP, etc. also grants 1 )\nBanishing a Target in Bounty Clash - 2\nBecoming the Soul Survivor – The surviving Hunter would receive 3\nLooting a Pledge Mark Envelope - 1-3\nStealing Pledge Marks - Looting a Hunter would steal all of the Hunter's accumulated Pledge Marks , retaining some only if the looting Hunter hit their maximum of 6 before looting them all."
+          }
+        ]
+      },
+      {
+        "key": "a24",
+        "subject": "e23",
+        "aspect": "보상 단계",
+        "value": "0 EP",
+        "statement": "위키의 Blood Testament 보상표는 0 EP 단계에 The Dark Friar를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "0 EP\nThe Dark Friar"
+          }
+        ]
+      },
+      {
+        "key": "a27",
+        "subject": "e26",
+        "aspect": "보상 단계",
+        "value": "1000 EP",
+        "statement": "위키의 Blood Testament 보상표는 1000 EP 단계에 Death's Head First Aid Kit Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "1000 EP\nDeath's Head First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "a30",
+        "subject": "e29",
+        "aspect": "보상 단계",
+        "value": "2000 EP",
+        "statement": "위키의 Blood Testament 보상표는 2000 EP 단계에 Blood Moon Rising (Tier 1) Player Profile Badge를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "2000 EP\nBlood Moon Rising (Tier 1) Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "a33",
+        "subject": "e32",
+        "aspect": "보상 단계",
+        "value": "3000 EP",
+        "statement": "위키의 Blood Testament 보상표는 3000 EP 단계에 Rise Up First Aid Kit Equipment Animation를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "3000 EP\nRise Up First Aid Kit Equipment Animation"
+          }
+        ]
+      },
+      {
+        "key": "a36",
+        "subject": "e35",
+        "aspect": "보상 단계",
+        "value": "4000 EP",
+        "statement": "위키의 Blood Testament 보상표는 4000 EP 단계에 Proboscis Pax Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "4000 EP\nProboscis Pax Skin"
+          }
+        ]
+      },
+      {
+        "key": "a39",
+        "subject": "e38",
+        "aspect": "보상 단계",
+        "value": "5000 EP",
+        "statement": "위키의 Blood Testament 보상표는 5000 EP 단계에 Unholy Prayer Weapon Charm를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "5000 EP\nUnholy Prayer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "a42",
+        "subject": "e41",
+        "aspect": "보상 단계",
+        "value": "7000 EP",
+        "statement": "위키의 Blood Testament 보상표는 7000 EP 단계에 The Dark Friar Player Profile Frame를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "7000 EP\nThe Dark Friar Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "a45",
+        "subject": "e44",
+        "aspect": "보상 단계",
+        "value": "8000 EP",
+        "statement": "위키의 Blood Testament 보상표는 8000 EP 단계에 Old Testament Centennial Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "8000 EP\nOld Testament Centennial Skin"
+          }
+        ]
+      },
+      {
+        "key": "a48",
+        "subject": "e47",
+        "aspect": "보상 단계",
+        "value": "9000 EP",
+        "statement": "위키의 Blood Testament 보상표는 9000 EP 단계에 Winged Penance Rival 78 Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "9000 EP\nWinged Penance Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "a51",
+        "subject": "e50",
+        "aspect": "보상 단계",
+        "value": "10,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 10,000 EP 단계에 Malignant Future Weapon Charm를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "10,000 EP\nMalignant Future Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "a54",
+        "subject": "e53",
+        "aspect": "보상 단계",
+        "value": "11,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 11,000 EP 단계에 Old Testament: Trauma Centennial Trauma Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "11,000 EP\nOld Testament: Trauma Centennial Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "a57",
+        "subject": "e56",
+        "aspect": "보상 단계",
+        "value": "12,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 12,000 EP 단계에 The Dark Friar Player Profile Avatar를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "12,000 EP\nThe Dark Friar Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "a60",
+        "subject": "e59",
+        "aspect": "보상 단계",
+        "value": "14,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 14,000 EP 단계에 Winged Penance: Trauma Rival 78 Trauma Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "14,000 EP\nWinged Penance: Trauma Rival 78 Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "a63",
+        "subject": "e62",
+        "aspect": "보상 단계",
+        "value": "15,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 15,000 EP 단계에 Burgess Weapon Unlock를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "15,000 EP\nBurgess Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "a66",
+        "subject": "e65",
+        "aspect": "보상 단계",
+        "value": "16,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 16,000 EP 단계에 Hell's Jaw Sticky Bomb Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "16,000 EP\nHell's Jaw Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "a69",
+        "subject": "e68",
+        "aspect": "보상 단계",
+        "value": "17,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 17,000 EP 단계에 Conviction's Soul Player Profile Badge를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "17,000 EP\nConviction's Soul Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "a72",
+        "subject": "e71",
+        "aspect": "보상 단계",
+        "value": "18,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 18,000 EP 단계에 Proboscis: Claw Pax Claw Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "18,000 EP\nProboscis: Claw Pax Claw Skin"
+          }
+        ]
+      },
+      {
+        "key": "a75",
+        "subject": "e74",
+        "aspect": "보상 단계",
+        "value": "19,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 19,000 EP 단계에 Dawn Flight Maynard Sniper Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "19,000 EP\nDawn Flight Maynard Sniper Skin"
+          }
+        ]
+      },
+      {
+        "key": "a78",
+        "subject": "e77",
+        "aspect": "보상 단계",
+        "value": "20,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 20,000 EP 단계에 Proboscis: Trueshot Pax Trueshot Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "20,000 EP\nProboscis: Trueshot Pax Trueshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "a81",
+        "subject": "e80",
+        "aspect": "보상 단계",
+        "value": "21,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 21,000 EP 단계에 Righteous Player Profile Title를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "21,000 EP\nRighteous Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "a84",
+        "subject": "e83",
+        "aspect": "보상 단계",
+        "value": "22,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 22,000 EP 단계에 Winged Penance: Shorty Rival 78 Shorty Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "22,000 EP\nWinged Penance: Shorty Rival 78 Shorty Skin"
+          }
+        ]
+      },
+      {
+        "key": "a87",
+        "subject": "e86",
+        "aspect": "보상 단계",
+        "value": "23,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 23,000 EP 단계에 Splintered Dignity Throwing Knives Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "23,000 EP\nSplintered Dignity Throwing Knives Skin"
+          }
+        ]
+      },
+      {
+        "key": "a90",
+        "subject": "e89",
+        "aspect": "보상 단계",
+        "value": "25,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 25,000 EP 단계에 Burgess Bayonet Weapon Unlock를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "25,000 EP\nBurgess Bayonet Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "a93",
+        "subject": "e92",
+        "aspect": "보상 단계",
+        "value": "26,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 26,000 EP 단계에 Spine Tooth Katana Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "26,000 EP\nSpine Tooth Katana Skin"
+          }
+        ]
+      },
+      {
+        "key": "a96",
+        "subject": "e95",
+        "aspect": "보상 단계",
+        "value": "27,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 27,000 EP 단계에 Fidget Blade Throwing Knives Animation를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "27,000 EP\nFidget Blade Throwing Knives Animation"
+          }
+        ]
+      },
+      {
+        "key": "a99",
+        "subject": "e98",
+        "aspect": "보상 단계",
+        "value": "28,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 28,000 EP 단계에 Rib Cage Crossbow Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "28,000 EP\nRib Cage Crossbow Skin"
+          }
+        ]
+      },
+      {
+        "key": "a102",
+        "subject": "e101",
+        "aspect": "보상 단계",
+        "value": "29,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 29,000 EP 단계에 Hell's Profiteer를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "29,000 EP\nHell's Profiteer"
+          }
+        ]
+      },
+      {
+        "key": "a105",
+        "subject": "e104",
+        "aspect": "보상 단계",
+        "value": "30,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 30,000 EP 단계에 Winged Penance: Mace Rival 78 Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "30,000 EP\nWinged Penance: Mace Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "a108",
+        "subject": "e107",
+        "aspect": "보상 단계",
+        "value": "31,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 31,000 EP 단계에 Lock and Load Burgess Animation를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "31,000 EP\nLock and Load Burgess Animation"
+          }
+        ]
+      },
+      {
+        "key": "a111",
+        "subject": "e110",
+        "aspect": "보상 단계",
+        "value": "32,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 32,000 EP 단계에 Hell's Profiteer Player Profile Frame를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "32,000 EP\nHell's Profiteer Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "a114",
+        "subject": "e113",
+        "aspect": "보상 단계",
+        "value": "33,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 33,000 EP 단계에 Hunter Gatherer Weapon Charm를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "33,000 EP\nHunter Gatherer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "a117",
+        "subject": "e116",
+        "aspect": "보상 단계",
+        "value": "34,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 34,000 EP 단계에 Dawn Flight: Silencer Maynard Sniper Silencer Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "34,000 EP\nDawn Flight: Silencer Maynard Sniper Silencer Skin"
+          }
+        ]
+      },
+      {
+        "key": "a120",
+        "subject": "e119",
+        "aspect": "보상 단계",
+        "value": "35,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 35,000 EP 단계에 Burgess Trauma Weapon Unlock를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "35,000 EP\nBurgess Trauma Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "a123",
+        "subject": "e122",
+        "aspect": "보상 단계",
+        "value": "37,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 37,000 EP 단계에 Hell's Profiteer Player Profile Avatar를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "37,000 EP\nHell's Profiteer Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "a126",
+        "subject": "e125",
+        "aspect": "보상 단계",
+        "value": "38,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 38,000 EP 단계에 Grave Light Fusees Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "38,000 EP\nGrave Light Fusees Skin"
+          }
+        ]
+      },
+      {
+        "key": "a129",
+        "subject": "e128",
+        "aspect": "보상 단계",
+        "value": "39,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 39,000 EP 단계에 Macabre Compulsion Auto-5 Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "39,000 EP\nMacabre Compulsion Auto-5 Skin"
+          }
+        ]
+      },
+      {
+        "key": "a132",
+        "subject": "e131",
+        "aspect": "보상 단계",
+        "value": "40,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 40,000 EP 단계에 Rib Cage Crossbow Deadeye Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "40,000 EP\nRib Cage Crossbow Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "a135",
+        "subject": "e134",
+        "aspect": "보상 단계",
+        "value": "41,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 41,000 EP 단계에 A Closer Look Weapon Charm를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "41,000 EP\nA Closer Look Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "a138",
+        "subject": "e137",
+        "aspect": "보상 단계",
+        "value": "42,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 42,000 EP 단계에 Bloodthirsty Player Profile Title를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "42,000 EP\nBloodthirsty Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "a141",
+        "subject": "e140",
+        "aspect": "보상 단계",
+        "value": "43,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 43,000 EP 단계에 Sterling Sacrament Derringer Pennyshot Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "43,000 EP\nSterling Sacrament Derringer Pennyshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "a144",
+        "subject": "e143",
+        "aspect": "보상 단계",
+        "value": "45,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 45,000 EP 단계에 Spin Draw Derringer Animation를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "45,000 EP\nSpin Draw Derringer Animation"
+          }
+        ]
+      },
+      {
+        "key": "a147",
+        "subject": "e146",
+        "aspect": "보상 단계",
+        "value": "46,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 46,000 EP 단계에 Agony's Muse: Weak Vitality Shot (Weak) Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "46,000 EP\nAgony's Muse: Weak Vitality Shot (Weak) Skin"
+          }
+        ]
+      },
+      {
+        "key": "a150",
+        "subject": "e149",
+        "aspect": "보상 단계",
+        "value": "47,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 47,000 EP 단계에 Lynch Player Profile Frame를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "47,000 EP\nLynch Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "a153",
+        "subject": "e152",
+        "aspect": "보상 단계",
+        "value": "48,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 48,000 EP 단계에 Final Invocation Knife Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "48,000 EP\nFinal Invocation Knife Skin"
+          }
+        ]
+      },
+      {
+        "key": "a156",
+        "subject": "e155",
+        "aspect": "보상 단계",
+        "value": "49,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 49,000 EP 단계에 Divine Intervention Officer Carbine Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "49,000 EP\nDivine Intervention Officer Carbine Skin"
+          }
+        ]
+      },
+      {
+        "key": "a159",
+        "subject": "e158",
+        "aspect": "보상 단계",
+        "value": "50,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 50,000 EP 단계에 Forsaken Desire Scottfield Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "50,000 EP\nForsaken Desire Scottfield Skin"
+          }
+        ]
+      },
+      {
+        "key": "a162",
+        "subject": "e161",
+        "aspect": "보상 단계",
+        "value": "51,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 51,000 EP 단계에 Corruption's Cup Player Profile Badge를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "51,000 EP\nCorruption's Cup Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "a165",
+        "subject": "e164",
+        "aspect": "보상 단계",
+        "value": "52,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 52,000 EP 단계에 Divine Intervention: Deadeye Officer Carbine Deadeye Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "52,000 EP\nDivine Intervention: Deadeye Officer Carbine Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "a168",
+        "subject": "e167",
+        "aspect": "보상 단계",
+        "value": "53,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 53,000 EP 단계에 Agony's Muse Vitality Shot Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "53,000 EP\nAgony's Muse Vitality Shot Skin"
+          }
+        ]
+      },
+      {
+        "key": "a171",
+        "subject": "e170",
+        "aspect": "보상 단계",
+        "value": "54,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 54,000 EP 단계에 Lynch Player Profile Avatar를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "54,000 EP\nLynch Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "a174",
+        "subject": "e173",
+        "aspect": "보상 단계",
+        "value": "56,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 56,000 EP 단계에 Purgatory's Ward Cavalry Saber skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "56,000 EP\nPurgatory's Ward Cavalry Saber skin"
+          }
+        ]
+      },
+      {
+        "key": "a177",
+        "subject": "e176",
+        "aspect": "보상 단계",
+        "value": "57,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 57,000 EP 단계에 Bloody Covenant Krag Skin를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "57,000 EP\nBloody Covenant Krag Skin"
+          }
+        ]
+      },
+      {
+        "key": "a180",
+        "subject": "e179",
+        "aspect": "보상 단계",
+        "value": "58,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 58,000 EP 단계에 Lynch를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "58,000 EP\nLynch"
+          }
+        ]
+      },
+      {
+        "key": "a183",
+        "subject": "e182",
+        "aspect": "보상 단계",
+        "value": "73,000 EP",
+        "statement": "위키의 Blood Testament 보상표는 73,000 EP 단계에 Calyptra Weapon Charm를 기재한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "73,000 EP\nCalyptra Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "a186",
+        "subject": "e185",
+        "aspect": "위키의 개최 설명",
+        "value": "Make Them Bleed began alongside the start of the event, tasking players with collectively gathering points via objectives to unlock new features for the event. Unlike previous community events, progress was able to be tracked in real time with a dedicated page in-game.",
+        "statement": "위키는 Make Them Bleed의 개최 경과를 다음과 같이 설명한다: Make Them Bleed began alongside the start of the event, tasking players with collectively gathering points via objectives to unlock new features for the event. Unlike previous community events, progress was able to be tracked in real time with a dedicated page in-game.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Make Them Bleed began alongside the start of the event, tasking players with collectively gathering points via objectives to unlock new features for the event. Unlike previous community events, progress was able to be tracked in real time with a dedicated page in-game."
+          }
+        ]
+      },
+      {
+        "key": "a188",
+        "subject": "e187",
+        "aspect": "위키의 개최 설명",
+        "value": "Double XP Weekend Contract ran from September 25th to 28th. As the name suggests, Players gained double the amount during this period to progess faster through the Bloodline.",
+        "statement": "위키는 Double XP Weekend Contract의 개최 경과를 다음과 같이 설명한다: Double XP Weekend Contract ran from September 25th to 28th. As the name suggests, Players gained double the amount during this period to progess faster through the Bloodline.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Double XP Weekend Contract ran from September 25th to 28th. As the name suggests, Players gained double the amount during this period to progess faster through the Bloodline."
+          }
+        ]
+      },
+      {
+        "key": "a190",
+        "subject": "e189",
+        "aspect": "위키의 개최 설명",
+        "value": "All Hallows' Cleave began on October 13th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with Make Them Bleed before, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages.",
+        "statement": "위키는 All Hallows' Cleave의 개최 경과를 다음과 같이 설명한다: All Hallows' Cleave began on October 13th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with Make Them Bleed before, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "All Hallows' Cleave began on October 13th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with Make Them Bleed before, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages."
+          }
+        ]
+      },
+      {
+        "key": "a192",
+        "subject": "e191",
+        "aspect": "위키의 개최 설명",
+        "value": "Reap the Harvest began on November 17th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with the two previous community events, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages.",
+        "statement": "위키는 Reap the Harvest의 개최 경과를 다음과 같이 설명한다: Reap the Harvest began on November 17th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with the two previous community events, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Reap the Harvest began on November 17th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with the two previous community events, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages."
+          }
+        ]
+      },
+      {
+        "key": "a193",
+        "subject": "e191",
+        "aspect": "공동 목표와 보상 단계",
+        "value": "5단계·Lancaster와 Cleaver 구분",
+        "statement": "위키는 단서·균열 2점, Pledge Marks 1점, 단계 II~III의 Lancaster 변형 처치 6점을 제시한다. 보상은 II에 Lancaster, IV에 Lancaster Cleaver이며, II 완료는 11월 21일로 표시하지만 IV 완료일은 비어 있다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "Community Objectives\nTask\nReward\nNote\nCollect Clues or close Rifts\n2 points\nEarn Pledge Marks\n1 point\nKill enemy Hunters with any variant of: Lancaster\n6 points\nFrom Stage II to Stage III\nRewards\nStage\nMilestone\nReward\nStage finished\nI\n50,000,000 Points\n5000\n1000 EP\nNovember 19th\nII\n125,000,000 Points\nLancaster\nNovember 21st\nIII\n225,000,000 Points\n10000\n2500 EP\nIV\n350,000,000 Points\nLancaster Cleaver\nV\n500,000,000 Points\nRandom Legendary Skin"
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "r25",
+        "from": "e1",
+        "to": "e23",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "0 EP\nThe Dark Friar"
+          }
+        ]
+      },
+      {
+        "key": "r28",
+        "from": "e1",
+        "to": "e26",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "1000 EP\nDeath's Head First Aid Kit Skin"
+          }
+        ]
+      },
+      {
+        "key": "r31",
+        "from": "e1",
+        "to": "e29",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "2000 EP\nBlood Moon Rising (Tier 1) Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "r34",
+        "from": "e1",
+        "to": "e32",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "3000 EP\nRise Up First Aid Kit Equipment Animation"
+          }
+        ]
+      },
+      {
+        "key": "r37",
+        "from": "e1",
+        "to": "e35",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "4000 EP\nProboscis Pax Skin"
+          }
+        ]
+      },
+      {
+        "key": "r40",
+        "from": "e1",
+        "to": "e38",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "5000 EP\nUnholy Prayer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "r43",
+        "from": "e1",
+        "to": "e41",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "7000 EP\nThe Dark Friar Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "r46",
+        "from": "e1",
+        "to": "e44",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "8000 EP\nOld Testament Centennial Skin"
+          }
+        ]
+      },
+      {
+        "key": "r49",
+        "from": "e1",
+        "to": "e47",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "9000 EP\nWinged Penance Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "r52",
+        "from": "e1",
+        "to": "e50",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "10,000 EP\nMalignant Future Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "r55",
+        "from": "e1",
+        "to": "e53",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "11,000 EP\nOld Testament: Trauma Centennial Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "r58",
+        "from": "e1",
+        "to": "e56",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "12,000 EP\nThe Dark Friar Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "r61",
+        "from": "e1",
+        "to": "e59",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "14,000 EP\nWinged Penance: Trauma Rival 78 Trauma Skin"
+          }
+        ]
+      },
+      {
+        "key": "r64",
+        "from": "e1",
+        "to": "e62",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "15,000 EP\nBurgess Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "r67",
+        "from": "e1",
+        "to": "e65",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "16,000 EP\nHell's Jaw Sticky Bomb Skin"
+          }
+        ]
+      },
+      {
+        "key": "r70",
+        "from": "e1",
+        "to": "e68",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "17,000 EP\nConviction's Soul Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "r73",
+        "from": "e1",
+        "to": "e71",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "18,000 EP\nProboscis: Claw Pax Claw Skin"
+          }
+        ]
+      },
+      {
+        "key": "r76",
+        "from": "e1",
+        "to": "e74",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "19,000 EP\nDawn Flight Maynard Sniper Skin"
+          }
+        ]
+      },
+      {
+        "key": "r79",
+        "from": "e1",
+        "to": "e77",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "20,000 EP\nProboscis: Trueshot Pax Trueshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "r82",
+        "from": "e1",
+        "to": "e80",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "21,000 EP\nRighteous Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "r85",
+        "from": "e1",
+        "to": "e83",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "22,000 EP\nWinged Penance: Shorty Rival 78 Shorty Skin"
+          }
+        ]
+      },
+      {
+        "key": "r88",
+        "from": "e1",
+        "to": "e86",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "23,000 EP\nSplintered Dignity Throwing Knives Skin"
+          }
+        ]
+      },
+      {
+        "key": "r91",
+        "from": "e1",
+        "to": "e89",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "25,000 EP\nBurgess Bayonet Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "r94",
+        "from": "e1",
+        "to": "e92",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "26,000 EP\nSpine Tooth Katana Skin"
+          }
+        ]
+      },
+      {
+        "key": "r97",
+        "from": "e1",
+        "to": "e95",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "27,000 EP\nFidget Blade Throwing Knives Animation"
+          }
+        ]
+      },
+      {
+        "key": "r100",
+        "from": "e1",
+        "to": "e98",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "28,000 EP\nRib Cage Crossbow Skin"
+          }
+        ]
+      },
+      {
+        "key": "r103",
+        "from": "e1",
+        "to": "e101",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "29,000 EP\nHell's Profiteer"
+          }
+        ]
+      },
+      {
+        "key": "r106",
+        "from": "e1",
+        "to": "e104",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "30,000 EP\nWinged Penance: Mace Rival 78 Skin"
+          }
+        ]
+      },
+      {
+        "key": "r109",
+        "from": "e1",
+        "to": "e107",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "31,000 EP\nLock and Load Burgess Animation"
+          }
+        ]
+      },
+      {
+        "key": "r112",
+        "from": "e1",
+        "to": "e110",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "32,000 EP\nHell's Profiteer Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "r115",
+        "from": "e1",
+        "to": "e113",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "33,000 EP\nHunter Gatherer Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "r118",
+        "from": "e1",
+        "to": "e116",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "34,000 EP\nDawn Flight: Silencer Maynard Sniper Silencer Skin"
+          }
+        ]
+      },
+      {
+        "key": "r121",
+        "from": "e1",
+        "to": "e119",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "35,000 EP\nBurgess Trauma Weapon Unlock"
+          }
+        ]
+      },
+      {
+        "key": "r124",
+        "from": "e1",
+        "to": "e122",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "37,000 EP\nHell's Profiteer Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "r127",
+        "from": "e1",
+        "to": "e125",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "38,000 EP\nGrave Light Fusees Skin"
+          }
+        ]
+      },
+      {
+        "key": "r130",
+        "from": "e1",
+        "to": "e128",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "39,000 EP\nMacabre Compulsion Auto-5 Skin"
+          }
+        ]
+      },
+      {
+        "key": "r133",
+        "from": "e1",
+        "to": "e131",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "40,000 EP\nRib Cage Crossbow Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "r136",
+        "from": "e1",
+        "to": "e134",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "41,000 EP\nA Closer Look Weapon Charm"
+          }
+        ]
+      },
+      {
+        "key": "r139",
+        "from": "e1",
+        "to": "e137",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "42,000 EP\nBloodthirsty Player Profile Title"
+          }
+        ]
+      },
+      {
+        "key": "r142",
+        "from": "e1",
+        "to": "e140",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "43,000 EP\nSterling Sacrament Derringer Pennyshot Skin"
+          }
+        ]
+      },
+      {
+        "key": "r145",
+        "from": "e1",
+        "to": "e143",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "45,000 EP\nSpin Draw Derringer Animation"
+          }
+        ]
+      },
+      {
+        "key": "r148",
+        "from": "e1",
+        "to": "e146",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "46,000 EP\nAgony's Muse: Weak Vitality Shot (Weak) Skin"
+          }
+        ]
+      },
+      {
+        "key": "r151",
+        "from": "e1",
+        "to": "e149",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "47,000 EP\nLynch Player Profile Frame"
+          }
+        ]
+      },
+      {
+        "key": "r154",
+        "from": "e1",
+        "to": "e152",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "48,000 EP\nFinal Invocation Knife Skin"
+          }
+        ]
+      },
+      {
+        "key": "r157",
+        "from": "e1",
+        "to": "e155",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "49,000 EP\nDivine Intervention Officer Carbine Skin"
+          }
+        ]
+      },
+      {
+        "key": "r160",
+        "from": "e1",
+        "to": "e158",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "50,000 EP\nForsaken Desire Scottfield Skin"
+          }
+        ]
+      },
+      {
+        "key": "r163",
+        "from": "e1",
+        "to": "e161",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "51,000 EP\nCorruption's Cup Player Profile Badge"
+          }
+        ]
+      },
+      {
+        "key": "r166",
+        "from": "e1",
+        "to": "e164",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "52,000 EP\nDivine Intervention: Deadeye Officer Carbine Deadeye Skin"
+          }
+        ]
+      },
+      {
+        "key": "r169",
+        "from": "e1",
+        "to": "e167",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "53,000 EP\nAgony's Muse Vitality Shot Skin"
+          }
+        ]
+      },
+      {
+        "key": "r172",
+        "from": "e1",
+        "to": "e170",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "54,000 EP\nLynch Player Profile Avatar"
+          }
+        ]
+      },
+      {
+        "key": "r175",
+        "from": "e1",
+        "to": "e173",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "56,000 EP\nPurgatory's Ward Cavalry Saber skin"
+          }
+        ]
+      },
+      {
+        "key": "r178",
+        "from": "e1",
+        "to": "e176",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "57,000 EP\nBloody Covenant Krag Skin"
+          }
+        ]
+      },
+      {
+        "key": "r181",
+        "from": "e1",
+        "to": "e179",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "58,000 EP\nLynch"
+          }
+        ]
+      },
+      {
+        "key": "r184",
+        "from": "e1",
+        "to": "e182",
+        "type": "rewards",
+        "statement": "위키 보상표에 해당 보상이 열거되어 있다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-2b8bc7b78842429999554a62",
+            "quote": "73,000 EP\nCalyptra Weapon Charm"
+          }
+        ]
+      }
+    ]
+  }
+}

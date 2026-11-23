@@ -1,0 +1,45 @@
+{
+  "jobId": "job-b8375e4b51c0f369d48ae4c7",
+  "sourceHash": "ab151e3890563451fa54b67261f7c0913c23001823369206a81ce53ff3554780",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "Ongoing emergency backend maintenance",
+        "kind": "topic",
+        "scope": "Steam 공지 685271070563894007",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-d7b7901152da7240a752b400",
+            "quote": "Steam :: Hunt: Showdown 1896 :: Ongoing emergency backend maintenance"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "수집된 공지 제목",
+        "value": "긴급 백엔드 점검",
+        "statement": "수집 페이지 제목은 긴급 백엔드 점검 공지를 나타낸다. 본문이 없어 원인·종료 시각·현재 지속 여부는 확인하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-d7b7901152da7240a752b400",
+            "quote": "Steam :: Hunt: Showdown 1896 :: Ongoing emergency backend maintenance"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}
