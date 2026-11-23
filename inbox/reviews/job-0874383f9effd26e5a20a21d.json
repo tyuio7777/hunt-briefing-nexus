@@ -1,0 +1,74 @@
+{
+  "jobId": "job-0874383f9effd26e5a20a21d",
+  "sourceHash": "da1112dbecaace288e3bb91e3f4789b17ea242b45593a32074785d299f1f4656",
+  "reviewedExtractionHash": "80634a3d63072fbddd7c0a937eb44d2b9c6c93a813dc8149d7f066d732428374",
+  "review": {
+    "decisions": [
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "작성자의 문제 해결 지원 불가·본인 책임 안내를 정확히 요약하며 공식 절차로 승격하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 '본인은 이 방법으로 잘 받아먹음'은 개인 성공 주장이다. 현재 성공률로 일반화하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "10월 30일 금요일 오후 11시 59분과 캠페인 1주차 종료 안내가 그대로 있다. 시간대 미상으로 날짜 필드를 비워 둔 것이 적절하다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "결제한 한 달 구독 유지와 다음 달 자동결제 취소 설명이 원문과 맞는다. 당시 게시물 귀속이며 현행 정책으로 단정하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "구독 뒤 드랍스 페이지에서 헤드 테이커 획득 여부를 확인하라는 문맥이 있다. 종류·영문 동일성을 확정하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "동일 문장에서 헤드 터너의 획득 확인을 별도로 안내한다. 헤드 테이커와 혼합하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "게시물 제목·URL의 57666·본문 작성일이 기존 항목 scope와 일치한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문에서 헤드 테이커를 보상 명칭으로 언급한다. 게시물 범위의 topic이며 영어명이나 보상 종류를 추정하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "헤드 터너는 헤드 테이커와 구별되어 병기된다. 종류·영어명 통합 없이 게시물 범위 topic으로 유지한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

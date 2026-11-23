@@ -1,0 +1,361 @@
+{
+  "jobId": "job-112f87b03726fca78c69f31a",
+  "sourceHash": "4e43b50421303409e7fc368a4efc20d2f05bc91fcedfeeccae95b2b024473381",
+  "reviewedExtractionHash": "11085a0b842bcacab9f2d815ce76d490e61cbd52d46b7f2516aac3079f62a9c4",
+  "review": {
+    "decisions": [
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "달력 원문에 2026-09-08과 2026-12-08이 명시되고 해당 이벤트 2026 회차에 대응한다. 날짜 포함 규칙에 맞고 브리핑 귀속 설명이다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 일정 항목에 2026-11-03 적용일과 세 기능이 명시된다. 발행일을 적용일로 사용하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "행사 이미지의 개시일과 진행 중 게시물의 11월 18일 01:50 KST를 구별했다. 서버 개시 시각을 만들어내지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 항목의 2026-11-21은 커뮤니티 Stage 2 완료 기록이며 tentative이다. unconfirmed로 유지하고 공식 완료 선언으로 바꾸지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상 구조 문장에 Stage 1 자원이 명시된다. 완료일을 주장하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 보상 Lancaster가 명시되며 기본형이다. 해금 완료일과 구별한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 3 보상 10K Hunt Dollars·2.5K Event Points가 정확히 일치한다. 예상 완료일을 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 보상은 Lancaster Cleaver이며 기본형과 별개다. 현재 획득 가능을 주장하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 5 무작위 Legendary Skin이 명시된다. 특정 스킨이나 완료일을 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑 당시 Stage 3 이후 완료일 미기재를 설명한다. 영구 미완료나 현재 상태로 일반화하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster 문단의 네 발 Medium Ammo·Basic 4/12·HV 4/8·Poison 4/12·쌍수 지원이 일치한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "바로 앞 Lancaster 문맥에서 개방 재장전이 남은 탄을 전부 배출한다고 명시한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a13",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 하부 칼날과 Heavy Knife형 근접 공격을 원문대로 구분한다. 기본 Lancaster의 기능으로 잘못 붙이지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a14",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026-11-03 커뮤니티 인게임 추가 기록과 공식 개시일 미확인 구분이 맞다. unconfirmed를 유지한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a15",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 7일 KST는 Steam 이용 가능 공지의 게시 시점이며 공식 개시일로 쓰지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a16",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "데이터센터 제공업체의 긴급 작업과 지역 변경·패킷 손실의 인과 설명이 원문에 있다. 브리핑의 공지 인용으로 귀속한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a17",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "거의 종료·장기 문제를 예상하지 않는다는 당시 안내를 전하며 실제 종료나 현재 복구 완료로 바꾸지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a18",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026-11-20 날짜가 일정 원문에 명시된다. 시작·종료 시간과 시간대는 만들지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a19",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3와 Fair Play 후속 문단이 신고 대상 제재 알림·환급을 명시한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a20",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "High-Ping Queue는 유럽 시험으로 명시된다. 전 지역 영구화와 구별했다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a21",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 1·2 속도 기반 관측이라는 문맥이며 공동 기여량·운영 조정 미상이다. unconfirmed와 날짜 공란이 적절하다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a22",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 21일 03:14:41 UTC는 레코드 변경 관측이다. 점검 후속 핫픽스로 확정하거나 인과 관계를 만들지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a23",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 21~22일 반응의 장점·단점을 그대로 요약하며 110 피해도 이용자 평가 문맥에 한정한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a24",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "첫 탄 이후 조준을 풀고 다시 잡는다는 운용 제안이 있다. 일반 성능 사실로 승격하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a25",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "HIGH VELOCITY 문단의 단일 HV·쌍수 Basic 조합 제안과 일치한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a26",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Devil 카드 조건의 집탄 호평과 일반 쌍수의 낮은 신뢰성 의견을 구분했다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Psychoghost 제목과 10월 드랍스·1시간 36분·솔로 하이라이트 소개가 정확히 대응한다. 영상 독립 검증이라고 하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "REXNOR의 제목 및 트릭 플레이·30분 소개가 대응한다. 다른 영상과 통합하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Toxic Pancake의 해당 제목과 Combat Axe 근접 압박 소개가 대응한다. 메타 우위를 사실로 확정하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a30",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑이 DCInside 게시물의 소음기·아음속·3~4성 경험을 요약한 사실에 한정한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a31",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 16~22일 주간 기록의 이벤트 11주차·공식 공지 1건·Steam 지표 범위를 정확히 전한다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament: 원문 명칭과 주변 문맥, 2026 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 3 Patch Notes: 원문 명칭과 주변 문맥, Blood Testament Chapter 3 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Reap the Harvest: 원문 명칭과 주변 문맥, Blood Testament Chapter 3 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster: 원문 명칭과 주변 문맥, 기본 대상의 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster Cleaver: 원문 명칭과 주변 문맥, 기본 대상의 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "As the Crow Carves: 원문 명칭과 주변 문맥, Blood Testament · 2026 Legacy Chronicle 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "긴급 백엔드 점검: 원문 명칭과 주변 문맥, 2026-11-20 · Steam 685271070563894007 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up: 원문 명칭과 주변 문맥, 기본 대상의 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "High-Ping Queue: 원문 명칭과 주변 문맥, 유럽 시험 · Blood Testament Chapter 3 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 3 조기 도달 추정: 원문 명칭과 주변 문맥, Reap the Harvest · 2026-11-23 브리핑 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 21일 SteamDB 변경의 점검 후속 핫픽스설: 원문 명칭과 주변 문맥, 2026-11-23 브리핑의 관측 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Sniper MADNESS & Meme Dessert - Twitch Drops October Highlights Part 4 - Solo Hunt: 원문 명칭과 주변 문맥, Psychoghost Gaming 공개 Hunt 영상 범위를 대조했다. 기존 catalog의 동일 대상·회차·변형과 일치한다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e13",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Getting WAY Too Creative With This Game... | The Hunt Showdown Experience: 원문 명칭과 주변 문맥, REXNOR · 2026-11-22 공개 영상 · 브리핑 표기 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e14",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Enforcing the *COMBAT AXE* meta..: 원문 명칭과 주변 문맥, Toxic Pancake · 2026-11-23 공개 영상 · 브리핑 표기 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e15",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster 해금 직후 실전 평가: 원문 명칭과 주변 문맥, 2026-11-23 브리핑의 커뮤니티 반응 요약 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e16",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "한국 커뮤니티의 저비용 로드아웃: 원문 명칭과 주변 문맥, 2026-11-23 브리핑의 DCInside 요약 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e17",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "우크라이나권 주간 운영 기록: 원문 명칭과 주변 문맥, 2026-11-16~22 · showdown.com.ua · 브리핑 요약 범위를 대조했다. 다른 회차·변형을 합치지 않는 별도 항목이다. 명칭에 없는 별칭·현재 상태를 추가하지 않았다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "r1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상 구조 문장이 Reap the Harvest와 Stage 2 Lancaster를 명시적으로 연결한다. rewards 방향이 맞고 단순 동시 언급이 아니다. 단계 완료일은 주장하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "r2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상 구조 문장이 Reap the Harvest와 Stage 4 Lancaster Cleaver를 명시적으로 연결한다. rewards 방향이 맞고 단순 동시 언급이 아니다. 단계 완료일은 주장하지 않는다. 원문에 대한 AI 의미 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
