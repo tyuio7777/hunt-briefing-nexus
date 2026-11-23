@@ -1,0 +1,1362 @@
+{
+  "jobId": "job-e02a82a907b242f574a1bc1c",
+  "sourceHash": "244dddad7c15e1d7788d4331ac72e38d728a4faae95d96706a1a750e587bc4c1",
+  "reviewedExtractionHash": "753135e8438397d954df879741509626e1c500787d86c42c141dc910831321de",
+  "review": {
+    "decisions": [
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Blood Testament를 9월 8일부터 12월 8일까지의 23번째 공식 이벤트로 설명한다. 본문에 연도가 없어 날짜 필드는 확정하지 않는다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Burgess를 Blood Testament Chapter 1의 신규 무기로 열거한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Siphon이 적 헌터 시체의 Scarce Trait을 가져오고 그 자리에 Siphon을 남긴다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Chupacabra가 살아 있는 말·소·동물 우리와 상호작용해 체력 청크 하나를 회복하며, 2 Upgrade Points로 구매하고 사용 시 특성이 소모되고 동물도 죽는다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 컴파운드마다 Blood Wells가 하나씩 생성되었고 체력을 조금 사용해 Siphon을 얻으며 주변 AI를 흥분시켰다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Chapter 2에서 Inferno와 Flame Rifle이 보장된 Firefighter Supply가 돌아왔다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a14",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Bloodweavers를 Blood Moon 시간대에만 등장하는 새 몬스터 변형으로 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a16",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Reap the Harvest에서 Lancaster가 신규 무기로, Lancaster Cleaver가 별도 변형으로 추가됐다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a18",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Lancaster Cleaver를 새 변형으로 열거한다. Lancaster 기본형과 구분한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a19",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Chapter 3에서 과거 감염 컴파운드 20곳이 재등장해 신규 20곳과 섞이고 매치마다 5곳이 무작위 선택된다고 설명한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a20",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 몬스터 처치, 단서 조사, 시체 루팅, 현상금 탈출 등 활동별 이벤트 포인트를 제시한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a22",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Pledge Marks를 봉인 해제와 이벤트 특성 구매에 사용하는 화폐로 설명하며 최대 6개 보유, EP 누적·추방·생존·봉투·시체 약탈을 통한 획득 규칙을 기재한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a24",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Death's Head First Aid Kit Skin: 보상표의 1000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a30",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Moon Rising (Tier 1) Player Profile Badge: 보상표의 2000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a33",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Rise Up First Aid Kit Equipment Animation: 보상표의 3000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a36",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Proboscis Pax Skin: 보상표의 4000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a39",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Unholy Prayer Weapon Charm: 보상표의 5000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a42",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Dark Friar Player Profile Frame: 보상표의 7000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a45",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Old Testament Centennial Skin: 보상표의 8000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a48",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Winged Penance Rival 78 Skin: 보상표의 9000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a51",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Malignant Future Weapon Charm: 보상표의 10,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a54",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Old Testament: Trauma Centennial Trauma Skin: 보상표의 11,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a57",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Dark Friar Player Profile Avatar: 보상표의 12,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a60",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Winged Penance: Trauma Rival 78 Trauma Skin: 보상표의 14,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a63",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Burgess Weapon Unlock: 보상표의 15,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a66",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hell's Jaw Sticky Bomb Skin: 보상표의 16,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a69",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Conviction's Soul Player Profile Badge: 보상표의 17,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a72",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Proboscis: Claw Pax Claw Skin: 보상표의 18,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a75",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Dawn Flight Maynard Sniper Skin: 보상표의 19,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a78",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Proboscis: Trueshot Pax Trueshot Skin: 보상표의 20,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a81",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Righteous Player Profile Title: 보상표의 21,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a84",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Winged Penance: Shorty Rival 78 Shorty Skin: 보상표의 22,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a87",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Dignity Throwing Knives Skin: 보상표의 23,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a90",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Burgess Bayonet Weapon Unlock: 보상표의 25,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a93",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Spine Tooth Katana Skin: 보상표의 26,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a96",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fidget Blade Throwing Knives Animation: 보상표의 27,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a99",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Rib Cage Crossbow Skin: 보상표의 28,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a102",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a105",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Winged Penance: Mace Rival 78 Skin: 보상표의 30,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a108",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lock and Load Burgess Animation: 보상표의 31,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a111",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hell's Profiteer Player Profile Frame: 보상표의 32,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a114",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunter Gatherer Weapon Charm: 보상표의 33,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a117",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Dawn Flight: Silencer Maynard Sniper Silencer Skin: 보상표의 34,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a120",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Burgess Trauma Weapon Unlock: 보상표의 35,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a123",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hell's Profiteer Player Profile Avatar: 보상표의 37,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a126",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Grave Light Fusees Skin: 보상표의 38,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a129",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Macabre Compulsion Auto-5 Skin: 보상표의 39,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a132",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Rib Cage Crossbow Deadeye Skin: 보상표의 40,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a135",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "A Closer Look Weapon Charm: 보상표의 41,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a138",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodthirsty Player Profile Title: 보상표의 42,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a141",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Sterling Sacrament Derringer Pennyshot Skin: 보상표의 43,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a144",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Spin Draw Derringer Animation: 보상표의 45,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a147",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Agony's Muse: Weak Vitality Shot (Weak) Skin: 보상표의 46,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a150",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lynch Player Profile Frame: 보상표의 47,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a153",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Final Invocation Knife Skin: 보상표의 48,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a156",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Divine Intervention Officer Carbine Skin: 보상표의 49,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a159",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Forsaken Desire Scottfield Skin: 보상표의 50,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a162",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Corruption's Cup Player Profile Badge: 보상표의 51,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a165",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Divine Intervention: Deadeye Officer Carbine Deadeye Skin: 보상표의 52,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a168",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Agony's Muse Vitality Shot Skin: 보상표의 53,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a171",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lynch Player Profile Avatar: 보상표의 54,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a174",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Purgatory's Ward Cavalry Saber skin: 보상표의 56,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a177",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloody Covenant Krag Skin: 보상표의 57,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a180",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a183",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Calyptra Weapon Charm: 보상표의 73,000 EP 행과 정확히 대응하며 기본형·변형·프로필 항목이 구별된다. 현재 해금 상태나 연도를 추가하지 않았다."
+      },
+      {
+        "key": "a186",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Make Them Bleed의 개최 경과를 다음과 같이 설명한다: Make Them Bleed began alongside the start of the event, tasking players with collectively gathering points via objectives to unlock new features for the event. Unlike previous community events, progress was able to be tracked in real time with a dedicated page in-game. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a188",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Double XP Weekend Contract의 개최 경과를 다음과 같이 설명한다: Double XP Weekend Contract ran from September 25th to 28th. As the name suggests, Players gained double the amount during this period to progess faster through the Bloodline. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a190",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 All Hallows' Cleave의 개최 경과를 다음과 같이 설명한다: All Hallows' Cleave began on October 13th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with Make Them Bleed before, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a192",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 Reap the Harvest의 개최 경과를 다음과 같이 설명한다: Reap the Harvest began on November 17th and lasted for 20 days, tasking players with collectively gathering points via objectives to unlock new features for the event. Like with the two previous community events, progress was able to be tracked in real time with a dedicated page in-game. Extra objectives were unlocked upon completing some stages. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a193",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 위키는 단서·균열 2점, Pledge Marks 1점, 단계 II~III의 Lancaster 변형 처치 6점을 제시한다. 보상은 II에 Lancaster, IV에 Lancaster Cleaver이며, II 완료는 11월 21일로 표시하지만 IV 완료일은 비어 있다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Blood Testament 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Burgess 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Siphon 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Chupacabra 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Blood Wells 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Inferno 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e13",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Bloodweaver 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e15",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Lancaster 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e17",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Lancaster Cleaver 명칭과 문맥을 확인했다. 기존 항목과 대상·변형이 일치한다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e21",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Pledge Marks 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e23",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e26",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Death's Head First Aid Kit Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Blood Moon Rising (Tier 1) Player Profile Badge 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e32",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Rise Up First Aid Kit Equipment Animation 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e35",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Proboscis Pax Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e38",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Unholy Prayer Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e41",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Dark Friar Player Profile Frame 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e44",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Old Testament Centennial Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e47",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Winged Penance Rival 78 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e50",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Malignant Future Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e53",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Old Testament: Trauma Centennial Trauma Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e56",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Dark Friar Player Profile Avatar 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e59",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Winged Penance: Trauma Rival 78 Trauma Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e62",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Burgess Weapon Unlock 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e65",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Hell's Jaw Sticky Bomb Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e68",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Conviction's Soul Player Profile Badge 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e71",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Proboscis: Claw Pax Claw Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e74",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Dawn Flight Maynard Sniper Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e77",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Proboscis: Trueshot Pax Trueshot Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e80",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Righteous Player Profile Title 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e83",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Winged Penance: Shorty Rival 78 Shorty Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e86",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Splintered Dignity Throwing Knives Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e89",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Burgess Bayonet Weapon Unlock 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e92",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Spine Tooth Katana Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e95",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Fidget Blade Throwing Knives Animation 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e98",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Rib Cage Crossbow Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e101",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e104",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Winged Penance: Mace Rival 78 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e107",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Lock and Load Burgess Animation 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e110",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Hell's Profiteer Player Profile Frame 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e113",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Hunter Gatherer Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e116",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Dawn Flight: Silencer Maynard Sniper Silencer Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e119",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Burgess Trauma Weapon Unlock 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e122",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Hell's Profiteer Player Profile Avatar 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e125",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Grave Light Fusees Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e128",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Macabre Compulsion Auto-5 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e131",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Rib Cage Crossbow Deadeye Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e134",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 A Closer Look Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e137",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Bloodthirsty Player Profile Title 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e140",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Sterling Sacrament Derringer Pennyshot Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e143",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Spin Draw Derringer Animation 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e146",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Agony's Muse: Weak Vitality Shot (Weak) Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e149",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Lynch Player Profile Frame 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e152",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Final Invocation Knife Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e155",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Divine Intervention Officer Carbine Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e158",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Forsaken Desire Scottfield Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e161",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Corruption's Cup Player Profile Badge 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e164",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Divine Intervention: Deadeye Officer Carbine Deadeye Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e167",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Agony's Muse Vitality Shot Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e170",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Lynch Player Profile Avatar 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e173",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Purgatory's Ward Cavalry Saber skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e176",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Bloody Covenant Krag Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e179",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e182",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Calyptra Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e185",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Make Them Bleed 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e187",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Double XP Weekend Contract 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e189",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 All Hallows' Cleave 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e191",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Reap the Harvest 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "r25",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Death's Head First Aid Kit Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r31",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Blood Moon Rising (Tier 1) Player Profile Badge: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r34",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Rise Up First Aid Kit Equipment Animation: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r37",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Proboscis Pax Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r40",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Unholy Prayer Weapon Charm: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r43",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → The Dark Friar Player Profile Frame: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r46",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Old Testament Centennial Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r49",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Winged Penance Rival 78 Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r52",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Malignant Future Weapon Charm: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r55",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Old Testament: Trauma Centennial Trauma Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r58",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → The Dark Friar Player Profile Avatar: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r61",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Winged Penance: Trauma Rival 78 Trauma Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r64",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Burgess Weapon Unlock: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r67",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Hell's Jaw Sticky Bomb Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r70",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Conviction's Soul Player Profile Badge: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r73",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Proboscis: Claw Pax Claw Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r76",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Dawn Flight Maynard Sniper Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r79",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Proboscis: Trueshot Pax Trueshot Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r82",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Righteous Player Profile Title: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r85",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Winged Penance: Shorty Rival 78 Shorty Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r88",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Splintered Dignity Throwing Knives Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r91",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Burgess Bayonet Weapon Unlock: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r94",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Spine Tooth Katana Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r97",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Fidget Blade Throwing Knives Animation: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r100",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Rib Cage Crossbow Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r103",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r106",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Winged Penance: Mace Rival 78 Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r109",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Lock and Load Burgess Animation: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r112",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Hell's Profiteer Player Profile Frame: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r115",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Hunter Gatherer Weapon Charm: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r118",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Dawn Flight: Silencer Maynard Sniper Silencer Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r121",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Burgess Trauma Weapon Unlock: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r124",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Hell's Profiteer Player Profile Avatar: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r127",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Grave Light Fusees Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r130",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Macabre Compulsion Auto-5 Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r133",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Rib Cage Crossbow Deadeye Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r136",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → A Closer Look Weapon Charm: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r139",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Bloodthirsty Player Profile Title: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r142",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Sterling Sacrament Derringer Pennyshot Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r145",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Spin Draw Derringer Animation: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r148",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Agony's Muse: Weak Vitality Shot (Weak) Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r151",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Lynch Player Profile Frame: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r154",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Final Invocation Knife Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r157",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Divine Intervention Officer Carbine Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r160",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Forsaken Desire Scottfield Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r163",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Corruption's Cup Player Profile Badge: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r166",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Divine Intervention: Deadeye Officer Carbine Deadeye Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r169",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Agony's Muse Vitality Shot Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r172",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Lynch Player Profile Avatar: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r175",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Purgatory's Ward Cavalry Saber skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r178",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Bloody Covenant Krag Skin: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r181",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r184",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament → Calyptra Weapon Charm: 보상표의 해당 단계와 보상이 직접 연결되어 있다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

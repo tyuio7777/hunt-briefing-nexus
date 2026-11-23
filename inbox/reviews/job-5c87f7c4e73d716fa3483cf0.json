@@ -1,0 +1,67 @@
+{
+  "jobId": "job-5c87f7c4e73d716fa3483cf0",
+  "sourceHash": "40510535f5d46027d393728effef54dd2a36b888ff703d4f9e5af6662cd2b865",
+  "reviewedExtractionHash": "ab7cafd1d5bb32e581904a4852b246b9bf40899075e357cea030b3c1e0c066b2",
+  "review": {
+    "decisions": [
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 소음기·아음속 구성 비용을 102원으로 기재했다. 개인 구성 기록이며 공식 가격표로 확정하지 않는다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 프론티어 소음기를 주로 쓰고 탄약과 레버링 공유를 위해 밴달을 휴대한다고 설명했다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 근거리 레버링과 중거리 조준 헤드샷 운용을 설명했다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 스팍스·르멧 구성 비용을 263원으로 적었다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 스팍스로 중거리를 맡고 르멧으로 벽 관통 사격과 근접 샷건 대응을 한다고 설명했다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 빠른 회복 후 재교전을 위해 작은 주사 여러 개를 선호한다고 밝혔다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 작성자는 교란용 신관의 활용도와 신호탄의 시체 소각 용도를 들어 휴대를 설명했다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 이쯤에서 적어보는 내 로드아웃 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "jobId": "job-b8375e4b51c0f369d48ae4c7",
+  "sourceHash": "ab151e3890563451fa54b67261f7c0913c23001823369206a81ce53ff3554780",
+  "reviewedExtractionHash": "a91dffdee4bc6832d6fe937010eac77db9f8cbe869dc84449dd07326af65ba96",
+  "review": {
+    "decisions": [
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 수집 페이지 제목은 긴급 백엔드 점검 공지를 나타낸다. 본문이 없어 원인·종료 시각·현재 지속 여부는 확인하지 않는다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Ongoing emergency backend maintenance 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

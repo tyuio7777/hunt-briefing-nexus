@@ -1,0 +1,1348 @@
+{
+  "jobId": "job-c14496137ca9ddeef39d4ce0",
+  "sourceHash": "244dddad7c15e1d7788d4331ac72e38d728a4faae95d96706a1a750e587bc4c1",
+  "reviewedExtractionHash": "1a58a47f3c707dfc0a4d86e2d81cd8b339b22469e26e2b3e1c7fc67cc7e71b49",
+  "review": {
+    "decisions": [
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Scapula Romero 77 Hatchet Skin: 원문 표의 값 700과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Marwood Rival 78 Skin: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Executioner Combat Axe Skin: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Skull Effigy Weapon Charm: 원문 표의 값 350과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "All Hallow's Eve Bundle: 원문 표의 값 2000과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a12",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a15",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Backbone Vetterli 71 Bayonet Skin: 원문 표의 값 800과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a18",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Skeleton Key Heavy Knife Skin: 원문 표의 값 700과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a21",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Boneshard Pax Claw Skin: 원문 표의 값 700과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a24",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Closed Casket Mosin Obrez Mace Skin: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloody Red's Bundle: 원문 표의 값 1870과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a29",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a32",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a35",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane Lebel 1886 Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a38",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Aperture Lebel 1886 Aperture Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a41",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Marksman Lebel 1886 Marksman Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a44",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Talon Lebel 1886 Talon Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a47",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cowboy Beetles Bundle: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a49",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stalker Cowboy Beetle Stalker Beetle Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a52",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fire Cowboy Beetle Fire Beetle Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a55",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Cowboy Beetle Choke Beetle Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a58",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "In the Name of the Father Bundle: 원문 표의 값 1920과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a60",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a63",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Divine Submission Railroad Hammer Skin: 원문 표의 값 700과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a66",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Forsaken Contrition Slate Skin: 원문 표의 값 500과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a69",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Forsaken Contrition: Riposte Slate Riposte Skin: 원문 표의 값 500과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a72",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "On Hell's Wings Bundle: 원문 표의 값 1900과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a74",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a77",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame Auto-5 Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a80",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame: Shorty Auto-4 Shorty Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a83",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Grim Nectar 1890 Cavalry Skin: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a86",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing LeMat Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a89",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing: Haymaker Haymaker Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a92",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nightfall Hand Crossbow Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a95",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Hanged Man Bundle: 원문 표의 값 1440과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a97",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a100",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Short Drop Choke Bombs Skin: 원문 표의 값 600과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a103",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End Centennial Shorty Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a106",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End: Pointman Centennial Pointman Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a109",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a112",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Righteous Bundle: 원문 표의 값 2300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a114",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a124",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Stormseer Bundle: 원문 표의 값 1500과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a126",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a129",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Vertebrae Marathon Skin: 원문 표의 값 500과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a132",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Vertebrae: Swift Marathon Swift Skin: 원문 표의 값 500과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a135",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw Uppercut Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a138",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw: Precision Uppercut Precision Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a141",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw: Deadeye Uppercut Deadeye Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a144",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Web of the Empress Bundle: 원문 표의 값 2100과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a146",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "a149",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Argent Widow Conversion Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a152",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Argent Widow: Chain Pistol Conversion Chain Pistol Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a155",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom Vetterli 71 Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a158",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Bayonet Vetterli 71 Bayonet Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a161",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Deadeye Vetterli 71 Deadeye Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a164",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Silencer Vetterli 71 Silencer Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a167",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Marksman Vetterli 71 Marksman Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a170",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Cyclone Vetterli 71 Cyclone Skin: 원문 표의 값 300과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a173",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Burning Web Dynamite Stick Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a176",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Waxed Burning Web Waxed Dynamite Stick Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a179",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk Mosin-Nagant Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a182",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Bayonet Mosin-Nagant Bayonet Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a185",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Sniper Mosin-Nagant Sniper Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a188",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Avtomat Mosin-Nagant Avtomat Skin: 원문 표의 값 400과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "a191",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Garnet: 원문 표의 값 595과 대상 변형이 일치한다. 통화 단위와 현재 판매 여부를 확정하지 않고 과거 위키 기재로 귀속했다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Scapula Romero 77 Hatchet Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Marwood Rival 78 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Executioner Combat Axe Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Skull Effigy Weapon Charm 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 All Hallow's Eve Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e11",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e14",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Backbone Vetterli 71 Bayonet Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e17",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Skeleton Key Heavy Knife Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e20",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Boneshard Pax Claw Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e23",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Closed Casket Mosin Obrez Mace Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e26",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Bloody Red's Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e28",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e31",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e34",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Wolfsbane Lebel 1886 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e37",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Wolfsbane: Aperture Lebel 1886 Aperture Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e40",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Wolfsbane: Marksman Lebel 1886 Marksman Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e43",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Wolfsbane: Talon Lebel 1886 Talon Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e46",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Cowboy Beetles Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e48",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Stalker Cowboy Beetle Stalker Beetle Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e51",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Fire Cowboy Beetle Fire Beetle Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e54",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Choke Cowboy Beetle Choke Beetle Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e57",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 In the Name of the Father Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e59",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e62",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Divine Submission Railroad Hammer Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e65",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Forsaken Contrition Slate Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e68",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Forsaken Contrition: Riposte Slate Riposte Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e71",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 On Hell's Wings Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e73",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e76",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 To the Flame Auto-5 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e79",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 To the Flame: Shorty Auto-4 Shorty Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e82",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Grim Nectar 1890 Cavalry Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e85",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Underwing LeMat Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e88",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Underwing: Haymaker Haymaker Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e91",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Nightfall Hand Crossbow Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e94",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Hanged Man Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e96",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e99",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Short Drop Choke Bombs Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e102",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Indecision's End Centennial Shorty Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e105",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Indecision's End: Pointman Centennial Pointman Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e108",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e111",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Righteous Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e113",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e123",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 The Stormseer Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e125",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e128",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Vertebrae Marathon Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e131",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Vertebrae: Swift Marathon Swift Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e134",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Splintered Jaw Uppercut Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e137",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Splintered Jaw: Precision Uppercut Precision Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e140",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Splintered Jaw: Deadeye Uppercut Deadeye Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e143",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Web of the Empress Bundle 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e145",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "e148",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Argent Widow Conversion Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e151",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Argent Widow: Chain Pistol Conversion Chain Pistol Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e154",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom Vetterli 71 Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e157",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom: Bayonet Vetterli 71 Bayonet Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e160",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom: Deadeye Vetterli 71 Deadeye Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e163",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom: Silencer Vetterli 71 Silencer Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e166",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom: Marksman Vetterli 71 Marksman Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e169",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Envenom: Cyclone Vetterli 71 Cyclone Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e172",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Burning Web Dynamite Stick Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e175",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Waxed Burning Web Waxed Dynamite Stick Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e178",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Black Silk Mosin-Nagant Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e181",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Black Silk: Bayonet Mosin-Nagant Bayonet Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e184",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Black Silk: Sniper Mosin-Nagant Sniper Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e187",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Black Silk: Avtomat Mosin-Nagant Avtomat Skin 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e190",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 Blood Garnet 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "r13",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r16",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Backbone Vetterli 71 Bayonet Skin → All Hallow's Eve Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r19",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Skeleton Key Heavy Knife Skin → All Hallow's Eve Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r22",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Boneshard Pax Claw Skin → All Hallow's Eve Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r25",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Closed Casket Mosin Obrez Mace Skin → All Hallow's Eve Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r30",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r33",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r36",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane Lebel 1886 Skin → Bloody Red's Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r39",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Aperture Lebel 1886 Aperture Skin → Bloody Red's Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r42",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Marksman Lebel 1886 Marksman Skin → Bloody Red's Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r45",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wolfsbane: Talon Lebel 1886 Talon Skin → Bloody Red's Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r50",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stalker Cowboy Beetle Stalker Beetle Skin → Cowboy Beetles Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r53",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fire Cowboy Beetle Fire Beetle Skin → Cowboy Beetles Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r56",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Cowboy Beetle Choke Beetle Skin → Cowboy Beetles Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r61",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r64",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Divine Submission Railroad Hammer Skin → In the Name of the Father Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r67",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Forsaken Contrition Slate Skin → In the Name of the Father Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r70",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Forsaken Contrition: Riposte Slate Riposte Skin → In the Name of the Father Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r75",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r78",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame Auto-5 Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r81",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame: Shorty Auto-4 Shorty Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r84",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Grim Nectar 1890 Cavalry Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r87",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing LeMat Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r90",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing: Haymaker Haymaker Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r93",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nightfall Hand Crossbow Skin → On Hell's Wings Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r98",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r101",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Short Drop Choke Bombs Skin → The Hanged Man Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r104",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End Centennial Shorty Skin → The Hanged Man Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r107",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End: Pointman Centennial Pointman Skin → The Hanged Man Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r110",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Indecision's End: Shorty Silencer Centennial Shorty Silencer Skin → The Hanged Man Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r115",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r116",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r117",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame Auto-5 Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r118",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "To the Flame: Shorty Auto-4 Shorty Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r119",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Grim Nectar 1890 Cavalry Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r120",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing LeMat Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r121",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Underwing: Haymaker Haymaker Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r122",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nightfall Hand Crossbow Skin → The Righteous Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r127",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r130",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Vertebrae Marathon Skin → The Stormseer Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r133",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Vertebrae: Swift Marathon Swift Skin → The Stormseer Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r136",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw Uppercut Skin → The Stormseer Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r139",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw: Precision Uppercut Precision Skin → The Stormseer Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r142",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Splintered Jaw: Deadeye Uppercut Deadeye Skin → The Stormseer Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r147",
+        "supported": true,
+        "identityCorrect": false,
+        "temporalCorrect": true,
+        "reason": "명칭과 해당 표의 기재 내용은 원문에 있지만 헌터 또는 인물형 상품을 equipment 주제로 분류한 동일성·종류 판정은 불명확하다. 캐릭터와 보상/판매 항목을 구별하도록 보류한다. 날짜·현재 상태를 추가하지 않은 점은 적절하다."
+      },
+      {
+        "key": "r150",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Argent Widow Conversion Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r153",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Argent Widow: Chain Pistol Conversion Chain Pistol Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r156",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom Vetterli 71 Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r159",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Bayonet Vetterli 71 Bayonet Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r162",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Deadeye Vetterli 71 Deadeye Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r165",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Silencer Vetterli 71 Silencer Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r168",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Marksman Vetterli 71 Marksman Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r171",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Envenom: Cyclone Vetterli 71 Cyclone Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r174",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Burning Web Dynamite Stick Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r177",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Waxed Burning Web Waxed Dynamite Stick Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r180",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk Mosin-Nagant Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r183",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Bayonet Mosin-Nagant Bayonet Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r186",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Sniper Mosin-Nagant Sniper Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      },
+      {
+        "key": "r189",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Black Silk: Avtomat Mosin-Nagant Avtomat Skin → Web of the Empress Bundle: 번들 제목 아래 구성 항목 목록에 포함되어 있어 부분 관계의 방향이 맞다. 단순 동시 언급이 아니며 현재 획득·판매를 주장하지 않는다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

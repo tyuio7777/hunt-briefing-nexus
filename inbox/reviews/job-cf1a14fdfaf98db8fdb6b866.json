@@ -1,0 +1,39 @@
+{
+  "jobId": "job-cf1a14fdfaf98db8fdb6b866",
+  "sourceHash": "a28b17ce5d8ed4f40607d000bd8a45c83ea8b5b6e81b29683fe7b8ec3d08a752",
+  "reviewedExtractionHash": "27cf652daaf16db97950b551f4112350fbff113f5665c8742e76aa7195039b8c",
+  "review": {
+    "decisions": [
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 팬 사이트는 해당 주 Steam 최고 동시 접속 26,667명, 평균 12,279명과 전주 대비 4% 감소를 보고한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 사이트 통계는 Steam PC만 포함하며 콘솔은 제외한다고 명시한다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 문맥이 다음 내용을 뒷받침한다: 팬 사이트가 인용한 공지는 일부 플레이어의 지역 변경 문제와 높은 패킷 손실을 데이터센터 제공자의 긴급 점검에 귀속한다. 현재 지속 여부는 확정하지 않는다. 대상과 회차가 맞고 출처의 설명·의견으로 한정되어 있다. 근거 없는 현재 상태·적용일을 추가하지 않았다. AI 의미 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "e1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문의 This week in Hunt: Nov 16–22, 2026 명칭과 문맥을 확인했다. scope 안의 개별 대상이며 다른 변형·회차와 통합하지 않는다. 시점 추가 없음. 원문 의미 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

@@ -1,0 +1,170 @@
+{
+  "jobId": "job-0874383f9effd26e5a20a21d",
+  "sourceHash": "da1112dbecaace288e3bb91e3f4789b17ea242b45593a32074785d299f1f4656",
+  "extraction": {
+    "entities": [
+      {
+        "key": "e1",
+        "label": "한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법",
+        "kind": "topic",
+        "scope": "디시인사이드 huntshowdown 게시물 57666 · 2026-10-28",
+        "group": "sources",
+        "entityId": "entity-585026ec64c1c7d7cc340170",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "[팁/정보] 한국에서 트위치 구독 뚫고 헤드 테이커/터너 받는법"
+          }
+        ]
+      },
+      {
+        "key": "e2",
+        "label": "헤드 테이커",
+        "kind": "topic",
+        "scope": "DCInside 57666의 구독 드랍스 보상 명칭",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "헤드 테이커/헤드 터너 획득됐는지 확인해보는 거."
+          }
+        ]
+      },
+      {
+        "key": "e3",
+        "label": "헤드 터너",
+        "kind": "topic",
+        "scope": "DCInside 57666의 구독 드랍스 보상 명칭",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "헤드 테이커/헤드 터너 획득됐는지 확인해보는 거."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "a1",
+        "subject": "e1",
+        "aspect": "개인 경험의 한계",
+        "value": "지원·안전 보장 없음",
+        "statement": "작성자는 자신의 구독 결제 경험을 안내하면서 문제 해결 지원과 결과 보장을 할 수 없다고 명시한다. 공식 절차나 일반적으로 검증된 방법이라는 주장이 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "1) 트러블 슈팅 못해준다. 나도 연구까지 해가며 방법 알아온게 아니라 어딘가에서 막힌다고 해도 알아봐줄 수가 없다\n2) 각자 책임 하에 따라해라. 당연한 말이지만 어쨋든 회색 지대에서 우회 결제를 하는 것인만큼 어떤 일을 당해도 나는 도와줄 수 없다. (근데 솔직히 구조상 제재 먹을게 있을까 싶기도 하고, 나도 별 일 없었음)"
+          }
+        ]
+      },
+      {
+        "key": "a2",
+        "subject": "e1",
+        "aspect": "구독 보상 획득 주장",
+        "value": "개인 성공 보고",
+        "statement": "작성자는 자신이 설명한 방법으로 보상을 받았다고 주장한다. 현재 성공 가능성이나 다른 이용자의 결과로 일반화하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "일단 인증\n본인은 이 방법으로 잘 받아먹음"
+          }
+        ]
+      },
+      {
+        "key": "a3",
+        "subject": "e1",
+        "aspect": "구독 드랍스 종료 안내",
+        "value": "10월 30일 금요일 오후 11시 59분",
+        "statement": "게시물은 구독 드랍스가 캠페인 1주차가 끝나는 10월 30일 금요일 오후 11시 59분 종료된다고 안내한다. 시간대가 없으므로 정확한 종료 시각 필드는 비워 둔다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "구독 드랍스는 10월 30일 금요일 오후 11시 59분, 드랍스 캠페인 1주차 끝날때 종료되니 만약 얻고 싶은 훈따들 있으면 꼭꼭꼭 미리 해놔라"
+          }
+        ]
+      },
+      {
+        "key": "a4",
+        "subject": "e1",
+        "aspect": "자동 갱신 취소 설명",
+        "value": "결제한 한 달은 유지된다는 설명",
+        "statement": "작성자는 자동 갱신을 취소해도 이미 결제한 한 달 구독은 유지되고 다음 달 자동 결제만 막힌다고 설명한다. 당시 게시물의 설명이며 현재 서비스 정책 확인은 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "바로 취소한다고 해도 돈낸 한달동안 그 구독은 유지되고, 다음달 자동 결제만 막히는거니까, 구독 취소 했다고 드랍스 날아갈 걱정은 안해도 됨"
+          }
+        ]
+      },
+      {
+        "key": "a5",
+        "subject": "e2",
+        "aspect": "게시물의 보상 확인 안내",
+        "value": "드랍스 페이지에서 확인",
+        "statement": "게시물은 구독 후 드랍스 페이지에서 헤드 테이커 획득 여부를 확인하라고 안내한다. 보상 종류나 영문명 동일성은 이 구간만으로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "더 확실한건 드랍스 페이지 가서 헤드 테이커/헤드 터너 획득됐는지 확인해보는 거."
+          }
+        ]
+      },
+      {
+        "key": "a6",
+        "subject": "e3",
+        "aspect": "게시물의 보상 확인 안내",
+        "value": "드랍스 페이지에서 확인",
+        "statement": "게시물은 구독 후 드랍스 페이지에서 헤드 터너 획득 여부를 확인하라고 안내한다. 헤드 테이커와 별개의 명칭으로 유지한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-20c10d740d3547e47ae2958b",
+            "quote": "더 확실한건 드랍스 페이지 가서 헤드 테이커/헤드 터너 획득됐는지 확인해보는 거."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}
