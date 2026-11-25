@@ -1,0 +1,326 @@
+{
+  "jobId": "job-f8723fbab87667702e06f068",
+  "sourceHash": "56db82eeb1fee66684ee0a02dae65a31bba59610231642b323febc53e9c4a386",
+  "reviewedExtractionHash": "40731881a2f4f62a55568c02b3fae12d6bbbf50da56799e21079f62cbfb19e1a",
+  "review": {
+    "decisions": [
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추천 요청을 수상 사실과 구분했다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "마감 시간대 표기를 그대로 보존하고 적용 날짜를 추정하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2.8의 inventory slot rework와 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2.8의 Strongholds·레벨 디자인 변경이 명시돼 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2.9의 이름 없는 보스·산탄총을 임의 특정하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "점검과 지역 변경·패킷 손실의 인과 설명이 명시돼 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "nearly complete와 예상 문구를 완료 사실로 바꾸지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Doctor와 Bloodskin 탄생의 서사 설명이 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전 완료로 이야기·보상을 해금한다는 문맥이 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "tg1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "12종 일회용 카드라는 가이드 주장을 미확인으로 보존했다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bg1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "build/check/roll/link 공유 안내 범위와 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "sp1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "무음 핵을 질문한 경험담이며 핵의 존재를 확정하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ep1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "ESP와 MMR에 관한 작성자의 의혹을 통계나 사실로 바꾸지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bal1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "탄 낙차·화면·음향·솔로 생존이라는 가이드 범위에 한정했다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ua1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "우크라이나어 공략 소개와 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hp1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "dec 3rd 주장을 미확인으로 두며 연도·날짜 필드를 보충하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ss1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Soul Survivor 권고를 공식 선행 조건으로 바꾸지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "awards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Steam Awards · Labor of Love 후보 추천: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.7: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "devil",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Devil’s Trail: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.8: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "road",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Road to Hell: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.9: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "maintenance",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "긴급 백엔드 점검: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "As the Crow Carves: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Plague Doctor: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "The Plague Surgeon: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "tarotguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Карты ТАРО: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "loadguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "How to build and share your loadout (Before The Hunt): 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fansite",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Before The Hunt: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "soundpost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "No sound hack?: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "esppost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wall, ESP: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ballguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "uaguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown 1896 на 100% UA: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hungerpost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "end of this \"masterpiece\": 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "survivor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Soul Survivor: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bounty",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bounty Hunt: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.7 opened라는 직접 관계를 회고로 한정했다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.8 launched라는 직접 관계가 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.9 brought라는 직접 관계가 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "creation에 관여했다는 명시적 서사 관계이다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "같은 Chronicle 도전 보상에 Surgeon이 포함된다는 문맥이 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "bgrel",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "A guide by Before The Hunt라는 작성 관계가 명시돼 있다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

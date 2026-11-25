@@ -1,0 +1,67 @@
+{
+  "jobId": "job-6c88ccc6c5f8bc329b997e3a",
+  "sourceHash": "b95e343d24ea6912705f83af34878b648fa841f55cc9f6b60de0a17601178e4c",
+  "reviewedExtractionHash": "b31fffaf8ea1205d7eda447d0aec4eb1c5665f7ce0724a7d604c481c81c83266",
+  "review": {
+    "decisions": [
+      {
+        "key": "bal1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "탄 낙차·화면·음향·솔로 생존이라는 가이드 범위에 한정했다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ua1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "우크라이나어 공략 소개와 일치한다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hp1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "dec 3rd 주장을 미확인으로 두며 연도·날짜 필드를 보충하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "sk1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "훈련과 경험에 관한 리뷰 의견이며 특정인의 부정행위 유무를 확정하지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ballguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "uaguide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt: Showdown 1896 на 100% UA: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hungerpost",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "end of this \"masterpiece\": 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skillopinion",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hunt 고숙련 플레이와 부정행위 구분에 관한 리뷰: 원문의 명칭·종류·범위를 대조했고 다른 회차나 변형과 합치지 않았다. AI 의미 검토이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
