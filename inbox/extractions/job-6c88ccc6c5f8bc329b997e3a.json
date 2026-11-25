@@ -1,0 +1,147 @@
+{
+  "jobId": "job-6c88ccc6c5f8bc329b997e3a",
+  "sourceHash": "b95e343d24ea6912705f83af34878b648fa841f55cc9f6b60de0a17601178e4c",
+  "extraction": {
+    "entities": [
+      {
+        "key": "ballguide",
+        "label": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · Masurtic · 러시아어",
+        "entityId": "entity-8ab77197fce04b0db658c8e4",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант"
+          }
+        ]
+      },
+      {
+        "key": "uaguide",
+        "label": "Hunt: Showdown 1896 на 100% UA",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · Rarity · 우크라이나어",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Повна інформація для проходження гри Hunt: Showdown 1896 українською."
+          }
+        ]
+      },
+      {
+        "key": "hungerpost",
+        "label": "end of this \"masterpiece\"",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Steam 공개 토론 · PLUH · 목록 발췌 · 날짜 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "so as many of u know hunger will be releasing dec 3rd"
+          }
+        ]
+      },
+      {
+        "key": "skillopinion",
+        "label": "Hunt 고숙련 플레이와 부정행위 구분에 관한 리뷰",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Steam 독일어 공개 리뷰 · There Will Be Blood · 목록 발췌",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Schaut euch beispielsweise Streamer wie RachtaZ, Hornet an. Was diese Spieler teilweise an Pixelschüssen, Wallbangs und Flickshots hinlegen, ist für viele kaum nachvollziehbar. Trotzdem bedeutet das nicht, dass hier Cheats im Spiel sind. Das ist Training, DIsziplin, Ehrgeiz und jahrelange Erfahrung."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "bal1",
+        "subject": "ballguide",
+        "aspect": "guide_scope",
+        "value": "탄 낙차·화면 선명도·사운드 위치·솔로 생존 안내",
+        "statement": "러시아어 가이드 소개는 탄 낙차에 맞춘 조준, 화면 선명도, 사운드 위치 설정 및 솔로 생존을 다룬다고 설명했다. 제목의 엔진 버전을 실제 적용 버전으로 확정하지 않는다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Ветеранский разбор Hunt: Showdown 1896. Как брать упреждение с новой баллистикой падения пуль, убрать мыло в графике, настроить позиционирование звука и выживать в соло."
+          }
+        ]
+      },
+      {
+        "key": "ua1",
+        "subject": "uaguide",
+        "aspect": "guide_scope",
+        "value": "우크라이나어 공략 안내",
+        "statement": "공개 가이드 소개는 Hunt: Showdown 1896의 우크라이나어 공략 정보를 제공한다고 설명했다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Повна інформація для проходження гри Hunt: Showdown 1896 українською."
+          }
+        ]
+      },
+      {
+        "key": "hp1",
+        "subject": "hungerpost",
+        "aspect": "unconfirmed_release_claim",
+        "value": "hunger의 dec 3rd 출시 주장",
+        "statement": "토론 작성자는 hunger가 12월 3일 출시된다고 주장했다. 연도·공식 일정이 확인되지 않아 날짜 필드를 비우고 미확인 주장으로 보존한다.",
+        "certainty": "unconfirmed",
+        "applicability": "unknown",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "so as many of u know hunger will be releasing dec 3rd"
+          }
+        ]
+      },
+      {
+        "key": "sk1",
+        "subject": "skillopinion",
+        "aspect": "player_opinion",
+        "value": "정교한 사격만으로 부정행위를 단정하지 말자는 의견",
+        "statement": "공개 리뷰는 RachtaZ와 Hornet을 예로 들며 정교한 사격을 훈련과 경험으로 설명했다. 특정 인물의 부정행위 유무를 독립 검증한 결론은 아니다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-bddbacf7ac23eb236bab719c",
+            "quote": "Schaut euch beispielsweise Streamer wie RachtaZ, Hornet an. Was diese Spieler teilweise an Pixelschüssen, Wallbangs und Flickshots hinlegen, ist für viele kaum nachvollziehbar. Trotzdem bedeutet das nicht, dass hier Cheats im Spiel sind. Das ist Training, DIsziplin, Ehrgeiz und jahrelange Erfahrung."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

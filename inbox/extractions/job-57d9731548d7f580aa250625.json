@@ -1,0 +1,769 @@
+{
+  "jobId": "job-57d9731548d7f580aa250625",
+  "sourceHash": "e9b23c26ba7c3c2b6364b6aff3be9a4d6d056314515d5fd922ddf8319169dff0",
+  "extraction": {
+    "entities": [
+      {
+        "aliases": [],
+        "entityId": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Hunters, there’s a fresh contract in the Book, and the target is the Steam Awards.\nEight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet."
+          }
+        ],
+        "group": "events",
+        "key": "awards",
+        "kind": "event",
+        "label": "Steam Awards · Labor of Love 후보 추천",
+        "scope": "2026 · Hunt 공식 추천 요청"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-3af9f1d18806b669fd04bcda",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "updates",
+        "key": "u27",
+        "kind": "update",
+        "label": "Update 2.7",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "events",
+        "key": "devil",
+        "kind": "topic",
+        "label": "Devil’s Trail",
+        "scope": "2026 · Update 2.7 회고"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-46b0d50b38b6b1d10fad98e3",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "updates",
+        "key": "u28",
+        "kind": "update",
+        "label": "Update 2.8",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-99d096d9ffc7afba0fc6f1e4",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "events",
+        "key": "road",
+        "kind": "event",
+        "label": "Road to Hell",
+        "scope": "2026"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-c646ec21bcfd5ec6873c4491",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "updates",
+        "key": "u29",
+        "kind": "update",
+        "label": "Update 2.9",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "group": "events",
+        "key": "blood",
+        "kind": "event",
+        "label": "Blood Testament",
+        "scope": "2026"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-3e8ea6f05e172ff4e11348bc",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "We know some players may be having trouble switching regions and experiencing higher-than-normal packet loss today.\nThis was caused by emergency maintenance that our data center provider needed to perform unexpectedly."
+          },
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Ongoing emergency backend maintenance\n2026년 11월 20일"
+          }
+        ],
+        "group": "updates",
+        "key": "maintenance",
+        "kind": "event",
+        "label": "긴급 백엔드 점검",
+        "scope": "2026-11-20 · Steam 685271070563894007"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          },
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "As the Crow Carves - Legacy Chronicle\n2026년 11월 6일"
+          }
+        ],
+        "group": "events",
+        "key": "crow",
+        "kind": "event",
+        "label": "As the Crow Carves",
+        "scope": "Blood Testament · 2026 Legacy Chronicle"
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-c89f98faf8d3fdcbe5e2375f",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ],
+        "group": "world",
+        "key": "doctor",
+        "kind": "character",
+        "label": "Plague Doctor",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "topic-6660065f355ab190f2b1340d",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ],
+        "group": "world",
+        "key": "skin",
+        "kind": "monster",
+        "label": "Bloodskin",
+        "scope": ""
+      },
+      {
+        "aliases": [],
+        "entityId": "entity-72518b826ba95d44ba3633d6",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ],
+        "group": "world",
+        "key": "surgeon",
+        "kind": "character",
+        "label": "The Plague Surgeon",
+        "scope": ""
+      },
+      {
+        "key": "tarotguide",
+        "label": "Карты ТАРО",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · zhorakoroed · 러시아어",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Карты Таро — это новый одноразовый расходный материал, появившийся в событии \"Web of the Empress\". Всего их 12, и каждая из них наделяет вас уникальной способностью, соответствующей её традиционному значению."
+          }
+        ]
+      },
+      {
+        "key": "loadguide",
+        "label": "How to build and share your loadout (Before The Hunt)",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · Before The Hunt · 영어",
+        "entityId": "entity-27e851afb2c11bc96d0f49b0",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "The rules that decide whether a Hunt: Showdown 1896 loadout is valid, and how to build, check, roll and send a kit to your team as a link. A guide by Before The Hunt, a free fan site."
+          }
+        ]
+      },
+      {
+        "key": "fansite",
+        "label": "Before The Hunt",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "무료 Hunt 팬 사이트",
+        "entityId": "entity-e67ae7b940e59cafe92a20f4",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "The rules that decide whether a Hunt: Showdown 1896 loadout is valid, and how to build, check, roll and send a kit to your team as a link. A guide by Before The Hunt, a free fan site."
+          }
+        ]
+      },
+      {
+        "key": "soundpost",
+        "label": "No sound hack?",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Steam 공개 토론 · lakedawg · 목록 발췌 · 날짜 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Is there a no sound hack going around? I was in the boss lair covering some stairs. I didn't hear a footstep until after the 6 star shot me from the stairs."
+          }
+        ]
+      },
+      {
+        "key": "esppost",
+        "label": "Wall, ESP",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Steam 공개 토론 · old gods · 목록 발췌 · 날짜 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Tons of players are definitely using cheats to see through walls—ESP as well. It gets worse the higher the MMR."
+          }
+        ]
+      },
+      {
+        "key": "ballguide",
+        "label": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · Masurtic · 러시아어",
+        "entityId": "entity-8ab77197fce04b0db658c8e4",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Hunt: Showdown 1896 — Баллистика (Bullet Drop), Чёткость CryEngine 5.11 и Соло-Некромант"
+          }
+        ]
+      },
+      {
+        "key": "uaguide",
+        "label": "Hunt: Showdown 1896 на 100% UA",
+        "kind": "topic",
+        "group": "sources",
+        "scope": "Steam 공개 가이드 · Rarity · 우크라이나어",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Повна інформація для проходження гри Hunt: Showdown 1896 українською."
+          }
+        ]
+      },
+      {
+        "key": "hungerpost",
+        "label": "end of this \"masterpiece\"",
+        "kind": "topic",
+        "group": "rumors",
+        "scope": "Steam 공개 토론 · PLUH · 목록 발췌 · 날짜 미상",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "so as many of u know hunger will be releasing dec 3rd"
+          }
+        ]
+      },
+      {
+        "key": "survivor",
+        "label": "Soul Survivor",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Hunt: Showdown 게임 모드",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "If you're new, I'd recommend starting with Soul Survivor to learn the maps, get comfortable with the mechanics, and pick up some of the basics before jumping into Bounty Hunt trios."
+          }
+        ]
+      },
+      {
+        "key": "bounty",
+        "label": "Bounty Hunt",
+        "kind": "system",
+        "group": "updates",
+        "scope": "Hunt: Showdown 게임 모드",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "If you're new, I'd recommend starting with Soul Survivor to learn the maps, get comfortable with the mechanics, and pick up some of the basics before jumping into Bounty Hunt trios."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "applicability": "historical",
+        "aspect": "nomination_request",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "If Hunt has earned it, mark us for Labor of Love with the Nominate button above before 30 Nov, 10:00 PT (19:00 CET)."
+          }
+        ],
+        "key": "a1",
+        "statement": "공지는 Hunt를 Steam Awards의 Labor of Love 부문에 추천해 달라고 요청했다.",
+        "subject": "awards",
+        "supersedes": [],
+        "value": "Labor of Love 추천 요청"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "nomination_deadline_as_stated",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "If Hunt has earned it, mark us for Labor of Love with the Nominate button above before 30 Nov, 10:00 PT (19:00 CET)."
+          }
+        ],
+        "key": "a2",
+        "statement": "추천 요청의 마감 표기는 11월 30일 10:00 PT(19:00 CET) 이전이다. 해당 문구의 시간대 표기를 그대로 보존한다.",
+        "subject": "awards",
+        "supersedes": [],
+        "value": "30 Nov, 10:00 PT (19:00 CET) 이전"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "inventory_change",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "key": "a3",
+        "statement": "Update 2.8의 변경 사항으로 인벤토리 슬롯 개편이 언급됐다.",
+        "subject": "u28",
+        "supersedes": [],
+        "value": "인벤토리 슬롯 개편"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "world_change",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "key": "a4",
+        "statement": "Update 2.8의 변경 사항으로 새 Strongholds와 레벨 디자인 개선이 언급됐다.",
+        "subject": "u28",
+        "supersedes": [],
+        "value": "새 Strongholds와 레벨 디자인 개선"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "additions_and_balance",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "key": "a5",
+        "statement": "Update 2.9의 변경 사항으로 새 보스, 새 산탄총과 밸런스 조정이 언급됐다. 이 문장만으로 보스·무기 이름을 특정하지 않는다.",
+        "subject": "u29",
+        "supersedes": [],
+        "value": "새 보스·산탄총 및 밸런스 변경"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "reported_impact",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "We know some players may be having trouble switching regions and experiencing higher-than-normal packet loss today.\nThis was caused by emergency maintenance that our data center provider needed to perform unexpectedly."
+          }
+        ],
+        "key": "a6",
+        "statement": "Nov 20 공지는 일부 이용자의 지역 변경 문제와 평소보다 높은 패킷 손실을 데이터센터 제공업체의 예기치 않은 긴급 점검 탓으로 설명했다.",
+        "subject": "maintenance",
+        "supersedes": [],
+        "value": "지역 변경 문제·패킷 손실 증가"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "reported_progress",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "The work is nearly complete, and we don't anticipate any ongoing or long-term issues once everything is fully wrapped up."
+          }
+        ],
+        "key": "a7",
+        "statement": "공지 당시 점검이 거의 완료됐고 마무리 뒤 장기 문제가 없을 것으로 예상한다고 했으나, 완료 사실을 확정하지 않았다.",
+        "subject": "maintenance",
+        "supersedes": [],
+        "value": "당시 거의 완료 단계"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "story_subject",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ],
+        "key": "a8",
+        "statement": "As the Crow Carves는 과거 The Plague Doctor로 알려진 인물이 Bloodskin의 탄생에 관여한 이야기를 다룬다고 소개됐다.",
+        "subject": "crow",
+        "supersedes": [],
+        "value": "Plague Doctor와 Bloodskin의 탄생"
+      },
+      {
+        "applicability": "historical",
+        "aspect": "unlock_method",
+        "certainty": "attributed",
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ],
+        "key": "a9",
+        "statement": "도전을 완료하면 전체 이야기와 보상을 해금한다고 안내됐다.",
+        "subject": "crow",
+        "supersedes": [],
+        "value": "도전 완료로 이야기·보상 해금"
+      },
+      {
+        "key": "tg1",
+        "subject": "tarotguide",
+        "aspect": "guide_claim",
+        "value": "Web of the Empress에서 등장한 12종 일회용 타로 카드라는 설명",
+        "statement": "공개 가이드 발췌는 타로 카드를 Web of the Empress에서 등장한 일회용 소모품으로 소개하고 12종이 각각 능력을 준다고 주장한다. 회차·도입일·현재 수량은 독립 확인되지 않았다.",
+        "certainty": "unconfirmed",
+        "applicability": "unknown",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Карты Таро — это новый одноразовый расходный материал, появившийся в событии \"Web of the Empress\". Всего их 12, и каждая из них наделяет вас уникальной способностью, соответствующей её традиционному значению."
+          }
+        ]
+      },
+      {
+        "key": "bg1",
+        "subject": "loadguide",
+        "aspect": "guide_scope",
+        "value": "로드아웃 유효성·생성·확인·무작위 구성·링크 공유 안내",
+        "statement": "가이드 소개는 로드아웃의 유효성을 판단하는 규칙과 장비 구성을 만들고 확인·무작위 구성·링크 공유하는 방법을 다룬다고 설명했다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "The rules that decide whether a Hunt: Showdown 1896 loadout is valid, and how to build, check, roll and send a kit to your team as a link. A guide by Before The Hunt, a free fan site."
+          }
+        ]
+      },
+      {
+        "key": "sp1",
+        "subject": "soundpost",
+        "aspect": "unconfirmed_player_report",
+        "value": "발소리를 듣지 못했다는 경험과 핵 의문",
+        "statement": "공개 토론 작성자는 계단에서 공격받기 전 발소리를 듣지 못했다며 무음 핵의 존재를 질문했다. 핵 존재나 원인은 확인되지 않았다.",
+        "certainty": "unconfirmed",
+        "applicability": "unknown",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Is there a no sound hack going around? I was in the boss lair covering some stairs. I didn't hear a footstep until after the 6 star shot me from the stairs."
+          }
+        ]
+      },
+      {
+        "key": "ep1",
+        "subject": "esppost",
+        "aspect": "unconfirmed_player_claim",
+        "value": "벽 투시·ESP 및 높은 MMR 구간에 대한 의혹",
+        "statement": "토론 작성자는 벽 투시·ESP 사용이 많으며 높은 MMR에서 더 심하다고 주장했다. 확인된 부정행위 규모나 MMR별 통계로 취급하지 않는다.",
+        "certainty": "unconfirmed",
+        "applicability": "unknown",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Tons of players are definitely using cheats to see through walls—ESP as well. It gets worse the higher the MMR."
+          }
+        ]
+      },
+      {
+        "key": "bal1",
+        "subject": "ballguide",
+        "aspect": "guide_scope",
+        "value": "탄 낙차·화면 선명도·사운드 위치·솔로 생존 안내",
+        "statement": "러시아어 가이드 소개는 탄 낙차에 맞춘 조준, 화면 선명도, 사운드 위치 설정 및 솔로 생존을 다룬다고 설명했다. 제목의 엔진 버전을 실제 적용 버전으로 확정하지 않는다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Ветеранский разбор Hunt: Showdown 1896. Как брать упреждение с новой баллистикой падения пуль, убрать мыло в графике, настроить позиционирование звука и выживать в соло."
+          }
+        ]
+      },
+      {
+        "key": "ua1",
+        "subject": "uaguide",
+        "aspect": "guide_scope",
+        "value": "우크라이나어 공략 안내",
+        "statement": "공개 가이드 소개는 Hunt: Showdown 1896의 우크라이나어 공략 정보를 제공한다고 설명했다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Повна інформація для проходження гри Hunt: Showdown 1896 українською."
+          }
+        ]
+      },
+      {
+        "key": "hp1",
+        "subject": "hungerpost",
+        "aspect": "unconfirmed_release_claim",
+        "value": "hunger의 dec 3rd 출시 주장",
+        "statement": "토론 작성자는 hunger가 12월 3일 출시된다고 주장했다. 연도·공식 일정이 확인되지 않아 날짜 필드를 비우고 미확인 주장으로 보존한다.",
+        "certainty": "unconfirmed",
+        "applicability": "unknown",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "so as many of u know hunger will be releasing dec 3rd"
+          }
+        ]
+      },
+      {
+        "key": "ss1",
+        "subject": "survivor",
+        "aspect": "player_recommendation",
+        "value": "Bounty Hunt 트리오에 앞서 모드 연습을 권한 의견",
+        "statement": "공개 이용자 리뷰는 초보자가 지도를 익히고 기본 조작을 배우기 위해 Bounty Hunt 트리오에 앞서 Soul Survivor로 시작할 것을 권했다. 공식 튜토리얼 요구 조건이나 필수 선행 관계로 만들지 않는다.",
+        "certainty": "attributed",
+        "applicability": "historical",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "If you're new, I'd recommend starting with Soul Survivor to learn the maps, get comfortable with the mechanics, and pick up some of the basics before jumping into Bounty Hunt trios."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "from": "devil",
+        "key": "r1",
+        "statement": "2026년 회고는 Update 2.7에서 Devil’s Trail이 열렸다고 설명한다.",
+        "to": "u27",
+        "type": "introduced_in"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "from": "road",
+        "key": "r2",
+        "statement": "2026년 회고는 Update 2.8에서 Road to Hell이 시작됐다고 설명한다.",
+        "to": "u28",
+        "type": "introduced_in"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Eight years of mud, blood and gunsmoke, and 2026 was one of our biggest yet. Update 2.7 opened Devil’s Trail. Update 2.8 launched Road to Hell alongside the inventory slot rework, new Strongholds and level design improvements. Update 2.9 brought Blood Testament, a new Boss, a new shotgun and a round of balance changes."
+          }
+        ],
+        "from": "blood",
+        "key": "r3",
+        "statement": "2026년 회고는 Update 2.9에서 Blood Testament가 도입됐다고 설명한다.",
+        "to": "u29",
+        "type": "introduced_in"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Discover how the man once known as The Plague Doctor played a harrowing role in the creation of Bloodskin in our newest Legacy Chronicle, As the Crow Carves."
+          }
+        ],
+        "from": "doctor",
+        "key": "r4",
+        "statement": "작중 The Plague Doctor로 알려진 인물이 Bloodskin의 탄생에 관여했다고 소개됐다.",
+        "to": "skin",
+        "type": "related_to"
+      },
+      {
+        "dateEvidence": [],
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "Complete challenges to unlock the full story and a collection of stunning rewards, including the new rendition of a familiar Legendary Hunter who now goes by The Plague Surgeon."
+          }
+        ],
+        "from": "crow",
+        "key": "r5",
+        "statement": "As the Crow Carves 도전 보상에는 The Plague Surgeon이라는 새 모습의 전설 헌터가 포함된다고 안내됐다.",
+        "to": "surgeon",
+        "type": "rewards"
+      },
+      {
+        "key": "bgrel",
+        "from": "loadguide",
+        "to": "fansite",
+        "type": "related_to",
+        "statement": "이 가이드는 무료 팬 사이트 Before The Hunt가 작성한 가이드로 소개됐다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-c79172a2433be64fdfbb0593",
+            "quote": "The rules that decide whether a Hunt: Showdown 1896 loadout is valid, and how to build, check, roll and send a kit to your team as a link. A guide by Before The Hunt, a free fan site."
+          }
+        ]
+      }
+    ]
+  }
+}

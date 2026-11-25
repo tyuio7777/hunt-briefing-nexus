@@ -1,0 +1,473 @@
+{
+  "jobId": "job-ab4e333a5b96247b180a0a03",
+  "sourceHash": "71ed9b90a7e52e92fde87d6d9ceade0bbbfe66a55b6e89fea357ed6bd9d54988",
+  "reviewedExtractionHash": "8ef79f35b6a131daf871f4e2d75ec936ee5c065e3ead3d9f2279e3e2a4032697",
+  "review": {
+    "decisions": [
+      {
+        "key": "awards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026년 회고와 Labor of Love 추천 요청의 문맥이 일치하며 수상 사실로 확대하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원문 Update 2.7 버전명을 확인했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "devil",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.7 회고의 Devil’s Trail을 topic으로 유지하며 상세 이벤트 종류를 단정하지 않는다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "버전 2.8과 catalog의 동일 버전을 대조했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "road",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고의 Road to Hell을 같은 연도 회차에 연결했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "u29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "버전 2.9와 catalog의 동일 버전을 대조했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고의 Blood Testament를 같은 연도 회차에 연결했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "maintenance",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nov 20 점검 공지를 다른 점검과 구분하고 연도를 보충하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Legacy Chronicle의 명칭과 도전 보상 문맥이 맞으며 Nov 6 연도 미상 범위를 유지했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "작중 Plague Doctor의 명칭이 맞으며 Surgeon과 합치지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "작중 Bloodskin을 대조했으며 탄생 이야기를 실제 신규 도입일로 바꾸지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "별도 새 모습 The Plague Surgeon의 명칭이 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Blood Testament Chapter 3 패치 노트 제목과 범위가 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "lanc",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster 기본형의 명칭·권총 설명을 확인했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster Cleaver는 칼날 부착 변형으로 기본형과 구별된다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재 알림·환급 시스템 문맥과 동일하다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽 Chapter 3 임시 시험 범위가 일치하며 전 지역 영구화로 확대하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3의 Reap the Harvest 회차를 구분했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "drops",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 26–Nov 9 캠페인 문맥을 유지하며 연도나 다른 회차를 합치지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "survey",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "TB3N9ZB 설문 식별자가 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Bomb Skin으로 명시된 Hide and Seek와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "leap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stamina Shot Skin으로 명시된 Leap of Faith와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "crate",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시청 보상의 Supply Crates 명칭을 확인했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "knife",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Heavy Knife 비교 대상 명칭이 명시돼 있으며 Cleaver와 합치지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추천 요청을 수상·선정 사실과 구분했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "마감 원문 시간대 표기를 보존하고 연도·ISO 적용일을 추정하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.8 inventory slot rework를 정확히 옮겼다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "새 Strongholds와 level design improvements가 직접 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "이름 없는 새 보스·산탄총을 특정하지 않고 2.9 회고로 한정했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제공업체 긴급 점검과 지역 변경·패킷 손실의 원인 설명이 직접 연결된다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "nearly complete와 예상 문구를 완료 사실로 바꾸지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Legacy Chronicle 소개의 Doctor와 Bloodskin 탄생 역할을 정확히 요약했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a9",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전으로 이야기와 보상을 해금한다는 안내에 부합한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a10",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4총열·중형탄·회전식 공이가 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a11",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개방 시 모든 탄 배출이 직접 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a12",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "칼날 변형과 Heavy Knife의 궤적·피해 비교가 직접 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a13",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster의 Basic 4/12, High Velocity 4/8, Poison 4/12와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a14",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster 단락의 쌍수 가능 문구와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a15",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 단락의 탄약 수량과 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a16",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 단락의 쌍수 가능 문구와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a17",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신·구 감염 거점과 경기당 5개 활성 설명에 부합한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a18",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고 대상 제재 후 알림을 정확히 요약했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a19",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재된 플레이어에게 사망한 경우 환급 안내와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a20",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 기간 유럽 임시 시험으로 한정했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a21",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "별도 큐와 일반 큐 복귀 조건을 확인했으며 임계 수치를 만들지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a22",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "planned to start later를 예정으로 보존했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a23",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계·경기 목표·Community Event Points의 연결이 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a24",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "발표된 1단계 보상과 일치하며 달성을 단정하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a25",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "발표된 2단계 Lancaster 보상과 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a26",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "발표된 3단계 수량 10K·2.5K와 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "발표된 4단계 Cleaver 보상과 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "발표된 5단계 Random Legendary Skin과 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "월일 표기를 보존하며 알 수 없는 연도를 추가하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a30",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "1주차 Support-a-Streamer 및 시청 보상 목록이 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a31",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2주차 보상 목록과 스킨·헌터 구분이 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a32",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "설문의 즐거웠던 점·개선점·향후 희망 질문과 일치한다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a33",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Hide and Seek의 스킨 대상이 정확하다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "a34",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Leap of Faith의 스킨 대상이 정확하다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "opened라는 직접 도입 관계를 2026 회고로 기록하고 날짜를 추가하지 않았다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "launched Road to Hell과 Update 2.8의 직접 관계가 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.9 brought Blood Testament라는 직접 관계가 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Bloodskin creation에 역할을 했다는 서사 관계가 명시돼 있다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r5",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "같은 Chronicle 단락에서 Surgeon이 도전 보상에 포함됨을 확인했다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r6",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "variant of the Lancaster가 명시돼 있으며 통합하지 않는다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r7",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Reap the Harvest의 발표된 Stage 2 보상이며 달성 여부를 단정하지 않는다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      },
+      {
+        "key": "r8",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Reap the Harvest의 발표된 Stage 4 보상이며 달성 여부를 단정하지 않는다. 공개 저장 원문에 대한 AI 의미 대조이며 독립적 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
