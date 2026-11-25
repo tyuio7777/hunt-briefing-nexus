@@ -1,0 +1,158 @@
+{
+  "jobId": "job-8887b5db9ed0783637d679f7",
+  "sourceHash": "22f2d8657d54274cacb55839c274d3e9c7f447a35df008f944e0033ff428358d",
+  "reviewedExtractionHash": "665079f134585b744f7ed85f7c3f1ad973902a00c4e45e3ad78c0f4c9711d240",
+  "review": {
+    "decisions": [
+      {
+        "key": "launch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 명시적 시작일 2026-09-08과 dateEvidence가 일치한다. 발행일로 추정하지 않았다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "unlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "3단계 달성 후 해금을 보도한 과거 주장으로 한정하며 해금일을 만들지 않았다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "type",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Wild Target과 구별된 Boss Target이라는 설명과 일치한다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "phase1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중장갑·느린 이동·큰 근접 피해·전투 중 껍질 파괴를 원문과 대조했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "phase2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "속도·민첩성·순간이동 및 장갑 형태 복귀 없음이라는 기사 설명을 대조했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "loot",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "적 헌터 루팅 시 Scarce Trait 탈취라는 기사 주장을 보존했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "banish",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "추방 동안 주변 공격성 증가와 Blood Moon 유사성을 보존했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "story",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Corruption으로 상실을 겪은 Warren과 Lynch의 혈청 제공이라는 기사 서사를 확인했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "dependence",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "피의 갈증과 혈청 의존을 기사 서사에 귀속했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "identity",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "동일인 여부가 미확인이라는 기사 유보를 보존했다. 동일성을 승인하거나 병합하는 후보가 아니다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "tease",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "전체 기사 Gamescom 2026·Update 2.9 문맥과 회고적 해석을 확인했다. 당시 공식 보스 확정으로 바꾸지 않았다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "명시된 2026 이벤트와 catalog 회차가 같다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bleed",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026년 9월 8일 함께 시작된 Make Them Bleed 회차를 확인했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "skin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보스로 명시된 Bloodskin이며 Warren과 합치지 않는다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "siphon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Siphon Burn Trait으로 명시된다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "wells",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Siphon을 얻는 시스템 Blood Wells가 명시된다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "moon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공격성 비교 대상인 Blood Moon이며 추방 시스템과 합치지 않는다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "warren",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "서사 속 헌터 Warren Russett이며 보스와 동일인으로 확정하지 않는다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lynch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "혈청을 제공하는 작중 Lynch가 명시된다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "티저 문맥에서 Update 2.9가 명시된다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "처치 보상으로 Siphon을 준다는 명시적 관계를 기사 주장으로 한정했다. 원문 의미 검토이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
