@@ -1,0 +1,45 @@
+{
+  "jobId": "job-1b130127a02575fe37ff25db",
+  "sourceHash": "9508dbccf7c1cb572881fbbed0acacea29a6adb111ad46cda63b952964dcb4bd",
+  "extraction": {
+    "entities": [
+      {
+        "key": "mmr",
+        "label": "MMR",
+        "kind": "topic",
+        "scope": "",
+        "group": "updates",
+        "entityId": "topic-5a89f81fca23381f58e05617",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-300c2a0123d57aea41f3b2d2",
+            "quote": "기회가 닿아서 mmr매우 높아 보이는 6성 두명이랑 했는데"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "experience",
+        "subject": "mmr",
+        "aspect": "community_experience",
+        "value": "고등급 동료와 플레이한 개인 경험",
+        "statement": "작성자는 평소 3성 친구와 하다가 MMR이 높아 보이는 6성 동료들과 플레이하며 엄폐와 포지셔닝 부족을 느꼈다고 회고했다. 등급 전체의 성향이나 실력을 입증하는 자료는 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-300c2a0123d57aea41f3b2d2",
+            "quote": "계속 개돌하다가 죽으면 플레이도 어느새 나도 모르게 소극적이게 되고, 안좋은 포지셔닝이 지금껏 퍼니쉬 당하지 않았을 뿐이지 기본적으로 엄폐 끼는 능력 자체가 부족했구나 싶음"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "jobId": "job-cf156f28ec10b98c45eb5273",
+  "sourceHash": "71c15a0212ba9e3ca3850725d9093f69df4428aff8a78e59873f2fe75dde142d",
+  "extraction": {
+    "entities": [
+      {
+        "key": "reap",
+        "label": "Reap the Harvest",
+        "kind": "event",
+        "scope": "Blood Testament Chapter 3",
+        "group": "events",
+        "entityId": "entity-7c4e47e47103471ec512ef0a",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Reap the Harvest Stage 3 완료와 Stage 4 Cleaver 진행"
+          }
+        ]
+      },
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Lancaster는 Stage 2, Cleaver는 Stage 4에 배치되어 있어"
+          }
+        ]
+      },
+      {
+        "key": "cleaver",
+        "label": "Lancaster Cleaver",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-167fe5289206b9dcd9d34020",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Lancaster는 Stage 2, Cleaver는 Stage 4에 배치되어 있어"
+          }
+        ]
+      },
+      {
+        "key": "blood",
+        "label": "Blood Testament",
+        "kind": "event",
+        "scope": "2026",
+        "group": "events",
+        "entityId": "entity-fa0e0cabd8776433c3740a38",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Blood Testament 전체 기간은 9월 8일부터 12월 8일까지로 유지한다."
+          }
+        ]
+      },
+      {
+        "key": "crow",
+        "label": "As the Crow Carves",
+        "kind": "event",
+        "scope": "Blood Testament · 2026 Legacy Chronicle",
+        "group": "events",
+        "entityId": "entity-168d37219c19ad931b4fef17",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "As the Crow Carves 시작 (커뮤니티 기록)"
+          }
+        ]
+      },
+      {
+        "key": "maintenance",
+        "label": "긴급 백엔드 점검",
+        "kind": "event",
+        "scope": "2026-11-20 · Steam 685271070563894007",
+        "group": "updates",
+        "entityId": "entity-3e8ea6f05e172ff4e11348bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다."
+          }
+        ]
+      },
+      {
+        "key": "ping",
+        "label": "High-Ping Queue",
+        "kind": "system",
+        "scope": "유럽 시험 · Blood Testament Chapter 3",
+        "group": "updates",
+        "entityId": "entity-0c85326a1d553753f965778c",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "High-Ping Queue의 125ms 초기 기준은 시험값이며 변경 가능성이 공식적으로 열려 있다."
+          }
+        ]
+      },
+      {
+        "key": "labor",
+        "label": "Steam Awards Labor of Love 후보 추천",
+        "kind": "event",
+        "scope": "2026 · Hunt: Showdown 1896",
+        "group": "events",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Hunt: Showdown 1896의 Steam Awards Labor of Love 후보 추천 마감입니다."
+          }
+        ]
+      },
+      {
+        "key": "ledger",
+        "label": "Bayou Ledger Stage 4 진행률 기록",
+        "kind": "topic",
+        "scope": "Reap the Harvest · 2026-11-28 브리핑",
+        "group": "sources",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Bayou Ledger 실시간 추적는 11월 28일 확인 시 Stage 4를 5단계 중 4단계, 약 53%로 표시했다."
+          }
+        ]
+      },
+      {
+        "key": "steamchange",
+        "label": "11월 27일 SteamDB 변경의 패치 연관설",
+        "kind": "topic",
+        "scope": "2026-11-28 브리핑 · 11월 27일 02:49 UTC 기록",
+        "group": "rumors",
+        "entityId": "",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "SteamDB 기록에는 11월 27일 02:49 UTC의 새 변경 기록이 보인다. 그러나 Crytek의 대응 패치 노트나 공식 점검 공지는 확인되지 않았다."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "stage3",
+        "subject": "reap",
+        "aspect": "community_completion_report",
+        "value": "Stage 3 완료 및 현금·EP 보상 기록",
+        "statement": "브리핑은 커뮤니티 위키가 Stage 3 완료를 11월 26일로 기록했다고 전한다. 보상은 10,000 Hunt Dollars와 2,500 Event Points이며 별도 공식 완료 공지는 확인되지 않았다고 명시한다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Blood Testament 커뮤니티 위키는 Reap the Harvest Stage 3가 11월 26일 완료됐다고 기록한다. 보상은 10,000 Hunt Dollars와 2,500 Event Points이며, 다음 공동 목표는 Stage 4의 Cleaver다."
+          }
+        ]
+      },
+      {
+        "key": "stage4",
+        "subject": "reap",
+        "aspect": "completion_uncertainty",
+        "value": "Stage 4 완료 날짜 미확정",
+        "statement": "브리핑 작성 당시 Stage 4 완료 날짜는 확정되지 않은 것으로 기술된다. 진행률로 해금일이나 현재 이용 가능 여부를 추정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Stage 3 완료일은 커뮤니티 위키 기록이며 별도의 공식 완료 발표는 확인되지 않았다. Stage 4의 완료 날짜 역시 아직 확정되지 않았다."
+          }
+        ]
+      },
+      {
+        "key": "progress",
+        "subject": "ledger",
+        "aspect": "community_progress_snapshot",
+        "value": "Stage 4 약 53%",
+        "statement": "브리핑은 11월 28일 Bayou Ledger에서 Stage 4 진행률 약 53%를 보았다고 서술한다. 이는 당시 커뮤니티 집계에 대한 간접 보고이며 공식 수치나 현재 수치가 아니다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Bayou Ledger 실시간 추적는 11월 28일 확인 시 Stage 4를 5단계 중 4단계, 약 53%로 표시했다. 이는 커뮤니티 집계치이므로 방향을 읽는 보조 신호로만 사용한다."
+          }
+        ]
+      },
+      {
+        "key": "unlock2",
+        "subject": "lancaster",
+        "aspect": "community_unlock_report",
+        "value": "Stage 2 완료·해금 기록",
+        "statement": "브리핑의 일정 항목은 커뮤니티 위키가 2026-11-21을 Stage 2 완료 및 Lancaster 해금일로 기록한다고 전하며 별도 Crytek 완료 공지는 확인되지 않았다고 한다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "커뮤니티 위키가 기록한 Stage 2 완료 및 Lancaster 해금일입니다. Crytek의 별도 완료 공지는 확인되지 않아 tentative입니다."
+          }
+        ]
+      },
+      {
+        "key": "crowdate",
+        "subject": "crow",
+        "aspect": "community_launch_report",
+        "value": "커뮤니티 시작일 기록, 공식 시각 미확인",
+        "statement": "브리핑은 커뮤니티 위키와 11월 3일 당시 이용자 기록에 근거한 시작일을 제시하며 공식 개시일과 시각은 확인되지 않았다고 명시한다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 개시일과 시각은 확인되지 않았습니다."
+          }
+        ]
+      },
+      {
+        "key": "maintenancecause",
+        "subject": "maintenance",
+        "aspect": "reported_cause",
+        "value": "데이터센터 제공업체의 예기치 않은 긴급 작업",
+        "statement": "브리핑은 해당 점검에서 지역 변경 문제와 높은 패킷 손실이 발생한 원인을 데이터센터 제공업체의 예기치 않은 긴급 작업으로 설명한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다."
+          }
+        ]
+      },
+      {
+        "key": "deadline",
+        "subject": "labor",
+        "aspect": "nomination_deadline",
+        "value": "2026-12-01T03:00:00+09:00",
+        "statement": "브리핑은 후보 추천 마감을 한국시간 2026-12-01 03:00으로 기록한다. 이는 외부 투표 마감이며 인게임 보상 일정이 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "2026-12-01T03:00:00+09:00",
+        "dateEvidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "\"end_at\": \"2026-12-01T03:00:00+09:00\", \"end_date\": \"2026-12-01\", \"event_id\": \"hunt-steam-awards-labor-of-love-nomination-2026\""
+          }
+        ],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "\"end_at\": \"2026-12-01T03:00:00+09:00\", \"end_date\": \"2026-12-01\", \"event_id\": \"hunt-steam-awards-labor-of-love-nomination-2026\""
+          }
+        ]
+      },
+      {
+        "key": "steamuncertain",
+        "subject": "steamchange",
+        "aspect": "unconfirmed_patch_interpretation",
+        "value": "변경 원인 미확인",
+        "statement": "브리핑은 SteamDB 변경을 관찰했지만 빌드·백엔드·상점 메타데이터 중 무엇이 바뀌었는지 설명이 없어 신규 패치로 단정할 수 없다고 기술한다.",
+        "applicability": "historical",
+        "certainty": "unconfirmed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "빌드·백엔드·상점 메타데이터 중 무엇이 바뀌었는지 공개 설명이 없으므로 ‘신규 패치’로 단정하지 않는다."
+          }
+        ]
+      },
+      {
+        "key": "pingthreshold",
+        "subject": "ping",
+        "aspect": "reported_test_threshold",
+        "value": "125ms 초기 시험값",
+        "statement": "브리핑은 High-Ping Queue 초기 기준을 125ms로 설명하면서 변경 가능한 시험값이라고 명시한다. 원문 자체를 확인한 독립 검증은 아니다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "High-Ping Queue의 125ms 초기 기준은 시험값이며 변경 가능성이 공식적으로 열려 있다."
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "key": "reapblood",
+        "from": "reap",
+        "to": "blood",
+        "type": "part_of",
+        "statement": "브리핑은 Reap the Harvest를 Blood Testament 안의 공동 목표로 설명한다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Blood Testament 전체 기간은 9월 8일부터 12월 8일까지로 유지한다. Reap the Harvest는 이 장기 이벤트 안의 공동 목표이며, 각 단계 보상 해금은 전체 이벤트 종료일과 별개로 진행된다."
+          }
+        ]
+      },
+      {
+        "key": "reward2",
+        "from": "reap",
+        "to": "lancaster",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Lancaster는 Stage 2 보상이다. 패치 소개와 실제 해금 시점은 구별된다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Lancaster는 Stage 2, Cleaver는 Stage 4에 배치되어 있어 무기 해금이 단순한 패치 배포가 아니라 전 세계 플레이어의 누적 기여와 연결된다."
+          }
+        ]
+      },
+      {
+        "key": "reward4",
+        "from": "reap",
+        "to": "cleaver",
+        "type": "rewards",
+        "statement": "브리핑에 따르면 Cleaver는 Stage 4 보상으로 예정되어 있으며 완료 날짜는 미확정이다.",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "evidence": [
+          {
+            "sourceId": "source-30ceef8ff10f757369314de4",
+            "quote": "Chapter 3 공식 패치 노트가 Cleaver를 Stage 4 보상으로 확정했지만 완료 날짜는 정하지 않았기 때문에, 진행 속도로 해금일을 확정하지 않는다."
+          }
+        ]
+      }
+    ]
+  }
+}

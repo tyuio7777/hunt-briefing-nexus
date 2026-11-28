@@ -1,0 +1,45 @@
+{
+  "jobId": "job-a7b2bd00153ece174c1a61ca",
+  "sourceHash": "0602ca4f04be25a924ccdee19c15788d05c18bdd3c287d3dc848c96885af16ab",
+  "extraction": {
+    "entities": [
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-81aa03492919f9f54501d608",
+            "quote": "[잡담] 랭케스터 도저히 못쓸정도"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "handling",
+        "subject": "lancaster",
+        "aspect": "community_evaluation",
+        "value": "장탄수와 재장전 시간에 대한 부정 평가",
+        "statement": "작성자는 싱글 4발·페어 8발의 장탄수를 애매하다고 느끼고 탄을 모두 쓴 뒤 재장전이 느리다고 평가했다. 다른 이용자 전체의 평가로 일반화하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-81aa03492919f9f54501d608",
+            "quote": "장탄수가 싱글4 페어8인게 굉장히 애매함\n탄창 다 비우면 장전이 느린것도 걸리고 이거 쓰느니"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

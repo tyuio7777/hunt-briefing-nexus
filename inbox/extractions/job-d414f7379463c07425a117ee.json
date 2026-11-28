@@ -1,0 +1,83 @@
+{
+  "jobId": "job-d414f7379463c07425a117ee",
+  "sourceHash": "4641b55cb97ee031e72f3cced43c457b4616bddb64e583e331c137e5bed185e1",
+  "extraction": {
+    "entities": [
+      {
+        "key": "lancaster",
+        "label": "Lancaster",
+        "kind": "weapon",
+        "scope": "",
+        "group": "equipment",
+        "entityId": "entity-ac12b7068e655d05a03763bc",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-635f76efc0572aed96f2b0e4",
+            "quote": "정조준은 차라리 랭커스터가 더 나은감이 있긴 한데 이건 사바사고."
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "sights",
+        "subject": "lancaster",
+        "aspect": "community_evaluation",
+        "value": "정조준 선호는 개인차",
+        "statement": "작성자는 랭커스터의 정조준을 더 선호하지만 개인차가 있다고 평가했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-635f76efc0572aed96f2b0e4",
+            "quote": "정조준은 차라리 랭커스터가 더 나은감이 있긴 한데 이건 사바사고."
+          }
+        ]
+      },
+      {
+        "key": "reload",
+        "subject": "lancaster",
+        "aspect": "community_evaluation",
+        "value": "잔탄 배출과 적은 장탄수에 부담",
+        "statement": "작성자는 랭커스터가 잔탄을 모두 버리는 재장전 방식과 일반 리볼버보다 적은 장탄수 때문에 부담스럽다고 평가했다. 객관적 성능 우열로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-635f76efc0572aed96f2b0e4",
+            "quote": "가격도 거기서 거기인데다 장전 방식은 오히려 잔탄이 남든가 말든가 쿨하게 다 버리는 랭커스터 보단 잔탄 있으면 쏜 것만 교체하는 스핏이 더 낫고."
+          }
+        ]
+      },
+      {
+        "key": "capacity",
+        "subject": "lancaster",
+        "aspect": "community_evaluation",
+        "value": "빗나갈 때 느끼는 탄수 압박",
+        "statement": "작성자는 일반 리볼버보다 두 발 적은 장탄수를 단점으로 느꼈으며 빗나갈 때 압박이 빨리 온다고 서술했다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-635f76efc0572aed96f2b0e4",
+            "quote": "특히 랭커스터 장탄수가 일반적인 리볼버 보다 2발이나 부족하다는게 큰 열세인듯. 심적인 면에서 그냥 리볼버는 4발쯤 남는 정도까진 괜찮은데 랭커스터는 1발 빗나갈 때마다 ㅈ돼가고있다는 압박이 훨씬 빨리 옴."
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}
