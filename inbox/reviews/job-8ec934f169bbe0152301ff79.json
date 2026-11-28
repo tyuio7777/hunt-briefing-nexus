@@ -1,0 +1,81 @@
+{
+  "jobId": "job-8ec934f169bbe0152301ff79",
+  "sourceHash": "64a7eea804d46cf8eef417bcfd54ba2259dacaeae1710c5af5de7f0ab4a2c798",
+  "reviewedExtractionHash": "539841ff39c0031f152d1b54fb6db966ea74f723aff98aaf01e2256a01aba07b",
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified",
+  "review": {
+    "decisions": [
+      {
+        "key": "ledger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "페이지 머리말의 Bayou Ledger와 기존 서비스 ID가 일치하며 Index·Roster와 별개로 유지한다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "roster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "통계 추적기 제목에 The Bayou Roster가 명시되고 기존 서비스 ID와 일치한다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "index",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "지식 기반 서비스라는 명시적 소개가 있으며 Roster와 통합하지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "해당 원문의 누적치·일일 증가량·56%를 대조했다. 전체 500M 대비 표시이며 Stage 4 자체 완료율·현재 수치·해금일로 바꾸지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "tracker",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "통계 추적과 순위 서비스라는 제목·설명이 주장과 일치한다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "knowledge",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Sep 28의 지식 기반 소개와 일치하고 연도를 보충하지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "achievements",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nov 17 사이트 소식의 업적·유료 후원 혜택 공유를 그대로 귀속했다. 게임 본체 기능으로 확대하지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "plans",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Contractor Company 탭 및 Banisher 최대 5개 오버레이·15개 스타일이 명시된다. 과거 서비스 안내로 처리했다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "languages",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "두 사이트의 Portuguese·Italian 안내와 일치하며 게임 언어 지원으로 오인하지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "history",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 2 경기별 이력과 사용 로드아웃 안내가 명시되며 없는 연도·현재 상태를 추가하지 않았다. AI 의미·동일성·시점 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  }
+}
