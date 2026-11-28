@@ -1,0 +1,39 @@
+{
+  "jobId": "job-d414f7379463c07425a117ee",
+  "sourceHash": "4641b55cb97ee031e72f3cced43c457b4616bddb64e583e331c137e5bed185e1",
+  "reviewedExtractionHash": "fca27d76d93662b3a9bf8cbac2288b5859c6347ce49e4550dddd72eb99fed927",
+  "review": {
+    "decisions": [
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "재장전·탄수 및 제목 문맥상 기본형 Lancaster이며 별칭을 자동 추가하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "sights",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "개인 정조준 선호와 개인차 표현이 원문과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reload",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "인용 및 이어지는 본문의 잔탄 배출·적은 장탄수 부담을 개인 평가로 유지했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "capacity",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "두 발 적은 탄수와 빗나갈 때의 압박을 작성자 체감으로 한정했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

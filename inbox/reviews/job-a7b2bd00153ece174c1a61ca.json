@@ -1,0 +1,25 @@
+{
+  "jobId": "job-a7b2bd00153ece174c1a61ca",
+  "sourceHash": "0602ca4f04be25a924ccdee19c15788d05c18bdd3c287d3dc848c96885af16ab",
+  "reviewedExtractionHash": "817f068dd7c59e4d1bdf17f005507a40941aadecabf25790aae328a86ff1f454",
+  "review": {
+    "decisions": [
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제목 및 다음 보상 Cleaver 언급으로 기본형을 변형과 구별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "handling",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4발·쌍수 8발과 재장전 불만이 원문에 있으며 개인 평가로 한정했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

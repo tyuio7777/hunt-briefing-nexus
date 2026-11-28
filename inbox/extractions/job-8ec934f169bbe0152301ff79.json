@@ -1,0 +1,189 @@
+{
+  "jobId": "job-8ec934f169bbe0152301ff79",
+  "sourceHash": "64a7eea804d46cf8eef417bcfd54ba2259dacaeae1710c5af5de7f0ab4a2c798",
+  "extraction": {
+    "entities": [
+      {
+        "key": "ledger",
+        "label": "Bayou Ledger",
+        "kind": "system",
+        "scope": "",
+        "group": "sources",
+        "entityId": "entity-b8f2be1ab0a439a4125afc85",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "The Bayou Ledger The Bayou Index Roster Pick rates"
+          }
+        ]
+      },
+      {
+        "key": "roster",
+        "label": "The Bayou Roster",
+        "kind": "system",
+        "scope": "",
+        "group": "sources",
+        "entityId": "entity-d26e9e7ab2c59e7f90b9ea7d",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster"
+          }
+        ]
+      },
+      {
+        "key": "index",
+        "label": "Bayou Index",
+        "kind": "system",
+        "scope": "",
+        "group": "sources",
+        "entityId": "entity-32d339a1c6bd35fd3a4700a9",
+        "aliases": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      }
+    ],
+    "assertions": [
+      {
+        "key": "progress",
+        "subject": "ledger",
+        "aspect": "community_progress_snapshot",
+        "value": "277,528,918 / 500,000,000 +31.8M/day 56%",
+        "statement": "수집된 커뮤니티 페이지는 Reap the Harvest를 Stage 4 of 5로 표시하고 총 목표 500,000,000 대비 누적치와 56%를 표시한다. 56%를 Stage 4 자체의 완료율로 해석하거나 현재 수치·해금일로 확정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Reap the Harvest Stage 4 of 5\n50M125M225M350M500M\n277,528,918 / 500,000,000 +31.8M/day 56%"
+          }
+        ]
+      },
+      {
+        "key": "tracker",
+        "subject": "roster",
+        "aspect": "service_description",
+        "value": "Hunt 통계·순위 서비스",
+        "statement": "페이지는 The Bayou Roster를 Hunt: Showdown 1896 통계 추적 및 순위 서비스로 소개한다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Hunt: Showdown 1896 stats tracker The Bayou Roster\nLeaderboard and player stats for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "knowledge",
+        "subject": "index",
+        "aspect": "service_description",
+        "value": "Hunt 지식 기반 서비스",
+        "statement": "Sep 28 표기 소식은 The Bayou Index를 Hunt: Showdown 1896 지식 기반 서비스로 소개한다. 연도를 추정하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Sep 28 The Bayou Index - a knowledge base for Hunt: Showdown 1896"
+          }
+        ]
+      },
+      {
+        "key": "achievements",
+        "subject": "ledger",
+        "aspect": "service_news",
+        "value": "업적 및 유료 후원 혜택 공유",
+        "statement": "Nov 17 표기 사이트 소식은 이용자 업적과 유료 후원자의 팀원 대상 혜택 공유를 안내한다. 게임 본체에 추가된 기능으로 해석하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Hunters now earn achievements, and a paid supporter can share their perks with\nteammates."
+          }
+        ]
+      },
+      {
+        "key": "plans",
+        "subject": "ledger",
+        "aspect": "service_plan_news",
+        "value": "Contractor Company 탭·Banisher 오버레이",
+        "statement": "사이트 소식은 Contractor의 dossier Company 탭과 Banisher의 최대 5개 오버레이·15개 아트 스타일을 설명한다. 당시 서비스 설명이다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Contractor adds a Company tab to the dossier, Banisher gets up to five\noverlays with 15 art styles, and both sites read in Portuguese and Italian."
+          }
+        ]
+      },
+      {
+        "key": "languages",
+        "subject": "ledger",
+        "aspect": "service_language_news",
+        "value": "포르투갈어·이탈리아어 지원 안내",
+        "statement": "사이트 소식은 두 사이트에 포르투갈어와 이탈리아어가 제공된다고 안내한다. 게임 클라이언트 언어 지원으로 확장하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "both sites read in Portuguese and Italian."
+          }
+        ]
+      },
+      {
+        "key": "history",
+        "subject": "ledger",
+        "aspect": "service_news",
+        "value": "경기 이력과 당시 로드아웃",
+        "statement": "Oct 2 표기 소식은 매 경기와 당시 로드아웃을 확인하는 경기 이력을 소개한다. 공지에 없는 연도를 추가하지 않는다.",
+        "applicability": "historical",
+        "certainty": "attributed",
+        "effectiveFrom": "",
+        "effectiveTo": "",
+        "dateEvidence": [],
+        "supersedes": [],
+        "evidence": [
+          {
+            "sourceId": "source-c7e753f9f551465731101f71",
+            "quote": "Oct 2 Match history - every round you played, with the loadout you took"
+          }
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

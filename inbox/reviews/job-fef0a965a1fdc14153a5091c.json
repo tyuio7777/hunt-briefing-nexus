@@ -1,0 +1,403 @@
+{
+  "jobId": "job-fef0a965a1fdc14153a5091c",
+  "sourceHash": "c9332eefededa2b1cbacc0d135ad0cd5615441ba177cc81179e9afbd613ce29c",
+  "reviewedExtractionHash": "41eaa762cbdf177061c8cbaa7848ab44ab1078fa5c2ad4882eec7ef8d889326e",
+  "review": {
+    "decisions": [
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "New Weapon 제목의 기본형과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "New Variant 제목으로 칼날 변형을 별도 식별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "patch",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 Patch Notes 제목과 범위가 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3의 5단계 공동 이벤트로 식별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "compounds",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 감염 구역으로 명시되어 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "fair",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Fair Play Follow Up 항목과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3 임시 시험 범위가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nov 6 공지의 연도 미상 범위를 보존했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "doctor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "이야기 속 과거 Plague Doctor 명칭과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "surgeon",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "새 형태의 Legendary Hunter를 별도 명칭으로 유지한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodskin",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "창조 서사의 Bloodskin 대상과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u27",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "버전 2.7로 정확히 식별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u28",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "버전 2.8로 정확히 식별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u29",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "버전 2.9로 정확히 식별한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "trail",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고의 Update 2.7 대상과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "road",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고 문단의 Road to Hell 회차와 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고 문단의 Blood Testament 회차와 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "labor",
+        "supported": false,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "선택된 인용은 2026년 회고만 말하며 Labor of Love나 후보 추천을 명시하지 않는다. 명칭을 포함한 인용 보강이 필요하다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "maintenance",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nov 20 제목만으로 연도를 추정하지 않고 별도 공지 주제로 유지했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Nov 2 공지 제목과 연도 미상 범위가 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week1",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 25 공지와 재등장 안내이며 연도 미상 범위를 보존한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "dates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 20 공지로 식별하고 다른 회차와 합치지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "hide",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Choke Bomb 스킨으로 명시되어 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "leap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stamina Shot 스킨으로 명시되어 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "survey",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 TB3N9ZB 설문 링크와 동일하다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lmechanism",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "4연장·중형탄·회전 공이·연사 설명이 일치하며 소개와 실제 해금을 구별했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lreload",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "중절 시 항상 모든 탄 배출이라는 설명과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Lancaster 항목의 세 탄종 수량 및 쌍수 가능 여부와 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cmelee",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "칼날 변형의 Heavy Knife 유사 패턴·피해 설명과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cammo",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Cleaver 항목의 수량과 쌍수 가능 여부가 별도 인용에 포함된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "compoundspawn",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신규·기존 후보 구역 및 경기당 5곳 활성 설명과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bannotice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "신고 대상 제재 시 후속 알림이라는 조건을 보존했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "refund",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "제재된 상대에게 사망한 경우의 환급이며 금액을 추가하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "pingtest",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽·Chapter 3 임시 시험을 영구 기능으로 확장하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "pingfallback",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "임계 초과 별도 큐와 매치 실패 시 일반 큐 복귀가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reapplan",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 향후 시작 계획이며 실제 개시일로 바꾸지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "points",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "경기 목표 완료로 공동 포인트 획득한다는 명시적 설명이다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "5단계 보상 수량과 무기가 모두 일치하며 달성 완료로 해석하지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crowstory",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Plague Doctor의 Bloodskin 창조 역할 서술과 일치하고 연도를 추정하지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crowunlock",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "도전 완료로 이야기·보상 해금 및 Surgeon 새 형태가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u28changes",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고 문단의 슬롯 개편·Strongholds·레벨 개선과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "u29changes",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "새 보스·산탄총·밸런스 변경을 이름 추정 없이 기록했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "labordeadline",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026 회고 맥락에서 Nov 30의 PT/CET 시각을 원문대로 보존했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "maintimpact",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "당시 점검 원인·증상이 명시되며 현재 장애로 확장하지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week2rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "시청 보상의 상자·스킨·무작위 Hunter가 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "week1rewards",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Support-a-Streamer 재등장과 시청 보상 목록이 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "dropdates",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Oct 26~Nov 9만 보존하고 없는 연도를 추가하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "surveynotice",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "공지 당시 설문 개설이며 현재 응답 가능 여부를 단정하지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "variant",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "변형임을 명시하는 문장이 있어 단순 동시 언급 관계가 아니다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lreward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 보상에 Lancaster가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "creward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 보상에 Cleaver가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "trailintro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.7 opened라는 도입 관계가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "roadintro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.8 launched라는 출시 관계가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "bloodintro",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Update 2.9 brought라는 도입 관계가 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "hidereward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Week 2 시청 보상으로 스킨이 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "leapreward",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Week 1 보상 목록에 해당 스킨이 명시된다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

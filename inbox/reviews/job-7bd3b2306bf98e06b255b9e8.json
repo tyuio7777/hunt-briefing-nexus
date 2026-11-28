@@ -1,0 +1,10 @@
+{
+  "jobId": "job-7bd3b2306bf98e06b255b9e8",
+  "sourceHash": "5ae275200c44adb0efc501f9ac410fcfcc209f8c7c9260f807b4afb32a71a62b",
+  "reviewedExtractionHash": "a3fa36674a392c7ba135e72e6eaf8b7cc184a688b53d49b2d65c5785b0be025c",
+  "review": {
+    "decisions": []
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

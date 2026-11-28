@@ -1,0 +1,165 @@
+{
+  "jobId": "job-cf156f28ec10b98c45eb5273",
+  "sourceHash": "71c15a0212ba9e3ca3850725d9093f69df4428aff8a78e59873f2fe75dde142d",
+  "reviewedExtractionHash": "058bd73193ef37336c5c664ad39fddcadb05ba0b777ad1133f40bc44595c307f",
+  "review": {
+    "decisions": [
+      {
+        "key": "reap",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Chapter 3 공동 이벤트 문맥과 동일하며 다른 회차를 합치지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "lancaster",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 기본형 Lancaster와 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "cleaver",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 칼날 변형으로 기본형과 분리되어 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "blood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 JSON의 2026년 Blood Testament와 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crow",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "일정 JSON의 2026 Legacy Chronicle과 동일하며 공식 시작일로 확정하지 않는다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "maintenance",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "2026-11-20 일정과 Steam 공지 식별자가 본문에 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ping",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "유럽 Chapter 3 임시 시험 문맥이 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "labor",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "후보 추천 명칭과 2026 event_id가 본문에 있어 독립 투표 일정으로 식별 가능하다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "ledger",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑의 11월 28일 커뮤니티 진행률 기록으로 한정했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "steamchange",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "11월 27일 변경 해석을 미확인 주제로 유지하고 다른 날짜의 기록과 합치지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "stage3",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "보상 수량과 위키 완료 기록은 일치하며 공식 확인으로 승격하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "stage4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "브리핑 당시 완료 날짜 미확정이라는 서술과 일치한다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "progress",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "53%를 해당 시점의 간접 커뮤니티 집계로 한정했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "unlock2",
+        "supported": false,
+        "identityCorrect": true,
+        "temporalCorrect": false,
+        "reason": "인용에 2026-11-21 날짜가 없다. 본문 일정에는 날짜가 있지만 후보의 날짜 주장을 뒷받침하는 인용 보강이 필요하다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "crowdate",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "커뮤니티 기록과 공식 개시 시각 미확인의 구별이 보존됐다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "maintenancecause",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "점검 원인·증상이 인용과 일치하며 현재 장애로 확장하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "deadline",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "명시된 end_at 및 시간대를 그대로 보존하고 외부 투표 마감으로 분리했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "steamuncertain",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "원인 설명 부재를 신규 패치 확정으로 바꾸지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "pingthreshold",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "125ms를 브리핑에 귀속된 가변 시험값으로만 기술했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reapblood",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "전체 이벤트 안의 공동 목표라는 명시적 포함 관계가 있다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reward2",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 2 보상 관계가 명시되어 있으며 실제 해금 시점과 구분했다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "reward4",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "Stage 4 보상 관계가 명시되며 완료일은 미확정으로 남겼다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}

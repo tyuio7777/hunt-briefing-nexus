@@ -1,0 +1,25 @@
+{
+  "jobId": "job-1b130127a02575fe37ff25db",
+  "sourceHash": "9508dbccf7c1cb572881fbbed0acacea29a6adb111ad46cda63b952964dcb4bd",
+  "reviewedExtractionHash": "8b87d961f8dcd0491bb0af6cf6272699cc910d28510fde3d8c6cb84c7c793ce0",
+  "review": {
+    "decisions": [
+      {
+        "key": "mmr",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문의 mmr 및 6성 맥락은 MMR 주제이며 다른 시스템과 혼동하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      },
+      {
+        "key": "experience",
+        "supported": true,
+        "identityCorrect": true,
+        "temporalCorrect": true,
+        "reason": "본문 전체에서 3성 친구·6성 동료 경험과 포지셔닝 자평을 확인했다. 개인 회고로 한정하고 현재 메타로 일반화하지 않았다. AI 원문 대조이며 독립 사실 확인은 아니다."
+      }
+    ]
+  },
+  "provider": "chatgpt-scheduled",
+  "model": "unspecified"
+}
